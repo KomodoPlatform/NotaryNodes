@@ -39,3 +39,4 @@ Additional data can be found here:
 # z-Addresses
 
 - ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
+- [webworker01](https://webworker.sh/komodo-notary-node-proposal-spring-2018) - zcXypsEqn4ZHwtRVZSnjWJ3mwxkDzkMWnyfjZenhs3t9kGJgTdt4BxHuaS7X2iS8SHFUhYe6BpWZrGkMWVcSiXkRoRbsnY2
