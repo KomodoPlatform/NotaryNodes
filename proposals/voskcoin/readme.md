@@ -1,6 +1,6 @@
-## VoskCoin Team - Notary Node Candidate ##
+## VoskCoin Team - Notary Node Candidate ## 
 
-###tl;dr###
+###tl;dr### 
 
 - YouTube Channel: [https://youtube.com/VoskCoin/](https://yoube.com/VoskCoin/)
 - PDF version of proposal: [VoskCoinKomodoNotaryNodes.pdf](https://drive.google.com/file/d/1EwsraE54dmt0dBFmj6-QMG1EHdjqi0W4/view)
