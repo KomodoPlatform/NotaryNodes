@@ -10,7 +10,7 @@ Additional data can be found here:
 # NA (North America)
 
 - ca333 - RC3NA1Fw5E88oR96nVZe14GToLFzTFQJhQ
--
+- [webworker01](https://webworker.sh/komodo-notary-node-proposal-spring-2018) - RRGeJ4VCKQqXNkZWRGWcbABRXoXHc2zHJp
 -
 -
 
