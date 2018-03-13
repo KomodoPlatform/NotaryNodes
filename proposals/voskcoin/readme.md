@@ -9,7 +9,7 @@
 - [EU VOTE address](https://vote2.explorer.supernet.org/address/RR14RjE8vU2eDEdBeBTuMpBbvHbs7vXgo5):RR14RjE8vU2eDEdBeBTuMpBbvHbs7vXgo5
 - [AE VOTE address](https://vote2.explorer.supernet.org/address/RS8gWL4s46LfkFVB1Q4jffiVmAz127RiJU):RS8gWL4s46LfkFVB1Q4jffiVmAz127RiJU
 - [SH VOTE address](https://vote2.explorer.supernet.org/address/RX4tdCnbb68MTJtSN63aaTcA79HHo3t2GA):RX4tdCnbb68MTJtSN63aaTcA79HHo3t2GA
-- zVOTE address:zcfHmG2ZXVRvMkMqEySUXJ8XUUKMk7cJw3qNG59fwDv36JY9AoRr1oP7wq5bnB6qxt2KBvAcz5gWm2XTer76L4PC1qNhh4N
+- zVOTE address: zcfHmG2ZXVRvMkMqEySUXJ8XUUKMk7cJw3qNG59fwDv36JY9AoRr1oP7wq5bnB6qxt2KBvAcz5gWm2XTer76L4PC1qNhh4N
 
 ![](./page1.png)
 ![](./page2.png)
