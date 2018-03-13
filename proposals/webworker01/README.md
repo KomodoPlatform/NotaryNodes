@@ -1,6 +1,8 @@
-#  Komodo Notary Node Proposal Spring 2018
+#  Komodo North America Notary Node Proposal Spring 2018
 
-![webworker01 Komodo Notary Node Proposal Spring 2018](https://i0.wp.com/webworker.sh/wp-content/uploads/2018/03/komodo-logo-horizontal-01.png)
+[![webworker01 Komodo North America Notary Node Proposal Spring 2018](https://i0.wp.com/webworker.sh/wp-content/uploads/2018/03/komodo-logo-horizontal-01.png)](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
+
+[View proposal on my website](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
 
 ## Why I’m a good candidate:
 
@@ -34,7 +36,7 @@
 * Zabbix monitoring on display 24/7
 * Weekly and on-demand backup
 * Fail2ban intrusion detection
-* Iptables firewall
+* Cisco hardware and Iptables software firewall
 
 ## Thank you for your support!
 
@@ -42,11 +44,12 @@ I will dedicate my time to ensuring stability on the network and adding to the e
 
 Feel free to message me on slack @webworker01 if you have any questions.
 
-Send VOTE to
+Vote for me as a **North America Notary Node operator** by sending **VOTE2018** to
 
-RRGeJ4VCKQqXNkZWRGWcbABRXoXHc2zHJp
+    RRGeJ4VCKQqXNkZWRGWcbABRXoXHc2zHJp
 
 or
 
-zcXypsEqn4ZHwtRVZSnjWJ3mwxkDzkMWnyfjZenhs3t9kGJgTdt4BxHuaS7X2iS8SHFUhYe6BpWZrGkMWVcSiXkRoRbsnY2
-(Do not use this address if you wish to be credited rewards)
+    zcXypsEqn4ZHwtRVZSnjWJ3mwxkDzkMWnyfjZenhs3t9kGJgTdt4BxHuaS7X2iS8SHFUhYe6BpWZrGkMWVcSiXkRoRbsnY2
+
+(Do not use the z address if you wish to be credited rewards)
