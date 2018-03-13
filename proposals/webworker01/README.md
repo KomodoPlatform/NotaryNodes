@@ -1,4 +1,4 @@
-#  Komodo Notary Node Proposal Spring 2018
+#  Komodo North America Notary Node Proposal Spring 2018
 
 ![webworker01 Komodo Notary Node Proposal Spring 2018](https://i0.wp.com/webworker.sh/wp-content/uploads/2018/03/komodo-logo-horizontal-01.png)
 
