@@ -21,7 +21,7 @@ member since 2014
 #### We will share up to 60% of our revenue through different means
 #### Check our **exciting** PDF proposal [HERE](http://proposal.peer2.cloud/vv8cmK1)
 <br>
-#### **TO SUPPORT OUR NODES**
+#### TO SUPPORT OUR NODES
 <br>
 
 #### South Hemisphere (S. Africa)
