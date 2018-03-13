@@ -7,36 +7,14 @@ Additional data can be found here:
 - https://dexstats.info/vote2018.php
 - https://komodometrics.com
 
-# NA (North America)
+# Candidates
 
-- ca333 - RC3NA1Fw5E88oR96nVZe14GToLFzTFQJhQ - [proposal](./proposals/ca333/proposal)
--
--
--
+Coming soon
 
-# AR (Asia and Russia)
-
-- ca333 - RC3ASiAkmCFxqV7iDnvQtT14osyHkX77zv - [proposal](./proposals/ca333/proposal)
--
--
--
-
-# SH (Southern Hemisphere)
-
-- ca333 - RC3SHzkg6VSL4w5Kjzi1CxHqbQhcA8jKH4 - [proposal](./proposals/ca333/proposal)
-- libscott - REEGE6drFqGLpxiA1mhfcb5R9MndnaD1cy - [proposal](https://gist.github.com/libscott/2c5ed58ffab0d55b58ec832019490de3)
--
--
-
-# EU (Europe)
-
-- ca333 - RC3EU3a6mUoU1XBmBb4ngzZqXsEpi4QQhW - [proposal](./proposals/ca333/proposal)
-- libscott - RVMtoPmL8SiHCXSceMmxwpScAhDgsVvTZc - [proposal](https://gist.github.com/libscott/2c5ed58ffab0d55b58ec832019490de3)
--
--
-
-
-# z-Addresses
-
-- ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
-- libscott - zcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8KaAVstd1WdSdUpgmiW8NTs9TUmcXGZuV3WhM2FNL7DGYB1Mp7fsMvYAv44YPYzcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8
+- ca333 - RC3ASiAkmCFxqV7iDnvQtT14osyHkX77zv
+Z: zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
+- Decker - [proposal](https://deckersu.github.io/) - [RARcozaVAMZaXJaL6KWMSw297xTYzbDwa3](./decker/decker_nn_candidate_en.pdf)
+Z: zc9re8upRd4zZQ7Zs1qm1BnsXtEQ8yhQm3UeWkAugto5FwfgH6NoKTGqKM47K2QNus3CV5h3Kd3wUfzzjctZvj5S3EDFZqH
+- libscott [proposal](https://gist.github.com/libscott/2c5ed58ffab0d55b58ec832019490de3)
+SH: REEGE6drFqGLpxiA1mhfcb5R9MndnaD1cy EU: RVMtoPmL8SiHCXSceMmxwpScAhDgsVvTZc
+Z: zcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8KaAVstd1WdSdUpgmiW8NTs9TUmcXGZuV3WhM2FNL7DGYB1Mp7fsMvYAv44YPYzcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8
