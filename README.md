@@ -9,37 +9,33 @@ Additional data can be found here:
 
 # NA (North America)
 
-ca333 - RC3NA1Fw5E88oR96nVZe14GToLFzTFQJhQ
--
+- ca333 - RC3NA1Fw5E88oR96nVZe14GToLFzTFQJhQ
 -
 -
 -
 
 # AR (Asia and Russia)
 
-ca333 - RC3ASiAkmCFxqV7iDnvQtT14osyHkX77zv
--
+- ca333 - RC3ASiAkmCFxqV7iDnvQtT14osyHkX77zv
 -
 -
 -
 
 # SH (Southern Hemisphere)
 
-ca333 - RC3SHzkg6VSL4w5Kjzi1CxHqbQhcA8jKH4
--
+- ca333 - RC3SHzkg6VSL4w5Kjzi1CxHqbQhcA8jKH4
 -
 -
 -
 
 # EU (Europe)
 
-ca333 - RC3EU3a6mUoU1XBmBb4ngzZqXsEpi4QQhW
--
+- ca333 - RC3EU3a6mUoU1XBmBb4ngzZqXsEpi4QQhW
 -
 -
 -
 
 
-#z-Addresses:
+# z-Addresses
 
-ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
+- ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
