@@ -39,3 +39,4 @@ Additional data can be found here:
 # z-Addresses
 
 - ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
+- libscott - zcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8KaAVstd1WdSdUpgmiW8NTs9TUmcXGZuV3WhM2FNL7DGYB1Mp7fsMvYAv44YPYzcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8
