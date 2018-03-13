@@ -4,20 +4,20 @@
 
 [View proposal on my website](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
 
-## Why I’m a good candidate:
+## Why I'm a good candidate:
 
 * Independent notary node operator
 * Involved with cryptocurrency for over 5 years and quite intensely in the past year
 * Learned about Komodo around the Beer/KMD atomic swap and have been a believer ever since
 * A big advocate for digital privacy
 * Currently 100% work from home and already managing 4 other production servers, so will be able to give full attention to node maintenance as needed
-* At my workstation most waking hours and connected mobily when I’m not
+* At my workstation most waking hours and connected via mobile when I'm not
 * 20 years web development experience
 * 15 years server administration experience
 
-## What’s In It For You?
+## What's In It For You?
 
-* Voters will receive 25% of the node’s mining income proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending rewards for payout. (Rewards schedule TBD, but will lean towards higher frequency of payouts)
+* Voters will receive 25% of the node's mining income proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending rewards for payout. (Rewards schedule TBD, but will lean towards higher frequency of payouts)
 * Your support will help fund general Komodo development ideas that I am considering implementation of (e.g. block explorer for all asset chains, liquidity provider integration with exchange APIs)
 
 ## Server Specs
