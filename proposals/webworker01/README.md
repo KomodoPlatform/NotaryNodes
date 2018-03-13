@@ -52,4 +52,4 @@ or
 
     zcXypsEqn4ZHwtRVZSnjWJ3mwxkDzkMWnyfjZenhs3t9kGJgTdt4BxHuaS7X2iS8SHFUhYe6BpWZrGkMWVcSiXkRoRbsnY2
 
-(Do not use this address if you wish to be credited rewards)
+(Do not use the z address if you wish to be credited rewards)
