@@ -24,7 +24,7 @@ Additional data can be found here:
 # SH (Southern Hemisphere)
 
 - ca333 - RC3SHzkg6VSL4w5Kjzi1CxHqbQhcA8jKH4
--
+- a-team - RQiTPCmRwUby2fcL3VHBA2sgSJeNf8NpsJ
 -
 -
 
@@ -39,3 +39,4 @@ Additional data can be found here:
 # z-Addresses
 
 - ca333 - zcFbj3FjzXuZskfrgQiSvy45HKzjw7inScjsFRTEQ4wfBbna3E4VUToFNRMQbC7748k6siVfdoAFCS9DJp3QqXuU8UTGaNi
+- a-team - zcR9crry8XEreSns8xSvRVPk8Etu5NcwbRWcmzdn3r6X5Kv6stNT5BkLxtWJrHEhtqa7Rj3x3YecwGdXTYJyBbnPbZH5RMJ
