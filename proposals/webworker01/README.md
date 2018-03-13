@@ -44,9 +44,7 @@ I will dedicate my time to ensuring stability on the network and adding to the e
 
 Feel free to message me on slack @webworker01 if you have any questions.
 
-Vote for me as a North America Notary Node operator by:
-
-Sending VOTE2018 to
+Vote for me as a North America Notary Node operator by sending **VOTE2018** to
 
     RRGeJ4VCKQqXNkZWRGWcbABRXoXHc2zHJp
 
