@@ -34,9 +34,6 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 `zcdYdDGRuR6VhVEFXoVoKUidKgsmyxiq3s5yEbM4p7cktbfqinYpH18pAhSogTXEBDUyRP5MLhBnCHjkckxxvSvVvHgXCTi`
 
-#### [](#electrumx-servers)Cost of running electrumx servers (estimates):
-
-
 ## [](#who-we-are)Who we are
 
 ### [Satinder Grewal]
