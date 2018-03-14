@@ -9,8 +9,9 @@ I’m also active for KMD projects into slack channels, on my gitter.im chat and
 <p>My skills and expertise include all new web Frameworks like socket.io, nodejs, ruby on rails, cordova, bootstrap, D3.js, angular.js, electron and many others, programming languages like Php, Javascript, APIs(soap/rest), python, shell programming and shell scripting, all SQL and NoSQL databases and server security administration and protection.<br>
 </p>
 <h1>My voting address for your “TOKEN VOTE 2018”<br>
-  RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5</h1>
-<h2>Regions [EU][NA][AR]</h2>
+  Regions [EU] RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5<br>
+  Regions [NA] RQPH3ymE1ZJRDedxz2cjW2sUwYx477QsUX<br>
+  Regions [AR] RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt<br></h1>
 <h2>My Notary Node Hardware Specs</h2>
 <p>Cpu processor         16 x Intel(R) Xeon(R) CPU I7 <br>
   Memory                    64GB RAM<br>
