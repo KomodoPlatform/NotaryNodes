@@ -11,7 +11,8 @@ I’m also active for KMD projects into slack channels, on my gitter.im chat and
 <h1>My voting address for your “TOKEN VOTE 2018”<br>
   Region [EU] RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5<br>
   Region [NA] RQPH3ymE1ZJRDedxz2cjW2sUwYx477QsUX<br>
-  Region [AR] RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt<br></h1>
+  Region [AR] RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt<br>
+  Region [SA] RSeakJoUh9WsX7JjwWfTGgtXTqRiCQ9PzW</h1>
 <h2>My Notary Node Hardware Specs</h2>
 <p>Cpu processor         16 x Intel(R) Xeon(R) CPU I7 <br>
   Memory                    64GB RAM<br>
