@@ -1,9 +1,9 @@
 # What is IndéNodes?
--	IndéNodes is a [registered company in Neuchâtel](http://hrc.ne.ch/hrcintapp/externalCompanyReport.action?companyOfsUid=CHE-419.492.529&lang=EN), Switzerland. Our activities are fully declared and legalized. It gives us more facilities to interact with the institutions and doing business with the ‘non-crypto’ economy. 
+1. IndéNodes is a [registered company in Neuchâtel](http://hrc.ne.ch/hrcintapp/externalCompanyReport.action?companyOfsUid=CHE-419.492.529&lang=EN), Switzerland. Our activities are fully declared and legalized. It gives us more facilities to interact with the institutions and doing business with the ‘non-crypto’ economy. 
 
--	IndéNodes is integrated in the regional ecosystem (member of the [Chambre neuchâteloise du commerce et de l’industrie](https://www.cnci.ch/), special contact with the economic development department of the Neuchâtel State)  and in the French speaking organizations related with cryptoplatforms/currencies (member of the Cercle du Coin and in interaction with other crypto-businesses).
+2. IndéNodes is integrated in the regional ecosystem (member of the [Chambre neuchâteloise du commerce et de l’industrie](https://www.cnci.ch/), special contact with the economic development department of the Neuchâtel State)  and in the French speaking organizations related with cryptoplatforms/currencies (member of the Cercle du Coin and in interaction with other crypto-businesses).
 
--	We are a team of three valuable members of the Komodo community who work and invest in the Komodo platform since the beginning:
+3. We are a team of three valuable members of the Komodo community who work and invest in the Komodo platform since the beginning:
 
     o	Lionel Jeannerat @ludom, the administrator of the company and a well-known French 
         cryptoenthusiast, administrator of the big association [Cercle du Coin](https://lecercleducoin.fr/).
