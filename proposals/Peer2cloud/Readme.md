@@ -1,6 +1,6 @@
 
 
-![Image of peer2cloud](http://peer2.cloud/images/peer2cloud_logo.png)
+![Image of peer2cloud](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud.pdf)
 
 > We believe in the Komodo vision and
 > have been involved in Supernet
@@ -23,20 +23,22 @@ member since 2014
 <br>
 
 #### **TO SUPPORT OUR NODES**
-
+* Starting 18th March you can send your votes to the following addresses to support us.
 <br>
+
+#### Anonymous Z address
+
+* Z Private address:`zceSxVNQDYrgwaBxkfzT8CDdxGHu7bU7Ny
+t1uJsFiopsbJNhvqLV5PJyCDPBJB2CLJv1siwwYwgsABQ2J9b8ZS2DNiBZTYA`
 
 #### South Hemisphere (S. Africa)
 
 * Regular transparent address`RPRN6iRfchVciLbrTHFZ6EZ67TAiWE2wbf`
-* Z Private address:`zceSxVNQDYrgwaBxkfzT8CDdxGHu7bU7Ny
-t1uJsFiopsbJNhvqLV5PJyCDPBJB2CLJv1siwwYwgsABQ2J9b8ZS2DNiBZTYA`
 
 #### Russia & Asia (Singapore)
  
 * Regular transparent address `RDRKrwZ9GRNHqU2jkefhzFHwPbHgADZA1f`
-* Z Private address:`zcAwmQB76hmuqDLCsb9Hh1JLWxTvFcYU8
-WS8XoZiENXFxTQcyLBYNusoq8eCPNUGyewFbM9kb8XrdYfZ5it9Am8k2F1fkT3`
+
 <br>
 
 
