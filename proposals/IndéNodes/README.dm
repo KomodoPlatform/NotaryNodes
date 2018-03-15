@@ -1,4 +1,5 @@
 # What is IndéNodes?
+
 1. IndéNodes is a [registered company in Neuchâtel](http://hrc.ne.ch/hrcintapp/externalCompanyReport.action?companyOfsUid=CHE-419.492.529&lang=EN), Switzerland. Our activities are fully declared and legalized. It gives us more facilities to interact with the institutions and doing business with the ‘non-crypto’ economy. 
 
 2. IndéNodes is integrated in the regional ecosystem (member of the [Chambre neuchâteloise du commerce et de l’industrie](https://www.cnci.ch/), special contact with the economic development department of the Neuchâtel State)  and in the French speaking organizations related with cryptoplatforms/currencies (member of the Cercle du Coin and in interaction with other crypto-businesses).
