@@ -1,4 +1,6 @@
-*securitas aequitas prosperitas
+"securitas aequitas prosperitas"
+
+
 
 
 We first learned about Komodo while researching fundraising options for the Lumberscout project (s. whitepaper below). We worked with jl777, ca833, PTYX, Nabob and others to get the TALLY assetchain up and running. We've also created an ERC20 TLY token that will use etomic to bridge assetchains.
@@ -13,6 +15,7 @@ Send us your vote2018 !
 zAddress:
 
 
+
 KMD Public: 
 RAGk5NYijYwCDMtU2PkDCAYvHZAoibpYLZ
 
@@ -20,7 +23,7 @@ Lumberscout Whitepaper:
 https://github.com/Lumberscout/Documents/blob/master/whitepaper.md
 
 
-**DISCLAIMER
+DISCLAIMER
 - We are not node operators 
 - We are not a part of the core Komodo team, nor have agreements with team members.
 - We do not have agreements with other candidates
