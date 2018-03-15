@@ -1,4 +1,4 @@
-"securitas aequitas prosperitas"
+Securitas, Aequitas, Prosperitas
 
 
 
