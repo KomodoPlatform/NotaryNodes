@@ -15,8 +15,8 @@
 
 We are also involved in few other businesses to connect crypto and physical worlds: [The Block café](https://www.facebook.com/theblock.cafe.lisboa/) in Lisbon, [Geneviève](https://www.genevieveco.io/) and [Resistant Fund](http://www.resistantfund.io/comingsoon). We are famous in few communities as CryptoFr, Nxt/Ardor and Iota.
 
-## The realisations and projects of IndéNodes.
--	Management of 4 notary nodes in 2017; we were good enough to hold 3 of them for 2018.
+## The realisations and projects of IndéNodes
+-	Management of 4 notary nodes in 2017, we were good enough to hold 3 of them for 2018.
 -	Organisation and financial support of the Komodo Meetup 2017 in Amsterdam.
 -	Marketing of Komodo platform on the French communities and in the swiss media: [Matin Dimanche](https://www.linkedin.com/feed/update/urn:li:activity:6345679782105092096/), [Market.ch](https://www.market.ch/fr/finance-privee/business/details/article/premiere-suisse-creation-dune-societe-entierement-constituee-en-bitcoins-qui-fonctionnera-sans-comptes-bancaires.html), [Romandie.ch](https://www.romandie.com/news/Premiere-en-Suisse-creation-d-une-societe-entierement-constituee-en-bitcoins/871275.rom), [ArcInfo](https://www.arcinfo.ch/articles/divers/economie-regionale/premiere-societe-sans-compte-en-banque-fondee-sur-le-bitcoin-727290), [Repères](https://www.cnci.ch/sites/default/files/02.2018.pdf#page=1&zoom=auto,-158,172).
 -	Building a business network to connect Komodo to the ‘physical’ world and economy.
