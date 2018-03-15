@@ -1,6 +1,6 @@
 
 
-![Image of peer2cloud](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud.pdf)
+![Image of peer2cloud](https://peer2.cloud/images/peer2cloud_logo.png)
 
 > We believe in the Komodo vision and
 > have been involved in Supernet
@@ -19,7 +19,7 @@ member since 2014
 
 
 #### We will share up to 60% of our revenue through different means
-#### Check our **exciting** PDF proposal [HERE](http://proposal.peer2.cloud/vv8cmK1)
+#### Check our **exciting** PDF proposal [HERE](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud.pdf)
 <br>
 
 #### **TO SUPPORT OUR NODES**
