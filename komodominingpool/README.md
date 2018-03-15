@@ -22,7 +22,7 @@ I’m also active for KMD projects into slack channels, on my gitter.im chat and
   <b>Region  [SA]</b> RSeakJoUh9WsX7JjwWfTGgtXTqRiCQ9PzW<br>
   <b>pubkeys [SA]</b> 02D7D1B9AF02C02EF6CB01263B126F67D0D1C30B9D55A7C72290F56089B39E7DC2<br><br>
 
-<b>Z_ADDRESS</b><br>
+</b>Z_ADDRESS</b><br>
 zcJaGeYKQsza6ihCLA9esM6TrWsVd2RNL5Bu9iAELmNrupW7nKL4RNBTk2F7rEkeJTuUwkRrRF4Z8f7wF5xRfZWE8kEh53o<br><br>
 
 
