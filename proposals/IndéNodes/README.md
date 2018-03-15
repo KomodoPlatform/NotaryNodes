@@ -24,7 +24,7 @@ We are also involved in few other businesses to connect crypto and physical worl
 -	Developing a real Komodo embassy in Switzerland and for the French speaking countries.
 -	Organization and financial support of the Komodo Meetup 2018 in Neuchâtel, a very promising event.
 
-## The good reasons to vote for the IndéNodes’ AE node. :)
+## The good reasons to vote for the IndéNodes AE node. :)
 
 ### Vote for our AE node:
 ## RFQNjTfcvSAmf8D83og1NrdHj1wH2fc5X4
