@@ -7,7 +7,7 @@
 > since 2014" 
 
 #### Encuentra nuestra propuesta en Español [AQUÍ](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud_es.pdf)
-<br>
+
 
 ####  A real dream team of more than 10 people. You can find us on slack:
 
@@ -26,7 +26,7 @@ member since 2014
 <br>
 
 #### **TO SUPPORT OUR NODES**
-* Starting 18th March you can send your votes to the following addresses to support us.
+Starting 18th March you can send your votes to the following addresses to support us:
 <br>
 
 #### Anonymous Z address
