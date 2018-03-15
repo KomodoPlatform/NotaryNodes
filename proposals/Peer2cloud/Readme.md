@@ -6,7 +6,8 @@
 > have been involved in Supernet
 > since 2014" 
 
-#### Encuentra nuestra propuesta en Español [AQUÍ](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud_es.pdf)
+#### Encuentra nuestra propuesta detallada en Español [AQUÍ](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud_es.pdf)
+#### Check our **unique** PDF proposal [HERE](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud.pdf)
 
 
 ####  A real dream team of more than 10 people. You can find us on slack:
@@ -22,8 +23,7 @@ member since 2014
 
 
 #### We will share up to 60% of our revenue through different means
-#### Check our **exciting** PDF proposal [HERE](https://github.com/KomodoPlatform/vote2018/blob/master/proposals/Peer2cloud/peer2cloud.pdf)
-<br>
+
 
 #### **TO SUPPORT OUR NODES**
 Starting 18th March you can send your votes to the following addresses to support us:
