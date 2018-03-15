@@ -9,7 +9,6 @@ I’m also active for KMD projects into slack channels, on my gitter.im chat and
 <p>My skills and expertise include all new web Frameworks like socket.io, nodejs, ruby on rails, cordova, bootstrap, D3.js, angular.js, electron and many others, programming languages like Php, Javascript, APIs(soap/rest), python, shell programming and shell scripting, all SQL and NoSQL databases and server security administration and protection.<br>
 </p>
 <h1>My voting address for your “TOKEN VOTE 2018”</h1>
-<p></p>
   <b>Region  [EU]</b> RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5<br>
   <b>pubkeys [EU]</b> 0299455A201614AF1273A9BB83C468784270E19BF3E34EDFAE4FC3F5FCDCB052E8<br><br>
 
