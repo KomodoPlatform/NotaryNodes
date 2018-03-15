@@ -2,9 +2,9 @@ Notary Node Proposal
 
 Region :  AE
 
-KMD Address : RNqn8uXQYmw1XGp1FM4CgK9vD28JiRUPA7
-Z-address   : zcPBpCLLhUVmWVRPoD9isSgs7UVsyDVg1nFAfLsuokN8e53bCUfv3MBBYF5W1dp63zhMCuTssahEqAbcTLT24ewBCZXXnhu
-BTCPubkey   : 
+*KMD Address* : RNqn8uXQYmw1XGp1FM4CgK9vD28JiRUPA7
+
+*Z-address*   : zcPBpCLLhUVmWVRPoD9isSgs7UVsyDVg1nFAfLsuokN8e53bCUfv3MBBYF5W1dp63zhMCuTssahEqAbcTLT24ewBCZXXnhu
 
 ABOUT ME: 
 
