@@ -15,7 +15,7 @@ layout: default
 Satinder has been contributing by solving various problems for the community, by dissipating knowledge and by delivering on his promises such as BarterDex.
 And now by using his personal funds for running **electrumx servers** and notary nodes.
 
-Nitin has volunteered his time to setup stable, automated quality infrastructure for electrumx servers and notary nodes.
+Nitin has volunteered his time to setup stable, automated quality infrastructure for the network.
 
 We intend to invest the revenue from notary node operations in growing the Komodo echo system and therefore **we are contesting in Notary Node 2018 elections.**
 
@@ -49,12 +49,12 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 Seasoned veteran in Technology and BlockChain space capable of wearing multiple hats simultaneously who has been a Linux Administrator, Software Developer, Penetration Tester, Business Analyst in previous roles.
 Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in teaming up.
-Based in New Zealand now.
+Based in New Zealand.
 
 ### [Nitin Sharma]
 
 Seasoned Solutions Architect/DevOps Engineer working in a PCI, ISM (Information Security Manual produced by Australian Signals Directorate) environment who in day-to-day work wears the hat of an Iteration Manager, AWS Architect, DevOps Lead, the-guy-who-simplifies-tech-jargon-for-business-people. Nitin is relatively a newcomer in the Komodo Platform space but is catching up fast.
-Based in Australia now.
+Based in Australia.
 
 ## [](#commitment)Commitment
 Satinder Grewal has a proven record of going for his passion even if it means jeopardising means of survival; [watch this video].
@@ -71,23 +71,26 @@ Nitin Sharma has a more risk-averse approach to following his passion but capabl
 
 ## [](#what-we-offer)What Meshbits Offer
 
-At Meshbits we mainly think from developer's point of view and understand where Komodo Platform has room for improvement. Having the capability to do development and create tools and applications to improve the Komodo Platform allows Meshbits team to use it's skillset and funds in the most efficient way possible.
+At Meshbits, we mainly think from a **developer's point of view** and understand where Komodo Platform has room for improvement. Having the capability to do development and create tools and applications to improve the Komodo Platform allows Meshbits team to use it's skillset and funds in the most efficient way possible.
 
-Meshbits will use all the earnings made from Komodo Platform Notary Nodes Mining to all the following things:
+Meshbits will use all the earnings made from Komodo Platform Notary Nodes mining for the following:
 
 * Scripts and toolset for Developers which will help creating independent projects from scratch using Komodo Platform technologies.
 * Creating Decentralised Applications based on Komodo Platform technologies.
-* Contributing to improve Komodo Platform Infrastructure experience wherever possible. Like the first example of recently added SPV servers, and more to come.
-* Creating & contributing to Developer Documentation for Komodo Platform technologies.
+* Contributing to improve Komodo Platform Infrastructure experience wherever possible. The recent example is the addition of SPV servers which are being voluntarily provided to the Komodo community.
+* Creating & maintenance of **Developer oriented documentation** for Komodo Platform technologies.
 
-We think instead of offering percentage of our Notary Nodes to our voters we can put directly use these funds to increase the value of Komodo tokens by dedicating our skillset to improve Komodo Platform and increaseing the underlying value of all KMD cryptocurrency. Because it's the developer made applications and services which puts the cryptocurrency in demand, due to their usecases. And Meshbits team has the capablity to deliver what we promis.
+Instead of offering percentage of our Notary Nodes to our voters, we use these funds to increase the value of Komodo tokens by dedicating our skillset to improve Komodo Platform. That itself increases the underlying value of all KMD cryptocurrency.
 
-We hope the Komodo Platform users will chose Meshbits and give us the opportunity to not just give the value to our voters but  to All Komodo Platform users.
+It's the developer made applications and services which put a cryptocurrency in demand, due to their use cases. And Meshbits team has the capability to deliver what we promise.
+
+We hope the Komodo Platform users will chose Meshbits and give us the opportunity to not just give the value to our voters only but to the entire Komodo community.
 
 For more details on what Meshbits is doing and plans to improve on Komodo Platform, please read this blog post from Satinder Grewal:
-https://medium.com/@satindergrewal/improving-komodo-platform-37c684991374
+
+[Satinder Grewal: Improving Komodo Platform](https://medium.com/@satindergrewal/improving-komodo-platform-37c684991374)
 
 ## [](#disclosure)Disclosure
 
-* Satinder Grewal works as developer with Komodo Platform team.
-* Satinder Grewal's `grewal_SH` Notary Node got auto re-elected from first Notary Nodes who performed as top 30 Nodes with high Notarisation counts.
+* Satinder Grewal is a developer in Komodo Platform team.
+* Satinder Grewal's `grewal_SH` Notary Node got auto re-elected from previous Notary Nodes who performed as top 30 Nodes with high Notarisation counts.
