@@ -3,7 +3,7 @@
   <img width="128" src="https://secure.gravatar.com/avatar/4af0d9a1f16bf05d1aedee5e3923d3e3?size=256" />
   <h2>lukechilds</h2>
   
-  **Zone:** North America
+  **Region:** Asia (AR)
   <br>
   <br>
   **Public Vote Address**<br>
@@ -29,22 +29,25 @@ My Open Source software is used in production by small developers and large comp
 
 I'm currently working on an alternative GUI implementation for Komodo's BarterDEX with a focus on simplicity, reliability and ease of use. I'm also doing extensive [debugging/testing/security auditing](https://github.com/search?utf8=%E2%9C%93&q=repo%3Ajl777%2FSuperNET+author%3Alukechilds&type=Issues) with `marketmaker`.
 
+### Contact Details
+
+I'm @lukechilds on Slack, [GitHub](https://github.com/lukechilds), [Twitter](https://twitter.com/lukechilds) and [Keybase](https://keybase.io/lukechilds). My personal email address is also listed on my GitHub profile.
+
 ## Why vote for me?
 
-I have the experience required to run a notary node properly and securely as outlined below.
+I'm a single individual running a single node in a single region for better decentralisation. I have the experience required to run a notary node properly and securely as outlined below.
 
-If I'm elected I will be able to use the funds to allow me to work full time on Open Source and security research. I have many plans for Open Source projects that will benefit both the Komodo Platform and the entire cryptocurrency ecosystem as a whole.
+If I'm elected I will be able to use the mining rewards to fund my work full time on Open Source and security research. I have many plans for Open Source projects that will benefit both the Komodo Platform and the entire cryptocurrency ecosystem as a whole.
 
-## Hardware
+## Server
 
-- 2 x Eight-Core E5-2620v4 2.1Ghz, 20M cache (16 cores, 32 threads total)
-- 64GB RAM
-- 2x500GB SSD
-- 1 Gbps Network
+- 16 Core CPU
+- 64 GB RAM
+- 1TB SSD
 
-SSDs are configured with RAID 1 meaning if a drive fails I can replace the SSD with zero downtime.
+Will scale up as needed.
 
-The server is in North America, however it is strategically located in a Los Angeles data center with a lower latency connection to Asia than most of America.
+The server is hosted in Singapore in Asia. This strategic location gives lower latency connections to Bitcoin miners in China without being behind the Great Firewall of China itself.
 
 ## Experience
 
@@ -104,6 +107,10 @@ I have fixed both of these vulnerabilities but @jl777 has asked me not to go int
 I found a vulnerability in `marketmaker`, the daemon that powers the BarterDEX network, that would allow a website to steal all your funds after you launch the daemon. I advised how to fix the issue and it was resolved many releases ago.
 
 https://github.com/jl777/SuperNET/issues/563
+
+## Disclosure
+
+I am currently being funded by @pondsea for my development work on the new BarterDEX GUI. I believe he is also running for election.
 
 ---
 
