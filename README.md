@@ -9,4 +9,34 @@ Additional data can be found here:
 
 # Candidates
 
-Coming soon
+| Candidate | Proposal | Regions | Active NN | Comments |
+|---|---|---|---|---|
+| a-team | | | | |
+| adrianpante | | | | |
+| ca333 | | | | |
+| chainmakers | | | | |
+| chainstrike | | | | |
+| cipi | | | | |
+| decker | | | | |
+| dwy | | | | |
+| emmanux | | | | |
+| goldenman | | | | |
+| indenodes | | | | |
+| infotech-al | | | | |
+| kashifali | | | | |
+| komodominingpool | | | | |
+| komodopioneers | | | | |
+| lukechilds | | | | |
+| lumberscout | | | | |
+| meshbits | | | | |
+| nabob | | | | |
+| noashh | | | | |
+| patchkez | | | | |
+| pbca26 | | | | |
+| peer2cloud | | | | |
+| polycryptoblog | | | | |
+| rnr | | | | |
+| shossain | | | | |
+| thegaltmines | | | | |
+| voskcoin | | | | |
+| webworker01 | | | | |
