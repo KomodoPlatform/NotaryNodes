@@ -24,6 +24,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | kashifali | [proposal](./proposals/kashifali) | | |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
+| libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | | |  +  |
@@ -41,8 +42,8 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 ## How to submit perfect proposal
 
-- Proposals and corrections are submitted via pull request to master branch of this repo. Your proposal should be a **lowercase named** subdirectory inside `proposals` dir with `REDAME.md`.
-- It **should** have all particiapting regions explictly stated and have transparent wallets for each. Regions are named: AR, NA, SH, EU. There is no regions named AU, AE, SE etc. Good candidates also provide z-address.
+- Proposals and corrections are submitted via pull request to master branch of this repo. Your proposal should be a **lowercase named** subdirectory inside `proposals` dir with `README.md`.
+- It **should** have all participating regions explictly stated and have transparent wallets for each. Regions are named: AR, NA, SH, EU. There is no regions named AU, AE, SE etc. Good candidates also provide z-address.
 - It **might** have pubkeys (btcpubkey) attached to each wallet. Failure to provide pubkey timely might end up loosing spot.
 - It **should** have your slack contact nickname(s) visible and noticable.
 - Your propoposal **must** have separate section named `Disclosure` where you should disclose any impacting relationships with other candidates, your status as a team member (if you're invited in team chat) and nodes you're currently operate as auto re-elected.
