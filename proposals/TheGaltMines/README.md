@@ -77,8 +77,9 @@ RNr5ohVaEusDCngp9pgWWYSc1YaWdMfjUH
 zcG2ZB5v7JYeZPg9DyqSHBu9gRVRJcku2MNFsnrKvnyep7dg9FjuKG1URtPSzCEekrFMgaswWFVfQmx9WRE5gbGxihRX8n4
 
 ## Contact Us
+**Komodo Slack Channel**
 
-Komodo Slack Channel @juan galt @herbison @hyperborean1
+- @juan galt 
+- @herbison
+- @hyperborean1
 Email: thegaltmines@protonmail.ch
-
-
