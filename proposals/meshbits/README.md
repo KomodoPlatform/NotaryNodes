@@ -21,6 +21,12 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 ## Election Details
 
+### [](#contact)Contact:
+
+* slack
+    * Satinder Grewal: @grewalsatinder
+    * Nitin Sharma: @ns408
+
 ### [](#notary-nodes-regions)Regions:
 
 * Southern Hemisphere
