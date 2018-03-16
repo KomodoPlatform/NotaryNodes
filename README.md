@@ -1,11 +1,7 @@
-# Komodo Notary Nodes Elections 2018
+##  Komodo Notary Nodes Elections 2018
 Notary Node candidates list and proposals repo
 
-Additional data can be found here:
-
-- http://pad.supernet.org/notary-candidates-2018
-- https://dexstats.info/vote2018.php
-- https://komodometrics.com
+![I hate elections](https://user-images.githubusercontent.com/2559459/37498820-68f94a1a-28d1-11e8-90a0-45a174b210b0.jpg)
 
 # Candidates
 
@@ -38,7 +34,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | peer2cloud | [proposal](./proposals/peer2cloud) | | | |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | | | |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** | Disclosure missing |
-| shossain | [proposal](./proposals/shossain) | | | |
+| shossain | [proposal](./proposals/shossain) | **EU** | | Disclosure missing |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | | |
 | voskcoin | [proposal](./proposals/voskcoin) | | | |
 | webworker01 | [proposal](./proposals/webworker01) | | | |
