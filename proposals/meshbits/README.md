@@ -68,3 +68,23 @@ Nitin Sharma has a more risk-averse approach to following his passion but capabl
 
 * Our focus is on creating a scalable, stable platform so we are using a combination of Cloud and Datacenter based Servers
 * Two proficient die-hard automation fans looking after the servers means better stable service.
+
+## [](#what-we-offer)What Meshbits Offer
+
+At Meshbits we mainly think from developer's point of view and understand where Komodo Platform has room for improvement. Having the capability to do development and create tools and applications to improve the Komodo Platform allows Meshbits team to use it's skillset and funds the most efficient way possible.
+
+Meshbits will use all the earnings made from Komodo Platform Notary Nodes Mining to all the following things:
+
+* Scripts and toolset for Developers which will help creating independent projects from scratch using Komodo Platform technologies.
+* Creating Decentralised Applications based on Komodo Platform technologies.
+* Contributing to improve Komodo Platform Infrastructure experience wherever possible. Like the first example by adding multiple SPV servers.
+* Creating & contributing to Developer Documentation for Komodo Platform technologies.
+
+We think instead of offering perentage of our Notary Nodes to our voters we can put directly use these funds to incrase the value of Komodo tokens by dedicating our skillset to improve Komodo Platform and increaseing the underlying value of all KMD cryptocurrency. Because it's the developer made applications and services which puts the cryptocurrency in demand, due to their usecases. And Meshbits team has the capablity to deliver what we promis.
+
+We hope the Komodo Platform users will chose Meshbits and give us the opportunity to not just give the value to our voters but  to All Komodo Platform users.
+
+## [](#disclosure)Disclosure
+
+* Satinder Grewal works as developer with Komodo Platform team.
+* Satinder Grewal's `grewal_SH` Notary Node got auto re-elected from first Notary Nodes who performed as top 30 Nodes with high Notarisation counts.
