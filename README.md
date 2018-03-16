@@ -32,10 +32,10 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | nabob | [proposal](./proposals/nabob) | | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
-| patchkez | [proposal](./proposals/patchkez) | | |  +  |
+| patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
-| polycryptoblog | [proposal](./proposals/polycryptoblog) | | |   +  |
+| polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | |   +  |
 | pondsea | [proposal](./proposals/pondsea) | | |   +  |
 | ptyx | [proposal](./proposals/ptyx) | | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
