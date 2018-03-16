@@ -25,7 +25,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
-| lukechilds | [proposal](./proposals/lukechilds) | | |  +  |
+| lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  Team: [Satinder Grewal](https://twitter.com/satindergrewal), [Nitin Sharma](https://twitter.com/nitinsharma408)  |
 | nabob | [proposal](./proposals/nabob) | | |  +  |
