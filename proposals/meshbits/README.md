@@ -84,6 +84,9 @@ We think instead of offering perentage of our Notary Nodes to our voters we can 
 
 We hope the Komodo Platform users will chose Meshbits and give us the opportunity to not just give the value to our voters but  to All Komodo Platform users.
 
+For more details on what Meshbits is doing and plans to improve on Komodo Platform, please read this blog post from Satinder Grewal:
+https://medium.com/@satindergrewal/improving-komodo-platform-37c684991374
+
 ## [](#disclosure)Disclosure
 
 * Satinder Grewal works as developer with Komodo Platform team.
