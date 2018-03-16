@@ -27,7 +27,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
-| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
+| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  Team: [Satinder Grewal](https://twitter.com/satindergrewal), [Nitin Sharma](https://twitter.com/nitinsharma408)  |
 | nabob | [proposal](./proposals/nabob) | | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | | |  +  |
