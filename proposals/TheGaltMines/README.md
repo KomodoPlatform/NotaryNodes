@@ -1,6 +1,8 @@
 ## TheGaltMines Team Proposal
 
-Please visit [thegaltmines.io](thegaltmines.io) for even more details on us and take a look at our infographic posted here with this document. An infographic is published along with this document on github. What follows is a summary of our proposal.
+![Logo](https://imgur.com/a/8Y4mW)
+
+Please visit [thegaltmines.io](thegaltmines.io) for even more details on us and take a look at our infographic posted here with this document on github. What follows is a summary of our proposal.
 
 Juan has done a video of our proposal as well if you want to [view it](https://www.youtube.com/watch?v=fJPG722eaeQ).
 
