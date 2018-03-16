@@ -1,6 +1,6 @@
 # jackson NN proposal
 
-<img src="https://avatars3.githubusercontent.com/u/1147244?s=460&v=4" style="max-width: 160px">
+<img src="https://avatars3.githubusercontent.com/u/1147244?s=460&v=4" width=160>
 
 ## About / experience
 
