@@ -9,14 +9,16 @@ Additional data can be found here:
 
 # Candidates
 
-| Candidate | Proposal | Regions | Active NN | Comments |
+Data is coming soon - everything is hand crafted and manually verified. Please, have some patience.
+
+| Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
 | a-team | [proposal](./proposals/a-team) | | | |
 | adrianpante | [proposal](./proposals/adrianpante) | | | |
-| ca333 | [proposal](./proposals/ca333) | | | |
+| ca333 | [proposal](./proposals/ca333) | *EU* *NA* *AR* *SH* | | |
 | chainmakers | [proposal](./proposals/chainmakers) | | | |
 | chainstrike | [proposal](./proposals/chainstrike) | | | |
-| cipi | [proposal](./proposals/cipi) | | | |
+| cipi | [proposal](./proposals/cipi) | *EU* *NA* *AR* | | Disclosure missing |
 | decker | [proposal](./proposals/decker) | | | |
 | dwy | [proposal](./proposals/dwy) | | | |
 | emmanux | [proposal](./proposals/emmanux) | | | |
@@ -30,12 +32,12 @@ Additional data can be found here:
 | lumberscout | [proposal](./proposals/lumberscout) | | | |
 | meshbits | [proposal](./proposals/meshbits) | | | |
 | nabob | [proposal](./proposals/nabob) | | | |
-| noashh | [proposal](./proposals/noashh) | | | |
+| noashh | [proposal](./proposals/noashh) | *NA* *AR* | | Disclosure missing |
 | patchkez | [proposal](./proposals/patchkez) | | | |
-| pbca26 | [proposal](./proposals/pbca26) | | | |
+| pbca26 | [proposal](./proposals/pbca26) | *NA* | | Disclosure missing |
 | peer2cloud | [proposal](./proposals/peer2cloud) | | | |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | | | |
-| rnr | [proposal](./proposals/rnr) | | | |
+| rnr | [proposal](./proposals/rnr) | *AR* *NA* | *SH* *EU* | Disclosure missing |
 | shossain | [proposal](./proposals/shossain) | | | |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | | |
 | voskcoin | [proposal](./proposals/voskcoin) | | | |
