@@ -16,7 +16,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
-| dwy | [proposal](./proposals/dwy) | | |  +  |
+| dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | | |  +  |
 | goldenman | [proposal](./proposals/goldenman) | | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | | |  +  |
