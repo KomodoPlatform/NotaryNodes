@@ -1,4 +1,4 @@
-## About Me
+## About SHossain
 
 I am with Komodo community since the BTCD days. Mined BTCD, participated in SuperNET ICO. A very advanced user, problem solver with attention to detail. Without being a coder, I made and hosted explorebtcd.info block explorer by myself.
 
@@ -10,12 +10,21 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 
 - Did I say I love technology?
 - I'm online over 75 hour every week
-- One of the first to test most of the latest Komodo Platform technology
+- One of the first testers to test most of the latest Komodo Platform technology
 - High level of understanding about the platform and its tech
+- Proven track record of getting things running quickly
 - A very advanced user in terms of computer, server, mobile, gadgets
 - I have my test node running for over a month
-- A Notary Node will be helpful for my BarterDEX and other Komodo tech testing and providing Liquity in BarterDEX
+- Leading this year's Notary testnet group, created guide and helping operators to start notarizing
+- A Notary Node will be helpful for my BarterDEX and other Komodo tech testing
 - I will provide a high spec node which is scalable and will add more server if needed
+
+## Disclosure
+- I am a team member and I test BarterDEX
+- I do not have any existing node running
+- Running for only 1 node in the EU region
+- I am not in teaming up with another node secretly
+- I have a capability of running a Notary Node easily
 
 ## Minimum Server Spec
 
@@ -28,5 +37,6 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 ## Vote Details:
 
 #### Region: EU
-#### Vote Address (t): `RSUMqZFwz7yPzTmyzEtH9VzH7LBoD7twSB`
-#### Vote Address (z): `zcYTkJTZteZDsjq56qsYY1WNzy5m1VYkjKpm651b7ZhUgewYe2PBRFFeZUciNQ6iBaPvELbuEGUGKHKBW2XHEm1F2yeYdhe`
+#### BTC Pubkey: `0239b39630f71b5ef4e145ab9bd9daaf0871fa59904cf9c216619609d2d6ed5ee0`
+#### Public Vote (t) Address: `RSUMqZFwz7yPzTmyzEtH9VzH7LBoD7twSB`
+#### Private Vote (z) Address: `zcYTkJTZteZDsjq56qsYY1WNzy5m1VYkjKpm651b7ZhUgewYe2PBRFFeZUciNQ6iBaPvELbuEGUGKHKBW2XHEm1F2yeYdhe`
