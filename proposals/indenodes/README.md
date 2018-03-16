@@ -28,3 +28,5 @@ We are also involved in few other businesses to connect crypto and physical worl
 
 ### Vote for our AE node:
 ## RFQNjTfcvSAmf8D83og1NrdHj1wH2fc5X4
+### OR
+## zcV3A1Y6949uqP7ewwsxrPC7wFov7u6GtD5R1auHFMCmdnrmBvMY8X3xeDbvj1bzShjjQFNq5hruvZQjreZi42GoEpXmGt9
