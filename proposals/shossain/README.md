@@ -2,7 +2,7 @@
 
 I am with Komodo community since the BTCD days. Mined BTCD, participated in SuperNET ICO. A very advanced user, problem solver with attention to detail. Without being a coder, I made and hosted explorebtcd.info block explorer by myself.
 
-I love all things technology and kind of crazy that way. At least, that's how people describes me. Currently, I'm a team meamber, testing BarterDEX and other Komodo Platfrom related products everyday and help other users. I also documented BarterDEX APIs and created some nice wiki docs, install guides for users and devs alike.
+I love all things technology and kind of crazy that way. At least, that's how people describes me. Currently, I'm a team member, testing BarterDEX and other Komodo Platfrom related products everyday and help other users. I also documented BarterDEX APIs and created some nice wiki docs, install guides for users and devs alike.
 
 Notary Nodes provides security for Komodo and the whole ecosystem is benefited from this. I would like to present myself as a candidate for Notary Node Election 2018 to operate one node in the EU region.
 
