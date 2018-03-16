@@ -32,7 +32,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
-| peer2cloud | [proposal](./proposals/peer2cloud) | | |  +  |
+| peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | | |   +  |
 | ptyx | [proposal](./proposals/ptyx) | | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
