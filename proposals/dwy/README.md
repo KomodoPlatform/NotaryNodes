@@ -1,6 +1,3 @@
-
-![Proposal](https://imgur.com/a/HgvFD)
-
 # Dwy Notary Node Proposal
 
 You want to participate to 2018 Notary Node elections but still don't know who you'll vote for ?
