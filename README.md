@@ -28,7 +28,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
-| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **SH** | **NA** |  +  |
+| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | nabob | [proposal](./proposals/nabob) | | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | | |  +  |
