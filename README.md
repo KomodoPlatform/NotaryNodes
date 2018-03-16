@@ -30,7 +30,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
-| nabob | [proposal](./proposals/nabob) | | |  +  |
+| nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
