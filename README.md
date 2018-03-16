@@ -11,7 +11,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 |---|---|---|---|---|
 | a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
 | adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
-| ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | |  +  |
+| ca333 | [proposal](./proposals/ca333) | **SH** **AR** **NA** **EU** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
