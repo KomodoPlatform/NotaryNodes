@@ -4,7 +4,7 @@
 
 Furthermore CA is securing *all* notary nodes and making sure the whole network is operating secured. CA uses his own dedicated HP ProLiant Gen9 infrastructure for notary node operations. In addition ca333 is donating 33.3% of the notary node income towards Komodo related expenses (bounties, rewards, competitions,...) to give the ecosystem something back. 
 
-**Disclosures**
+### Disclosures
 ca333 is the husband of Alice and a Komodo team member. He is participating in the elections for the first time.
 
 
