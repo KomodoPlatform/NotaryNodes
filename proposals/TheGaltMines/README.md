@@ -33,10 +33,12 @@ For the last decade, he has owned and operated and independent ISP in the rurual
 We bring together a team of very competent people two of which have an extensive business background and who are more than capable of operating IT infrastructure, handling security and even brand awareness.  Juan through his evangelism and love for crypto brings brand awareness to the Komodo Platform. All of his videos carry his "Sponsored by Komodo" introduction which is his exclusive advertiser and sponsor. Juan regularly attends conferences and 5% of revenue from any newly elected notary nodes we get will go to support his travel and marketing expenses.
 
 You can find some of his work below
-[juansgalt.com](juansgalt.com/youtube) 
-[twitter/juansgalt](twitter.com/juansgalt) 
-[facebook/juansgalt](facebook.com/juansgalt)
-[facebook videos](www.facebook.com/juansgalt/videos/1922442438066652/)
+- [juansgalt.com](juansgalt.com/youtube) 
+- [twitter/juansgalt](twitter.com/juansgalt) 
+- [facebook/juansgalt](facebook.com/juansgalt)
+- [facebook videos](www.facebook.com/juansgalt/videos/1922442438066652/)
+
+![evangelism](https://i.imgur.com/wQFcFPI.jpg)
 
 **Shenlong's Den**
 
@@ -47,6 +49,7 @@ The idea is simple. You have a project, you propose it to us and make an ask for
 The 3 of us at The Galt Mines make final decisions on funding, which I believe will help bring more accountability to blockchain funding of community services then has been seen in other projects like DASH or Pivx.
 
 **Business Strategy and Legal Protections**
+
 Last but not least we take very seriously the disruptive potential of Komodo, both as a way to bring zcash grade anonymity to other coins thru BarterDex, but also as a way to have them benefit from Bitcoin’s security while making their own core development decisions, as blockchains in their own right. This is the great innovation behind the notary system which from my 4+ years of experience in this market is very unique.
 
 And of course atomic swap non-custodial exchange. What else needs to be said? Komodo has serious potential.
@@ -82,4 +85,4 @@ zcG2ZB5v7JYeZPg9DyqSHBu9gRVRJcku2MNFsnrKvnyep7dg9FjuKG1URtPSzCEekrFMgaswWFVfQmx9
 - @juan galt 
 - @herbison
 - @hyperborean1
-Email: thegaltmines@protonmail.ch
+- Email: thegaltmines@protonmail.ch
