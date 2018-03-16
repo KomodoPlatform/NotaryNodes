@@ -9,8 +9,8 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
-| a-team | [proposal](./proposals/a-team) | | |  +  |
-| adrianpante | [proposal](./proposals/adrianpante) | | |  +  |
+| a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
+| adrianpante | [proposal](./proposals/adrianpante) | **EU** **NA** **AR** **SH** | |  +  |
 | ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | | |  +  |
