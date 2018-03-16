@@ -33,6 +33,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
 | peer2cloud | [proposal](./proposals/peer2cloud) | | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | | |   +  |
+| ptyx | [proposal](./proposals/ptyx) | | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
