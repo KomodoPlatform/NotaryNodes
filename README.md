@@ -21,6 +21,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | goldenman | [proposal](./proposals/goldenman) | | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | | |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
+| jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | | |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
@@ -42,6 +43,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | | |  +  |
+| xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
 ## How to submit perfect proposal
 
