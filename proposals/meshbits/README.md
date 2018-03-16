@@ -29,13 +29,13 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 ### [](#notary-nodes-regions)Regions:
 
-* Southern Hemisphere
+* NA
   * Komodo/Vote address: `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
   * btcpubkey: `025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb`
-* Asia
+* AR
   * Komodo/Vote address: `RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1`
   * btcpubkey: `02957fd48ae6cb361b8a28cdb1b8ccf5067ff68eb1f90cba7df5f7934ed8eb4b2c`
-* Europe
+* EU
   * Komodo/Vote address: `RTF4GvjePY4YUy3M8iwkGZfEor2p5zFkbo`
   * btcpubkey: `03cbc8ec2a44d61fb60bedd04b7a96c8508ca0e6381873d2b908a5d0f78f5f1f9e`
 
@@ -47,11 +47,15 @@ We intend to invest the revenue from notary node operations in growing the Komod
 
 ### [Satinder Grewal]
 
+   - Komodo Platform Slack Username: `grewalsatinder`
+
 Seasoned veteran in Technology and BlockChain space capable of wearing multiple hats simultaneously who has been a Linux Administrator, Software Developer, Penetration Tester, Business Analyst in previous roles.
 Satinder has been involved with the Komodo-Platform since the **Supernet days** and has now influenced Nitin in teaming up.
 Based in New Zealand now.
 
 ### [Nitin Sharma]
+
+   - Komodo Platform Slack Username: `ns408`
 
 Seasoned Solutions Architect/DevOps Engineer working in a PCI, ISM (Information Security Manual produced by Australian Signals Directorate) environment who in day-to-day work wears the hat of an Iteration Manager, AWS Architect, DevOps Lead, the-guy-who-simplifies-tech-jargon-for-business-people. Nitin is relatively a newcomer in the Komodo Platform space but is catching up fast.
 Based in Australia now.
