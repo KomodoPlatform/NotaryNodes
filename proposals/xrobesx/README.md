@@ -1,6 +1,6 @@
 ## xRobeSx
 
-[http://vote.xrobesx.co](./logo.png)
+![](./logo.png)
 
 I am running for a Notary Node in the North American (NA) region. 
 
@@ -10,7 +10,7 @@ I am running for a Notary Node in the North American (NA) region.
 ### Go to [vote.xrobesx.co](http://vote.xrobesx.co)!
 
 
-## Send me your Vote2018:
+### Vote for Me:
 
-### t-address: RLQoAcs1RaqW1xfN2NJwoZWW5twexPhuGB
-### z-address: zc9yZdajoiveMaioZHYhBbgrMA6sbWdGy5ioMP5yhvPxLVbENDkfzJFN8PBcGDuTuC4XNc2CbAMhpMcceBtdvUjSiWLzJYc
+ t-address: RLQoAcs1RaqW1xfN2NJwoZWW5twexPhuGB
+ z-address: zc9yZdajoiveMaioZHYhBbgrMA6sbWdGy5ioMP5yhvPxLVbENDkfzJFN8PBcGDuTuC4XNc2CbAMhpMcceBtdvUjSiWLzJYc
