@@ -10,7 +10,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
 | a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
-| adrianpante | [proposal](./proposals/adrianpante) | **EU** **NA** **AR** **SH** | |  +  |
+| adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
 | ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
@@ -41,7 +41,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
-| voskcoin | [proposal](./proposals/voskcoin) | | |  +  |
+| voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | | |  +  |
 | xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
