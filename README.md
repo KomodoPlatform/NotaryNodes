@@ -37,7 +37,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
-| ptyx | [proposal](./proposals/ptyx) | | |   +  |
+| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
