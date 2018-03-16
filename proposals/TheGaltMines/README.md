@@ -1,6 +1,6 @@
 ## TheGaltMines Team Proposal
 
-![Logo](https://imgur.com/a/8Y4mW)
+![Logo](https://i.imgur.com/Tt6pfGG.jpg)
 
 Please visit [thegaltmines.io](thegaltmines.io) for even more details on us and take a look at our infographic posted here with this document on github. What follows is a summary of our proposal.
 
