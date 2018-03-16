@@ -46,10 +46,10 @@ Feel free to message me on slack @webworker01 if you have any questions.
 
 Vote for me as a **North America Notary Node operator** by sending **VOTE2018** to
 
-    RRGeJ4VCKQqXNkZWRGWcbABRXoXHc2zHJp
+    RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe
 
 or
 
-    zcXypsEqn4ZHwtRVZSnjWJ3mwxkDzkMWnyfjZenhs3t9kGJgTdt4BxHuaS7X2iS8SHFUhYe6BpWZrGkMWVcSiXkRoRbsnY2
+    zcFqBdWn8bRJrnCPRdofJQM1rpzCGCVfkojwBuasWSpFiARmY7YFH1Niu9PkQa8SfFacpRtxXkBCAK58hayo9yb6Q4y6wbF
 
 (Do not use the z address if you wish to be credited rewards)
