@@ -23,8 +23,8 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | | |  +  |
-| komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
-| komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
+| komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
+| komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
