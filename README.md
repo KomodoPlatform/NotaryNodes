@@ -9,35 +9,35 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
-| a-team | [proposal](./proposals/a-team) | | | Disclosure missing |
-| adrianpante | [proposal](./proposals/adrianpante) | | | Disclosure missing |
-| ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | | Disclosure missing |
-| chainmakers | [proposal](./proposals/chainmakers) | | | Disclosure missing |
-| chainstrike | [proposal](./proposals/chainstrike) | | | Disclosure missing |
-| cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | | Disclosure missing |
-| decker | [proposal](./proposals/decker) | **AR** **EU**| | Disclosure missing |
-| dwy | [proposal](./proposals/dwy) | | | Disclosure missing |
-| emmanux | [proposal](./proposals/emmanux) | | | Disclosure missing |
-| goldenman | [proposal](./proposals/goldenman) | | | Disclosure missing |
-| indenodes | [proposal](./proposals/indenodes) | | | Disclosure missing |
-| infotech-al | [proposal](./proposals/infotech-al) | | | Disclosure missing |
-| kashifali | [proposal](./proposals/kashifali) | | | Disclosure missing |
-| komodominingpool | [proposal](./proposals/komodominingpool) | | | Disclosure missing |
-| komodopioneers | [proposal](./proposals/komodopioneers) | | | Disclosure missing |
-| lukechilds | [proposal](./proposals/lukechilds) | | | Disclosure missing |
-| lumberscout | [proposal](./proposals/lumberscout) | | | Disclosure missing |
-| meshbits | [proposal](./proposals/meshbits) | | | Disclosure missing |
-| nabob | [proposal](./proposals/nabob) | | | Disclosure missing |
-| noashh | [proposal](./proposals/noashh) | **NA** **AR** | | Disclosure missing |
-| patchkez | [proposal](./proposals/patchkez) | | | Disclosure missing |
-| pbca26 | [proposal](./proposals/pbca26) | **NA** | | Disclosure missing |
-| peer2cloud | [proposal](./proposals/peer2cloud) | | | Disclosure missing |
-| polycryptoblog | [proposal](./proposals/polycryptoblog) | | | Disclosure missing |
-| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** | Disclosure missing |
-| shossain | [proposal](./proposals/shossain) | **EU** | | Disclosure missing |
-| thegaltmines | [proposal](./proposals/thegaltmines) | | | Disclosure missing |
-| voskcoin | [proposal](./proposals/voskcoin) | | | Disclosure missing |
-| webworker01 | [proposal](./proposals/webworker01) | | | Disclosure missing |
+| a-team | [proposal](./proposals/a-team) | | |  +  |
+| adrianpante | [proposal](./proposals/adrianpante) | | |  +  |
+| ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | |  +  |
+| chainmakers | [proposal](./proposals/chainmakers) | | |  +  |
+| chainstrike | [proposal](./proposals/chainstrike) | | |  +  |
+| cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
+| decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
+| dwy | [proposal](./proposals/dwy) | | |  +  |
+| emmanux | [proposal](./proposals/emmanux) | | |  +  |
+| goldenman | [proposal](./proposals/goldenman) | | |  +  |
+| indenodes | [proposal](./proposals/indenodes) | | |  +  |
+| infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
+| kashifali | [proposal](./proposals/kashifali) | | |  +  |
+| komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
+| komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
+| lukechilds | [proposal](./proposals/lukechilds) | | |  +  |
+| lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
+| meshbits | [proposal](./proposals/meshbits) | | |  +  |
+| nabob | [proposal](./proposals/nabob) | | |  +  |
+| noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
+| patchkez | [proposal](./proposals/patchkez) | | |  +  |
+| pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
+| peer2cloud | [proposal](./proposals/peer2cloud) | | |  +  |
+| polycryptoblog | [proposal](./proposals/polycryptoblog) | | |   +  |
+| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
+| shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
+| thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
+| voskcoin | [proposal](./proposals/voskcoin) | | |  +  |
+| webworker01 | [proposal](./proposals/webworker01) | | |  +  |
 
 ## How to submit perfect proposal
 
