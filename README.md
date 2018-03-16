@@ -48,3 +48,4 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 - It **might** have pubkeys (btcpubkey) attached to each wallet. Failure to provide pubkey timely might end up loosing spot.
 - It **should** have your slack contact nickname(s) visible and noticable.
 - Your propoposal **must** have separate section named `Disclosure` where you should disclose any impacting relationships with other candidates, your status as a team member (if you're invited in team chat) and nodes you're currently operate as auto re-elected.
+- Do **not** edit this README.md. Ask @kolo to do that.
