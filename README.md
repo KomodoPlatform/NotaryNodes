@@ -28,7 +28,6 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  Team: [Satinder Grewal](https://twitter.com/satindergrewal), [Nitin Sharma](https://twitter.com/nitinsharma408)  |
-| madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | nabob | [proposal](./proposals/nabob) | | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | | |  +  |
