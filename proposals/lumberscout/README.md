@@ -2,7 +2,7 @@ EU Notary Candidate
 
 
 
-Securitas, Aequitas, Prosperitas
+"Securitas, Aequitas, Prosperitas"
 
 
 
