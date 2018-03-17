@@ -5,7 +5,7 @@
 ## About / experience
 
 * Full-stack developer and crypto enthusiast.
-* Former employee of section.io, an Australian CDN provider, have experience with network engineering.
+* Former employee of section.io, an Australian CDN provider; I have experience with network engineering and server administration.
 * Have registered U.S.-based company Embolden Technologies LTD for blockchain-related operations.
 
 ## Contact
