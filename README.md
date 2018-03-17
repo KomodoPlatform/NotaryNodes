@@ -41,7 +41,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
 | ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
-| shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
+| shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
