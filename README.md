@@ -33,14 +33,14 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
-| noashh | [proposal](./proposals/noashh) | **NA** **AR** |**NA** **AR** |  +  |
+| noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | **NA** |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
-| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | **SH** **NA** |   +  |
-| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** **AR** **NA** |  +  |
+| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
+| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
