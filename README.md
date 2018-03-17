@@ -9,9 +9,9 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
-| alice | [proposal](./proposals/alice) | **SH** **AR** **NA** **EU** | |  +  |
 | a-team | [proposal](./proposals/a-team) | **AU** | |  +  |
 | adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
+| alice | [proposal](./proposals/alice) | **SH** **AR** **NA** **EU** | |  +  |
 | benny | [proposal](./proposals/benny) | **SH** **AR** **NA** **EU** | |  +  |
 | ca333 | [proposal](./proposals/ca333) | **SH** **AR** **NA** **EU** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
@@ -20,7 +20,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
-| goldenman | [proposal](./proposals/goldenman) | | |  +  |
+| goldenman | [proposal](./proposals/goldenman) |**AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | | |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
