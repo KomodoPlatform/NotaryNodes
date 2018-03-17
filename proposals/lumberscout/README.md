@@ -1,4 +1,8 @@
-Securitas, Aequitas, Prosperitas
+EU Notary Candidate
+
+
+
+"Securitas, Aequitas, Prosperitas"
 
 
 
