@@ -45,7 +45,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
-| xrobesx | [proposal](./proposals/xrobesx) | **NA** | **NA** |  +  |
+| xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
 ## How to submit perfect proposal
 
