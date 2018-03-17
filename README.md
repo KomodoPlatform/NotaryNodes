@@ -24,7 +24,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | indenodes | [proposal](./proposals/indenodes) | **AR**| |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
-| kashifali | [proposal](./proposals/kashifali) | **EU**| **EU**|  +  |
+| kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
