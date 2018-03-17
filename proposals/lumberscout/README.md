@@ -1,4 +1,8 @@
-Securitas, Aequitas, Prosperitas
+EU Notary Candidate
+
+
+
+"Securitas, Aequitas, Prosperitas"
 
 
 
@@ -13,7 +17,9 @@ As an economic operator with "skin in the game", dPoW is not an abstract concept
 
 Send us your vote2018 !
 
-zAddress:
+zAddress: 
+
+zcHoAsm4C3C9igbb8VpWSPK8CkFRW7YBms
 
 
 

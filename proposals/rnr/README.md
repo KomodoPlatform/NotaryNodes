@@ -34,3 +34,4 @@
 
 ![Komodo Notary Node Elections 2018 - rnr](https://github.com/komodoninja/komodoninja.github.io/blob/master/2018/intro/rnrintro_16.png)
 
+Disclosure: rnr is participating for the 2nd time in the elections. He already runs automatically re-elected nodes successfully in Southern Hemisphere and Europe.

@@ -19,10 +19,9 @@ In case i will be elected to run one or more nodes, i will invest a good part of
 - Monitoring (Nagios)
 - HA (Linux-HA)
 
-#### I am part of the Komodo team
-- running marketmaker nodes
-- testing/debugging BarterDEX
-- running electrum-servers
+## Disclosure
+- i am part of the Komodo team
+- my nickname in slack is <strong>@cipi</strong>
 
 ## Server specifications
 
@@ -33,6 +32,7 @@ In case i will be elected to run one or more nodes, i will invest a good part of
 - 1 Gbit/s Port, unlimited traffic
 - Location: Nuernberg, Germany
 - <strong>VOTE-address: RXwobdzva6uauuLsHBr98X5oJBQjMJKYRJ</strong>
+- btcpubkey: 0212666218770ce0f1dada215aafa655a5d8ddee33902ba367f4b7caced4395b6b
 
 #### Region: NA
 - 2x Intel Xeon E5-2670v3
@@ -41,6 +41,7 @@ In case i will be elected to run one or more nodes, i will invest a good part of
 - 100 Mbps Port, unmetered
 - Location: Dallas, USA
 - <strong>VOTE-address: RPEpLa9Ht8FwDQQucrZ6xYZaujKP3FojLL</strong>
+- btcpubkey: 03e3c5034407408ca96a2818d23b591dbed7132026d4f11594ccd45fe9e8bdc153
 
 #### Region: AR
 - 2x Intel Xeon E5-2620v4
@@ -49,6 +50,7 @@ In case i will be elected to run one or more nodes, i will invest a good part of
 - 100 Mbps Port
 - Location: Hong Kong
 - <strong>VOTE-address: RB2peEqBLXrPSvfTKwyV5qFQx9h2nLh1aw</strong>
+- btcpubkey: 020358f7250d4a46568a0df2992117fee765fd7b8fc6f5b14efedbbde1f33beaeb
 
 #### Region: All
 - <strong>z-VOTE-address:</strong> `zcHXgP9zmJjxwPjN3aqPotoRbksXMsA7zGFv6XDDy363winzgRA4YDt96xva6h1gA2UX6W34V1DdopiUF7UywZPWZw34bBY`

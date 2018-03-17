@@ -9,39 +9,42 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
-| a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
-| adrianpante | [proposal](./proposals/adrianpante) | **EU** **NA** **AR** **SH** | |  +  |
-| ca333 | [proposal](./proposals/ca333) | **EU** **NA** **AR** **SH** | |  +  |
+| a-team | [proposal](./proposals/a-team) | **AU** | |  +  |
+| adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
+| benny | [proposal](./proposals/benny) | **SH** **AR** **NA** **EU** | |  +  |
+| ca333 | [proposal](./proposals/ca333) | **SH** **AR** **NA** **EU** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
-| emmanux | [proposal](./proposals/emmanux) | | |  +  |
+| emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
 | goldenman | [proposal](./proposals/goldenman) | | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | | |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
+| jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | | |  +  |
-| komodominingpool | [proposal](./proposals/komodominingpool) | | |  +  |
-| komodopioneers | [proposal](./proposals/komodopioneers) | | |  +  |
+| komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
+| komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
-| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **SH** | **NA** |  +  |
-| nabob | [proposal](./proposals/nabob) | | |  +  |
+| meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
+| nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
-| patchkez | [proposal](./proposals/patchkez) | | |  +  |
+| patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
-| polycryptoblog | [proposal](./proposals/polycryptoblog) | | |   +  |
-| pondsea | [proposal](./proposals/pondsea) | | |   +  |
-| ptyx | [proposal](./proposals/ptyx) | | |   +  |
+| polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | |   +  |
+| pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
+| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
-| voskcoin | [proposal](./proposals/voskcoin) | | |  +  |
+| voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | | |  +  |
+| xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
 ## How to submit perfect proposal
 
