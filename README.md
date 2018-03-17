@@ -21,10 +21,10 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
 | goldenman | [proposal](./proposals/goldenman) |**AR** **EU** | |  +  |
-| indenodes | [proposal](./proposals/indenodes) | | |  +  |
-| infotech-al | [proposal](./proposals/infotech-al) | | |  +  |
+| indenodes | [proposal](./proposals/indenodes) | **AR**| |  +  |
+| infotech-al | [proposal](./proposals/infotech-al) |**NA** | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
-| kashifali | [proposal](./proposals/kashifali) | | |  +  |
+| kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
