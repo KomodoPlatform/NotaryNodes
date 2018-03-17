@@ -1,6 +1,6 @@
 # Notary Node Proposal
 
-## Region :  AE
+## Region :  AR
 
 *KMD Address* : **RNqn8uXQYmw1XGp1FM4CgK9vD28JiRUPA7**
 
