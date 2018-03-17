@@ -20,32 +20,32 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
-| goldenman | [proposal](./proposals/goldenman) |**AR** **EU** | |  +  |
+| goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | **AR**| |  +  |
-| infotech-al | [proposal](./proposals/infotech-al) |**NA** | |  +  |
+| infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
-| kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
+| kashifali | [proposal](./proposals/kashifali) | **EU**| **EU**|  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
-| lumberscout | [proposal](./proposals/lumberscout) | | |  +  |
+| lumberscout | [proposal](./proposals/lumberscout) | **EU** | |  +  |
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
-| noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
+| noashh | [proposal](./proposals/noashh) | **NA** **AR** |**NA** **AR** |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
 | pbca26 | [proposal](./proposals/pbca26) | **NA** | |  +  |
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
-| polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | |   +  |
+| polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | **NA** |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
-| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
-| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
+| ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | **SH** **NA** |   +  |
+| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** **AR** **NA** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** | |  +  |
-| thegaltmines | [proposal](./proposals/thegaltmines) | | |  +  |
+| thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
-| webworker01 | [proposal](./proposals/webworker01) | | |  +  |
-| xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
+| webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
+| xrobesx | [proposal](./proposals/xrobesx) | **NA** | **NA** |  +  |
 
 ## How to submit perfect proposal
 
