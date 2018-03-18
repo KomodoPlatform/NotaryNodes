@@ -21,7 +21,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
 | goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
-| indenodes | [proposal](./proposals/indenodes) | **AR**| |  +  |
+| indenodes | [proposal](./proposals/indenodes) | **AR** | **NA** **EU** |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
@@ -32,6 +32,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | lumberscout | [proposal](./proposals/lumberscout) | **EU** | |  +  |
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
+| metaphilibert | [proposal](./proposals/metaphilibert) | **SH** | **AR** |  +  |
 | nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
@@ -43,6 +44,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
+| titomane | [proposal](./proposals/titomane) | **NA** | **AR** **SH** **EU** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
 | xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
@@ -55,3 +57,43 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 - It **should** have your slack contact nickname(s) visible and noticable.
 - Your propoposal **must** have separate section named `Disclosure` where you should disclose any impacting relationships with other candidates, your status as a team member (if you're invited in team chat) and nodes you're currently operate as auto re-elected.
 - Do **not** edit this README.md. Ask @kolo to do that.
+
+## Elected notaries 2018
+
+| Name | Add. name | Region | proposal | pubkey |
+|---|---|---|---|---|
+| dev1 | . | . | . | . |
+| dev2 | . | . | . | . |
+| dev3 | . | . | . | . |
+| dev4 | . | . | . | . |
+|---|---|---|---|---|
+| fullmoon | . | NA | . | . |
+| jeezy | . | EU | . | . |
+| karasugoi | . | NA | . | . |
+| artik | . | NA | . | . |
+| fullmoon | . | SH | . | . |
+| metaphilibert | . | AR | . | . |
+| indenodes | . | NA | . | . |
+| jsgalt | TheGaltMines | NA | [proposal](./proposals/thegaltmines) | . |
+| badass | . | NA | . | . |
+| pondsea | . | AR | . | . |
+| indenodes | . | EU | . | . |
+| fullmoon | . | AR | . | . |
+| artik | . | EU | . | . |
+| artik | . | SH | . | . |
+| titomane | . | EU | . | . |
+| pondsea | . | NA | . | . |
+| titomane | . | SH | . | . |
+| etszombi | . | EU | . | . |
+| rnr | . | EU | . | . |
+| artik | . | AR | . | . |
+| crackers | . | EU | . | . |
+| titomane | . | AR | . | . |
+| polycryptoblog | . | NA | . | . |
+| popcornbag | . | AR | . | . |
+| rnr | . | SH | . | . |
+| badass | . | EU | . | . |
+| crackers | . | NA | . | . |
+| indenodes | . | SH | . | . |
+| popcornbag | . | NA | . | . |
+| grewal | Meshbits | SH | [proposal](./proposals/meshbits) | . |
