@@ -4,6 +4,16 @@
 
 [View proposal on my website](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
 
+Vote for me as a **North America Notary Node operator** by sending **VOTE2018** to
+
+    RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe
+
+or
+
+    zcFqBdWn8bRJrnCPRdofJQM1rpzCGCVfkojwBuasWSpFiARmY7YFH1Niu9PkQa8SfFacpRtxXkBCAK58hayo9yb6Q4y6wbF
+
+(Do not use the z address if you wish to be credited rewards)
+
 ## Why I'm a good candidate:
 
 * Independent notary node operator
@@ -42,14 +52,4 @@
 
 I will dedicate my time to ensuring stability on the network and adding to the ecosystem. Your support is greatly appreciated!
 
-Feel free to message me on slack @webworker01 if you have any questions.
-
-Vote for me as a **North America Notary Node operator** by sending **VOTE2018** to
-
-    RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe
-
-or
-
-    zcFqBdWn8bRJrnCPRdofJQM1rpzCGCVfkojwBuasWSpFiARmY7YFH1Niu9PkQa8SfFacpRtxXkBCAK58hayo9yb6Q4y6wbF
-
-(Do not use the z address if you wish to be credited rewards)
+Feel free to message me on slack or telegram @webworker01 if you have any questions.
