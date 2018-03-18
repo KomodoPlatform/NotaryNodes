@@ -39,7 +39,6 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 ### Region: EU
 
 ##### Public Vote (t) Address: [`RSUMqZFwz7yPzTmyzEtH9VzH7LBoD7twSB`](http://vote2.explorer.supernet.org/address/RSUMqZFwz7yPzTmyzEtH9VzH7LBoD7twSB)
-BTC Pubkey: `0239b39630f71b5ef4e145ab9bd9daaf0871fa59904cf9c216619609d2d6ed5ee0`
 
 ### Region: AR
 ##### Public Vote (t) Address: [`RFUN8XezmmZt47pzVmoz7aN5LtFNV9pyuj`](http://vote2.explorer.supernet.org/address/RFUN8XezmmZt47pzVmoz7aN5LtFNV9pyuj)
