@@ -39,6 +39,8 @@ or
 * Networking: Dual Broadcom BCM5720 Gigabit Ethernet / 400 Mbps uplink
 * Data Center: ISO 27001:2013 Certified in Lenexa, KS
 
+_This server is currently up, running and notarizing on testnet as one of the top performers. I will upgrade the hardware as and when needed and will be able to perform such upgrades within a 24 hour turnaround time once the need is identified via my ongoing monitoring of the system._
+
 ## Server Security
 
 * All encrypted network communications
