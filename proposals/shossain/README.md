@@ -1,6 +1,6 @@
 ## About SHossain
 
-I am with Komodo community since the BTCD days. Mined BTCD, participated in SuperNET ICO. A very advanced user, problem solver with attention to detail. Without being a coder, I made and hosted explorebtcd.info block explorer by myself. Also, I have a self hosted tech blog which runs on a VPS for over 4 years, [TechLoverHD](https://techloverhd.com)
+I am with Komodo community since the BTCD days. Mined BTCD, participated in SuperNET ICO. A very advanced user, problem solver with attention to detail. Without being a coder, I made and hosted explorebtcd.info block explorer by myself. Also, I have a self hosted tech blog which runs on a VPS for over 4 years, [TechLoverHD](https://techloverhd.com).
 
 I love all things technology and kind of crazy that way. At least, that's how people describes me. Currently, I'm a team member, testing BarterDEX and other Komodo Platfrom related products everyday and help other users. I also documented BarterDEX APIs and created some nice wiki docs, install guides for users and devs alike.
 
@@ -9,7 +9,7 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 ## Why Vote SHossain?
 
 - Did I say I love technology?
-- I'm online over 75 hour every week and most updated
+- I'm in Slack over 75 hour every week and most updated about Komodo Platform
 - Very fast to update nodes
 - One of the first testers to test most of the latest Komodo Platform technology
 - High level of understanding about the platform and the tech
@@ -22,7 +22,7 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 
 ## Disclosure
 - I am a team member and I test BarterDEX
-- I do not have any existing node running (testnodes running btw)
+- I am not an existing node operator
 - I am not teaming up with another node secretly
 - I have a capability of running a Notary Node easily
 
