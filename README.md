@@ -26,7 +26,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
-| komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **AR** **NA** **EU** | |  +  |
+| komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **EU** | |  +  |
 | libscott | [proposal](./proposals/libscott) | **EU** **SH** | |  +  |
 | lukechilds | [proposal](./proposals/lukechilds) | **AR** | |  +  |
 | lumberscout | [proposal](./proposals/lumberscout) | **EU** | |  +  |
