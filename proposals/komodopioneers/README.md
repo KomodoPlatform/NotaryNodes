@@ -52,12 +52,10 @@ We aim for a config like this in each region. Although it may vary on details.
 * bandwidth: 1 Gbit/s
  
 ## Voting addresses
-* Northern Americas (NA) Notary Node: RBMpKxnJtqJDgkV9hVEVL9PRnGPJhPfLSG
-* European (EU) Notary Node: RG52fygAqKrhepNCeVn1CwYZeS785XshMV
-* Asia & Russia (AR) Notary Node: RFCBhcvtXVDeYHJiDRGiRqvMf32PrUwdLb
 * Southern Hemisphere (SH) Notary Node: RAp1nC9pRUaEXv2AZkvviEropyoeELiJ4P
+* European (EU) Notary Node: RG52fygAqKrhepNCeVn1CwYZeS785XshMV
 
-* Z address: zcKdScuYPkZdCAP3bMFaYtUeQzHMAspQRfg3NLUJ2N5pufyEM9JMMZuTFLda9mxN4g5yYUkZ5cCnCkY3LZdQd3GSLkEoQtV
+* Z-Address: zcKdScuYPkZdCAP3bMFaYtUeQzHMAspQRfg3NLUJ2N5pufyEM9JMMZuTFLda9mxN4g5yYUkZ5cCnCkY3LZdQd3GSLkEoQtV
 
 ### Please send your votes to the above keys! Thanks for supporting the Pioneer vision!
 
