@@ -4,15 +4,14 @@
 +  [MadMax Notarynode proposal](https://codegyte.github.io/)
 
 
-
 #### Why Vote for MadMaX
+- ###### To make komodo notary nodes more decentralized
 - ###### Strong KOMODO community supporter.
 - ###### 10+ years in experience in server management.
 - ###### One of the 2nd place Winner in The BEER/PIZZA atomic swap stress test.
 - ###### expericence for Running Ethereum & BTC nodes.
-- ##### Voters will get 27% of mined KMD as airdrops quarterly.
-- ###### 77.7 KMD for one randome winner, quarterly.
-- ###### Part of the Mining Profit goes to developing a single explorer for Komodo & it's asset chains.
+- ##### Voters will get 40% of mined KMD as airdrops quarterly.
+- ##### Part of the Mining Profit goes to developing a single explorer for Komodo & it's asset chains.
 
 ### Vote Address
 
