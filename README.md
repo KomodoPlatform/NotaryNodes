@@ -62,10 +62,10 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Name | Add. name | Region | proposal | pubkey |
 |---|---|---|---|---|
-| dev1 | . | . | . | . |
-| dev2 | . | . | . | . |
-| dev3 | . | . | . | . |
-| dev4 | . | . | . | . |
+| dev1 | . | EU | . | . |
+| dev2 | . | EU | . | . |
+| dev3 | . | NA | . | . |
+| dev4 | . | AR | . | . |
 |---|---|---|---|---|
 | fullmoon | . | NA | . | . |
 | jeezy | . | EU | . | . |
