@@ -6,7 +6,7 @@ You certainly also know the purpose of a Notary Node is to notarize the assetcha
 In one sentence, the Komodo dPoW technology permits to any assetchain you would want to create on the platform to benefit from the SECURITY of Bitcoin, combined with the PRIVACY allowed by SNARKS tech from Zcash
 
 So, when voting, please consider choosing a true notarizer!
-<br /> No cool picture, great website or big announcement here, just facts.
+<br />No cool picture, great website or big announcement here, just facts.
 
 
 ### About the node:
@@ -16,11 +16,11 @@ metaphilibert_SH
 #### KMD z-address (to vote with privacy): "zc8Wqq6FguDZU1hgNXX1nNdpE86ApArNbsAyb4uh6u2YNawNhazjYA8eTYBmRmYoVkcepEWigvjLomh8pkaZKx7h6JzXZTv"
 
 Server specs - Sydney - AUS
-Xeon E3-1245v5 (4c/8t) -enough right now, planning to upgrade with at least Xeon E5-2650v3 (20c/40t)-
-64Go DDR4 ECC 2133 MHz
-2x 450 GB SSD NVMe -enough right now, planning to upgrade with at least 2x 1.2 TB SSD NVMe-
-1Gbps bandwidth (tested DL 900Mbps UL 750Mbps) 
-DDOS mitigation
+<br />Xeon E3-1245v5 (4c/8t) -enough right now, planning to upgrade with at least Xeon E5-2650v3 (20c/40t)-
+<br />64Go DDR4 ECC 2133 MHz
+<br />2x 450 GB SSD NVMe -enough right now, planning to upgrade with at least 2x 1.2 TB SSD NVMe-
+<br />1Gbps bandwidth (tested DL 900Mbps UL 750Mbps) 
+<br />DDOS mitigation
 
 
 ### About the operator:
