@@ -19,6 +19,7 @@ Notary Nodes provides security for Komodo and the whole ecosystem is benefited f
 - Leading this year's Notary testnet group, created guide and helping operators to start notarizing
 - A Notary Node will be helpful for my BarterDEX and other Komodo tech testing
 - I will provide high spec node which is scalable and will add more server if needed
+- I will add and operate electrum servers for BarterDEX
 
 ## Disclosure
 - I am a team member and I test BarterDEX
