@@ -32,7 +32,7 @@ My tech ‘greatest hits’ in chronological order are: … … drum roll … �
  * Built and sold custom telephony integration servers (Debian) linking Alcatel, Ericsson & Siemens switches to computing network for nurse call integration.
  * Support nurse paging integration remotely over dial up Debian
  * 2005 to 2009 built and supported custom asterisk builds (CentOS) for businesses
- * 2008 - 2011 built open source e-learning systems (Gentoo, Omnium World) for Australia's largest university.  [First all online Masters degree for visual arts worldwide](https://newsroom.unsw.edu.au/news/cofa-launches-fully-online-postgraduate-degree).  20,000 active users and [global community outreach projects](http://omniumworld.com/oop/).
+ * 2008 - 2011 built open source e-learning systems (Gentoo, Omnium World) for Australia's largest university.  First all [online Masters degree for visual arts worldwide](https://newsroom.unsw.edu.au/news/cofa-launches-fully-online-postgraduate-degree).  20,000 active users and [global community outreach projects](http://omniumworld.com/oop/).
  * 2012 built and supported largest media companies car classifieds telephone ads back end portal.
  * 2014 to 2015 Build, mentor and support a small team on a national voip network for a carrier servicing radio/isp 
  * 2018 joined Komodo team
