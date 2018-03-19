@@ -9,7 +9,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 | Candidate | Proposal | Regions | Existing NN | Comments |
 |---|---|---|---|---|
-| a-team | [proposal](./proposals/a-team) | **AU** | |  +  |
+| a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
 | adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
 | alice | [proposal](./proposals/alice) | **SH** **AR** **NA** **EU** | |  +  |
 | benny | [proposal](./proposals/benny) | **SH** **AR** **NA** **EU** | |  +  |
