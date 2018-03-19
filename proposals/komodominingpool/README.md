@@ -8,11 +8,14 @@ I’m also active for KMD projects into slack channels, on my gitter.im chat and
 <p>I'm a web &amp; software architect, with more than 20 years in programming, and CTO in a young and smart company that works in fintech projects with particular attention on artificial intelligence  and deep learning integration on trading system bots.</p>
 <p>My skills and expertise include all new web Frameworks like socket.io, nodejs, ruby on rails, cordova, bootstrap, D3.js, angular.js, electron and many others, programming languages like Php, Javascript, APIs(soap/rest), python, shell programming and shell scripting, all SQL and NoSQL databases and server security administration and protection.<br>
 </p>
-<h1>My voting address for your “TOKEN VOTE 2018”<br>
-  Region [EU] RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5<br>
-  Region [NA] RQPH3ymE1ZJRDedxz2cjW2sUwYx477QsUX<br>
-  Region [AR] RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt<br>
-  Region [SA] RSeakJoUh9WsX7JjwWfTGgtXTqRiCQ9PzW</h1>
+<h1>My voting address for your “TOKEN VOTE 2018”</h1><br>
+  <h2>Region[EU]: RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5</h2><br>http://vote2.explorer.supernet.org/address/RA3TrZaeCmuHd3uNcSGCnoiyXYLABq9xG5<br>
+  <h2>Region[NA]: RQPH3ymE1ZJRDedxz2cjW2sUwYx477QsUX</h2><br>http://vote2.explorer.supernet.org/address/RQPH3ymE1ZJRDedxz2cjW2sUwYx477QsUX<br>
+  <h2>Region[AR]: RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt</h2><br>http://vote2.explorer.supernet.org/address/RSDbaqCFQNAo7AuhHXxAugGCqjK2NyVDHt<br>
+  <h2>Region[SA]: RSeakJoUh9WsX7JjwWfTGgtXTqRiCQ9PzW</h2><br>http://vote2.explorer.supernet.org/address/RSeakJoUh9WsX7JjwWfTGgtXTqRiCQ9PzW<br>
+<h2>z-address
+zcJaGeYKQsza6ihCLA9esM6TrWsVd2RNL5Bu9iAELmNrupW7nKL4RNBTk2F7rEkeJTuUwkRrRF4Z8f7wF5xRfZWE8kEh53o</h2>
+
 <h2>My Notary Node Hardware Specs</h2>
 <p>Cpu processor         16 x Intel(R) Xeon(R) CPU I7 <br>
   Memory                    64GB RAM<br>
