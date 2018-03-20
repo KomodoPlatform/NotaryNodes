@@ -38,6 +38,6 @@ Team operators: 2
 
 ## Vote Details:
 
-#### Region: AU
+#### Region: SH
 #### Vote Address (t): `RQiTPCmRwUby2fcL3VHBA2sgSJeNf8NpsJ`
 #### Vote Address (z): `zcR9crry8XEreSns8xSvRVPk8Etu5NcwbRWcmzdn3r6X5Kv6stNT5BkLxtWJrHEhtqa7Rj3x3YecwGdXTYJyBbnPbZH5RMJ`

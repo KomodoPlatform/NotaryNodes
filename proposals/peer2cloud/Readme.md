@@ -47,13 +47,14 @@ t1uJsFiopsbJNhvqLV5PJyCDPBJB2CLJv1siwwYwgsABQ2J9b8ZS2DNiBZTYA`
 * To cast an anonymous vote, consider voting from **Transparent Address to our Z Address**. An example here: [T -> Z tx]( https://kmd.explorer.supernet.org/tx/4b2502e7db1d59723615e1dd7f6597f22dbdebe74b535ca99e6191ed9cb0d304) so incoming address is clear, but not who you voted.
 
 * An example of how anonymous Voting with Z transactions will be (yes - public data, No - not public)
-  * Sending from: z to z:  input address yes, amount no, output address no
-  * Sending from z to t, input address no, amount yes, output address yes
   * **Sending from t to z, input address yes, amount yes, ouput address no - PREFERRED OPTION**
+  * Sending from z to t, input address no, amount yes, output address yes
+  * Sending from: z to z:  input address no, amount no, output address no
+  
 
-* If you vote fully anonymous from your Z address to our T address we would only be able to share revenues after a detailed checks if you can somehow proof, contacting us directly after elections.
+* We don't recommend fully anonymous from Z to Z address because a detailed check and proof would be needed to share revenue, after elections.
 
 * Also make sure to NOT send any VOTE2018 from addresses you don't control! (exchanges, etc.)
 
-* We have not been operating nodes during 2017 and we don't have any secret partnerships with Komodo Team members. Our revenue share is clear in our published proposal and there isn't any other side deals appart from the information provided in the proposal
+* We have not been operating nodes during 2017 and we don't have any secret partnerships with Komodo Team members. Our revenue share is clear in our published proposal and there isn't any other side deals appart from the information provided in the proposal and announced publicly.
 
