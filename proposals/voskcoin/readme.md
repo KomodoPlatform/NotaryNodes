@@ -21,7 +21,7 @@
 ## Proposal ## 
 - PDF version of proposal: [VoskCoinKomodoNotaryNodes.pdf](https://drive.google.com/file/d/1EwsraE54dmt0dBFmj6-QMG1EHdjqi0W4/view)
 
-![](./tails.png)
+![](./tails.jpg)
 ![](./page1.png)
 ![](./page2.png)
 ![](./page3.png)
