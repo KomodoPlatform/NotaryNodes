@@ -29,6 +29,10 @@ My Open Source software is used in production by small developers and large comp
 
 I'm currently working on an alternative GUI implementation for Komodo's BarterDEX with a focus on simplicity, reliability and ease of use. I'm also doing extensive [debugging/testing/security auditing](https://github.com/search?utf8=%E2%9C%93&q=repo%3Ajl777%2FSuperNET+author%3Alukechilds&type=Issues) with `marketmaker`.
 
+<div align="center">
+   <img src="https://i.imgur.com/mjHve26.jpg" width="600" />
+</div>  
+
 ### Contact Details
 
 I'm @lukechilds on Slack, [GitHub](https://github.com/lukechilds), [Twitter](https://twitter.com/lukechilds) and [Keybase](https://keybase.io/lukechilds). My personal email address is also listed on my GitHub profile.
@@ -110,7 +114,7 @@ https://github.com/jl777/SuperNET/issues/563
 
 ## Disclosure
 
-I am currently being funded by @pondsea for my development work on the new BarterDEX GUI. I believe he is also running for election.
+I am currently being funded by @pondsea for my development work on the new BarterDEX GUI. He is also running for election.
 
 ---
 
