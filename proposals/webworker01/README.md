@@ -1,8 +1,8 @@
 #  Komodo North America Notary Node Proposal Spring 2018
 
-[![webworker01 Komodo North America Notary Node Proposal Spring 2018](https://i0.wp.com/webworker.sh/wp-content/uploads/2018/03/komodo-logo-horizontal-01.png)](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
+[![webworker01 Komodo North America Notary Node Proposal Spring 2018](https://i0.wp.com/webworker.sh/wp-content/uploads/2018/03/komodo-logo-horizontal-01.png)](https://webworker.sh/notary)
 
-[View proposal on my website](https://webworker.sh/komodo-notary-node-proposal-spring-2018)
+[View proposal on my website](https://webworker.sh/notary)
 
 Vote for me as a **North America Notary Node operator** by sending **VOTE2018** to
 
@@ -14,6 +14,11 @@ or
 
 (Do not use the z address if you wish to be credited rewards)
 
+## What's In It For You?
+
+* **Voters will receive 25% of the node's mining income** proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending rewards for payout. (Rewards schedule TBD, but will lean towards higher frequency of payouts)
+* Your support will help fund general Komodo development ideas that I am considering implementation of (e.g. block explorer for all asset chains, liquidity provider integration with exchange APIs)
+
 ## Why I'm a good candidate:
 
 * Independent notary node operator
@@ -24,11 +29,6 @@ or
 * At my workstation most waking hours and connected via mobile when I'm not
 * 20 years web development experience
 * 15 years server administration experience
-
-## What's In It For You?
-
-* Voters will receive 25% of the node's mining income proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending rewards for payout. (Rewards schedule TBD, but will lean towards higher frequency of payouts)
-* Your support will help fund general Komodo development ideas that I am considering implementation of (e.g. block explorer for all asset chains, liquidity provider integration with exchange APIs)
 
 ## Server Specs
 
