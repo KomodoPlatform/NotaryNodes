@@ -29,6 +29,10 @@ In case you are wondering, the key difference between atomic swaps and cross cha
 * SH: `REEGE6drFqGLpxiA1mhfcb5R9MndnaD1cy`
 * EU: `RVMtoPmL8SiHCXSceMmxwpScAhDgsVvTZc`
 
+## Z Address
+
+For privacy: zcCXFao1EMQoYzsM1pugvvSG23LoGJJpS8KaAVstd1WdSdUpgmiW8NTs9TUmcXGZuV3WhM2FNL7DGYB1Mp7fsMvYAv44YPY
+
 ## Node specs
 
 Nodes will be optimised for connectivity and latency rather than CPU power, however, in the case of winning I will run multiple redundant nodes per region.
