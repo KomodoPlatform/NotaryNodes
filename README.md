@@ -20,6 +20,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **NA** **EU** | |  +  |
+| etszombi | [proposal](./proposals/etszombi) | **SH** **AR** | **EU** |  +  |
 | goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | **AR** | **NA** **EU** |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
@@ -33,6 +34,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | metaphilibert | [proposal](./proposals/metaphilibert) | **SH** | **AR** |  +  |
+| muros | [proposal](./proposals/muros) |  **SH** **AR** **NA** **EU** | |  +  |
 | nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
@@ -47,6 +49,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | titomane | [proposal](./proposals/titomane) | **NA** | **AR** **SH** **EU** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
+| workax | [proposal](./proposals/workax) |  **SH** **AR** **NA** **EU** | |  +  |
 | xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
 ## How to submit perfect proposal
