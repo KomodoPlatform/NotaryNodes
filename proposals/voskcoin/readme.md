@@ -15,7 +15,7 @@
 
 ### Recent Komodo Content on VoskCoin Youtube Channel: ###
 - [What is the Komodo Platform - BarterDEX Decentralized Exchange] (https://www.youtube.com/watch?v=TGKazUHue6w)
-- [Best Komodo Wallet - Agama KMD Wallet Tutorial - How To Claim (KMD 5% Interest] https://www.youtube.com/watch?v=OYjs2NPJsLU)
+- [Best Komodo Wallet - Agama KMD Wallet Tutorial - How To Claim KMD 5% Interest] (https://www.youtube.com/watch?v=OYjs2NPJsLU)
 - [Komodo GPU Mining Profitability - KMD Notary Nodes Voting] (https://www.youtube.com/watch?v=fi-Y43hrHD8)
 
 ## Proposal ## 
