@@ -19,7 +19,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
 | decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
-| emmanux | [proposal](./proposals/emmanux) | **SH** **NA** **EU** | |  +  |
+| emmanux | [proposal](./proposals/emmanux) | **SH** **EU** | |  +  |
 | etszombi | [proposal](./proposals/etszombi) | **SH** **AR** | **EU** |  +  |
 | goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | **AR** | **NA** **EU** |  +  |
