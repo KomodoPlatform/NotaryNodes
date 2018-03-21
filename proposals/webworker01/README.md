@@ -12,11 +12,11 @@ or
 
     zcFqBdWn8bRJrnCPRdofJQM1rpzCGCVfkojwBuasWSpFiARmY7YFH1Niu9PkQa8SfFacpRtxXkBCAK58hayo9yb6Q4y6wbF
 
-(Do not use the z address if you wish to be credited rewards)
+(Do not use the z address if you wish to be credited revenue shares)
 
 ## What's In It For You?
 
-* **Voters will receive 25% of the node's mining income** proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending rewards for payout. (Rewards schedule TBD, but will lean towards higher frequency of payouts)
+* **Voters will receive 25% revenue share of the node's mining income** proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending shares for payout. (Payout schedule TBD, but will lean towards higher frequency of payouts)
 * Your support will help fund general Komodo development ideas that I am considering implementation of (e.g. block explorer for all asset chains, liquidity provider integration with exchange APIs)
 
 ## Why I'm a good candidate:
