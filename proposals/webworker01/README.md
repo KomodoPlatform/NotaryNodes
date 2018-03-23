@@ -22,13 +22,13 @@ or
 ## Why I'm a good candidate:
 
 * Independent notary node operator
-* Involved with cryptocurrency for over 5 years and quite intensely in the past year
-* Learned about Komodo around the Beer/KMD atomic swap and have been a believer ever since
+* 20 years of programming and web development experience
+* 15 years server administration experience
+* Learned about Komodo around the Beer/KMD event, completed many successful atomic swaps and have been a believer ever since
+* Involved with cryptocurrency for over 5 years and over the past year started focusing on mining, trading and crypto related development
 * A big advocate for digital privacy
 * Currently 100% work from home and already managing 4 other production servers, so will be able to give full attention to node maintenance as needed
 * At my workstation most waking hours and connected via mobile when I'm not
-* 20 years web development experience
-* 15 years server administration experience
 
 ## Server Specs
 
