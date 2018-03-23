@@ -12,7 +12,7 @@ or
 
     zcFqBdWn8bRJrnCPRdofJQM1rpzCGCVfkojwBuasWSpFiARmY7YFH1Niu9PkQa8SfFacpRtxXkBCAK58hayo9yb6Q4y6wbF
 
-(Do not use the z address if you wish to be credited revenue shares)
+(Use the R address if you wish to be credited revenue shares, not the Z address)
 
 **I'm one of the top performers for notary node testnet!** - [View live testnet stats](https://dexstats.info/notarizations.php)
 
