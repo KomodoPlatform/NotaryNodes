@@ -14,7 +14,7 @@ or
 
 (Do not use the z address if you wish to be credited revenue shares)
 
-One of the top performers for notary node testnet! - [View live testnet stats](https://dexstats.info/notarizations.php)
+**I'm one of the top performers for notary node testnet!** - [View live testnet stats](https://dexstats.info/notarizations.php)
 
 ## What's In It For You?
 
