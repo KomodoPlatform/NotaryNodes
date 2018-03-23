@@ -14,6 +14,8 @@ or
 
 (Do not use the z address if you wish to be credited revenue shares)
 
+One of the top performers for notary node testnet! - [View live testnet stats](https://dexstats.info/notarizations.php)
+
 ## What's In It For You?
 
 * **Voters will receive 25% revenue share of the node's mining income** proportional to their VOTE token contribution.  A website will be created to show all mining income for the node as well as an anonymous way to check your accumulated pending shares for payout. (Payout schedule TBD, but will lean towards higher frequency of payouts)
