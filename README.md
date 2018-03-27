@@ -12,6 +12,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
 | adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
 | alice | [proposal](./proposals/alice) | **SH** **AR** **NA** **EU** | |  +  |
+| batman | [proposal](./proposals/batman) | **SH** **AR** **NA** **EU** | |  +  |
 | benny | [proposal](./proposals/benny) | **SH** **AR** **NA** **EU** | |  +  |
 | ca333 | [proposal](./proposals/ca333) | **SH** **AR** **NA** **EU** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
@@ -42,6 +43,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | **NA** |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
+| popcornbag | [proposal](./proposals/popcornbag) | **SH** **EU** | |   +  |
 | ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
