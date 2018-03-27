@@ -43,7 +43,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | **NA** |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
-| popcornbag | [proposal](./proposals/popcornbag) | **EU** **SH** | |  +  |
+| popcornbag | [proposal](./proposals/popcornbag) | **SH** **EU** | **AR** **NA** |   +  |
 | ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
 | rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
@@ -77,28 +77,28 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | karasugoi | . | NA | . | . |
 | artik | . | NA | . | . |
 | fullmoon | . | SH | . | . |
-| metaphilibert | . | AR | . | . |
-| indenodes | . | NA | . | . |
+| metaphilibert | . | AR | [proposal](./proposals/metaphilibert) | . |
+| indenodes | . | NA | [proposal](./proposals/indenodes) | . |
 | jsgalt | TheGaltMines | NA | [proposal](./proposals/thegaltmines) | . |
 | badass | . | NA | . | . |
-| pondsea | . | AR | . | . |
-| indenodes | . | EU | . | . |
+| pondsea | . | AR | [proposal](./proposals/pondsea) | . |
+| indenodes | . | EU | [proposal](./proposals/indenodes) | . |
 | fullmoon | . | AR | . | . |
 | artik | . | EU | . | . |
 | artik | . | SH | . | . |
-| titomane | . | EU | . | . |
+| titomane | . | EU | [proposal](./proposals/titomane) | . |
 | pondsea | . | NA | . | . |
-| titomane | . | SH | . | . |
-| etszombi | . | EU | . | . |
-| rnr | . | EU | . | . |
+| titomane | . | SH | [proposal](./proposals/titomane) | . |
+| etszombi | . | EU | [proposal](./proposals/etszombi) | . |
+| rnr | . | EU | [proposal](./proposals/rnr) | . |
 | artik | . | AR | . | . |
 | crackers | . | EU | . | . |
-| titomane | . | AR | . | . |
-| polycryptoblog | . | NA | . | . |
-| popcornbag | . | AR | . | . |
-| rnr | . | SH | . | . |
+| titomane | . | AR | [proposal](./proposals/titomane) | . |
+| polycryptoblog | . | NA | [proposal](./proposals/polycryptoblog) | . |
+| popcornbag | . | AR | [proposal](./proposals/popcornbag) | . |
+| rnr | . | SH | [proposal](./proposals/rnr) | . |
 | badass | . | EU | . | . |
 | crackers | . | NA | . | . |
-| indenodes | . | SH | . | . |
-| popcornbag | . | NA | . | . |
+| indenodes | . | SH | [proposal](./proposals/indenodes) | . |
+| popcornbag | . | NA | [proposal](./proposals/popcornbag) | . |
 | grewal | Meshbits | SH | [proposal](./proposals/meshbits) | . |
