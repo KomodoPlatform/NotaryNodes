@@ -18,7 +18,8 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
-| decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
+| decker | [proposal](./proposals/decker) | **AR** **EU** | |  +  |
+| dude | [proposal](./proposals/dude) | **NA** | |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
 | emmanux | [proposal](./proposals/emmanux) | **SH** **EU** | |  +  |
 | etszombi | [proposal](./proposals/etszombi) | **SH** **AR** | **EU** |  +  |
