@@ -14,8 +14,7 @@ Komodo Slack: @jackson
 Email: jacksonroberts@protonmail.com
 
 ## Regions / addresses
-
-* NA: `RDmiZnZ1hr8u5hppZ1rGeDNp5BgUjTC6on`  
+ 
 * AR: `RGvmv1u2wCJuwyyDRu6ozdKz3qiF8v41Qv`  
 * Private: `zcddbY5yoedMk43yB8epmhEpoKhAtJUuJmfjpjzv3FPToJga4dWGdgyCJcjXfobXYim58rSJbUmNZvahetn7RpFpKyoQAAF`
 
