@@ -26,7 +26,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | **AR** | **NA** **EU** |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
-| jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
+| jackson | [proposal](./proposals/jackson) | **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **EU** | |  +  |
