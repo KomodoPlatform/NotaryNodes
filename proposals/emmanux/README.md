@@ -21,7 +21,6 @@ Vote for the Dragon Riders.
 To do so, please send your [VOTE2018 token](https://goo.gl/Y4nRMY) to the following addresses:
 ```
 RWLe6SPYRGthPfZrUBPT29fFRNmaiqybaU (Southern Hemisphere, PREFERRED)
-RAp8ZJV3ftRoNAwwEngKLWqA4cQQuL5w6c (North America)
 RGZa1D4rgBa17jGtm6ZKgu6BNW3yMt4BEY (Europe)
 
 100% anonymous, zero-knowledge address:
