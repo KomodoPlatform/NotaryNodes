@@ -47,18 +47,19 @@ Vote Details:
 
 Send your VOTE2018 to the following addresses
 
-* North America:`RYK2Z2ZgyYUyvMCZN1xvxc7LgEbNLvBwFE`
+* Europe transparent address: `RAMPJSfQN1HrcS4nuu8nxdzS81d9jXJc5m`
+* Europe private Z-address: `zcLDri1df2XEDEaaDKV8u17jxU13MMS318ttWQWub7sk2FwuqURUEFxTGecS49KR7LwV7y8rozNPMsD7agp5vW4k4HjRKVF`
 
-* Europe:`RAMPJSfQN1HrcS4nuu8nxdzS81d9jXJc5m`
+* Southern Hemisphere transparent address: `RX3kkKS9yNb5pTVW8wYhwhvjLu95KHHKWL`
+* Southern Hemisphere private Z-address: `zcYMsG7CpjJGJgPGyKstYmi376nYSXac6qQDjKZCaRb4ZbtnRwxXRL6BFMLeTtSsMkBzfyR2486heg9ixzxsb8vkWko6fdw`
 
-* Southern Hemisphere:`RX3kkKS9yNb5pTVW8wYhwhvjLu95KHHKWL`
-
-* Asia & Russia:`RGjPJJuyu2rSX5LD3EThsrp4Rha1Tjcm6x`
+* Asia & Russia transparent address: `RGjPJJuyu2rSX5LD3EThsrp4Rha1Tjcm6x`
+* Asia & Russia private Z-address: `zcd7sBPLoLqppJib67Cg36217JziY4de9YArPctj2uJQ8mA4ittM9jBHZiZ5ZQ4LuA7MrNDv19k8Cfrji9oxLQXxAUWM1bv`
 
 
 Server specifications
 ----
-We will provide infrastructure for up to four servers in the regions NA, EU, AR and SH. A further system is available for experimenting and testnet participation.
+We will provide infrastructure for up to four servers in the regions EU, AR and SH. A further system is available for experimenting and testnet participation.
 
 
 ### Server 0: Experimental system and testnet node
@@ -72,8 +73,9 @@ We will provide infrastructure for up to four servers in the regions NA, EU, AR 
 - `Location` 200MBit home connection with redundant PSU
 
 
+### Server 1-3: Final systems for mainnet notarizations in EU, AR and SH
 
-### Server 1-4: Final systems for mainnet notarizations in EU, AR and SH
+
 
 - `CPU` Intel Xeon D-1540, 8x 2.00GHz
 
