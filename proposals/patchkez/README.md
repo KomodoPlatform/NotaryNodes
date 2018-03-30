@@ -9,6 +9,7 @@ My personal site can be found here:
 
 Raddresses can be found in my proposal, but just to be sure that they can be found on GH:
 
-Southern Hemisphere (preferred): `RAnvcMmra8sUqjQoUZ4kGGPypdaHhfvnkY`
-Europe: `RGLtxHZfbjktMcTsRnTt5gHzJG3guwU1w4`
+### Southern Hemisphere (preferred): `RAnvcMmra8sUqjQoUZ4kGGPypdaHhfvnkY`
+
+### Europe: `RGLtxHZfbjktMcTsRnTt5gHzJG3guwU1w4`
 
