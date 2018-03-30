@@ -26,8 +26,7 @@ member since 2014
 
 #### Our Z Anonymous address (Read Disclaimer)
 
-* Z Private address:`zceSxVNQDYrgwaBxkfzT8CDdxGHu7bU7Ny
-t1uJsFiopsbJNhvqLV5PJyCDPBJB2CLJv1siwwYwgsABQ2J9b8ZS2DNiBZTYA`
+* Z Private address:`zceSxVNQDYrgwaBxkfzT8CDdxGHu7bU7Nyt1uJsFiopsbJNhvqLV5PJyCDPBJB2CLJv1siwwYwgsABQ2J9b8ZS2DNiBZTYA`
 
 #### South Hemisphere (S. Africa)
 
