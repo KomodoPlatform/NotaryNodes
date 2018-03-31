@@ -22,9 +22,8 @@ I am
 
 ----------
 
-I am running for 2 Slots (already active & notarizing) in: NA & Asia.
+I am running for 1 slot (already active & notarizing) in: Asia.
 
-NA Voting Address: **RT2JyVts5tb1prC7KYykmznrqw7VXJo1HB**  
 Asia Voting Address: **RDY9LJZTEJ9FsvugUuD69gceA98uqan5XL**
 
 Z-Address: **zcF5yEhSAtxvRSYXzz9iLgqnsJirieTVuEo6e7yiRe7MzqppYS3yMzh7sKT2UYJ9ZLrZHTL3rTrT47xXq5iscgLpXdiRZY8**
