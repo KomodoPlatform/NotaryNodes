@@ -7,11 +7,25 @@
 - PDF version of proposal: [decker_nn_candidate_en.pdf](https://deckersu.github.io/decker_nn_candidate_en.pdf)
 - NN Server (Photo Gallery, 80 Mb): [https://deckersu.github.io/images/](https://deckersu.github.io/images/)
 - Regions: **AR**, **EU**
+
+### [EU] ###
+
 - [VOTE address](https://vote2.explorer.supernet.org/address/RARcozaVAMZaXJaL6KWMSw297xTYzbDwa3): 
 
 ```
     RARcozaVAMZaXJaL6KWMSw297xTYzbDwa3
 ```    
+
+### [AR] ###
+
+- [VOTE address](https://vote2.explorer.supernet.org/address/RRL9LeiccJ7DQV5WhLLRMbHG7SbCRdCoqL): 
+
+```
+    RRL9LeiccJ7DQV5WhLLRMbHG7SbCRdCoqL
+```    
+
+### [zVOTE] ###
+
 - zVOTE address: 
 
 ```
