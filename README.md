@@ -12,18 +12,21 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | a-team | [proposal](./proposals/a-team) | **SH** | |  +  |
 | adrianpante | [proposal](./proposals/adrianpante) | **SH** **AR** **NA** **EU** | |  +  |
 | alice | [proposal](./proposals/alice) | **SH** **AR** **NA** **EU** | |  +  |
+| batman | [proposal](./proposals/batman) | **SH** **AR** **NA** **EU** | |  +  |
 | benny | [proposal](./proposals/benny) | **SH** **AR** **NA** **EU** | |  +  |
 | ca333 | [proposal](./proposals/ca333) | **SH** **AR** **NA** **EU** | |  +  |
 | chainmakers | [proposal](./proposals/chainmakers) | **NA** **EU** | |  +  |
 | chainstrike | [proposal](./proposals/chainstrike) | **NA** **AR** **SH** | |  +  |
 | cipi | [proposal](./proposals/cipi) | **EU** **NA** **AR** | |  +  |
-| decker | [proposal](./proposals/decker) | **AR** **EU**| |  +  |
+| decker | [proposal](./proposals/decker) | **AR** **EU** | |  +  |
+| dude | [proposal](./proposals/dude) | **NA** | |  +  |
 | dwy | [proposal](./proposals/dwy) | **EU** | |  +  |
-| emmanux | [proposal](./proposals/emmanux) | **SH** **AR** **NA** **EU** | |  +  |
+| emmanux | [proposal](./proposals/emmanux) | **SH** **EU** | |  +  |
+| etszombi | [proposal](./proposals/etszombi) | **SH** **AR** | **EU** |  +  |
 | goldenman | [proposal](./proposals/goldenman) | **AR** **EU** | |  +  |
 | indenodes | [proposal](./proposals/indenodes) | **AR** | **NA** **EU** |  +  |
 | infotech-al | [proposal](./proposals/infotech-al) | **NA** | |  +  |
-| jackson | [proposal](./proposals/jackson) | **NA** **AR** | |  +  |
+| jackson | [proposal](./proposals/jackson) | **AR** | |  +  |
 | kashifali | [proposal](./proposals/kashifali) | **EU**| |  +  |
 | komodominingpool | [proposal](./proposals/komodominingpool) | **SH** **AR** **NA** **EU** | |  +  |
 | komodopioneers | [proposal](./proposals/komodopioneers) | **SH** **EU** | |  +  |
@@ -33,6 +36,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | madmax | [proposal](./proposals/madmax) | **EU** **AR** | |  +  |
 | meshbits | [proposal](./proposals/meshbits) | **EU** **AR** **NA** | **SH** |  +  |
 | metaphilibert | [proposal](./proposals/metaphilibert) | **SH** | **AR** |  +  |
+| muros | [proposal](./proposals/muros) |  **SH** **AR** **NA** **EU** | |  +  |
 | nabob | [proposal](./proposals/nabob) | **AR** | |  +  |
 | noashh | [proposal](./proposals/noashh) | **NA** **AR** | |  +  |
 | patchkez | [proposal](./proposals/patchkez) | **EU** **SH** | |  +  |
@@ -40,13 +44,15 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | peer2cloud | [proposal](./proposals/peer2cloud) | **SH** **AR** | |  +  |
 | polycryptoblog | [proposal](./proposals/polycryptoblog) | **SH** **AR** | **NA** |   +  |
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
+| popcornbag | [proposal](./proposals/popcornbag) | **SH** **EU** | **AR** **NA** |   +  |
 | ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
-| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
+| rnr (ninja) | [proposal](./proposals/ninja) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | titomane | [proposal](./proposals/titomane) | **NA** | **AR** **SH** **EU** |  +  |
 | voskcoin | [proposal](./proposals/voskcoin) | **SH** **AR** **NA** **EU** | |  +  |
 | webworker01 | [proposal](./proposals/webworker01) | **NA** | |  +  |
+| workax | [proposal](./proposals/workax) |  **SH** **AR** **NA** **EU** | |  +  |
 | xrobesx | [proposal](./proposals/xrobesx) | **NA** | |  +  |
 
 ## How to submit perfect proposal
@@ -60,7 +66,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 ## Elected notaries 2018
 
-| Name | Add. name | Region | proposal | pubkey |
+| Name | New name | Region | proposal | pubkey |
 |---|---|---|---|---|
 | dev1 | . | EU | . | . |
 | dev2 | . | EU | . | . |
@@ -72,28 +78,28 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | karasugoi | . | NA | . | . |
 | artik | . | NA | . | . |
 | fullmoon | . | SH | . | . |
-| metaphilibert | . | AR | . | . |
-| indenodes | . | NA | . | . |
+| metaphilibert | . | AR | [proposal](./proposals/metaphilibert) | . |
+| indenodes | . | NA | [proposal](./proposals/indenodes) | . |
 | jsgalt | TheGaltMines | NA | [proposal](./proposals/thegaltmines) | . |
 | badass | . | NA | . | . |
-| pondsea | . | AR | . | . |
-| indenodes | . | EU | . | . |
+| pondsea | . | AR | [proposal](./proposals/pondsea) | . |
+| indenodes | . | EU | [proposal](./proposals/indenodes) | . |
 | fullmoon | . | AR | . | . |
 | artik | . | EU | . | . |
 | artik | . | SH | . | . |
-| titomane | . | EU | . | . |
+| titomane | . | EU | [proposal](./proposals/titomane) | . |
 | pondsea | . | NA | . | . |
-| titomane | . | SH | . | . |
-| etszombi | . | EU | . | . |
-| rnr | . | EU | . | . |
+| titomane | . | SH | [proposal](./proposals/titomane) | . |
+| etszombi | . | EU | [proposal](./proposals/etszombi) | . |
+| rnr | KomodoNinja (ninja) | EU | [proposal](./proposals/ninja) | . |
 | artik | . | AR | . | . |
 | crackers | . | EU | . | . |
-| titomane | . | AR | . | . |
-| polycryptoblog | . | NA | . | . |
-| popcornbag | . | AR | . | . |
-| rnr | . | SH | . | . |
+| titomane | . | AR | [proposal](./proposals/titomane) | . |
+| polycryptoblog | . | NA | [proposal](./proposals/polycryptoblog) | . |
+| popcornbag | . | AR | [proposal](./proposals/popcornbag) | . |
+| rnr | KomodoNinja (ninja) | SH | [proposal](./proposals/ninja) | . |
 | badass | . | EU | . | . |
 | crackers | . | NA | . | . |
-| indenodes | . | SH | . | . |
-| popcornbag | . | NA | . | . |
+| indenodes | . | SH | [proposal](./proposals/indenodes) | . |
+| popcornbag | . | NA | [proposal](./proposals/popcornbag) | . |
 | grewal | Meshbits | SH | [proposal](./proposals/meshbits) | . |
