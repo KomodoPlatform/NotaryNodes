@@ -46,7 +46,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | pondsea | [proposal](./proposals/pondsea) | **SH** **EU** | **AR** **NA** |   +  |
 | popcornbag | [proposal](./proposals/popcornbag) | **SH** **EU** | **AR** **NA** |   +  |
 | ptyx | [proposal](./proposals/ptyx) | **SH** **AR** **NA** **EU** | |   +  |
-| rnr | [proposal](./proposals/rnr) | **AR** **NA** | **SH** **EU** |  +  |
+| rnr (ninja) | [proposal](./proposals/ninja) | **AR** **NA** | **SH** **EU** |  +  |
 | shossain | [proposal](./proposals/shossain) | **EU** **AR** | |  +  |
 | thegaltmines | [proposal](./proposals/thegaltmines) | **SH** **EU** **AR** | **NA** |  +  |
 | titomane | [proposal](./proposals/titomane) | **NA** | **AR** **SH** **EU** |  +  |
@@ -66,7 +66,7 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 
 ## Elected notaries 2018
 
-| Name | Add. name | Region | proposal | pubkey |
+| Name | New name | Region | proposal | pubkey |
 |---|---|---|---|---|
 | dev1 | . | EU | . | . |
 | dev2 | . | EU | . | . |
@@ -91,13 +91,13 @@ Data is coming soon - everything is hand crafted and manually verified. Please, 
 | pondsea | . | NA | . | . |
 | titomane | . | SH | [proposal](./proposals/titomane) | . |
 | etszombi | . | EU | [proposal](./proposals/etszombi) | . |
-| rnr | . | EU | [proposal](./proposals/rnr) | . |
+| rnr | KomodoNinja (ninja) | EU | [proposal](./proposals/ninja) | . |
 | artik | . | AR | . | . |
 | crackers | . | EU | . | . |
 | titomane | . | AR | [proposal](./proposals/titomane) | . |
 | polycryptoblog | . | NA | [proposal](./proposals/polycryptoblog) | . |
 | popcornbag | . | AR | [proposal](./proposals/popcornbag) | . |
-| rnr | . | SH | [proposal](./proposals/rnr) | . |
+| rnr | KomodoNinja (ninja) | SH | [proposal](./proposals/ninja) | . |
 | badass | . | EU | . | . |
 | crackers | . | NA | . | . |
 | indenodes | . | SH | [proposal](./proposals/indenodes) | . |
