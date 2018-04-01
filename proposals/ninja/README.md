@@ -15,6 +15,6 @@ Asia & Russia z-address: zcRMAgKSmAZ7f7zBEDbDMRAgGexTzBdctdfv2YKxffJ621eyn2F5C6o
 ## Disclosure
 Currently we operate re-elected nodes in Europe and Southern Hemisphere.
 
-Team is reformat of pre-existed cooperation between team member **kolo** (currently - election master) and **rnr** (ex. team member, notary node operator). New company will use Russia based company with hirable full-time managers, admins and network engnieers. Team will be sometimes adviced by **Kolo** on occasional basis without any financial agreements and rewards. Only until self-consistent operation. Team also operates private financial and charity fund based on NINJA asset token.
+Team is reformat of pre-existed cooperation between team member **kolo** (currently - election master) and **rnr** (ex. team member, notary node operator). New company will use Russia based company with hirable full-time managers, admins and network engnieers. Team will be sometimes supervised by **kolo** on occasional basis without any financial agreements and rewards. Only until self-consistent operation. Team also operates private financial and charity fund based on NINJA asset token.
 
-For the safety and stability reasons other team members will remain anonimous.
+For the safety and stability reasons other team members will remain anon.
