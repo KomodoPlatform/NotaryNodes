@@ -4,7 +4,7 @@
 * BTC address ` `
 * KMD address ` `
 
-+## Location: Chile
+## Location: Chile
 
 ## Hardware
 
