@@ -1,4 +1,4 @@
-# Dwy Node info
+# Dwy EU Node info
 
 Hello there ! Here's the place I'll put as much information as I can to keep you updated about my node.
 
