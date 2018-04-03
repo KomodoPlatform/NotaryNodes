@@ -26,7 +26,7 @@ KMD - `RDigKXhny6PWPMWBe8yFEZPRJ2K4UpuWJJ`
 ## Server Spec
 Coming soon
 
-## Contact details
+# Contact details
 
 Slack handle: @SHossain - DEX Engineer
 
