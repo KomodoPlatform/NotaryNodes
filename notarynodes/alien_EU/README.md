@@ -16,7 +16,5 @@ Storage: 2x 1TB SSD
 
 ## Contact details
 
-Slack handle: @SHossain
-
-Position: DEX Engineer
+Slack handle: @SHossain - DEX Engineer
 
