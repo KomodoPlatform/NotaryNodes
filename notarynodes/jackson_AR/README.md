@@ -13,7 +13,8 @@ Region: Singapore
 | CPU     | Xeon E5-2697A v4 (32 vCPUs) |
 | RAM     | 64 GB               |
 | Storage | 650 GB SSD          |
-| Network | 1 Gbps up/down      |
+| Network | 1 Gbps up/down, IPv6 enabled |
+
 
 ## Contact information
 
