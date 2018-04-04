@@ -38,5 +38,5 @@ It also includes all info about what projects we are already involved in and dis
 
 ## Our Notary Node selection details
 
- - **meshbits_SH**: Since Satinder Grewal had his existing notary node `grewal_SH` got re-elected being one of the top 30 Notary Nodes first set of Notary Nodes (2016-2017-2018), it got re-elected for 2018-2019 term, and is now renamed to **meshbits_SH**.
+ - **meshbits_SH**: Since Satinder Grewal had his existing notary node `grewal_SH` got re-elected being one of the top 30 Notary Nodes first set of Notary Nodes (2016-2017-2018), it got re-elected for 2018-2019 term, and is now renamed to `meshbits_SH`.
  - **meshbits_AR**: AR node of Meshbits won with 5th position out of 9 open positions in Asia/Russia region in Notary Node Elections 2018.
