@@ -1,6 +1,6 @@
 ![logo](http://peer2.cloud/images/peer2cloud_logo.png "peer2cloud")
 
-* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel #peer2cloud Alias: @kimmel @experimenter @virginia
+* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel #peer2cloud & our aliases: @kimmel @experimenter @virginia
 * **Twitter:** [@peer2group](https://twitter.com/peer2group)
 * **Websites:** https://peer2.cloud, https://peer2.group
 
