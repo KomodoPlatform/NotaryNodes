@@ -1,10 +1,10 @@
-## Keys
+## Keys ##
 
-BTC pubkey: `028eea44a09674dda00d88ffd199a09c9b75ba9782382cc8f1e97c0fd565fe5707`
-BTC address: `14x1EyeKuNspkMV8NEnERb4mE92jZ9SwRK`
-KMD address: `RDECKVXcWCgPpMrKqQmMX7PxzQVLCzcR5a`
+- BTC pubkey: `028eea44a09674dda00d88ffd199a09c9b75ba9782382cc8f1e97c0fd565fe5707`
+- BTC address: `14x1EyeKuNspkMV8NEnERb4mE92jZ9SwRK`
+- KMD address: `RDECKVXcWCgPpMrKqQmMX7PxzQVLCzcR5a`
 
-## Node information
+## Node information ##
 
 
 | Spec    | Detail              |
@@ -17,7 +17,7 @@ KMD address: `RDECKVXcWCgPpMrKqQmMX7PxzQVLCzcR5a`
 
 
 
-## Contact information
+## Contact information ##
 
 - Komodo Slack (best): [@decker](https://komodo-platform.slack.com/messages/D5UHJMCJ3) 
 - WWW: https://deckersu.github.io/
