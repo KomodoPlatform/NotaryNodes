@@ -28,3 +28,10 @@ TODO
 | Satinder Grewal      | @grewalsatinder | https://twitter.com/satindergrewal |
 | Nitin Sharma      | @ns408 (meshbits.github.io)      |   https://twitter.com/nitinsharma408 |
 
+
+# What we offer and our Notary Node Elections 2018 Proposal
+
+You can read about us and what we promissed to deliver in our proposal here:
+https://github.com/Meshbits/NotaryNodes/tree/master/proposals/meshbits
+
+It also includes all info about what projects we are already involved in and disclosure part.
