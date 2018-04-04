@@ -26,7 +26,7 @@ TODO
 | Name  | Slack Handle  |  Twitter  |
 | ------------- |:-------------:|:-----:|
 | Satinder Grewal      | @grewalsatinder |  https://twitter.com/satindergrewal  |
-| Nitin Sharma      | @ns408 (meshbits.github.io)      |  https://twitter.com/nitinsharma408  |
+| Nitin Sharma      | @ns408      |  https://twitter.com/nitinsharma408  |
 
 
 # What we offer and our Notary Node Elections 2018 Proposal
