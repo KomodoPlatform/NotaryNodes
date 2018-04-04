@@ -17,7 +17,7 @@ Proposal PDF - https://goo.gl/16CqUS
 ## WHY GOLDENMAN?
 
 * Has 13+ years experience as a Software engineer in tele-communication industry.
-* Goldenman is Korean Ambassador of komodo-platform who is the most active person to promote Komodo-Platform in East Asia Market, specially South Korea where is the hottest country in crypto-world.
+* Goldenman is an official Korean Ambassador of komodo team who is the most active person to promote Komodo-Platform in East Asia Market, specially South Korea where is the hottest country in crypto-world.
 * Organized the First official Korean Local Meetup
 * Organized Regular study group for Koreans (Blockchain and Komodo environments)
 
