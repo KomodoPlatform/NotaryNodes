@@ -1,4 +1,4 @@
-# SH
+## meshbits_SH
 
 BTC pubkey - `025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb`
 
@@ -6,10 +6,10 @@ BTC - `18jjQDoohMiYZp2Da292NcNnUbMRDxjpay`
 
 KMD - `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
 
-## Server Spec
+### Server Spec
 TODO
 
-# AR
+## meshbits_AR
 
 BTC pubkey - `02957fd48ae6cb361b8a28cdb1b8ccf5067ff68eb1f90cba7df5f7934ed8eb4b2c`
 
@@ -17,7 +17,7 @@ BTC - `1Lr8dKF9zibbGwnStE9eZMKK3zFxjLdctT`
 
 KMD - `RV8Khq8SbYQALx9eMQ8meseWpFiZS8seL1`
 
-## Server Spec
+### Server Spec
 TODO
 
 ## Contact details
