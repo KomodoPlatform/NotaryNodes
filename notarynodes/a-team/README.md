@@ -13,12 +13,11 @@
 
 ## Contact details
 
-- Slack: @blackjok3r
-		 @manfromaus
+- Slack: @blackjok3r OR @manfromaus
 		 
 - Email: blackjok3r@gmail.com
 
 ## Disclosure
 
 - We are not a part of any official team and have not run any nodes in the past. 
-- We look foward to collaborating with everyone to make the platfrom better.
+- We look foward to collaborating with everyone to make the platform better.
