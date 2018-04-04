@@ -1,10 +1,10 @@
 # SH
 
-BTC pubkey - ``
+BTC pubkey - `025c6e94877515dfd7b05682b9cc2fe4a49e076efe291e54fcec3add78183c1edb`
 
-BTC - ``
+BTC - `18jjQDoohMiYZp2Da292NcNnUbMRDxjpay`
 
-KMD - ``
+KMD - `RH1vUjh6JBX7dpPR3C89U8hzErp1uoa2by`
 
 ## Server Spec
 TODO
