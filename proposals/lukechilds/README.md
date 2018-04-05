@@ -11,7 +11,7 @@
   <br>
   <br>
   **Private Vote Address**<br>
-  zcLQAsdGtJ1KW2KX4Kpdq7mH1K1SkptzUThWj5ZEDTiZq7kWATeQwhFwbmoitPzz6MJQZXjUaG1apm39zWnEkkZGN3V6RtY 
+  zcLQAsdGtJ1KW2KX4Kpdq7mH1K1SkptzUThWj5ZEDTiZq7kWATeQwhFwbmoitPzz6MJQZXjUaG1apm39zWnEkkZGN3V6RtY
 </div>
 
 ## About Me
@@ -52,6 +52,13 @@ If I'm elected I will be able to use the mining rewards to fund my work full tim
 Will scale up as needed.
 
 The server is hosted in Singapore in Asia. This strategic location gives lower latency connections to Bitcoin miners in China without being behind the Great Firewall of China itself.
+
+|                       |                                                                       |
+|-----------------------|-----------------------------------------------------------------------|
+| **VOTE2018 Address**  | `RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC`                                  |
+| **KMD Address**       | `RPxsaGNqTKzPnbm5q7QXwu7b6EZWuLxJG3`                                  |
+| **BTC Address**       | `1FggVkVYrWBpibPtMwRQrNnPKy6vJEzJYf`                                  |
+| **BTC Public Key**    | `031aa66313ee024bbee8c17915cf7d105656d0ace5b4a43a3ab5eae1e14ec02696`  |
 
 ## Experience
 
@@ -114,17 +121,4 @@ https://github.com/jl777/SuperNET/issues/563
 
 ## Disclosure
 
-I am currently being funded by @pondsea for my development work on the new BarterDEX GUI. He is also running for election.
-
----
-
-**Public Vote Address**<br>
-RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC
-<br>
-<br>
-**Private Vote Address**<br>
-zcLQAsdGtJ1KW2KX4Kpdq7mH1K1SkptzUThWj5ZEDTiZq7kWATeQwhFwbmoitPzz6MJQZXjUaG1apm39zWnEkkZGN3V6RtY 
-<br>
-<br>
-**BTC Public Key**<br>
-0273d3924cf553b5a3baa6d458ecb411558582c3c468fd3ddf5dd29e0e3f1cbb15
+I'm leading the development team on the new BarterDEX GUI; HyperDEX. It's not an official Komodo project, but is funded by Pondsea.
