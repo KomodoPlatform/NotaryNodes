@@ -33,7 +33,7 @@
 * Komodo Slack: `@fullmoon`
 * PGP fingerprint: `6440 B80B DB9E 58E1`
 
-I advokate unique node locations and would be willing to move location in agreement with other nn operators. The AR node was originally located in Malaysia since testnet until March 2018. Unfortunately it was not possible anymore to achieve competitive notarization rates, therefore the node was moved to nearby Singapore until a better datacenter is found. The SH node will be moved from Sydney to Bogotá pending successful tests. For NA a node in Panama is planned.
+I advocate unique node locations and would be willing to move location in agreement with other nn operators. The AR node was originally located in Malaysia since testnet until March 2018. Unfortunately it was not possible anymore to achieve competitive notarization rates, therefore the node was moved to nearby Singapore until a better datacenter is found. The SH node will be moved from Sydney to Bogotá pending successful tests. For NA a node in Panama is planned.
 
 Besides the node operations I have an interest in blockchain interoperability, in particular ILP. I had adopted the first prototype of an ILP connector implementation for Bitcoin for Komodo, and will adopt latest versions as well. I have projects planned that involve interoperability of Komodo with other platforms. 
 
