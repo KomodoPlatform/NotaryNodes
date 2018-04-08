@@ -64,7 +64,7 @@ The server is hosted in Singapore in Asia. This strategic location gives lower l
 
 ### System Administration
 
-I'm very experience with system administration, I already run multiple nodes for other decentralised networks and have automated the process of running certain network services with my public Docker images.
+I'm very experienced with system administration, I already run multiple nodes for other decentralised networks and have automated the process of running certain network services with my public Docker images.
 
 #### Decentralised nodes
 
