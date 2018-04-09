@@ -1,6 +1,6 @@
 # webworker01 - North American Notary Node
 
-* **btcpubkey** - 8d571dc64f053d92bd16ea7fb4c6554a7af349fbd70c315893945bdc983b4348
+* **btcpubkey** - 02b207a2be16f205184664c88c8dc842f128a79a3a6c03741e5506cb480cb48268
 * **btcaddr** - 1NBb81qJnxZTZAucEoSfrAF3A25CAVA83H
 * **kmdaddr** - RWTnCXibPnN2dBGohyRnwgaEvHXnsEyUmU
 
@@ -15,5 +15,5 @@
 
 ## Contact
 
-* Slack/Telegram/Twitter - @webworker01
+* Slack/Telegram/Twitter/Github - @webworker01
 * [Website](https://webworker.sh/notary)
