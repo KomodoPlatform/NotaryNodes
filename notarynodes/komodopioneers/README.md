@@ -1,9 +1,9 @@
 ## Server specifications
 
 #### Region: SH
-- Intel Xeon E3-1240 v5 CPU (3.5Ghz quad core)
-- 32 GB RAM
-- 2x 1TB SSDs (RAID 1)
+- Dual Intel Xeon E5-2670 CPU 
+- 64 GB RAM
+- 2x 1TB SSDs (RAID 1) + 4TB HDD
 - 100 Mbps port
 - Location: Australia
 - KMD-address: RGxBQho3stt6EiApWTzFZxDvqqsM8GwAuk
