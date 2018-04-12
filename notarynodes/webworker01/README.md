@@ -1,8 +1,8 @@
 # webworker01 - North American Notary Node
 
-* **btcpubkey** - 02b207a2be16f205184664c88c8dc842f128a79a3a6c03741e5506cb480cb48268
-* **btcaddr** - 1NBb81qJnxZTZAucEoSfrAF3A25CAVA83H
-* **kmdaddr** - RWTnCXibPnN2dBGohyRnwgaEvHXnsEyUmU
+* **btcpubkey** - 03bb7d005e052779b1586f071834c5facbb83470094cff5112f0072b64989f97d7
+* **btcaddr** - 1DKBo4B64DNbYziywQB3g9exvXTD7hKuig
+* **kmdaddr** - RMbNsa4Nf3BAd16BQaAAmfzAgnuorUDrCr
 
 ## Server Specs
 
