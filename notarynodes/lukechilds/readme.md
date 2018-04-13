@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Komodo Notary Node Proposal</h1>
+  <h1>Komodo Notary Node</h1>
   <img width="128" src="https://secure.gravatar.com/avatar/4af0d9a1f16bf05d1aedee5e3923d3e3?size=256" />
   <h2>lukechilds</h2>
   
