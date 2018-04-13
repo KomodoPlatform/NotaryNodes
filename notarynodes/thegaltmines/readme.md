@@ -14,6 +14,7 @@ Region: NA**
  - Gold-Edition 4tb Enterprise HD
 
 **Server Location:** Enterprise, Oregon
+
 **Server IP:** 104.152.206.137
 
 **Contact Info:** 
