@@ -1,9 +1,7 @@
 # EU
 
-BTC pubkey - `020aab8308d4df375a846a9e3b1c7e99597b90497efa021d50bcf1bbba23246527`
-
-BTC - `1LMUVLvt6jAszL8ndKzbvnfsD3ZJWd45BS`
-
+BTC pubkey - `020aab8308d4df375a846a9e3b1c7e99597b90497efa021d50bcf1bbba23246527`  
+BTC - `1LMUVLvt6jAszL8ndKzbvnfsD3ZJWd45BS`  
 KMD - `RUdfZrpAhYyT4LVz6Vyj2K14yK1uC2K4Dz`
 
 ## Server Spec
@@ -15,10 +13,8 @@ KMD - `RUdfZrpAhYyT4LVz6Vyj2K14yK1uC2K4Dz`
 
 # AR
 
-BTC pubkey - `0348d9b1fc6acf81290405580f525ee49b4749ed4637b51a28b18caa26543b20f0`
-
-BTC - `131oDwcpSeFDuHckimj93WG6rVVyB8XVtr`
-
+BTC pubkey - `0348d9b1fc6acf81290405580f525ee49b4749ed4637b51a28b18caa26543b20f0`  
+BTC - `131oDwcpSeFDuHckimj93WG6rVVyB8XVtr`  
 KMD - `RBHzJTW73U3nyHyxBwiG92bJckxZowPY87`
 
 ## Server Spec
