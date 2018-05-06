@@ -14,6 +14,14 @@ Hello there ! Here's the place I'll put as much information as I can to keep you
 
 As it was announced during the election, my node currently have the spec needed to run notary tasks **as of today**.
 
+*Update :* My main node will have a HW upgrade in a few days, as notary tasks begin in two weeks, i reconsidered the choice : Compliant in terms of specs at start, but what if more resources are needed and the standard configuration is not enough.
+Will re-use my first server on testnet, and the new one will be freshly configured and ready on time :)
+
+*Specs of the new server :* 
+	- 2X Intel® SSD DC P3520 NVMe 1,2To
+	- CPU :  Intel  2x Xeon E5-2630v3 - 16c/32t - 2,4GHz /3,2GHz
+	- RAM :  128Go DDR4 ECC 1866 MHz
+	
 ## Node details and future  :
 
 I'm currently considering to build tools, and use wonderful scripts done by other notarymates ^^ to be able to switch on higher server when it will be needed. Because I believe it's a matter of when, not if, so even if it's not needed right now, I'm on it.
