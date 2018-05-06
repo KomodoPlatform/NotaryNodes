@@ -22,7 +22,7 @@ KMD - `RSQUoSfM7R7SnatK6Udsb5t39movCpUKQE`
 
 ### Node Details
 
-Coming soon
+PowerEdge R440 - 2x Xeon Gold 5118 CPU - 128GB DDR4 @ 2400MHz - 2x1TB
 
 ### Contact details
 
@@ -33,3 +33,5 @@ Position: DEX Expert
 
 Siu is an official KMD team member, but Jorian isn't.  
 Chainmakers is an independent business, operated by only Siu and Jorian. Chainmakers has no official connection to Komodo, though Chainmakers has close ties with Komodo.
+
+https://chainmakers.co/
