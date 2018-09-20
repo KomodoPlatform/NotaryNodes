@@ -96,3 +96,26 @@ RVPWK2bdSHkA8Ai8NTNR1nffv1gTp39cGZ | 0.25137425  | 0.0000% | 0.00011123
 REdhGZDkviNisimMpZLT45xdsZHn2x3kmr | 0.06530000  | 0.0000% | 0.00002889 
 Total | 942,040.24572616  | 100.0000% | 416.84674237 
 
+
+2. JUNE 2018 
+
+**Transaction ID : https://kmdexplorer.ru/tx/fc86a24d70cf041502ce647c9fb61f85c851f49858cb48285fcb77615df56978**
+
+![](https://cdn.steemitimages.com/DQmSNXP7Pnkkzjo6YkXwS8qC5yxpUmCjyKAMdmJ1wU89EoU/image.png)
+
+
+3. JULY 2018
+
+**Transaction ID : https://kmdexplorer.ru/tx/b648b93f5491a8b28e2440f95201e9368816cb0243ce923e82a2f18ef5072d5b**
+
+![](https://cdn.steemitimages.com/DQmXAwP2Rr9xtKMDs9ipjFfk1nq3VnM1faveS5EC8DFrrGb/image.png)
+
+
+4. AUG 2018
+
+**Transaction ID : https://kmdexplorer.ru/tx/04783180b5ca4f49aafd610e2f1e87bcd5cb564866a8f3681386990cb762d7ea**
+
+![](https://cdn.steemitimages.com/DQmTVrZM6eQSeSZaDPGxgLEtDpSnCpW8X23vGyaytQ6ExMw/image.png)
+
+
+
