@@ -172,7 +172,7 @@ RYU6iLdhEA1zyHVB8DYyXRvAnjksjGWYqZ|4999.9999|0.004925542|3.723|198b4ae7924019790
 TOTAL|1015116.597|1|755.748|
 
 
-# Rewarding : 4rd round sent ! Base calculation : 18876 : Delta = 18876 - 15588.31 : 3287.69
+# Rewarding : 4th round sent ! Base calculation : 18876 : Delta = 18876 - 15588.31 : 3287.69
 
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 18876**|**TX ID**
