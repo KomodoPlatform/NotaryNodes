@@ -198,7 +198,7 @@ total KMD mined: 3094.2113.
 
 Voters share: 1237.6845 KMD (40%)
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|298.20736368
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|180.22759167
@@ -245,7 +245,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.06441054
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.02111814
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.00939751
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00105581
-TOTAL|1172147.11560996|100|1237.6845 [(tx)](https://kmdexplorer.ru/tx/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)||
+TOTAL|1172147.11560996|100|1237.6845 [(tx)](https://kmdexplorer.ru/tx/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)||
 
 ### Contact
 + Discord/Slack - @MadMaX
