@@ -118,4 +118,45 @@ Total | 942,040.24572616  | 100.0000% | 416.84674237
 ![](https://cdn.steemitimages.com/DQmTVrZM6eQSeSZaDPGxgLEtDpSnCpW8X23vGyaytQ6ExMw/image.png)
 
 
+5. SEP 2018
+
+**Transaction ID :https://kmdexplorer.ru/tx/2bc89b91a152cdc1bc4b91f81af30b5d62b84c1b72dfd1235dbdb1f549ef4450**
+
+![](https://cdn.steemitimages.com/DQmTg83CbHoec3PqbYUQL93tsJHPu8YWScEhYzLupPupvmy/image.png)
+
+
+6. OCT 2018
+
+**Transaction ID : https://kmdexplorer.ru/tx/19446c085fd002197876f24dbd23647a858361ef6fdec982813c79ce2ebad5c3**
+
+![](https://cdn.steemitimages.com/DQmeukrnqan2ZxULVg2SXK4G7kqf58HX7NLgV9dvztBBAQX/image.png)
+
+
+7. NOV 2018
+
+**Transaction ID : https://kmdexplorer.ru/tx/c7ad25df934a2dbc1dd05bbca0403e6c61cdc689c04a12701293956d1f7775f3**
+
+![](https://cdn.steemitimages.com/DQmd1FTPzyv6jzccM9shEf57heygNV9nP2Uwn5oPxYHtq2X/image.png)
+
+
+8. DEC 2018
+
+**Transaction ID : https://kmdexplorer.ru/tx/c47c7d5ba12f5bb46fbf0a7b09e729202427eb5eb07b39afe00b38393b7c3531**
+
+![](https://cdn.steemitimages.com/DQmbncTUWv3y4DHV9gFibi7rDHR4K13o8mwjhuTecZbWogx/image.png)
+
+
+9. JAN 2019
+
+**Transaction ID : https://www.kmdexplorer.io/tx/031b2a1a999d6bfd750a45a5704e4fe9645bd38e62f485ee646b6cc85e5c2d19**
+
+![](https://cdn.steemitimages.com/DQmW3JWvQc4qRU5Wq4sXwXxeAnqdDXP4EimurBamP5pgUMo/image.png)
+
+
+10. FEB 2019
+
+**Transaction ID : https://www.kmdexplorer.io/tx/9afbd66a4b845dda3daafb15c481076a1c00ed077ab883fbf51d578635c3500a**
+
+![](https://cdn.steemitimages.com/DQmSqeemhyanigTLL76x6h9MTTHcr1hWwLjUUhiHQRnuoCw/image.png)
+
 
