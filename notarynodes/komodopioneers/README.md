@@ -11,15 +11,20 @@
 - btcpubkey: 033ace50aedf8df70035b962a805431363a61cc4e69d99d90726a2d48fb195f68c
 
 ## Contact details
-The Komodo Pioneers team is active in the Komodo slack.
-- Slack: @Mylo(KomodoPioneers) mylo@komodoplatform.com imylomylo@gmail.com
-- Slack: @crypto6unny
-- Slack: @barv
-- Slack: @diesmaster
-- Slack: @Pioneer Audo
-- Slack: @Pioneer Lubo
+The Komodo Pioneers team is active in the Komodo discord.
+- @Mylo(KomodoPioneers) mylo@komodoplatform.com imylomylo@gmail.com
+- @barv
+- @crypto6unny
+- @diesmaster
+- @Audo
+- @Lubo
+
+Komodo Pioneers has a discord channel which is linked to the #komodo-pioneers channel in Komodo's discord.
+
+## Website
+- https://komodopioneers.com
 
 ## Disclosure
 
 - Some of our team are Komodo Platform team members (mylo, audo, diesmaster).
-- We have pledged a portion of our mining rewards towards Komodo eco-system growth.
+- We have pledged a portion of our mining rewards towards Komodo eco-system growth thru subsidizing meetups and producing presentations & content for sharing
