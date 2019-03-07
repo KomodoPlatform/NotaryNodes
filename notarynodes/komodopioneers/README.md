@@ -24,10 +24,13 @@ Komodo Pioneers has a discord channel which is linked to the #komodo-pioneers ch
 ## Website
 - https://komodopioneers.com
 - https://hybriddex.com (DEX technology news in anticipation of MM v2)
-- https://shardwatch.com (Sharding tech news)
-
+- https://shardwatch.com (Sharding tech news in anticipation of scaling comparisons)
+- http://moveopen.nl
+- https://businessapps.com.au
 
 ## Disclosure
 
 - Some of our team are Komodo Platform team members (mylo, audo, diesmaster).
 - We have pledged a portion of our mining rewards towards Komodo eco-system growth thru subsidizing meetups and producing presentations & content for sharing
+- Approx 90%+ of mined KMD are still available because the pledge was to spend when above a minimum price, despite the bear market pioneers have been active as new trading demos with MM tech and game dev become public/stable.
+
