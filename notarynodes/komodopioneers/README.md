@@ -23,6 +23,9 @@ Komodo Pioneers has a discord channel which is linked to the #komodo-pioneers ch
 
 ## Website
 - https://komodopioneers.com
+- https://hybriddex.com (DEX technology news in anticipation of MM v2)
+- https://shardwatch.com (Sharding tech news)
+
 
 ## Disclosure
 
