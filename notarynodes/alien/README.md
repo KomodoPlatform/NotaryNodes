@@ -1,3 +1,4 @@
+![SAM_3920.jpg](./SAM_3920.jpg)
 SHossain is currently Komodo's Chief Quality Officer and been testing all core-tech and end-user product with a good understanding of Komodo ecosystem since November 2017 while supporting users in need. He also wrote the initial BarterDEX API Summary and other dev and user centric guides. During the 2018-2019 election he brought in high-end dedicated servers and hosted them in world class Data Center and calls them **alien** nodes. He has been running his Notary Nodes reliably every day which are currently #1 and #2 in overall performance.
 
 The alien nodes are also one of the first to response while adding a new coin or updating Komodo or iguana core. Also been running internal tests of new implementation, security closely with the dev team.
