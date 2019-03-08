@@ -1,3 +1,12 @@
+# About goldenman
+
+* Has 13+ years experience as a Software engineer in tele-communication and mobile framework
+* Goldenman is an official Korean Ambassador of komodo team who is the most active person to promote Komodo-Platform in East Asia Market, specially South Korea where is the hottest country in crypto-world.
+* Organized the First official Korean Local Meetup
+* Organized Regular study group for Koreans (Blockchain and Komodo environments)
+* Manage local community having 500+ members
+* Early Investor and long-term HODLER of KMD since Jan 2017.
+
 # goldenman EU Notary Node Info
 
 * BTC pub key `02d6f13a8f745921cdb811e32237bb98950af1a5952be7b3d429abd9152f8e388d`
@@ -6,7 +15,7 @@
 
 ## Location
 
-* Germany
+* Germany (in stable Data Center)
 
 ## Hardware
 
