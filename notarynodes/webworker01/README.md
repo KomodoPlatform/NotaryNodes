@@ -14,7 +14,7 @@ With modest server specs, daily attention to node operations allowed him to reac
 
 [komodometrics](https://komodometrics.com/) - Took over hosting and domain name for komodometrics.com in early summer 2018 - converted notary-node-alarm bot to use komodostats.com database
 
-[knomp](https://github.com/webworker01/knomp) - first z-transaction only fork of z-nomp to facilitate the fully private PirateChain. The software is used by many mining pools for PirateChain.  Runs and maintains 
+[knomp](https://github.com/webworker01/knomp) - Developed the first z-transaction only fork of z-nomp to facilitate the fully private PirateChain. The software is used by many mining pools for PirateChain and other Komodo based mining pools.
 
 [piratepool.io](https://piratepool.io) the first and largest pool for ARRR running on the knomp software
 
