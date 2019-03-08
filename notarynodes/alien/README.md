@@ -1,3 +1,13 @@
+SHossain is currently Komodo's Chief Quality Officer and been testing all core-tech and end-user product with a good understanding of Komodo ecosystem since November 2017 while supporting users in need. He also wrote the initial BarterDEX API Summary and other dev and user centric guides. During the 2018-2019 election he brought in high-end dedicated servers and hosted them in world class Data Center and calls them **alien** nodes. He has been running his Notary Nodes reliably every day which are currently #1 and #2 in overall performance.
+
+The alien nodes are also one of the first to response while adding a new coin or updating Komodo or iguana core. Also been running internal tests of new implementation, security closely with the dev team.
+
+With the portion of mining proceeds, SHossain has been renting more dedicated servers to perform additional test of Komodo ecosystem and helped in scaling test in the past and will do in the future.
+
+Notary Nodes are very important part of Komodo ecosystem and SHossain intends to run it them reliably, which he has been doing since day one. He also helps other operators as he can when needed with their Notary Nodes.
+
+Checkout **alien** node specs below:
+
 # EU
 
 BTC pubkey - `020aab8308d4df375a846a9e3b1c7e99597b90497efa021d50bcf1bbba23246527`  
@@ -25,6 +35,6 @@ KMD - `RBHzJTW73U3nyHyxBwiG92bJckxZowPY87`
 - Power Supply: 2x 80 Plus Platinum 1100w, redundant PSU
 
 # Contact details
-
-Discord handle: @SHossain#8093
+Discord handle: @SHossain#0007  
+[Komodo Discord](https://komodoplatform.com/discord)
 
