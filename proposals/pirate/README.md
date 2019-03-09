@@ -12,7 +12,7 @@
 
 ### Mr Lynch ###
 
-- 18+ years ICT experience; system administration and security (red/blue team; mostly red)
+- 18+ years ICT experience: system administration and security (red/blue team; mostly red)
 - Early crypto miner (late 2010)
 - Security Analyst by day, full time Pirate and KMD believer
 - ```Team role: Technical contact, Node operations & security, Zcommerce enabler``` 
@@ -23,13 +23,17 @@
 
 - VOTE address
 
-` R.... `
+```
+R....
+```
 
 ### [SH - Southern Hemisphere] ###
 
 - VOTE address
 
-` R.... `
+```
+R.... 
+```
 
 ## Commitment ##
 
