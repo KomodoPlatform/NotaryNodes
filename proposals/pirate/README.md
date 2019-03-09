@@ -46,11 +46,21 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 ### [EU] ###
 
-instert server specs here
+        | Spec     | Detail             |
+        |----------|--------------------|
+        | CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz /3.2GHz |
+        | RAM      |128GB DDR4 ECC 1866 MHz                             |
+        | Storage  |SoftRaid 2x1.92 TB NVMe                             |
+        | Location |Datacenter - Frankfurt, Germany                     |
 
 ### [SH] ###
 
-insert server specs here
+        | Spec     | Detail             |
+        |----------|--------------------|
+        | CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz /2.7GHz|
+        | RAM      |64GB DDR4 ECC 2133 MHz                      |
+        | Storage  |Hybrid SoftRaid 2 x 2 TB + 2 x 480 GB SSD   |
+        | Location |Datacenter - Sydney, Australia              |
 
 
 ## Disclaimer ##
