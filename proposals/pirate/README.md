@@ -44,7 +44,7 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 ## Server specs ##
 
-#### [EU] ####
+- [EU]
 
 	| Spec     | Detail             |
 	|----------|--------------------|
@@ -53,7 +53,7 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
 	| Location |Datacenter - Frankfurt, Germany			|
 
-#### [SH] ####
+- [SH]
 
 	| Spec     | Detail             |
 	|----------|--------------------|
