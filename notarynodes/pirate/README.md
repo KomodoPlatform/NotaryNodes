@@ -18,20 +18,22 @@ R....
 
 ### Server specs ###
 
-- [EU]
+##### [EU] #####
 
 	| Spec     | Detail		|
 	|----------|--------------------|
 	| CPU      |			|
 	| RAM      |			|
+	| Storage  |			|
 	| Location |			|
 
-- [SH]
+##### [SH] #####
 
         | Spec     | Detail             |
         |----------|--------------------|
         | CPU      |                    |
         | RAM      |                    |
+	| Storage  |			|
         | Location |                    |
 
 ## Pirate Notary Crew ##
