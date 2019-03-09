@@ -57,6 +57,8 @@ insert server specs here
 
 #### We are running for election on behalf of the Piratechain Project ####
 
+#### Pirate Development funds may be redirected towards other ecosystem projects provided our projects share mutual technical goals ####
+
 #### Percentages may be adjusted based on market fluctuations as server costs are in FIAT ####
 i.e.:
 - if KMD price goes up Support & Node operations % goes down
