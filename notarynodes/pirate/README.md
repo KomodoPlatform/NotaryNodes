@@ -5,7 +5,7 @@
 - VOTE address
 
 ```
-R....
+RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 ```
 
 ### [SH - Southern Hemisphere] ###
@@ -13,7 +13,7 @@ R....
 - VOTE address
 
 ```
-R....
+RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
 ### Server specs ###
