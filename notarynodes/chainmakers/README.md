@@ -11,7 +11,7 @@ MG-128 Server - 2x Xeon E5-2630v3 - 128GB - SoftRaid 2x2To
 ### Contact details
 
 Discord handle: @siu#3920  
-Does IT administration, blockchain business development and tests DEX
+IT administration, blockchain business development and tests DEX
 
 
 # EU NODE
@@ -37,6 +37,8 @@ DEX Expert, tester, developer
 ## Disclosure
 
 Siu is an official KMD team member, Jorian is not.
-Chainmakers is an independent business, operated by only Siu and Jorian. Chainmakers has no official connection to Komodo, though Chainmakers has close ties with Komodo.
+Chainmakers is an independent business, managed by Siu and Jorian. Chainmakers has no official connection to Komodo, though Chainmakers has close ties with Komodo.
 
 https://chainmake.rs/
+support@chainmake.rs
+
