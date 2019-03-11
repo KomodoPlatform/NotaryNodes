@@ -20,32 +20,33 @@ Soon after we launched,
 
     | Spec     | Detail              |
     |----------|---------------------|
-    | Platform | [SuperMicro SYS-1029P-WTRT](https://www.supermicro.com/products/system/1U/1029/SYS-1029P-WTRT.cfm) ([X11DDW-NT](https://www.supermicro.com/products/motherboard/Xeon/C620/X11DDW-NT.cfm))|
-    | CPU      | 2 x [Intel Xeon Gold 5120](https://ark.intel.com/content/www/us/en/ark/products/120474/intel-xeon-gold-5120-processor-19-25m-cache-2-20-ghz.html) (**56 vCPUs**)|
+    | Platform | [Dedicated Server](https://us.ovhcloud.com/products/servers/game-servers)|
+    | CPU      | 2 x [Intel i7-770K - 4ct/8t - 4.2GHz / 4.5GHz](https://ark.intel.com/content/www/us/en/ark/products/97129/intel-core-i7-7700k-processor-8m-cache-up-to-4-50-ghz.html)|
     | RAM      | 4 x 32Gb DDR4 2400MHz Crucial ECC Reg (CT32G4RFD424A) |
-    | Storage  | 2 x 1Tb SSD Intel P4500 Series (SSDPE2KX010T701) + Samsung 970 EVO [MZ-V7E500BW] |
+    | Storage  | SoftRaid 2x450GB NVMe + 1x4TB SATA |
     | Location | Canada |
 
 - Server #2 (Backup)
 
     | Spec    | Detail              |
     |---------|---------------------|
-    | Platform     | [Supermicro SuperServer 1028R-WTRT](https://www.supermicro.com/products/system/1u/1028/sys-1028r-wtrt.cfm)  ([X10DRW-iT](https://www.supermicro.com/products/motherboard/Xeon/C600/X10DRW-IT.cfm)) platform |
-    | CPU     | 2 x [Intel Xeon E5-2620v4](https://ark.intel.com/en/products/92986/Intel-Xeon-Processor-E5-2620-v4-20M-Cache-2_10-GHz)  2S 8C16T CM8066002032201 (**32 vCPUs**) |
-    | RAM     | 96 GB               |
-    | Storage | 2 x [INTEL DC S4600 SSDSC2KG960G701](https://ark.intel.com/products/120518/Intel-SSD-DC-S4600-Series-960GB-2_5in-SATA-6Gbs-3D1-TLC)  960 Gb, 2.5", SATA III
-    | Location |  Tier III Level Data Center|
+     | Platform | [Dedicated Server](https://us.ovhcloud.com/products/servers/game-servers)|
+    | CPU      | 2 x [Intel i7-770K - 4ct/8t - 4.2GHz / 4.5GHz](https://ark.intel.com/content/www/us/en/ark/products/97129/intel-core-i7-7700k-processor-8m-cache-up-to-4-50-ghz.html)|
+    | RAM      | 4 x 32Gb DDR4 2400MHz Crucial ECC Reg (CT32G4RFD424A) |
+    | Storage  | SoftRaid 2x450GB NVMe + 1x4TB SATA |
+    | Location | Canada |
 
-Both servers uses RAID-1 (mirror) for fault tolerance, also, total storage space can be increased in case if we would have more 3rd party coins and assetchains on-board.
 
 ## Vote information ##
 
-- [**NA**] Transparent: 
+- [**Send Your Vote Here**]: 
 ```
-RWbZQjiBK6bn32LaSK15QaHzZG3FaWjuGM
+RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
 ```
 
 ## Contact information ##
 
- - Discord: [ChainZilla](https://discord.gg/HXjJkB4)
+ - [ChainZilla](https://discord.gg/HXjJkB4)
+ - [Website](https://chainzilla.io)
+ - [Chameleon Pay Wallet](https://www.youtube.com/watch?v=FaKf6jQzoLo)
  
