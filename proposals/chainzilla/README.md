@@ -2,8 +2,11 @@
 
 ## BIOGRAPHY ##
 
-ChainZilla is a project that was launched in June 2018 to facilitate blockchain onboarding and app development on Komodo Platform and serveral other networks. 
-Soon after we launched, 
+ChainZilla is a project that was launched in June 2018 to facilitate blockchain onboarding and app development on Komodo Platform and serveral other networks.
+
+Since our launch we have re-designed and developed several applications in order to make it easy to launch a blockchain and manage an ICO. Some of these tools include a mobile wallet, paper wallet tool, and a faucet. We are currently working on the expansion of Chameleon Pay and a new payment processor that will allow us to offer different services to our clients. 
+
+Some of the projects that work with ChainZilla include Komodo, NEM, NIX, Pundix, and Groestlcoin. Early in 2019 we launched [LABFin](https://labfin.io), a foundation to foment blockchain development in Panama and Latin America. 
 
 ## Projects / Milestones ###
 
@@ -13,6 +16,7 @@ Soon after we launched,
 
 - [Chameleon Pay](https://www.chainzilla.io/download) / - Feb 2019 We released the first version of Chameleon Pay - a universal cryptocurrency wallet that was tailored made for Komodo projects. The wallet was inspired by Agama wallet which is developed by the Komodo team. 
 
+- [Chameleon Additions](https://www.chainzilla.io/download) / - Mar 2019 We have closed several deals with different coins which will be implemented into Chameleon Pay. 
 
 ## Hardware information ##
 
