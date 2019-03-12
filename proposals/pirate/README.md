@@ -6,16 +6,25 @@
 
 ### Fishy Guts ###
 
-- 20+ years experience in finance + lending
-- 1 year active community contributor in KMD ecosystem
+- 20+ Years Experience In Mortgage Finance And Sales
+- 1 Year Active Community Contributor In KMD Ecosystem - Started Community Raffles To Promote DICOs
+- Provided the KMD Tip Bot to the Community
+- Persuaded DigitalPrice.io to add KMD as a base trading pair
+- Working with radix42 to create a dedicated full node port of KMD to Nodl.it which will support all asset ch      ains
+- Pushed Z Address integration and adoption - something even JL777 was skeptical about
 - ```Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
 
 ### Mr Lynch ###
 
 - 18+ years ICT experience: system administration and security (red/blue team; mostly red)
 - Early crypto miner (late 2010)
-- Security Analyst by day, full time Pirate and KMD believer
-- ```Team role: Technical contact, Node operations & security, Zcommerce enabler``` 
+- Security Analyst by day, full time Pirate and KMD supporter
+- Created the ARRR Sapling Bot which provides useful info to the Pirate Community
+- Took part in early testing for Sapling migration
+- Assisted the Community through the migration from Sprout to Sapling
+- Early tester of Barterlly
+- PrivateBay pool operator
+- ```Team role: Technical contact, Node operations & security, Zcommerce enabler```
 
 ## Vote ##
 
@@ -27,12 +36,12 @@
 RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 ```
 
-### [SH - Southern Hemisphere] ###
+### [NA - North America] ###
 
 - VOTE address
 
 ```
-RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ 
+RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
 ## Commitment ##
@@ -41,6 +50,16 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 ![](./nn_accounts.png)
 
+#### For ALL interest blocks bigger than 100 KMD: ####
+* 50% of reward will be distributed to our voters based on the percentage their vote held.
+* 30% of reward will go towards the Pirate Development fund
+* 20% of reward will go towards the node operators
+
+#### For ALL interest blocks smaller than 100 KMD: ####
+* 50% of reward will go towards the Pirate Development fund
+* 50% of reward will go towards the node operators
+
+Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
 
 ## Server specs ##
 
@@ -48,19 +67,21 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 	| Spec     | Detail             |
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz /3.2GHz	|
+	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz	|
 	| RAM      |128GB DDR4 ECC 1866 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
+    | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Frankfurt, Germany			|
 
-- [SH]
+- [NA]
 
 	| Spec     | Detail             |
 	|----------|--------------------|
-	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz /2.7GHz|
-	| RAM      |64GB DDR4 ECC 2133 MHz			|
-	| Storage  |Hybrid SoftRaid 2 x 2 TB + 2 x 480 GB SSD	|
-	| Location |Datacenter - Sydney, Australia		|
+	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz|
+	| RAM      |128GB DDR4 ECC 1866 MHz			|
+	| Storage  |SoftRaid 2x1.92 TB NVMe	|
+    | Network  |1 Gbps up/down  |
+	| Location |Datacenter - Beauharnois, Canada		|
 
 
 ## Disclaimer ##

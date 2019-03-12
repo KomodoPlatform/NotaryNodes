@@ -8,7 +8,7 @@
 RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 ```
 
-### [SH - Southern Hemisphere] ###
+### [NA - North America] ###
 
 - VOTE address
 
@@ -22,38 +22,50 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 	| Spec     | Detail		|
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz /3.2GHz	|
+	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz	|
 	| RAM      |128GB DDR4 ECC 1866 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
+    | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Frankfurt, Germany			|
 
 - [SH]
 
 	| Spec     | Detail             |
 	|----------|--------------------|
-	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz /2.7GHz|
-	| RAM      |64GB DDR4 ECC 2133 MHz			|
-	| Storage  |Hybrid SoftRaid 2 x 2 TB + 2 x 480 GB SSD	|
-	| Location |Datacenter - Sydney, Australia		|
+	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
+	| RAM      |128GB DDR4 ECC 1866 MHz			|
+	| Storage  |SoftRaid 2x1.92 TB NVMe	|
+    | Network  |1 Gbps up/down  |
+	| Location |Datacenter - Beauharnois, Canada		|
 
 ## Pirate Notary Crew ##
 
 ### Fishy Guts ###
 
-- 20+ years experience in finance + lending
-- 1 year active community contributor in KMD ecosystem
+- 20+ Years Experience In Mortgage Finance And Sales
+- 1 Year Active Community Contributor In KMD Ecosystem - Started Community Raffles To Promote DICOs
+- Provided the KMD Tip Bot to the Community
+- Persuaded [DigitalPrice.io](https://digitalprice.io) to add KMD as a base trading pair
+- Working with radix42 to create a dedicated full node port of KMD to Nodl.it which will support all asset chains
+- Pushed Z Address integration and adoption - something even JL777 was skeptical about
 - ```Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
 ##### Contact Details #####
 
 - Discord: [@FishyGuts#5085](https://pirate.black/discord)
 - Twitter: [@PirateChain](https://twitter.com/PirateChain)
 - E-mail: contact@pirate.black
+- Website: [https://notary.pirate.black](https://notary.pirate.black)
 
 ### Mr Lynch ###
 
 - 18+ years ICT experience: system administration and security (red/blue team; mostly red)
 - Early crypto miner (late 2010)
-- Security Analyst by day, full time Pirate and KMD believer
+- Security Analyst by day, full time Pirate and KMD supporter
+- Created the ARRR Sapling Bot which provides useful info to the Pirate Community
+- Took part in early testing for Sapling migration
+- Assisted the Community through the migration from Sprout to Sapling
+- Early tester of Barterlly
+- PrivateBay pool operator
 - ```Team role: Technical contact, Node operations & security, Zcommerce enabler```
 ##### Contact Details #####
 
@@ -61,6 +73,7 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 - Notary Website: [https://notary.privatebay.io](https://notary.privatebay.io)
 - Github: [@mrmlynch](https://github.com/MrMLynch)
 - E-mail: mrlynch@protonmail.ch
+- Website: [https://notary.pirate.black](https://notary.pirate.black)
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.4.10
