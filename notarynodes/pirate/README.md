@@ -28,7 +28,7 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Frankfurt, Germany			|
 
-- [SH]
+- [NA]
 
 	| Spec     | Detail             |
 	|----------|--------------------|
@@ -41,22 +41,24 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ## Pirate Notary Crew ##
 
 ### Fishy Guts ###
+```PirateChain Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
 
-- 20+ Years Experience In Mortgage Finance And Sales
-- 1 Year Active Community Contributor In KMD Ecosystem - Started Community Raffles To Promote DICOs
-- Provided the KMD Tip Bot to the Community
-- Persuaded [DigitalPrice.io](https://digitalprice.io) to add KMD as a base trading pair
+- 1 year active Community Contributor in KMD Ecosystem - Ran many Community raffles to promote dICOs
+- Provided the KMD Tip Bot and Wordpress Payment portal to the Community
+- Commited [DigitalPrice.io](https://digitalprice.io) to add KMD as a base trading pair
 - Working with radix42 to create a dedicated full node port of KMD to Nodl.it which will support all asset chains
 - Pushed Z Address integration and adoption - something even JL777 was skeptical about
-- ```Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
+- 20+ years experience in Mortgage Finance and Sales including compliance and regulatory procedures
+
 ##### Contact Details #####
 
 - Discord: [@FishyGuts#5085](https://pirate.black/discord)
 - Twitter: [@PirateChain](https://twitter.com/PirateChain)
-- E-mail: contact@pirate.black
+- E-mail: marketing@pirate.black
 - Website: [https://notary.pirate.black](https://notary.pirate.black)
 
 ### Mr Lynch ###
+```PirateChain Team role: Technical contact, Node operations & security, Zcommerce enabler```
 
 - 18+ years ICT experience: system administration and security (red/blue team; mostly red)
 - Early crypto miner (late 2010)
@@ -64,9 +66,9 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 - Created the ARRR Sapling Bot which provides useful info to the Pirate Community
 - Took part in early testing for Sapling migration
 - Assisted the Community through the migration from Sprout to Sapling
-- Early tester of Barterlly
+- Early tester of Barterlly aka Tortuga
 - PrivateBay pool operator
-- ```Team role: Technical contact, Node operations & security, Zcommerce enabler```
+
 ##### Contact Details #####
 
 - Discord: [@mrlynch#5735](https://pirate.black/discord)
