@@ -1,4 +1,4 @@
-![](./welcome_pirates.jpg)
+![](./VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -111,6 +111,8 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 =c4s6
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+![](./welcome_pirates.jpg)
 
 ## Disclosure ##
 

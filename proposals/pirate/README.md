@@ -1,6 +1,6 @@
 # Pirate - Notary Node Proposal #
 
-![](./welcome_pirates.jpg)
+![](./VotePirate.jpg)
 
 ## Who we are ##
 
@@ -96,3 +96,5 @@ i.e.:
 - if KMD price goes down Support & Node operations % goes up
 
 - We ensure full transparency, on request, in this matter; Main goal is to keep the servers at peak performance
+
+![](./welcome_pirates.jpg)
