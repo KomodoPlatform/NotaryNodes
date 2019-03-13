@@ -1,3 +1,12 @@
+Hello fellow KMD supporters!
+
+I have been running notary nodes now for 2 seasons and hope to continue to provide notary services again this year. Currently I operate 2 nodes. One in Canada and another in France. 
+
+With the growing demand to secure PoW chains, my nodes this year will be upgraded to provide more effective and efficent notarizations and to support more external chains.
+
+I have also been running a stable and successful pool for 4+ years: www.zpool.ca
+My pool offers payouts in hundreds of coins including KMD. This year I will be adding KMD to the guarenteed payout list and if necessary, earnings from my notary nodes will be use to ensure payouts always occur. Thus far the only guarenteed payout has only been BTC. 
+
 Region: NA
 
 KMD: RQcBfvJLyB96GCuTBRUNckQESw8LYjHQaC
