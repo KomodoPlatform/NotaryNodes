@@ -50,6 +50,6 @@ RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
 
 ## Contact information ##
 
- - [ChainZilla](https://discord.gg/HXjJkB4)
+ - [Discord](https://discord.gg/HXjJkB4)
  - [Website](https://chainzilla.io)
  - [Chameleon Pay Wallet](https://www.youtube.com/watch?v=FaKf6jQzoLo)
