@@ -8,7 +8,7 @@ KMD - `RLF3sBrXAdofwDnS2114mkBMSBeJDd5Doy`
 
 ### Node Details
 
-Canada
+Canada  
 MG-128 Server - 2x Xeon E5-2630v3 - 128GB - SoftRaid 2x2To
 
 ### Contact details
@@ -25,7 +25,7 @@ KMD - `RSQUoSfM7R7SnatK6Udsb5t39movCpUKQE`
 
 ### Node Details
 
-The Netherlands
+The Netherlands  
 PowerEdge R440 - 2x Xeon Gold 5118 CPU - 128GB DDR4 @ 2400MHz - 2x1TB
 
 ### Contact details
