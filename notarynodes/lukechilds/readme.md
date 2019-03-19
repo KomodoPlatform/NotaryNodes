@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm an experienced software developer that's very active in the Open Source community and have been involved with cryptocurrencies since 2012. I've been working on open source software full time since 2016. For the last year I've been working almost exclusively on projects related to Komodo.
+I'm an experienced software developer that's very active in the open source community and have been involved with cryptocurrencies since 2012. I've been working on open source software full time since 2016. For the last year I've been working almost exclusively on projects related to Komodo.
 
-I've made over 1500 contributions to open source software in the last year and have lots of my own projects published on [GitHub](https://github.com/lukechilds/). My Open Source modules get downloaded [millions of times a month](http://npm-stats.com/lukechilds).
+I've made over 1500 contributions to open source software in the last year and have lots of my own projects published on [GitHub](https://github.com/lukechilds/). My open source modules get downloaded [millions of times a month](http://npm-stats.com/lukechilds).
 
-My Open Source software is used in production by small developers and large companies all round the world. Some examples of companies that are using my software are:
+My open source software is used in production by small developers and large companies all round the world. Some examples of companies that are using my software are:
 
 - GitHub
 - Ethereum
