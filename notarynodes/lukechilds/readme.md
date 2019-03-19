@@ -6,7 +6,7 @@
   **Region:** Asia (AR)
   <br>
   <br>
-  **Public Vote Address**<br>
+  **Vote Address**<br>
   RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC
 </div>
 
