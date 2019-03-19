@@ -71,7 +71,7 @@ https://github.com/LedgerHQ/ledger-live-desktop/pull/1825
 
 #### Security Auditing
 
-I've discovered, responsibly disclosed, and submitted fixes for, a large number of critical security vulnerabilites exisitng in software in the Komodo ecosystem. If someone malicious had found some of these vulnerabilites before me, it could have lead to large loss of funds to users of the Komodo ecosystem.
+I've discovered, responsibly disclosed, and submitted fixes for, a large number of critical security vulnerabilites existing in software in the Komodo ecosystem. If someone malicious had found some of these vulnerabilites before me, it could have lead to large loss of funds to users of the Komodo ecosystem.
 
 ##### High Severity
 
