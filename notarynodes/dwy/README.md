@@ -1,5 +1,5 @@
 
-![](./header.jpg)
+![](./header.png)
 
 ## NN 2019 Intro ##
 
