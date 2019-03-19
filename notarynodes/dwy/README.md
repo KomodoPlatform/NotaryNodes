@@ -1,8 +1,5 @@
 
 ![](./header.png)
-
-## NN 2019 Intro ##
-
 ![](./jawarrr.jpg)
 
 ## Who am I ? ##
