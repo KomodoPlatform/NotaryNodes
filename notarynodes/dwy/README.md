@@ -28,6 +28,7 @@
 
 
 **Rewards Distributed :** 30% of all mining distributed to voters *([source](https://github.com/KomodoPlatform/NotaryNodes/tree/master/notarynodes/dwy))*
+
 | Specs | Details |
 |--|--|
 | CPU | Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
@@ -39,6 +40,8 @@
 
 	
 ## NN Elections 2019
+
+VOTE ADDRESS (SH) : RKUV7wkP4yTR1suVYLicf4ZaooQzz8u5iR
 
 I'm candidating for a node in SH. Nothing changed in my mind and view about splitting nodes across multiple candidates, but this year I experienced it :
 
@@ -61,7 +64,7 @@ New Voters *(dwy_sh possible node):*
 
 - The mining rewards will be used to help me handle [Barterlly](https://www.barterlly.io)'s project (Server costs / Bounties / Legal stuff). I took the decision on purpose not to redistribute to voters, but to dedicate it to a project I believe in, and will fight for :).
 
-![](./barterlly.jpg)
+![](./barterlly.png)
 
 ## Rewards History (dwy_eu) ##
 
