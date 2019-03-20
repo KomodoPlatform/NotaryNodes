@@ -9,6 +9,7 @@
 **pubkey:** 031bea28bec98b6380958a493a703ddc3353d7b05eb452109a773eefd15a32e421
 
 **BTC:** 12dgVmYZ2XxnG3WoFV4PVBgMfy3cMhThwU
+
 **KMD:** RAusaHRqdMmML3szif3Wai1ZSEWCyu7X9Y
 
 **Server Hardware:**
