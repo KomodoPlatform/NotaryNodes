@@ -1,6 +1,6 @@
 **Notary Node Group:** TheGaltMines
 
-**Website:** www.thegaltmines.com
+**Website:** www.thegaltmines.io
 
 **Current Server:** North America Region
 
