@@ -1,5 +1,7 @@
 **Notary Node Group:** TheGaltMines
+
 **Website:** www.thegaltmines.com
+
 **Current Server:** North America Region
 
 **Election 2019:** We are not going to run for additional nodes this year. We will continue to maintain our NA Node to the best of our ability for the next season. We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
