@@ -6,18 +6,19 @@
 
 **Election 2019:** We are not going to run for additional nodes this year we are in the top half for our existing node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
 
-We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
-
 **pubkey:** 031bea28bec98b6380958a493a703ddc3353d7b05eb452109a773eefd15a32e421
+
+We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
 
 **BTC:** 12dgVmYZ2XxnG3WoFV4PVBgMfy3cMhThwU
 
 **KMD:** RAusaHRqdMmML3szif3Wai1ZSEWCyu7X9Y
 
 **Server Hardware:**
- - SuperMicro Dual Opteron EPYC Board 
- - 2x Opteron 6380 EPYC 16-Core 2.5ghz 4x 32GB  Registered DDR3 
- - 2x Crucial 1tb M.2 SSD 2x Western Digital
+ - SuperMicro Dual EPYC Board 
+ - 2x AMD EPYC 7281 16-Core Processor (32 Cores)
+ - 128gb DDR4 Memory
+ - 2x Crucial 1tb M.2 NVME
  - 2x Gold-Edition 4tb Enterprise HD
 
 **Server Location:** Enterprise, Oregon
