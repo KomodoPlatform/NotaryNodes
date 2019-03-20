@@ -23,9 +23,9 @@
 **Server IP:** Available upon request.
 
 **Contact Info:** 
- - Ryan Herbison - Discord: @herbison  Email:ryan@actualproductions.com
+ - Ryan Herbison - Discord: @herbison  E-Mail: ryan@actualproductions.com
    Linux Server Administrator - Notary Node Maintainer
- - Juan Galt - Discord: @Juan Galt 	juans.galt@tuta.io	
+ - Juan Galt - Discord: @Juan Galt 	E-Mail: juans.galt@tuta.io	
    Media Personality, Educator, Crypto Entrepreneur
  - Travis Boyd - Discord: @Hyperborean1
    Data Center and ISP Owner in Oregon
