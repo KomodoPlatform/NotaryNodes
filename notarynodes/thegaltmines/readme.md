@@ -19,6 +19,7 @@
  - 2x Gold-Edition 4tb Enterprise HD
 
 **Server Location:** Enterprise, Oregon
+
 **Server IP:** Available upon request.
 
 **Contact Info:** 
