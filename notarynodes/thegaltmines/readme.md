@@ -4,7 +4,9 @@
 
 **Current Server:** North America Region
 
-**Election 2019:** We are not going to run for additional nodes this year. We will continue to maintain our NA Node to the best of our ability for the next season. We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
+**Election 2019:** We are not going to run for additional nodes this year we are in the top half for our existing node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
+
+We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
 
 **pubkey:** 031bea28bec98b6380958a493a703ddc3353d7b05eb452109a773eefd15a32e421
 
