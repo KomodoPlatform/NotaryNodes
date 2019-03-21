@@ -26,13 +26,12 @@ We will maintain our existing pubkey/privkey pair as wallet resets are working f
 **Server IP:** Available upon request.
 
 **Contact Info:** 
- - Ryan Herbison - Discord: @herbison  
-   Linux Server Administrator - Notary Node Maintainer
-   E-Mail: ryan@actualproductions.com
-   Linux Server Administrator - Notary Node Maintainer
+ - Ryan Herbison - Discord: @herbison
+   - Linux Server Administrator - Notary Node Maintainer
+   - E-Mail: ryan@actualproductions.com
  - Juan Galt - Discord: @JuanSGalt 	
-   Crypto Educator, Entrepreneur
-   E-Mail: ConsultJuan@pm.me
+   - Crypto Educator, Entrepreneur
+   - E-Mail: ConsultJuan@pm.me
  - Travis Boyd - Discord: @Hyperborean1 
-   Data Center and ISP Owner in Oregon
-   E-Mail: tech@hyperborean.io
+   - Data Center and ISP Owner in Oregon
+   - E-Mail: tech@hyperborean.io
