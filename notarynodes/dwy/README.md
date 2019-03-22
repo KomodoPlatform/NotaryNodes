@@ -19,6 +19,12 @@
 
 **Node Name :** dwy_eu
 
+**BTC pubkey** - 0259c646288580221fdf0e92dbeecaee214504fdc8bbdf4a3019d6ec18b7540424
+
+**BTC** - 1NDgxgLdvhNN1NHmtgkM6cXuncQZdTjyur
+
+**KMD** - RWVt3CDvXXAw5NeyMrjUC8s7YssAJ9j4A4
+
 **Stats** : 
 - EU (**2nd**) 
  - All (**4th**)  *([source](https://www.komodostats.com))*
