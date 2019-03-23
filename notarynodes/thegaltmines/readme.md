@@ -4,7 +4,7 @@
 
 **Current Server:** North America Region
 
-**Election 2019:** We are not going to run for additional nodes this year we are currently in the top half for our NA Node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
+**Election 2019:** We are not going to run for additional nodes this year and we are currently in the top half for our NA Node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
 
 **pubkey:** 031bea28bec98b6380958a493a703ddc3353d7b05eb452109a773eefd15a32e421
 
@@ -29,7 +29,7 @@ We will maintain our existing pubkey/privkey pair as wallet resets are working f
  - Ryan Herbison - Discord: @herbison
    - Linux Server Administrator - Notary Node Maintainer
    - E-Mail: ryan@actualproductions.com
- - Juan Galt - Discord: @JuanSGalt 	
+ - Juan Galt - Discord: @JuanGalt 	
    - Crypto Educator, Entrepreneur
    - E-Mail: ConsultJuan@pm.me
  - Travis Boyd - Discord: @Hyperborean1 
