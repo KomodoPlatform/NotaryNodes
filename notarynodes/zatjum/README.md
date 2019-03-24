@@ -1,9 +1,9 @@
-## zatJUM - Southern Hemisphere Notary node info ##
+# zatJUM - Southern Hemisphere Notary node info #
 
 Hi Voters!
 On this page you'll find all the necessary info **up-to-date** concerning my Komodo Notary Node.
 
-## TL;DR ##
+### TL;DR ###
 
 If you want to vote for me as a SH NN operator, please send your VOTE2019 tokens to: ```RTeH9mLQbLx3iBtjjz7MUEjHLmRCURBLZA```
 
@@ -48,6 +48,10 @@ Server will be ready on time, don't worry!
 
 I am not part of the Komodo Team.
 I am running for myself.
+
+## Convinced? ##
+
+Please send your VOTE2019 tokens to: ```RTeH9mLQbLx3iBtjjz7MUEjHLmRCURBLZA```
 
 ## Contact details ##
 
