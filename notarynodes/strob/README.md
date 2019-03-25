@@ -2,8 +2,9 @@
 
 ![StrobFX banner](https://www.strob.net/kmdNN2019/cropped-strobFXheader2000_0011.jpg)
 
-## STROB VOTING ADDRESS (send me your <a href="https://komodoelection.com/2-election-process/vote-token/">VOTE tokens</a> before May 14, 2019) ##
-**Region: North America (NA)**
+## STROB VOTING ADDRESS
+
+**Region: North America (NA) (to vote for me, send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before May 14, 2019 to the following KMD address)**
 
 ```
 RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
