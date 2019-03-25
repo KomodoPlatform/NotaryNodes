@@ -50,9 +50,9 @@ I am an artist but with a strong technical background having most often worked o
 ## STROB PROPOSAL
 Since 24 years I am pretty well known in my field as someone serious and a :sweat_smile:`hard worker` who delivers within :hourglass_flowing_sand:`time` and :moneybag:`budget`. So if you elect me you can be sure my node will be run seriously and I will put all the necessary hours to make it run smoothly and keep it updated as fast as possible. I know how many hours can be required for the task and I am ready for it.
 
-I would also like to promote the `Komodo ecosystem` by doing other videos or 3D illustrations to promote the Komodo ecosystem like the video and illustrations I did for Pirate $ARRR at a small fraction of the cost if elected.
+I would also like to promote the `Komodo ecosystem` by doing other videos or 3D illustrations to promote the Komodo ecosystem like the ones I did for Pirate $ARRR at a small fraction of the cost if elected.
 
-If not elected I will still promote Komodo and Pirate as I can and will be willing to make rebate too for my CG work too but just a bit less :stuck_out_tongue_winking_eye: and I will make proposals every year until elected!
+If not elected I will still promote Komodo and Pirate as I can and will be willing to make rebates for my CG work too but just a bit less :stuck_out_tongue_winking_eye: and I will make proposals every year until elected!
 
 <br>
 
