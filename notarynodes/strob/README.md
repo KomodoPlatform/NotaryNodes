@@ -47,33 +47,33 @@ I would also like to promote the Komodo ecosystem by doing other videos or 3D il
 ## STROB HARDWARE
 I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
--CPU: Dual Xeon 2.6GHz 32 cores
+*CPU: Dual Xeon 2.6GHz 32 cores
 
--RAM: 64GB
+*RAM: 64GB
 
--HD: 1TB SSD
+*HD: 1TB SSD
 
--POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
+*POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
 
--INTERNET: business 940Mbps up/down with static ip
+*INTERNET: business 940Mbps up/down with static ip
 
--Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
+*Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
 
 <br>
 
 ## DISCLOSURE
--First time running!
+*First time running!
 
--The Pirate privacy video and images were funded by FishyGuts, at approx a tenth of my regular rate.
+*The Pirate privacy video and images were funded by FishyGuts, at approx a tenth of my regular rate.
 
 <br>
 
 ## STROB CONTACT
--Discord: `Strob#3417`
+*Discord: `Strob#3417`
 
--Email: `strob@strob.net`
+*Email: `strob@strob.net`
 
--HP: https://www.strob.net/
+*HP: https://www.strob.net/
 
 
 
