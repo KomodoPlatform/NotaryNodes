@@ -37,9 +37,13 @@ I would also like to promote the Komodo ecosystem by doing other videos or 3D il
 I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
 -CPU: Dual Xeon 2.6GHz 32 cores
+
 -RAM: 64GB
+
 -HD: 1TB SSD
+
 -POWER: dual power supplies on 5000VA UPS (APC SUA5000), hydro-electricity ⚡️
+
 -INTERNET: business 940Mbps up/down with static ip
 
 ## DISCLOSURE
