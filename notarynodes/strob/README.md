@@ -9,8 +9,10 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 
 <br>
 
+![Image of Strob](https://www.strob.net/kmdNN2019/506409_original.jpg)
+
 ## STROB BIO
-I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` (as well a some ships and chests 3D renders): <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
+I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` and some images: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
 [![Alt text](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
@@ -61,6 +63,8 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 ## DISCLOSURE
 -First time running!
+
+-The Pirate privacy video and images were funded by FishyGuts, at approx a tenth of my regular rate.
 
 <br>
 
