@@ -1,17 +1,21 @@
-![logo](http://peer2.cloud/images/peer2cloud_logo.png "peer2cloud")
+![logo](https://pungo.io/images/pungo/pungo_header_logo.png "pungocloud")
 
 * **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungocloud** & our aliases: @kimmel @experimenter 
 * **Twitter:** [@pungoio](https://twitter.com/pungo.io)
 * **Medium:** https://medium.com/@pungoio/
 * **Websites:** https://pungo.cloud, https://pungo.io, https://pungo.app, https://pungotoken.com 
 
-# WHO is PUNGO
+# WHO is PUNGOio
 
-* Pungoio is a Komodo born blockchain project that focus ease of use and onboarding of users to Crypto Revolution. 
+* Pungoio has rebranded from Peer2Group in late 2018
+
+* Pungoio is a Komodo-born blockchain project that focus ease of use and onboarding of users to Crypto Revolution. 
 
 * Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile
 
 * Pungoio is working on several products to help spread blockchain technology around the world while keeping in mind some principles: Open source, Decentralization, distribution and ease of use while empowering End users to keep control of their funds
+
+* Pungo has established several companies where different services are based: in Gibraltar, Romania, Georgia and Central america.
 
 
 # FOR 2019 ELECTION:
