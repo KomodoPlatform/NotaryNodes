@@ -97,12 +97,13 @@ https://www.strob.net/
 
 <br>
 
-## STROB VOTING ADDRESS##
+## STROB VOTING ADDRESS
 **Region: North America (NA)**
 
 ```
 RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 ```
+:point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before May 14, 2019 to the above KMD address.
 
 <br>
 
