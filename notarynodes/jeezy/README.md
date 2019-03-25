@@ -18,12 +18,12 @@
 * 2019 BTC: `1PsQrdGyc2RS1TFwsHLjzgLzL8TMnWAYS5`
 * 2019 PUBKEY: `02df24c8c92771282294a22be71378270e0689937a0e89d8b487422c3bffbe0857`
 
-## EU NODE in France Tier 3 DC
+#### EU NODE in France Tier 3 DC
 
-## Contact Details
+#### Contact Details
 
-* Komodo Discord #notarynodes @jeezy#3408 (https://discord.gg/qj25rC8)
-* Keybase (https://keybase.io/jeezy)
+* Komodo [Discord #notarynodes @jeezy#3408](https://discord.gg/qj25rC8)
+* Keybase [jeezy KB](https://keybase.io/jeezy)
 
 #### Thank you for reading this π
 
