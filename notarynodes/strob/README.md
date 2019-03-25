@@ -19,7 +19,7 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 <br>
 
 ## STROB BIO
-I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` and some images: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
+I am a professional CG artist doing `3D animations` and `visual effects` since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` and some images: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
 [![Pirate ARRR privacy video](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
