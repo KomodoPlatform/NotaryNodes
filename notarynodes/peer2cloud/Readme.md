@@ -5,6 +5,15 @@
 * **Medium:** https://medium.com/@pungoio/
 * **Websites:** https://pungo.cloud, https://pungo.io, https://pungo.app, https://pungotoken.com 
 
+# WHO is PUNGO
+
+* Pungoio is a Komodo born blockchain project that focus ease of use and onboarding of users to Crypto Revolution. 
+
+* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile
+
+* Pungoio is working on several products to help spread blockchain technology around the world while keeping in mind some principles: Open source, Decentralization, distribution and ease of use while empowering End users to keep control of their funds
+
+
 # FOR 2019 ELECTION:
 
 ## South Hemisphere Notary node
@@ -21,13 +30,15 @@
 * SSD: 640 GB SSD
 * Link: 100 Mbps
 
+
+
 ### 2018 ACHIEVEMENTS
 
 * Our 2 nodes have successfully performed in 2018. 
 
 * SH nodes had IP white-listing problems with the rest of the nodes, that's why it started performing later and we lost a precious time while switching 3 times hosting. However we scaled positions to get to 8th, which has not allowed us to repeat.
 
-* __We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
+* We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
 * We successfully AIRDROPPED 2% fo https://pungotoken.com to Komodo community
 * We sent NODE MINING Revenues to our VOTERS for a total of __________ in 2 batches. HERE and HERE
 * Our AR node has been automatically Reelected for 1 year
