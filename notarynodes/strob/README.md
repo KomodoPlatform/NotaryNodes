@@ -14,7 +14,7 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 ## STROB BIO
 I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` and some images: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
-[![Alt text](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
+[![Pirate ARRR privacy video](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
 Based near Montreal, Quebec, CANADA, I work for commercials, video games, movies and web. I do everything from design to modeling to compositing, fluid sim, particles, water, fire, smoke, set supervision and 360 HDRI photos shoot. I started my career 24 years ago by working at many VFX studios big and small in Montreal for Holywood movies (Journey 3D, etc), AAA games and TV shows (Prince of Persia, Myst IV, etc). I also did all the 3D for a video called Iron Baby that has been seen near `100 millions` times all over the web as well as the visual effects for a TV show called Phylactere Cola that I co-created within an artists group.
 
@@ -22,12 +22,14 @@ StrobFX is my own VFX studio since almost 10 years. I currently do mostly visual
 
 I work with my own dedicated render farm counting more than `200 cores` (in 16 high end servers and workstation) that I manage myself. My pipeline is based on Blender/Cycles-Eevee, Houdini/Arnold, Zbrush & 3ds Max/VRay. I can also make 360 degrees HDRI and 3D scans of objects of all sizes.
 
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/strobFXwork.jpg)](https://www.artstation.com/strob)
+
 <br>
 
 ## STROB For Notary Node Operator in 2019!!!
 I have a passion for crypto since 2014 and I got really interested in `Pirate` and `Komodo` in 2018. I would like crypto to bring more :smiley:`freedom` and :sunglasses:`privacy` to the world and I love the Komodo ecosystem community's philosophy and usefulness toward that goal. I would be honored to be part of such an adventure by becoming a Komodo Notary Node Operator for North America (NA region).
 
-I heard it would surely be beneficial for the decentraliztion of the ecosystem to have someone new like me, who is not part of the Komodo team. I am not a coder but I have some basic sys admin skills and I have artistic skills to offer that no other candidate has.
+I heard it would surely be beneficial for the decentraliztion of the ecosystem to have someone NEW like me, who is not part of the Komodo team. I am not a coder but I have some basic sys admin skills and I have artistic skills to offer that no other candidate has.
 
 
 <br>
@@ -42,12 +44,14 @@ Since 24 years I am pretty well known in my field as someone serious and a :swea
 
 I would also like to promote the `Komodo ecosystem` by doing other videos or 3D illustrations to promote the Komodo ecosystem like the video and illustrations I did for Pirate $ARRR at a small fraction of the cost if elected.
 
+If not elected I will still promote Komodo and Pirate as I can and will be willing to make rebate too for my CG work too but just a bit less :stuck_out_tongue_winking_eye: and I will make proposals every year until elected!
+
 <br>
 
 ## STROB HARDWARE
 I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
-* CPU: Dual Xeon 2.6GHz 32 cores
+* CPU: Dual Xeon 2.6GHz 32 cores :muscle:
 
 * RAM: 64GB
 
@@ -55,7 +59,7 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 * POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
 
-* INTERNET: business 940Mbps up/down with static ip
+* INTERNET: business 940Mbps up/down with static ip:dash:
 
 * Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
 
@@ -64,7 +68,7 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 ## DISCLOSURE
 * First time running!
 
-* The Pirate privacy video and images were funded by FishyGuts, at approx a tenth of my regular rate.
+* The Pirate privacy video and images were funded by FishyGuts from the Pirate Project, at approx a tenth of my regular rate. (Please vote for team Pirate too as a NN operators!)
 
 <br>
 
