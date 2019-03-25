@@ -66,9 +66,9 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 <br>
 
 ## DISCLOSURE
-* First time running!
+* First time running!:runner:
 
-* The Pirate privacy video and images were funded by FishyGuts from the Pirate Project, at approx a tenth of my regular rate. (Please vote for team Pirate too as a NN operators!)
+* The Pirate privacy video and images were funded by FishyGuts from the Pirate Project, at approx a tenth of my regular rate. (Please vote for :skull:<a href="https://github.com/KomodoPlatform/NotaryNodes/tree/master/notarynodes/pirate">team Pirate</a> too as a NN operators:metal:!)
 
 <br>
 
