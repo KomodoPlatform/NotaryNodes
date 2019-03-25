@@ -83,7 +83,7 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 ## STROB CONTACT
 ![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
 
-![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
+![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`PGP KEY: 0BDC A4FB 7BFD 1EC6 0CC5 00A1 D13C BF42 C7A1 5309
 
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)
@@ -93,8 +93,6 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/youtube.png)](http://www.youtube.com/user/STROBdotNET)
 
 https://www.strob.net/
-
-PGP KEY: 0BDC A4FB 7BFD 1EC6 0CC5 00A1 D13C BF42 C7A1 5309
 
 
 <br>
