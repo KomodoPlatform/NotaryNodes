@@ -81,7 +81,16 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 <br>
 
 ## STROB CONTACT
-* Discord: `Strob#3417`
+![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
+
+![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
+
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/linkedin.png)](http://www.linkedin.com/in/strob)
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/twitter.png)](http://twitter.com/strobFX)
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/vimeo.png)](http://vimeo.com/user1353159)
+[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/youtube.png)](http://www.youtube.com/user/STROBdotNET)
 
 * Email: `strob@strob.net`
 
@@ -101,7 +110,7 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 
 <br>
 
-## PGP KEY :key:
+## PGP KEY
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
