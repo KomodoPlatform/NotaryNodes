@@ -101,7 +101,7 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 
 <br>
 
-## PGP KEY
+## PGP KEY :key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
