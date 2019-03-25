@@ -42,17 +42,24 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 -HD: 1TB SSD
 
--POWER: dual power supplies on 5000VA UPS (APC SUA5000), hydro-electricity ⚡️
+-POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity 🌳⚡️
 
 -INTERNET: business 940Mbps up/down with static ip
 
 ## DISCLOSURE
 -First time running!
 
+## STROB CONTACT
+-Discord: Strob#3417
+-Email: strob@strob.net
+-
 
+## AGAIN: STROB VOTING ADDRESS (send me your <a href="https://komodoelection.com/2-election-process/vote-token/">VOTE tokens</a> before May 14, 2019) ##
+**Region: North America (NA)**
 
-
-
+```
+RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
+```
 
 
 
