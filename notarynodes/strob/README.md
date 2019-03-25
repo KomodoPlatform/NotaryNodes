@@ -92,11 +92,9 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/vimeo.png)](http://vimeo.com/user1353159)
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/youtube.png)](http://www.youtube.com/user/STROBdotNET)
 
-* Email: `strob@strob.net`
+https://www.strob.net/
 
-* HP: https://www.strob.net/
-
-* PGP KEY: 0BDC A4FB 7BFD 1EC6 0CC5 00A1 D13C BF42 C7A1 5309
+PGP KEY: 0BDC A4FB 7BFD 1EC6 0CC5 00A1 D13C BF42 C7A1 5309
 
 
 <br>
