@@ -10,7 +10,7 @@ RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 <br>
 
 ## STROB BIO
-I am a professional CG artist doing 3D animations and VFX since more than 24 years. I am also passionated about crypto since 2014 and I recently made a video for Pirate $ARRR (as well a some ships and chests 3D renders): <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
+I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for Pirate $ARRR (as well a some ships and chests 3D renders): <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
 [![Alt text](https://img.youtube.com/vi/jWLLgYkouqE/0.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
@@ -51,9 +51,11 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 -HD: 1TB SSD
 
--POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity 🌳⚡️
+-POWER: dual power supplies on 5000VA UPS (APC SUA5000), powered by clean hydro-electricity 🍃⚡️
 
 -INTERNET: business 940Mbps up/down with static ip
+
+-Server location: Saint-Sauveur, Québec, CANADA🍁
 
 <br>
 
