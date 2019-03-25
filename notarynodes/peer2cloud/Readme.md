@@ -1,6 +1,6 @@
 ![logo](https://pungo.io/images/pungo/pungo_header_logo.png "pungocloud")
 
-* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungocloud** & our aliases: @kimmel @experimenter 
+* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungo** & our aliases: @kimmel @experimenter 
 * **Twitter:** [@pungoio](https://twitter.com/pungo.io)
 * **Medium:** https://medium.com/@pungoio/
 * **Websites:** https://pungo.cloud, https://pungo.io, https://pungo.app, https://pungotoken.com 
