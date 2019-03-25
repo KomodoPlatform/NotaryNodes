@@ -1,5 +1,7 @@
 # STROB Notary Node Proposal 2019
 
+![StrobFX banner](https://www.strob.net/kmdNN2019/cropped-strobFXheader2000_0011.jpg)
+
 ## STROB VOTING ADDRESS (send me your <a href="https://komodoelection.com/2-election-process/vote-token/">VOTE tokens</a> before May 14, 2019) ##
 **Region: North America (NA)**
 
@@ -7,9 +9,12 @@
 RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 ```
 
+
 <br>
 
 ![Image of Strob](https://www.strob.net/kmdNN2019/506409_original.jpg)
+
+<br>
 
 ## STROB BIO
 I am a professional CG artist doing 3D animations and VFX since more than `24 years`. I am also passionated about crypto since 2014 and I recently made a video for `Pirate $ARRR` and some images: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
@@ -23,6 +28,7 @@ StrobFX is my own VFX studio since almost 10 years. I currently do mostly visual
 I work with my own dedicated render farm counting more than `200 cores` (in 16 high end servers and workstation) that I manage myself. My pipeline is based on Blender/Cycles-Eevee, Houdini/Arnold, Zbrush & 3ds Max/VRay. I can also make 360 degrees HDRI and 3D scans of objects of all sizes.
 
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/strobFXwork.jpg)](https://www.artstation.com/strob)
+
 
 <br>
 
