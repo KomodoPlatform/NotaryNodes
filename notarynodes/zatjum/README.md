@@ -1,3 +1,5 @@
+![](./Vote_for_zatJUM.png)
+
 # zatJUM - Southern Hemisphere Notary node info #
 
 Hi Voters!
