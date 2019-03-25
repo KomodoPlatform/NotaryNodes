@@ -10,7 +10,7 @@ RADvQL9kRv9jFecdvi2UQxkFK1aqnZoGoL
 <br>
 
 ## STROB BIO
-I am a professional CG artist doing 3D animations and VFX since more than 24 years. I am also passionated about crypto since 2014 and I recently made a video for Pirate $ARRR: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
+I am a professional CG artist doing 3D animations and VFX since more than 24 years. I am also passionated about crypto since 2014 and I recently made a video for Pirate $ARRR (as well a some ships and chests 3D renders): <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
 [![Alt text](https://img.youtube.com/vi/jWLLgYkouqE/0.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
@@ -26,7 +26,10 @@ I have a passion for crypto since 2014 and I got really interested in Pirate and
 ## My skills
 I am an artist but with a strong technical background having most often worked on 3D/VFX involving fluid simulations (smoke, water, fire), particles and rigging. I know the basics of a few scritping languages in 3ds Max, Maya, Softimage (maxscript, melscript, VEX, VOP) and I manage all kinds of softwares and plugins on my render farm writing bat files to install, update or remove softwares and plugins. I maintain many websites and host my own ftp server since 2003. I also do some mining. I went through the whole Komodo Notary Node installation guide as well as the standard security setup sucessfully. So I can guarantee I have the skills to run the node.
 
-## STROBFX PROPOSAL
+## STROB PROPOSAL
 Since 24 years I am pretty well known in my field as someone serious and who deliver within time and budget. So if you elect me you can be sure my node will be run seriously and I will put all the necessary hours to make it run smoothly and keep it updated as fast as possible. I know how many hours can be required for the task and I am ready for it.
 
 I would also like to promote the Komodo ecosystem by doing other videos or 3D illustrations to promote the Komodo ecosystem like the video I did for Pirate $ARRR at a small fraction of the cost.
+
+## STROB HARDWARE
+
