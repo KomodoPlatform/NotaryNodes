@@ -1,10 +1,10 @@
 # STROB Notary Node Proposal 2019
 
-## STROB NA Voting Address (send me your <a href="https://komodoelection.com/2-election-process/vote-token/">VOTE tokens</a> before May 14, 2019) ##
+## STROB VOTING ADDRESS (send me your <a href="https://komodoelection.com/2-election-process/vote-token/">VOTE tokens</a> before May 14, 2019) ##
 **Region: North America (NA)**
 
 ```
-RADvQL9kRv9jFecdvi2UQxkFK1aqnZoGoL
+RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7
 ```
 
 <br>
@@ -25,22 +25,26 @@ I have a passion for crypto since 2014 and I got really interested in Pirate and
 
 I heard it would surely be beneficial for the decentraliztion of the ecosystem to have someone new like me, who is not part of the Komodo team. I am not a coder but I have some basic sys admin skills and I have artistic skills to offer that no other candidate has.
 
-## STROB skills
+## STROB SKILLS
 I am an artist but with a strong technical background having most often worked on 3D/VFX involving fluid simulations (smoke, water, fire), particles and rigging. I know the basics of a few scritping languages in 3ds Max, Maya, Softimage (maxscript, melscript, VEX, VOP) and I manage all kinds of softwares and plugins on my Windows render farm writing bat files to install, update or remove softwares and plugins. I maintain many websites and host my own ftp server since 2003. I also do some mining. I went through the whole Komodo Notary Node installation guide as well as the standard security setup sucessfully. So I can guarantee I have the skills to run the node. I am also eager to learn more about blockchain, IT and network security. I worked in Windows for years but I am now learning Linux fast and love it!
 
 ## STROB PROPOSAL
 Since 24 years I am pretty well known in my field as someone serious and a hard worker who deliver within time and budget. So if you elect me you can be sure my node will be run seriously and I will put all the necessary hours to make it run smoothly and keep it updated as fast as possible. I know how many hours can be required for the task and I am ready for it.
 
-I would also like to promote the Komodo ecosystem by doing other videos or 3D illustrations to promote the Komodo ecosystem like the video I did for Pirate $ARRR at a small fraction of the cost if elected.
+I would also like to promote the Komodo ecosystem by doing other videos or 3D illustrations to promote the Komodo ecosystem like the video and illustrations I did for Pirate $ARRR at a small fraction of the cost if elected.
 
 ## STROB HARDWARE
-I have my own servers so I don't even need to access it remotely. I also have many of those servers in a rack as well as many others setup as workstation (total of 16) so there will always be a backup.
+I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
 CPU: Dual Xeon 2.6GHz 32 cores
 RAM: 64GB
 HD: 1TB SSD
-POWER: dual power supplies on 5000VA UPS (APC SUA5000), hydro-electricity
+POWER: dual power supplies on 5000VA UPS (APC SUA5000), hydro-electricity ⚡️
 INTERNET: business 940Mbps up/down with static ip
+
+## DISCLOSURE
+:First time running!
+
 
 
 
