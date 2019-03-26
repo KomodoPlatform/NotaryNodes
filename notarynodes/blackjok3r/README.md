@@ -1,7 +1,11 @@
 ## blackjok3r - Southern Hemisphere Notary Node
-- KMD-address:
+- KMD-address: REJ77rETvXdVCtzvUbzcGxGbVwWQNoieJq
 - BTC-address:
 - btcpubkey:
+
+
+### Send VOTE Here : `REJ77rETvXdVCtzvUbzcGxGbVwWQNoieJq`
+
 
 ## About
 I have been the operator of a-team in season 2. This year I am running for myself. The node will be the same hardware/location at least for now as it has plenty of capacity for more full nodes. I ran 2 full nodes of every coin on this server for 90% of season 2, and it still had plenty of SSD/RAM/CPU left for more. My server is hosted in a small DC in the most isolated capital city in the world Perth Western Australia. Despite this has managed to keep up with the best nodes in SH, once I got it working properly!
