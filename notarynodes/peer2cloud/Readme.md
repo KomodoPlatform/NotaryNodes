@@ -7,21 +7,48 @@
 
 # WHO is PUNGOio
 
-* Pungoio has rebranded from Peer2Group in late 2018
+* Pungoio has rebranded from Peer2Cloud candidate in late 2018
 
-* Pungoio is a Komodo-born blockchain project that focus ease of use and onboarding of users to Crypto Revolution. 
+* Pungoio is a Komodo-born blockchain project that focus on ease of use and onboarding of users to Crypto Revolution. 
 
-* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile
-
-* Pungoio is working on several products to help spread blockchain technology around the world while keeping in mind some principles: Open source, Decentralization, distribution and ease of use while empowering End users to keep control of their funds
+* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check them out on https://pungo.app
 
 * Pungo has established several companies where different services are based: in Gibraltar, Romania, Georgia and Central america.
 
 
-# FOR 2019 ELECTION:
+# 2019 ELECTION:
 
-## South Hemisphere Notary node
-### Location: Sydney
+*
+
+
+
+
+# 2018 ACHIEVEMENTS
+
+* Our 2 nodes have successfully performed in 2018 and we have gained great experience on handling Notary Nodes. 
+
+* SH node had IP white-listing problem with the rest of the nodes, that's why we lost a precious time while switching 3 times hosting until issue was found. However we scaled positions to get to 8th, which has not allowed us to repeat.
+
+* We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
+* We successfully AIRDROPPED 2% fo https://pungotoken.com to Komodo community
+* We sent NODE MINING Revenues to our VOTERS for a total of almost 9.000 KMD
+* Our AR node has been automatically Reelected for 1 year
+
+
+## 2018 AR Node details - Location: Singapur
+
+* BTC pub key `034e5563cb885999ae1530bd66fab728e580016629e8377579493b386bf6cebb15`
+* BTC address `18kGq4toM4MNw9CyvWUAJNRVGVLuWnLUVo` 
+* KMD address `RH2Tuan5wt9x19aBPgTHPtkh2koWCEsjEK`
+
+### Hardware
+
+* CPU: Xeon Processor E5-2650 v4
+* RAM: 64 GB
+* SSD: 1,25 TB SSD
+* Link: 100 Mbps
+
+## 2018 South Hemisphere Notary node - Location: Sydney
 
 * BTC pub key `03396ac453b3f23e20f30d4793c5b8ab6ded6993242df4f09fd91eb9a4f8aede84`
 * BTC address `1JXwrC63VsZUuqQt1qrcYZhcRQidS17Hmf`
@@ -30,39 +57,12 @@
 ### Hardware
 
 * CPU: 20vCPU
-* RAM: 128 GB
+* RAM: 64 GB
 * SSD: 640 GB SSD
 * Link: 100 Mbps
 
 
-
-### 2018 ACHIEVEMENTS
-
-* Our 2 nodes have successfully performed in 2018. 
-
-* SH nodes had IP white-listing problems with the rest of the nodes, that's why it started performing later and we lost a precious time while switching 3 times hosting. However we scaled positions to get to 8th, which has not allowed us to repeat.
-
-* We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
-* We successfully AIRDROPPED 2% fo https://pungotoken.com to Komodo community
-* We sent NODE MINING Revenues to our VOTERS for a total of __________ in 2 batches. HERE and HERE
-* Our AR node has been automatically Reelected for 1 year
-
-
-### AR Node details: Location: Singapur
-
-* BTC pub key `034e5563cb885999ae1530bd66fab728e580016629e8377579493b386bf6cebb15`
-* BTC address `18kGq4toM4MNw9CyvWUAJNRVGVLuWnLUVo` 
-* KMD address `RH2Tuan5wt9x19aBPgTHPtkh2koWCEsjEK`
-
-#### Hardware
-
-* CPU: Xeon Processor E5-2650 v4
-* RAM: 64 GB
-* SSD: 1,25 TB SSD
-* Link: 100 Mbps
-
-
-### 2018 VOTES
+## 2018 VOTES
 
 |Sending address                    	|Votes        	|
 |------------------------------------	|-------------	|
