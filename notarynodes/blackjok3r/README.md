@@ -1,7 +1,11 @@
 ## blackjok3r - Southern Hemisphere Notary Node
-- KMD-address:
+- KMD-address: REJ77rETvXdVCtzvUbzcGxGbVwWQNoieJq
 - BTC-address:
 - btcpubkey:
+
+
+### Send VOTE Here : `REJ77rETvXdVCtzvUbzcGxGbVwWQNoieJq`
+
 
 ## About
 I have been the operator of a-team in season 2. This year I am running for myself. The node will be the same hardware/location at least for now as it has plenty of capacity for more full nodes. I ran 2 full nodes of every coin on this server for 90% of season 2, and it still had plenty of SSD/RAM/CPU left for more. My server is hosted in a small DC in the most isolated capital city in the world Perth Western Australia. Despite this has managed to keep up with the best nodes in SH, once I got it working properly!
@@ -16,7 +20,7 @@ I have been promoted to a Komodo Team member from all my efforts throughout seas
 - Lead role on the scaling test. Which lead to LABS and the debugging of MoMoM which has been my major long term focus throughout late 2018 early 2019.
 - Working with jl777 to fix KMDDice and fix various low level CC bottlenecks in the komodod code base. Before this full blocks of CC transactions were extremely slow, and basically unusable.
 - Huge numbers of various bug fixes I have forgotten about. My github (LABS & blackjok3r) is one of the most active repos in the komodo ecosystem.
-- I am a huge fan of one operator one node. I will take a second node on (AR region) if voters feel that they want me to run a second. I would rather keep my single node though and have any extra spots go to a new operator that deserves a go. I was very lucky to get my spot last year, having no experience in this industry at all and having to learn everything from scratch on my own. The help I got from the komodo community from people such as jl777, webworker01, dwy, Decker, Alright, ComputerGenie, dukeleto, lukechilds, Emmanuel and Patchkez has been invaluable. There is no doubt I couldn't have done it without them. I hope voters let some other new people also get this opportunity this coming year. This is how komodo will do very well, with a strong and diverse team of operators working as a team.
+- I am a huge fan of one operator one node.I would rather keep my single node and have any extra spots go to a new operator that deserves a go. I was very lucky to get my spot last year, having no experience in this industry at all and having to learn everything from scratch on my own. The help I got from the komodo community from people such as jl777, webworker01, dwy, Decker, Alright, ComputerGenie, dukeleto, lukechilds, Emmanuel and Patchkez has been invaluable. There is no doubt I couldn't have done it without them. I hope voters let some other new people also get this opportunity this coming year. This is how komodo will do very well, with a strong and diverse team of operators working as a team.
 
 #### Region: SH
 - 4x AMD Opteron 6176 12 Core CPU's (48 cores)
