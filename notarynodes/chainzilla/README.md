@@ -10,7 +10,7 @@ Some of the projects that work with ChainZilla include Komodo, NEM, NIX, Pundix,
 
 ## Projects / Milestones ###
 
-- [ChainZilla](https://chainzilla.io) / - June 2018 we launched C.Z. Web Service S.A. as the parent company of Chainzilla.io. The goal is to faciliate blockchain onboarding for Komodo and serveral platforms. Our team has been successful at launching several projects which rance in blockchain creation, app design, and web development. 
+- [ChainZilla](https://chainzilla.io) / - June 2018 we launched C.Z. Web Service S.A. as the parent company of Chainzilla.io. The goal is to faciliate blockchain onboarding for Komodo and serveral platforms. Our team has been successful at launching several projects which range in blockchain creation, app design, and web development. 
 
 - [LABFin](https://labfin.io) / January 2019 - In order to foment blockchain development and education in Panama we launched the Latin American Blockchain and Fintech Initiative. This foundation is based in Panama and our main goal is to provide support to the public sector, lawmakers, startups, and private entities in Latin America. Komodo is one of LABFin's partners and is promoted in our presentations. 
 
