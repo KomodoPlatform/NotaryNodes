@@ -1,4 +1,4 @@
-![chainzilla-banner-01.jpg](./chainzilla-banner-01.jpg)
+![chainzilla-banner-01.jpg](./chainzilla-banner-02.jpg)
 
 ## BIOGRAPHY ##
 
