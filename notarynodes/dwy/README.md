@@ -1,8 +1,23 @@
-# Dwy EU Node info
 
-Hello there ! Here's the place I'll put as much information as I can to keep you updated about my node.
+![](./header.png)
+![](./jawarrr.jpg)
 
-## Node Addresses  :
+## Who am I ? ##
+
+- Pseudo : Dwy
+- Technical experience : 10+ years (IT System Engineer)
+- KMD history : 
+		- Notary Node Operator (since 2018)
+		- Active member on KMD ecosystem (Testing... and breaking stuff :D)
+
+##### Contact me #####
+
+- Discord: @dwy#8396
+- Website: https://www.barterlly.io (still in progress)
+
+##  NotaryNode Infos ##
+
+**Node Name :** dwy_eu
 
 **BTC pubkey** - 0259c646288580221fdf0e92dbeecaee214504fdc8bbdf4a3019d6ec18b7540424
 
@@ -10,56 +25,53 @@ Hello there ! Here's the place I'll put as much information as I can to keep you
 
 **KMD** - RWVt3CDvXXAw5NeyMrjUC8s7YssAJ9j4A4
 
-## Node Specs  :
+**Stats** : 
+- EU (**2nd**) 
+ - All (**4th**)  *([source](https://www.komodostats.com))*
 
-As it was announced during the election, my node currently have the spec needed to run notary tasks **as of today**.
 
-*Update :* My main node will have a HW upgrade in a few days, as notary tasks begin in two weeks, i reconsidered the choice : Compliant in terms of specs at start, but what if more resources are needed and the standard configuration is not enough.
-Will re-use my first server on testnet, and the new one will be freshly configured and ready on time :)
+**Rewards Distributed :** 30% of all mining distributed to voters *([source](https://github.com/KomodoPlatform/NotaryNodes/tree/master/notarynodes/dwy))*
 
-*Specs of the new server :* 
-	- 2X IntelÂ® SSD DC P3520 NVMe 1,2To
-	- CPU :  Intel  2x Xeon E5-2630v3 - 16c/32t - 2,4GHz /3,2GHz
-	- RAM :  128Go DDR4 ECC 1866 MHz
+| Specs | Details |
+|--|--|
+| CPU | Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
+| RAM | 128GB DDR4 ECC 1866 MHz |
+| Storage | 2X Intel® SSD DC P3520 NVMe 1,2To |
+| Network | 1 Gbps |
+| Location | FR Datacenter (OVH) - Gravelines - France |
+
+
 	
-## Node details and future  :
+## NN Elections 2019
 
-I'm currently considering to build tools, and use wonderful scripts done by other notarymates ^^ to be able to switch on higher server when it will be needed. Because I believe it's a matter of when, not if, so even if it's not needed right now, I'm on it.
+VOTE ADDRESS (SH) : RKUV7wkP4yTR1suVYLicf4ZaooQzz8u5iR
 
-Few projects have been launched, using different PoV. I think I'll just stick to my vision, and mostly will rely on one of these two options : 
+I'm candidating for a node in SH. Nothing changed in my mind and view about splitting nodes across multiple candidates, but this year I experienced it :
 
-Prepare everything on a *not preconfigured* image, just to throw it live and partially synced, which will allow in case of a change to be able to skip sync time (can't skip it all, but updated image will just do the trick). I insist on the not preconfigured one, cause I just want everything "private" to be done manually (keys, etc...)
+I experienced the stress and everyday work and check to keep notarizations happening, always keeping in mind that performance is my main objective. The result is self-explanatory : **[statistics](www.komodostats.com)**.
 
-Combine existing scripts / new needed ones to be able to fire a global install, here again, leaving me the task of private tasks.
+But beyond stats and auto-reelecting rules, I believe we have a problem : there is a 1:6 ratio between top nodes and bottom ones, that means there was a severe issue with operators, but, worst, it means the dPoW system wasn't able to rely on the 64  supposedly available nodes.
+**The Notarization process must rely on competitive operators, who dedicate time and energy on their NN job!**
+
+Another point worth mentionning, even if it can be seen as a "fantasy" : There is a huge gap between continents regarding stats and performance. But I believe we have technical possibilities to reduce those gaps, and , to be honest, in case I have the opportunity to try it, I want to do it in the "hardest region". 
+
+That's why I'm presenting in SH ! To dedicate time to handle nodes properly, test more and more stuff, and compete the best I can !
+
+### Reward Allocation ###
+
+Former Voters *(dwy_eu node):* 
+- The 30% promised redistribution to voters will remain as long as I manage to keep the node auto-reelected, that was my contract, and my goal is to continue on that way.
 
 
-About the location : My node is in Europe :)
+New Voters *(dwy_sh possible node):* 
 
-## Relations and agreement :
+- The mining rewards will be used to help me handle [Barterlly](https://www.barterlly.io)'s project (Server costs / Bounties / Legal stuff). I took the decision on purpose not to redistribute to voters, but to dedicate it to a project I believe in, and will fight for :).
 
-Maybe the easiest part : None. Am not related to any of official member/partners.
+![](./barterlly.png)
 
-I developped contacts with some members of notarynode channel, some of them being future notary nodes like me, but don't intend to develop any sort of agreement.
+## Rewards History (dwy_eu) ##
 
-## Misc  :
-
-People and voters asked me how they could be updated on the node status, and the best solution is : Contact me on Slack.
-
-In the future I may add sort of "blog", but for the moment, I feel there is much important things to be done : Have a fresh running node, and be ready for live !
-
-I'm not twitter guy, nor facebook or any social network fan. I may change my mind later, if that's needed :).
-
-## About this election  :
-
-Maybe not the right place to discuss about it, but I want to thank everyone who supported me during this election, in terms of voting power AND motivation.
-
-## What's Next ? :
-
-Contribute, refine and participate in the notary process.
-
-Publish here the promised rewarding distribution of 30% every quarter.
-
-## Rewarding : 1st part sent ! Base calculation : 11639.42
+### 1st part sent !
 
 As you may have noticed, a big block was mined very early, And to be honest, I didn't feel comfortable keeping funds that are not mine much longer. I decided to send it after 1 month the first rewards as promised. Here's the global information :
 Thanks again for voting for me. I'll do my best in the next weeks / monthes not to disappoint you, and will compete to have the best performance.
@@ -97,8 +109,8 @@ RWqKFZKa2tpBm9bCbvZU8tX4EsEXoyC3CX|58.05677209|5.71922E-05|0.199705282|7e915bf0a
 RYU6iLdhEA1zyHVB8DYyXRvAnjksjGWYqZ|4999.9999|0.004925542|17.19913722|4efef1046940a145ea10222e994d5257ee6bf36f4f9202ff0d783333c9907770
 TOTAL|1015116.597|1|3491.826| 
 
-# Rewarding : 2nd round sent ! Base calculation : 13069.21 : Delta = 13069.21-11639.42
-
+### 2nd round sent ! 
+Base calculation : 13069.21 : Delta = 13069.21-11639.42
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 13069.21**|**TX ID**
 :-----:|:-----:|:-----:|:-----:|:-----:
@@ -135,7 +147,8 @@ TOTAL|1015116.597|1|428.952|
 
 
 
-# Rewarding : 3rd round sent ! Base calculation : 15588.31 : Delta = 15588.31 - 13069.21
+### 3rd round sent ! 
+Base calculation : 15588.31 : Delta = 15588.31 - 13069.21
 
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 15588.31**|**TX ID**
@@ -172,7 +185,8 @@ RYU6iLdhEA1zyHVB8DYyXRvAnjksjGWYqZ|4999.9999|0.004925542|3.723|198b4ae7924019790
 TOTAL|1015116.597|1|755.748|
 
 
-# Rewarding : 4th round sent ! Base calculation : 18876 : Delta = 18876 - 15588.31 : 3287.69
+### 4th round sent ! 
+Base calculation : 18876 : Delta = 18876 - 15588.31 : 3287.69
 
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 18876**|**TX ID**
@@ -210,7 +224,8 @@ TOTAL|1015116.597|1|986.307|
 
 
 
-# Rewarding : 5th round sent ! Base calculation : 21317 : Delta = 21317 - 18876 : 2441
+### 5th round sent ! 
+Base calculation : 21317 : Delta = 21317 - 18876 : 2441
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 18876**|**TX ID**
 :-----:|:-----:|:-----:|:-----:|:-----:
@@ -246,7 +261,8 @@ RYU6iLdhEA1zyHVB8DYyXRvAnjksjGWYqZ|4999.9999|0.004925542|3.607|7c5e1e25344230e9c
 TOTAL|1015116.597|1|732.313|
 
 
-# Rewarding : 6th round sent ! Base calculation : 25254 : Delta = 25256 - 21317 : 3939 - Total : 3939*0.3 : 1181.7
+### 6th round sent ! 
+Base calculation : 25254 : Delta = 25256 - 21317 : 3939 - Total : 3939*0.3 : 1181.7
 
 **VOTER ADDRESS**|**VOTE AMOUNT**|**PERCENTAGE OF VOTE**|**AMOUNT CALCULATED AT 25254**|**TX ID**
 :-----:|:-----:|:-----:|:-----:|:-----:
@@ -281,7 +297,3 @@ RWqKFZKa2tpBm9bCbvZU8tX4EsEXoyC3CX|58.05677209|5.71922E-05|0.068|fb2c2227dee30a3
 RYU6iLdhEA1zyHVB8DYyXRvAnjksjGWYqZ|4999.9999|0.004925542|5.821|00707d867613897f5b8ea9f7ae2053fe2af0865f546fc8795cfa12675f0c8f5d
 TOTAL|1015116.597|1|1181.799|
 
-
-## Contact details  :
-
-Slack : @Dwy
