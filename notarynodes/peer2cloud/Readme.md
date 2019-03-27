@@ -7,20 +7,33 @@
 
 # WHO is PUNGOio
 
-* Pungoio has rebranded from Peer2Cloud candidate in late 2018
+* [Pungoio](https://pungo.io) / - has rebranded from Peer2Cloud candidate in late 2018
 
 * Pungoio is a Komodo-born blockchain project that focus on ease of use and onboarding of users to Crypto Revolution. 
 
-* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check them out on https://pungo.app
+* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check it out on https://pungo.app - available on Google Play, Web and iOS.
 
 * Pungo has established several companies where different services are based: in Gibraltar, Romania, Georgia and Central america.
 
+* Pungo has a Participation Reward Program to encourage participating in Notary Node Elections. Check it out in next section!
 
 # 2019 ELECTION:
 
-*
+* On 14th April Komodo will Airdrop VOTE tokens to KMD holders. For each 1 KMD in your wallet you will get 1 VOTE. You can support us by sending votes to the following adddress:
 
+* VOTE PUNGOCLOUD SH CANDIDACY send your VOTES to: RSARbjjXcav4PLJTLSLDGwuec9C9kMJfWj
 
+# PARTICIPATION REWARD PROGRAM 2019
+
+* All voters will receive PUNGO token monthly as rewards directly to their voting wallets.
+
+* 20% of Mining Rewards will go to our PungoToken Buyback fund. Funds reserved to buyback PUNGO tokens in the future to token holders.
+
+* We accumulate part of our Revenues to the Public Buyback Fund. You can check it live at [PungoToken](https://pungotoken.com)
+
+* How monthly reward will be calculated: 20% of KMD mined / Buy-back in USD price of PUNGO published "live" in our page * 0.5 = amount of PUNGO that will be distributed monthly among VOTERS. 
+
+* The only requirement to get PUNGO bought back PUNGO companies is that holder has > 100 USD worth of it and to pass KYC verification. Alternatively, PUNGO will start to be traded and used in some of our products during 2019.
 
 
 # 2018 ACHIEVEMENTS
@@ -31,7 +44,7 @@
 
 * We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
 * We successfully AIRDROPPED 2% fo https://pungotoken.com to Komodo community
-* We sent NODE MINING Revenues to our VOTERS for a total of almost 9.000 KMD
+* We accumulated almost 3000 KMD in Public Buyback Fund and sent Revenues to our VOTERS 
 * Our AR node has been automatically Reelected for 1 year
 
 
