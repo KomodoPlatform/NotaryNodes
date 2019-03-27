@@ -1,6 +1,6 @@
 ## DragonHound 2019 Notary Node Proposal ##
 
-I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing. Most of this work has ben self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
+I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing. Most of this work has been self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
 
 ![alt text](https://i.imgur.com/U8fwSWC.png "Doctor Skrunch reporting for duty")
 
@@ -46,7 +46,7 @@ Collaboration, content and competitions. I have more ideas than time, and know t
 
 NN income (after server costs) will be split as follows:
 - 40% Premium canine food and apparel
-- 20% KMD LABS development initiatives
+- 20% KMD LABS development initiatives 
 - 20% GPS/IoT development 
 - 10% Monthly community competitions
 - 5% Translation bounties for support guides and developer documentation.
