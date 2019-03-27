@@ -28,15 +28,15 @@
 
 # PARTICIPATION REWARD PROGRAM 2019
 
-* All voters will receive PUNGO token monthly as rewards directly to their voting wallets.
+* All voters will receive **PUNGO token monthly** as rewards to their voting wallets.
 
-* 20% of Mining Rewards will go to our PungoToken Buyback fund. Funds reserved to buyback PUNGO tokens in the future to token holders.
+* **20% of Mining Rewards** will go to our PungoToken Buyback fund. Funds reserved to buyback PUNGO tokens in the future to token holders.
 
-* We accumulate part of our Revenues to the Public Buyback Fund. You can check it live at [PungoToken](https://pungotoken.com)
+* **We accumulate part of our Revenues to the Public Buyback Fund.** By getting PUNGO you participate on Pungo project success and we can share our success with our supporters. You can check it live at [PungoToken](https://pungotoken.com)
 
-* How monthly reward will be calculated: 20% of KMD mined / Buy-back in USD price of PUNGO published "live" in our page * 0.5 = amount of PUNGO that will be distributed monthly among VOTERS. 
+* **How monthly reward will be calculated:** 20% of KMD mined / Buy-back in USD price of PUNGO published "live" in our page * 0.6 = amount of PUNGO that will be distributed monthly among VOTERS monthly. 
 
-* The only requirement to get PUNGO bought back PUNGO companies is that holder has > 100 USD worth of it and to pass KYC verification. Alternatively, PUNGO will start to be traded and used in some of our products during 2019.
+* **PUNGO buy-backs** The only requirement to get PUNGO bought back PUNGO by us, is that holder has > 100 USD worth of it and to pass KYC verification. Alternatively, PUNGO will start to be publicly traded during 2019 and used in some of our products.
 
 
 # 2018 ACHIEVEMENTS
