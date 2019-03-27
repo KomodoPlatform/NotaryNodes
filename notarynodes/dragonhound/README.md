@@ -1,7 +1,6 @@
 ### DragonHound 2019 Notary Node Proposal ###
 
-I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending all of my non wage-slave hours learning, building and testing.
-Most of this work has ben self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
+I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing. Most of this work has ben self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
 
 Before joining the community, I spent the last decade working with Geographic Information Systems (GIS), automating cartographic production,  running spatial analysis, managing spatial databases, and running ArcGIS/QGIS training courses. Before that I was a nightshift forklift jockey in cold storage.
 I've been an afterhours coder since my old man introduced me to PERL as a youngster, and done a variety of "on the side" contracts over the years using a variety of languages. 
