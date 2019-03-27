@@ -4,25 +4,25 @@
 * **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungo** & our aliases: @kimmel @experimenter 
 * **Twitter:** [@pungoio](https://twitter.com/pungo.io)
 * **Medium:** https://medium.com/@pungoio/
-* **Websites:** https://pungo.cloud, https://pungo.io, https://pungo.app, https://pungotoken.com 
+* **Websites:** https://pungo.io, https://pungo.app, https://pungotoken.com, https://pungo.cloud 
 
 # WHO is PUNGO
 
 * [Pungoio](https://pungo.io) - has rebranded from Peer2Cloud on late 2018
 
-* Pungoio is a Komodo-born blockchain project that focuses on ease of use and onboarding of users to Crypto Revolution. 
+* **Pungoio is a Komodo-born blockchain project** that focuses on ease of use and onboarding of users to Crypto Revolution. 
 
 * Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check it out on https://pungo.app - available on Google Play, Web and iOS.
 
 * Pungo has established several companies where different services are based: in Gibraltar, Romania, Georgia and Central america.
 
-* Pungo has a Participation Reward Program to encourage participating in Notary Node Elections. Check it out in next section!
+* **Pungo has a Participation Reward Program to encourage participating** in Notary Node Elections. Check it out in next section!
 
-# 2019 ELECTION:
+# OUR SH CANDIDATE NODE FOR 2019 ELECTION:
 
 * On 14th April Komodo will Airdrop VOTE tokens to KMD holders. For each 1 KMD in your wallet you will get 1 VOTE. You can support us by sending votes to the following adddress:
 
-* **VOTE PUNGOCLOUD SH CANDIDACY send your VOTES to:** ` RSARbjjXcav4PLJTLSLDGwuec9C9kMJfWj `
+* **VOTE PUNGOCLOUD SH CANDIDATE NODE send your VOTES to:** ` RSARbjjXcav4PLJTLSLDGwuec9C9kMJfWj `
 
 ![logo2](https://i.ibb.co/TgqFfK1/screenshot-es-qr-code-generator-com-2019-03-27-02-15-41.png "qr_code")
 
