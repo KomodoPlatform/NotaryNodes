@@ -5,11 +5,11 @@
 * **Medium:** https://medium.com/@pungoio/
 * **Websites:** https://pungo.cloud, https://pungo.io, https://pungo.app, https://pungotoken.com 
 
-# WHO is PUNGOio
+# WHO is PUNGO
 
-* [Pungoio](https://pungo.io) / - has rebranded from Peer2Cloud candidate in late 2018
+* [Pungoio](https://pungo.io) / - has rebranded from Peer2Cloud on late 2018
 
-* Pungoio is a Komodo-born blockchain project that focus on ease of use and onboarding of users to Crypto Revolution. 
+* Pungoio is a Komodo-born blockchain project that focuses on ease of use and onboarding of users to Crypto Revolution. 
 
 * Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check it out on https://pungo.app - available on Google Play, Web and iOS.
 
