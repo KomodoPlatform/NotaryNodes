@@ -52,12 +52,12 @@ NN income (after server costs) will be split as follows:
 - 5% Translation bounties for support guides and developer documentation.
 - 5% Komodo Pioneers initiatives
 
-Voters will also be offered
-	- Quarterly transparency and progress reports
-	- At-cost pricing for Dragonhound merch, kit and a free 1 year subscription to the tracking service when launched.
-	- Unsolicited dog pics.
-	
-<source src="https://i.imgur.com/jJoUT3W.mp4" type='video/mp4'>
+Voters will also be offered:
+- Quarterly transparency and progress reports
+- At-cost pricing for Dragonhound merch, kit and a free 1 year subscription to the tracking service when launched.
+- Unsolicited dog pics.
+
+![alt text](https://i.imgur.com/hTU5RGh.jpg "Will you let me in?")
 
 Thanks for your consideration,
 
