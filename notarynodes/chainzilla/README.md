@@ -1,5 +1,11 @@
 ![chainzilla-banner-01.jpg](./chainzilla-banner-02.jpg)
 
+- [**IF YOU WANT TO VOTE FOR CHAINZILLA, SEND YOUR VOTE TOKENS HERE**]: 
+
+```
+RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
+```
+
 ## BIOGRAPHY ##
 
 ChainZilla is a project that was launched in June 2018 to facilitate blockchain onboarding and app development on Komodo Platform and serveral other networks.
