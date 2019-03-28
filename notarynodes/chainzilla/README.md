@@ -64,7 +64,7 @@ RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
  
  ## ChainZilla's Public Key ##
  
- -----BEGIN PGP PUBLIC KEY BLOCK-----
+ ```-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.0.77
 Comment: https://keybase.io/crypto
 
@@ -152,4 +152,4 @@ jJe7lHx1SVoYLKe7hsgFV66HWDADM5WunJ5Uyn2H1nKifTvD8WphtcxpyjXE+9pr
 hh1drWowLjRTWH3tiRqmyeRtcHAgW3+b3jw0oY3oayAAEwwgbBgFHgRgPxVGv5nb
 5QbCdejeaF5NWz5Y
 =YCHU
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----```
