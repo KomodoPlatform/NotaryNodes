@@ -1,7 +1,7 @@
 About tau I have 8 years + experience into IT and also 5 years into crypto space. 
-We are a team of 3 persons which like to promote Komodo in all spaces and spread the word all over the world 
-We organizing one of the biggest crypto meetups in Germany 
-Early Investor into BTCD and then KMD since 2016 
+We are a team of 3 persons which like to promote Komodo in all spaces and spread the word all over the world. 
+We organizing one of the biggest crypto meetups in Germany. 
+Early Investor into BTCD and then KMD since 2016.
 We will give 30% of our KMD Rewards to our voters. 
 Tau EU Notary Node Info 
 BTC pub key 0213e77c866e461dd79f222313d758dc0eb7af760ff66971ee7f21f5e27b34cb47 
