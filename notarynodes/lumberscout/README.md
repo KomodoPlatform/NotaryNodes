@@ -13,5 +13,4 @@ https://lumberscout.io/kmd_nn
 
 Vote Lumberscout 2019 !!!!
 
-RSp89iBPWifdtq6d8NmXZ4ZXsg3AyakVtj
-https://imgur.com/a/SA64OzL
+
