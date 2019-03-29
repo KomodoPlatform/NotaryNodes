@@ -1,3 +1,14 @@
+# pbca26 Notary Node Proposal 2019
+
+## Voting Address
+Region: **AR**
+
+```
+RNH8AGcxMadyQFfGepTn7jQWFEU6v5zJ7m
+```
+
+<br/>
+
 ## About Me
 I am an experienced full-stack JavaScript developer and blockchain enthusiast. Web development always has been my driving force and passion. I have worked on various projects before I joined Komodo Platform in 2016. Since then I was highly involved in SuperNET community and became a dedicated team member.
 
@@ -38,6 +49,10 @@ Upgraded a fork of WalletGenerator.net paper wallet that combines useful tools t
 ## Community work
 I created a special version of Agama desktop wallet that has a support for QRC20 tokens. Pitched to Qtum community by PTYX at the end of 2018. An idea was to onboard more projects to use Agama desktop and mobile which would place our wallet among a few that support QRC20 tokens.
 
+<p align="center">
+  <img height="400" src="./agama-desktop-qrc20.png">
+</p>
+
 ## Reward Update 
 As was stated in my last year election proposal I would gladly spare some amount of minded funds for rewarding purposes. 
 
@@ -51,7 +66,7 @@ I really appreciate initiative people who care about the community as I am and m
 
 **[Reward - 250 KMD](https://www.kmdexplorer.io/tx/27a2143ca3814a9158d015684056c73ab454ef71d2bb410bc4c807af141778ec)**
 
-**Webworker01** - for spending a lot of time to create such a useful website komodostats.com where anyone can see notary node statistics.
+**Webworker01** for spending a lot of time to create such a useful website komodostats.com where anyone can see notary node statistics.
 
 **[Reward - 200 KMD](https://www.kmdexplorer.io/tx/4a11439473288e63307fbb59003c201f33d57f599ccc3a15cd5a9f84daed7051)**
 
@@ -64,10 +79,12 @@ As a result of my consistent work throughout a year my NA node will be automatic
 
 Having a secondary node brings me an opportunity to dedicate more time helping and contributing to various community projects, expand AtomicExplorer in a way that is more scalable and user friendly, focus on hardware wallets integration e.g. Ledger and Trezor, and advanced multi-signature support.
 
-## Voting Info 
+## Voting Address 
 **Region:** AR
 
-**Address:** RNH8AGcxMadyQFfGepTn7jQWFEU6v5zJ7m  
+```
+RNH8AGcxMadyQFfGepTn7jQWFEU6v5zJ7m
+```
 
 VOTE2019 airdrop is scheduled on April 14th. Tokens will be distributed among all KMD holders in ratio 1:1. To cast a vote you need to send your VOTE2019 tokens to notary candidate address of your choice.
 
