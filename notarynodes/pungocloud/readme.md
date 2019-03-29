@@ -1,40 +1,73 @@
-![logo](http://peer2.cloud/images/peer2cloud_logo.png "peer2cloud")
+![logo](https://pungo.io/images/pungo/pungo_header_logo.png "pungocloud")
 
-* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#peer2cloud** & our aliases: @kimmel @experimenter @virginia
-* **Twitter:** [@peer2group](https://twitter.com/peer2group)
-* **Medium:** https://medium.com/@Peer2group/
-* **Websites:** https://peer2.cloud, https://peer2.group 
+* **Telegram:** [PungoTalk](https://t.me/pungotalk)
+* **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungo** & our aliases: @kimmel @experimenter 
+* **Twitter:** [@pungoio](https://twitter.com/pungo.io)
+* **Medium:** https://medium.com/@pungoio/
+* **Websites:** https://pungo.io, https://pungo.app, https://pungotoken.com, https://pungo.cloud 
 
-# Our Nodes
-## Asian Region Notary node
-### Location: Singapur
+# WHO is PUNGO
+
+* [Pungoio](https://pungo.io) - has rebranded from Peer2Cloud on late 2018
+
+* **Pungoio is a Komodo-born blockchain project** that focuses on ease of use and onboarding of users to Crypto Revolution. 
+
+* Pungoio is developing several user friendly products tightly integrated to Pungo Wallet. An open source wallet that we created based on Agama mobile. Check it out on https://pungo.app - available on Google Play, Web and iOS.
+
+* Pungo has established several companies where different services are based: in Gibraltar, Romania, Georgia and Central america.
+
+* **Pungo has a Participation Reward Program to encourage participating** in Notary Node Elections. Check it out in next section!
+
+# OUR SH CANDIDATE NODE FOR 2019 ELECTION:
+
+* On 14th April Komodo will Airdrop VOTE tokens to KMD holders. For each 1 KMD in your wallet you will get 1 VOTE. You can support us by sending votes to the following adddress:
+
+* **VOTE PUNGOCLOUD SH CANDIDATE NODE send your VOTES to:** ` RSARbjjXcav4PLJTLSLDGwuec9C9kMJfWj `
+
+![logo2](https://i.ibb.co/TgqFfK1/screenshot-es-qr-code-generator-com-2019-03-27-02-15-41.png "qr_code")
+
+
+# PARTICIPATION REWARD PROGRAM 2019
+
+* All voters will receive **PUNGO token monthly** as rewards to their voting wallets.
+
+* **20% of Mining Rewards** will go to our PungoToken Buyback fund. Funds reserved to buyback PUNGO tokens in the future to token holders.
+
+* **We accumulate part of our Revenues to the Public Buyback Fund.** By getting PUNGO you participate on Pungo project success and we can share our success with our supporters. You can check it live at [PungoToken](https://pungotoken.com)
+
+* **How monthly reward will be calculated:** 20% of KMD mined / Buy-back in USD price of PUNGO published "live" in our page * 0.6 = amount of PUNGO that will be distributed monthly among VOTERS monthly. 
+
+* **PUNGO buy-backs** The only requirement to get PUNGO bought back PUNGO by us, is that holder has > 100 USD worth of it and to pass KYC verification. Alternatively, PUNGO will start to be publicly traded during 2019 and used in some of our products.
+
+
+# 2018 ACHIEVEMENTS
+
+* Our 2 nodes have successfully performed in 2018 and we have gained great experience on handling Notary Nodes. 
+
+* SH node had IP white-listing problem with the rest of the nodes, that's why we lost a precious time while switching 3 times hosting until issue was found. However we scaled positions to get to 8th, which has not allowed us to repeat.
+
+* We successfully AIRDROPPED 3% of https://pungotoken.com to our voters
+* We successfully AIRDROPPED 2% fo https://pungotoken.com to Komodo community
+* We accumulated almost 3000 KMD in Public Buyback Fund and sent Revenues to our VOTERS 
+* Our AR node has been automatically Reelected for 1 year
+
+
+## 2018 AR Node details - Location: Singapur
 
 * BTC pub key `034e5563cb885999ae1530bd66fab728e580016629e8377579493b386bf6cebb15`
-* BTC address `18kGq4toM4MNw9CyvWUAJNRVGVLuWnLUVo`
+* BTC address `18kGq4toM4MNw9CyvWUAJNRVGVLuWnLUVo` 
 * KMD address `RH2Tuan5wt9x19aBPgTHPtkh2koWCEsjEK`
+* **Hardware**: CPU: Xeon Processor E5-2650 v4, RAM: 64 GB, SSD: 1,25 TB SSD, Link: 1 Gbps
 
-### Hardware
-
-* CPU: Xeon Processor E5-2650 v4
-* RAM: 64 GB
-* SSD: 1,25 TB SSD
-* Link: 100 Mbps
-
-## South Hemisphere Notary node
-### Location: Chile
+## 2018 South Hemisphere Notary node - Location: Sydney
 
 * BTC pub key `03396ac453b3f23e20f30d4793c5b8ab6ded6993242df4f09fd91eb9a4f8aede84`
 * BTC address `1JXwrC63VsZUuqQt1qrcYZhcRQidS17Hmf`
 * KMD address `RSp8vhyL6hN3yqn5V1qje62pBgBE9fv3Eh`
+* **Hardware CPU:** 20vCPU, RAM: 64 GB, SSD: 640 GB SSD, Link: 1 Gbps
 
-### Hardware
 
-* CPU: 20vCPU
-* RAM: 128 GB
-* SSD: 640 GB SSD
-* Link: 100 Mbps
-
-### Our voters in AR node
+## 2018 VOTES
 
 |Sending address                    	|Votes        	|
 |------------------------------------	|-------------	|
@@ -74,7 +107,7 @@
 |------------------------------------	|-------------	|
 |Total Votes                         	|2479411,861  	|
 
-### Our voters in SH node
+
 
 |Sending address                    	|Votes        	|
 |------------------------------------	|-------------	|
@@ -117,3 +150,4 @@
 | RDRKrwZ9GRNHqU2jkefhzFHwPbHgADZA1f 	| 216,5175249 	|
 |------------------------------------	|-------------	|
 |Total Votes                         	|2365726,427  	|
+
