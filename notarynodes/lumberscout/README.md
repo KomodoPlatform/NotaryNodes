@@ -1,7 +1,8 @@
 vote20!9 Notary 
 
 RSp89iBPWifdtq6d8NmXZ4ZXsg3AyakVtj
-https://imgur.com/a/SA64OzL
+![alt text](https://i.imgur.com/QTMbxwB.png)
+![alt text](https://i.imgur.com/cs8fnhu.png)
 
 SH/EU/NA/AR
 
