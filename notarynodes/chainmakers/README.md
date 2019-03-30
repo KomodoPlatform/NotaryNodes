@@ -1,4 +1,7 @@
-# Season 2018 - 2019
+#Vote Address: RCMnaLqa9fr3PcpsMTGZZW5joR42fzXwoZ
+![Proposal](https://i.imgur.com/sZGWgwj.png)
+
+# Season 2019-2020
 
 ## NA NODE
 
