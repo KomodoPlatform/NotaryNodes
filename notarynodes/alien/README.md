@@ -1,13 +1,25 @@
 ![SAM_3920.jpg](./SAM_3920.jpg)
-SHossain is currently Komodo's Chief Quality Officer and been testing all core-tech and end-user product with a good understanding of Komodo ecosystem since November 2017 while supporting users in need. He also wrote the initial BarterDEX API Summary and other dev and user centric guides. During the 2018-2019 election he brought in high-end dedicated servers and hosted them in world class Data Center and calls them **alien** nodes. He has been running his Notary Nodes reliably every day which are currently #1 and #2 in overall performance.
+
+# Vote SHossain (alien) for NA region
+## Vote Address: `RPzqobhiDPAh8uvRjkYVWUmcQUg6JbJuju`
+### Why Vote SHossain?
+- Reliable operations
+- Fast to response and update
+- High-end servers
+- Experienced and dedicated operator
+- Monitoring the network constantly
+- Trusted team & community member
+- Long-term Komodo fan
+- Excellent track record ([check stats of alien_devA & alien_devE nodes](https://komodostats.com))
+
+## Who is SHossain?
+SHossain is currently Komodo's Chief Quality Officer and been testing all core-tech and end-user product with a good understanding of Komodo ecosystem since November 2017 while supporting users in need. He is with the community since BTCD mining days and participated in SuperNET ICO. He also wrote the initial BarterDEX API Summary and other dev and user centric guides. During the 2018-2019 election he brought in high-end dedicated servers and hosted them in world class Data Center and calls them **alien** nodes. Notary Nodes are very important part of Komodo ecosystem and SHossain intends to run his nodes reliably, which he has been doing since day one. His nodes achieved #1 and #2 in overall performance in 2018 season.
 
 The alien nodes are also one of the first to response while adding a new coin or updating Komodo or iguana core. Also been running internal tests of new implementation, security closely with the dev team.
 
-With the portion of mining proceeds, SHossain has been renting more dedicated servers to perform additional test of Komodo ecosystem and helped in scaling test in the past and will do in the future.
+With the portion of mining proceeds, SHossain has been renting more dedicated servers to perform additional test of Komodo ecosystem, and helped in scaling test in the past and will do in the future. He is also running separate test dPoW network for development purposes using test chains.
 
-Notary Nodes are very important part of Komodo ecosystem and SHossain intends to run it them reliably, which he has been doing since day one. He also helps other operators as he can when needed with their Notary Nodes.
-
-Checkout **alien** node specs below:
+Checkout current **alien** node specs below:
 
 # EU
 
@@ -34,6 +46,8 @@ KMD - `RBHzJTW73U3nyHyxBwiG92bJckxZowPY87`
 - Memory:	4x 32GB 2400MHz Samsung DDR4 ECC Registered DIMM Module
 - Storage: 2x 1TB Samsung 960 PRO NMVe M.2
 - Power Supply: 2x 80 Plus Platinum 1100w, redundant PSU
+
+### Thank you for reading and please send your vote to `RPzqobhiDPAh8uvRjkYVWUmcQUg6JbJuju` for a reliable operator in NA region.
 
 # Contact details
 Discord handle: @SHossain#0007  
