@@ -1,15 +1,16 @@
-
+<img src="./Banner_1.png" width="248">
  
-Notary Node Proposal
-and1"ヅblubbi
+## Notary Node Proposal ##
+## and1"ヅblubbi ##
+ 
+ <img src="./dog.png" width="248">
+ 
+## KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
  
-KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
- 
- <img src="./Banner_1.png" width="380">
  
  
-How to vote
+## How to vote ##
  
 1. Download Agama - https://komodoplatform.com/komodo-wallets/
 2. Import your KMD private key or seed and start KMD coin
@@ -21,7 +22,7 @@ Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
  
  
-What is a Notary Node?
+## What is a Notary Node?
 Excerpts from the original documentation
 https://blog.komodoplatform.com/delayed-proof-of-work-explained-9a74250dbb86
  
@@ -35,7 +36,7 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
   
  
  
-Reasons to vote for us:
+## Reasons to vote for us:
 
 
 First of all Who We are ? 
@@ -55,7 +56,7 @@ Pirate Channel of Germany’s Telegram Group.
 (On personal request, the remuneration in Pirate (ARRR) is possible. The price determination is made from the average of the buyer and seller offers, of the exchange with the largest volume on the date of the quarterly distribution.)
 
 
-Server Information:
+## Server Information:
 
  
 CPU:          Intel  2x Xeon E5-2630v3 - 16/32t - 2.4GHz /3.2GHz
@@ -66,12 +67,12 @@ Location:     Frankfurt, Germany
 
 
 
-KMD EU Vote address:
+## KMD EU Vote address:
  
 RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
 
 
-
+<img src="./Banner_2.png" width="248">
 
 @and1"ヅblubbi#5456
 
