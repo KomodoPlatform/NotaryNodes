@@ -6,7 +6,7 @@ and1"ヅblubbi
  
 KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
  
- <img src="./Banner_1.png" width="248">
+ <img src="./Banner_1.png" width="380">
  
  
 How to vote
