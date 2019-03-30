@@ -16,7 +16,7 @@ Last year, I pledged to donate part of the proceeds of my notary node to charity
 
 This year I plan to switch things up slightly with fund distribution:
 
-<img src="https://i.imgur.com/fECmKM8.png">
+<img src="https://i.imgur.com/fECmKM8.png" width=400>
 
 These values are approximate, particularly server expenses, which is a fixed USD cost. If server expenses shrink below 40% then the rest of the values will increase proportionally.
 
