@@ -1,6 +1,6 @@
 ![Banner_1.png](./Banner_1.png)
  *
-<p align="center"> 
+<# p align="center"> 
  Notary Node Proposal *
 # <p align="center">
  and1"ヅblubbi 
