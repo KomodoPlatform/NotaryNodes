@@ -64,9 +64,13 @@ Pirate Channel of Germany’s Telegram Group.
 
  
 **CPU:**          Intel  2x Xeon E5-2630v3 - 16/32t - 2.4GHz /3.2GHz
+
 **RAM:**      128GB DDR4 ECC 1866 MHz
+
 **SSD:**       SoftRaid 2x450GB SSD NVMe
+
 **Networking:**    1000 Mbit/s upload bandwidth
+
 **Location:**     Frankfurt, Germany
 
 
