@@ -33,11 +33,9 @@ Region: Singapore
 | Storage | 650 GB SSD          |
 | Network | 1 Gbps up/down, IPv6 enabled |
 
-## 
+## Voter information
 
-BTC pubkey: `038ff7cfe34cb13b524e0941d5cf710beca2ffb7e05ddf15ced7d4f14fbb0a6f69`  
-BTC address: `1LKto47kVLtNX9GFCBLevHGv1hq9qFSyE7`  
-KMD address: `RUc5sa136Agwb9dSfMKn1oc7myHkUzeZf4`
+KMD VOTE2019 Address: `RReUFUbud5zhkxw61zqXbao4R8fhVCpZfP`
 
 
 ## Contact information
