@@ -2,7 +2,7 @@
 Hi, my name is Jackson, and I am an existing notary node operator running for re-election in the Asia/Russia region. I, like many other operators and candidates, only operate a single node, which contribute to the decentralization of the notary node network.
 
 I have a deep passion for blockchain technology, and love to participate in hackathons to increase my understanding of the technology. Recently I participated in a blockchain hackathon in South Korea, and my team and I won, taking home 10M KRW.
-<img src="https://i.imgur.com/Mu2nUkb.jpg">
+<img src="https://i.imgur.com/Mu2nUkb.jpg" width=400>
 
 ## Keys
 
