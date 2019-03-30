@@ -3,7 +3,7 @@
 ## Notary Node Proposal ##
 ## and1"ヅblubbi ##
  
- <img src="./dog.jng" width="248">
+ <img src="./dog.jpg" width="248">
  
 ## KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
