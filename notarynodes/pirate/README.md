@@ -26,7 +26,7 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 	| RAM      |128GB DDR4 ECC 1866 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
     | Network  |1 Gbps up/down  |
-	| Location |Datacenter - Frankfurt, Germany			|
+	| Location |Datacenter - London, UK 			|
 
 - [NA]
 
