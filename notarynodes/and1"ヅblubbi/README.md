@@ -1,9 +1,9 @@
 ![Banner_1.png](./Banner_1.png)
  
-<#p align="center" #> 
- Notary Node Proposal 
-# <p align="center">
- and1"ヅblubbi 
+
+# Notary Node Proposal 
+
+# and1"ヅblubbi 
 
  
 <p align="center">
@@ -11,9 +11,9 @@
 
  
 # KMD EU:   
-```
-** RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp **
-```
+
+# RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
+
  
  
  
