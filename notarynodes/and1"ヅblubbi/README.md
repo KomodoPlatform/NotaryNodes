@@ -34,7 +34,7 @@ If you have multiple KMD addresses don't consolidate before sending your VOTE.
  
 # What is a Notary Node?
 
-Excerpts from the original documentation
+*Excerpts from the original documentation*
 
 https://blog.komodoplatform.com/delayed-proof-of-work-explained-9a74250dbb86
  
