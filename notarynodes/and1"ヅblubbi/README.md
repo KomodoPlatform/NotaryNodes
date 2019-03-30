@@ -3,7 +3,7 @@
 ## Notary Node Proposal ##
 ## and1"ヅblubbi ##
  
- <img src="./dog.png" width="248">
+ <img src="./dog.jng" width="248">
  
 ## KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
@@ -23,7 +23,9 @@ If you have multiple KMD addresses don't consolidate before sending your VOTE.
  
  
 ## What is a Notary Node?
+
 Excerpts from the original documentation
+
 https://blog.komodoplatform.com/delayed-proof-of-work-explained-9a74250dbb86
  
 * 64 special nodes which can create a network of its own dPoW (delayed Proof of Work) peer-to-peer network and communicate with each other exchanging the latest blocks and dPoW consensus information related to the blockchains it is securing. The nodes in this dPoW peer-to-peer network are called Notary Nodes (NN).
