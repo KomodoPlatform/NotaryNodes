@@ -71,12 +71,12 @@ Location:     Frankfurt, Germany
 
 ## KMD EU Vote address:
  
-RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
+## RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
 
 
 <img src="./Banner_2.png" width="248">
 
-@and1"ヅblubbi#5456
+## @and1"ヅblubbi#5456
 
 
 
