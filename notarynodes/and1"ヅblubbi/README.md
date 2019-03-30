@@ -2,8 +2,7 @@
  
 # Notary Node Proposal ##
 # and1"ヅblubbi ##
- 
- <div style="text-align:center"><img src ="dog.jpg" />
+
  
 <p align="center">
   <img src="dog.jpg" />
