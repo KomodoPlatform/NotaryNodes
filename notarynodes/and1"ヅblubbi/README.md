@@ -5,7 +5,7 @@
 
  
 <p align="center">
-  <img width="248" src="dog.jpg" />
+  <img width="512" src="dog.jpg" />
 
  
 # KMD EU:   
