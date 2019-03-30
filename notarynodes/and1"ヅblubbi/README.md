@@ -3,8 +3,7 @@
 # Notary Node Proposal ##
 # and1"ヅblubbi ##
  
- [dog.jpg](./dog.jpg)
- <img src="./dog.jpg" width="248">
+ ![dog.jpg](./dog.jpg)
  
 # KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
@@ -77,7 +76,7 @@ Location:     Frankfurt, Germany
 ## RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp
 
 
-<img src="./Banner_2.png" width="248">
+![Banner_2.png](./Banner_2.png)
 
 ## @and1"ヅblubbi#5456
 
