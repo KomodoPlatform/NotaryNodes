@@ -3,7 +3,7 @@
 # Notary Node Proposal ##
 # and1"ヅblubbi ##
  
- ![dog.jpg](./dog.jpg)
+ <img src="./dog.jpg" width="350">
  
 # KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
