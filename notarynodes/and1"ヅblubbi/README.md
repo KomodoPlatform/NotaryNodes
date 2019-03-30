@@ -3,10 +3,10 @@
 # Notary Node Proposal ##
 # and1"ヅblubbi ##
  
- <div style="text-align:center"><img src ="dog.jpg" /></div>00"> 
+ <div style="text-align:center"><img src ="dog.jpg" />
  
 <p align="center">
-  <img width="460" height="300" src="dog.jpg" />
+  <img src="dog.jpg" />
 
  
 # KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
