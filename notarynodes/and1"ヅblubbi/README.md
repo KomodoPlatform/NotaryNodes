@@ -49,13 +49,13 @@ We’re  Technic and Crypto enthusiast from Germany, who has already collected e
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
 Pirate Channel of Germany’s Telegram Group.
 
-1. We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
+* We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
 
-2. Since the Komodo team is focused on developing the technical applications of  Blockchain, we are convinced that this will have an enormous impact on the entire future Blockchain technology. That's why we want to bring in our personal experience to the community.
+* Since the Komodo team is focused on developing the technical applications of  Blockchain, we are convinced that this will have an enormous impact on the entire future Blockchain technology. That's why we want to bring in our personal experience to the community.
 
-3. We are not official team members or partners of Komodo. We see independence as an additional contribution to decentralisation.
+* We are not official team members or partners of Komodo. We see independence as an additional contribution to decentralisation.
 
-4. We will pay 30% of the mining profits as rewards to our voters per quarter (as a percentage of the total number of votes),because the confidence of the voters in us should pay off in a profit sharing.
+* We will pay 30% of the mining profits as rewards to our voters per quarter (as a percentage of the total number of votes),because the confidence of the voters in us should pay off in a profit sharing.
 
 (On personal request, the remuneration in Pirate (ARRR) is possible. The price determination is made from the average of the buyer and seller offers, of the exchange with the largest volume on the date of the quarterly distribution.)
 
