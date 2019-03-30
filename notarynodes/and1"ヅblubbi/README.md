@@ -78,7 +78,8 @@ Location:     Frankfurt, Germany
 
 ![Banner_2.png](./Banner_2.png)
 
-## @and1"ヅblubbi#5456
+[and1"ヅblubbi#5456](https://komodoplatform.com/discord)
+
 
 
 
