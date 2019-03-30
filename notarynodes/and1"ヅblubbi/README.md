@@ -19,14 +19,16 @@
 # How to vote ##
  
 **1.** Download Agama - https://komodoplatform.com/komodo-wallets/
+
 **2.** Import your KMD private key or seed and start KMD coin
+
 **3.** Activate Coins --> VOTE2019 Coin--> select
 
 (VoteCoin2019 will be airdropped 14. April equal to your Agama KMD amount)
 
 **4.** Send your VOTE2019 Coins to one of the addresses listed
 
-Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
+**Note:** Only first transaction of VOTE2019 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
  
  
