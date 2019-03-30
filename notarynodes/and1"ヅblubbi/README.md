@@ -4,7 +4,10 @@
 # and1"ヅblubbi ##
  
  <div style="text-align:center"><img src ="dog.jpg" /></div>00"> 
- <img src="dog.jpg" align="middle">
+ 
+<p align="center">
+  <img width="460" height="300" src="dog.jpg" />
+
  
 # KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
