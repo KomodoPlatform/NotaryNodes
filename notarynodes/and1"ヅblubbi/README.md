@@ -1,3 +1,4 @@
+![Banner_1.png](./Banner_1.png)
 <img src="./Banner_1.png" width="248">
  
 # Notary Node Proposal ##
