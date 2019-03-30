@@ -1,16 +1,16 @@
 <img src="./Banner_1.png" width="248">
  
-## Notary Node Proposal ##
-## and1"ヅblubbi ##
+# Notary Node Proposal ##
+# and1"ヅblubbi ##
  
  <img src="./dog.jpg" width="248">
  
-## KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
+# KMD EU:   RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ##
  
  
  
  
-## How to vote ##
+# How to vote ##
  
 1. Download Agama - https://komodoplatform.com/komodo-wallets/
 2. Import your KMD private key or seed and start KMD coin
@@ -24,7 +24,7 @@ Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
  
  
-## What is a Notary Node?
+# What is a Notary Node?
 
 Excerpts from the original documentation
 
@@ -40,10 +40,10 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
   
  
  
-## Reasons to vote for us:
+# Reasons to vote for us:
 
 
-# First of all Who We are ? 
+## First of all Who We are ? 
 
 We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs Node, XMPP Chat Server and handling 
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
