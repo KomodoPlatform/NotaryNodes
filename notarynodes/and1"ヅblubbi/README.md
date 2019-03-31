@@ -44,9 +44,10 @@
 **4.** Send your VOTE2019 Coins to one of the addresses listed
 
 
-```Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
+```
+Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
- ```
+```
  
 # What is a Notary Node?
 
