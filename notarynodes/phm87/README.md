@@ -4,9 +4,9 @@ Dear KMD community,
 
 I'm running a mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers.
 
-I'd like to run a Notary Node in SH region and I expect at least as much work as a 40 altcoins mining pool requires. I joined the NN testnet of 2019 that was fun.
+I'd like to run a Notary Node in SH region and I expect at least as much fun, work and pleasure as I had to run a 40 altcoins mining pool. I joined the NN testnet of 2019 that was very interesting.
 
-I had pleasure to test several ideas on testnet on altcoins and I'd like to support Komodo ecosystem by providing mining pools, block explorers for "testnet" coins and other tools (*).
+I had pleasure to test several ideas on testnet on altcoins and I'd like to support Komodo ecosystem by providing mining pools, block explorers for assetchains that could need it and other tools.
 
 ## Voting Address (SH region) :
 
@@ -23,8 +23,8 @@ Hardware will be chosen according to requirements to run the Notary Node setup w
 ## Node details and future  :
 
 The Notary Nodes rewards will be used to pay the servers required to operate as a Notary Node but other experiments may be conducted:
-- Additional servers to provide "testnet" (*) mining pools for all KMD assetchains that have a testnet
-- Additional servers to provide "testnet" (*) block explorers for all KMD assetchains that have a testnet
+- Additional servers to provide mining pools for all assetchains that could need it
+- Additional servers to provide block explorers for all assetchains that could need it
 - Additional server for kmdlabs for testing (details to be discussed)
 
 My experience with UniMining.net will help me to be able to maintain assetchains, KMD and BTC nodes. We are familiar with virtualization (VMware ESXi), TeamCity and coin updates. We improved automation using TeamCity and custom scripts to build and deploy coins but also to monitor blockchains. We are planning to use Docker when we will have enough experience with it (1). To improve stability, another script checks if each coin daemon is on the same chain of several block explorers.
