@@ -1,5 +1,7 @@
 ## DragonHound 2019 Notary Node Proposal ##
 
+#### VOTE2019 Address (North America Region) is RJRr8azAAn9nbPPPXxeoXS9ehD8JhE7CQ1 ####
+
 I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing. Most of this work has been self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
 
 ![alt text](https://i.imgur.com/U8fwSWC.png "Doctor Skrunch reporting for duty")
@@ -63,9 +65,11 @@ Thanks for your consideration,
 
 smk762
 
+#### VOTE2019 Address (North America Region) is RJRr8azAAn9nbPPPXxeoXS9ehD8JhE7CQ1 ####
+
 ## Disclosure ##
 - I am a Komodo Team Member
 - I do not have any active Komodo Notary Nodes
 - I am a KMD Labs Team Member
-- I am running for election as an independant, but will be donating a portion of Notary Node funds earned to Komodo Pioneers and KMD Labs.
+- I am running for election as an independent, but will be donating a portion of Notary Node funds earned to Komodo Pioneers and KMD Labs.
 - A portion of Notary Node funds earned will also be distributed to community members participating in monthly competitions (you dont need to vote for me to participate).
