@@ -14,9 +14,9 @@ I had pleasure to test several ideas on testnet on altcoins and I'd like to supp
 
 ## Server Specs  :
 
-Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz 
-64GB DDR4 ECC 2133MHz 
-NVMe
+ Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz
+ 64GB DDR4 ECC 2133MHz
+ NVMe 1.2 To RAID
 
 Hardware will be chosen according to requirements to run the Notary Node setup with virtualization. A dual-CPU, more RAM or a second server may also be added if load is higher than expected. On the mining pool, we are using several servers in a VPN but with a network segmentation so using several servers won't be an issue.
 	
