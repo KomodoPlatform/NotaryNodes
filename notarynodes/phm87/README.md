@@ -8,7 +8,7 @@ I'd like to run a Notary Node in SH region and I expect at least as much work as
 
 I had pleasure to test several ideas on testnet on altcoins and I'd like to support Komodo ecosystem by providing mining pools, block explorers for "testnet" coins and other tools (*).
 
-## Voting Address (EU region) :
+## Voting Address (SH region) :
 
 **KMD** - RUMwK3uQtWzTmKxCKit7UXY9VMySdmEfbd
 
