@@ -1,7 +1,7 @@
 ![alt text](https://i.imgur.com/4S1kblJ.png)
 
 
-My goal as a potential notary node operator is to add to ecosystem reliable and highly-available nide and contribute to NN operators software.  
+My goal as a potential notary node operator is to add to ecosystem reliable and highly-available node and contribute to NN operators software.  
 
 Part of the NN rewards I'm planning to spend on different testing bounties and community activities. For example ROGUE freeroll tournaments, crypto-conditions Tetris championship, crypto conditions modules testing bounties and so on.
  
