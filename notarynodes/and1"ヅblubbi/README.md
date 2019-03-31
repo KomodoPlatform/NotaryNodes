@@ -22,14 +22,15 @@
  
 <p align="center">
   <img width="350" src="dog.jpg" />
-
+-----
+-----
  
 # KMD EU:   
 
 # RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
 
-
-
+----
+----
 
 
 
@@ -74,7 +75,7 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 # Reasons to vote for us:
 
 
-## * First of all Who We are ? 
+##  First of all Who We are ? 
 
 We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs Node, XMPP Chat Server and handling 
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
