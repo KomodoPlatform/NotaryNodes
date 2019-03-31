@@ -54,7 +54,7 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 
 We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs Node, XMPP Chat Server and handling 
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
-Pirate Channel of Germany’s Telegram Group.
+Komodo and Pirate Channel of Germany’s Telegram Group.
 
 * We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
 
