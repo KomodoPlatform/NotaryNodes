@@ -64,7 +64,7 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 
 ##  First of all Who We are ? 
 
-We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs Node, XMPP Chat Server and handling 
+We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs StakedNotary, XMPP Chat Server and handling 
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
 Komodo and Pirate Channel of Germany’s Telegram Group.
 
