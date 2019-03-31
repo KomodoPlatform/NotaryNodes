@@ -26,9 +26,7 @@
 -----
 -----
  
-# KMD EU:   
-
-# RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
+# KMD EU ADDRESS: RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
 
 ----
 ----
