@@ -2,7 +2,7 @@
 
 Dear KMD community,
 
-I'm running a mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers.
+I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years and I entered crypto in april 2017.
 
 I'd like to run a Notary Node in SH region and I expect at least as much fun, work and pleasure as I had to run a 40 altcoins mining pool. I joined the NN testnet of 2019 that was very interesting.
 
