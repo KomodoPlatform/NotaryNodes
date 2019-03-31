@@ -26,7 +26,7 @@
 -----
 -----
  
-# KMD EU : RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
+# KMD EU : RB1BSgGjcNM1tJt7XG6CWqJ9kyWHuitRX7 
 
 ----
 ----
@@ -107,7 +107,7 @@ Komodo and Pirate Channel of Germany’s Telegram Group.
 
 ----
 
-**KMD EU Vote address:**```RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ```
+**KMD EU Vote address:**```RB1BSgGjcNM1tJt7XG6CWqJ9kyWHuitRX7```
 
 ----
 
