@@ -3,6 +3,7 @@
 - BTC-address:
 - btcpubkey:
 
+![alt text](https://github.com/blackjok3rtt/vote2018/blob/master/notarynodes/blackjok3r/notary.png "")
 
 ### Send VOTE Here : `REJ77rETvXdVCtzvUbzcGxGbVwWQNoieJq`
 
