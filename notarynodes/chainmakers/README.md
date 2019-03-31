@@ -1,3 +1,17 @@
+# Season 2019 - 2020
+# NA NODE
+## Vote Address: RCMnaLqa9fr3PcpsMTGZZW5joR42fzXwoZ
+
+Node Details
+
+Canada
+MG-128 Server - 2x Xeon E5-2630v3 - 128GB - SoftRaid 2x2To
+
+![Proposal](https://i.imgur.com/sZGWgwj.png)
+
+
+________________________________________________________________________________
+
 # Season 2018 - 2019
 
 ## NA NODE
