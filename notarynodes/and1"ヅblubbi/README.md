@@ -83,12 +83,15 @@ Komodo and Pirate Channel of Germany’s Telegram Group.
 
  
 **CPU:**          IIntel Xeon E5-1660v3 - 8c/16t - 3/3.5 GHz
+----
 **RAM:**          128GB DDR4 ECC 2133 MHz
+----
 **SSD:**          SoftRaid 2x1.92TB NVMe
+----
 **Networking:**   1000 Mbit/s upload bandwidth
-
+----
 **Location:**     Frankfurt, Germany
-
+----
 
 ----
 
