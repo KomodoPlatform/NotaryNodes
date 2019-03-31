@@ -41,9 +41,9 @@ I have a friendly relationship with crackers of zpool, metaphilibert and ludom. 
 
 ## Contact details  :
 
-Slack : @phm87
-Discord : phm87#7395
-Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
+- Slack : @phm87
+- Discord : phm87#7395
+- Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
 
 
 (*) In this text, "testnet" doesn't mean that testnet=1 is written into the coin.conf file. As example, RKT / PIRATETEST is the "testnet" of PIRATE coin.
