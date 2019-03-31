@@ -20,7 +20,7 @@ I have been promoted to a Komodo Team member from all my efforts throughout seas
 - Lead role on the scaling test. Which lead to LABS and the debugging of MoMoM which has been my major long term focus throughout late 2018 early 2019.
 - Working with jl777 to fix KMDDice and fix various low level CC bottlenecks in the komodod code base. Before this full blocks of CC transactions were extremely slow, and basically unusable.
 - Huge numbers of various bug fixes I have forgotten about. My github (LABS & blackjok3r) is one of the most active repos in the komodo ecosystem.
-- I am a huge fan of one operator one node.I would rather keep my single node and have any extra spots go to a new operator that deserves a go. I was very lucky to get my spot last year, having no experience in this industry at all and having to learn everything from scratch on my own. The help I got from the komodo community from people such as jl777, webworker01, dwy, Decker, Alright, ComputerGenie, dukeleto, lukechilds, Emmanuel and Patchkez has been invaluable. There is no doubt I couldn't have done it without them. I hope voters let some other new people also get this opportunity this coming year. This is how komodo will do very well, with a strong and diverse team of operators working as a team.
+- I am a huge fan of one operator one node.I would rather keep my single node and have any extra spots go to a new operator that deserves a go. I was very lucky to get my spot last year, having no experience in this industry at all and having to learn everything from scratch on my own. The help I got from the komodo community from people such as jl777, webworker01, dwy, Decker, Alright, ComputerGenie, dukeleto, lukechilds, Emmanuel and Patchkez has been invaluable (sorry if I missed anyone). There is no doubt I couldn't have done it without them. I hope voters let some other new people also get this opportunity this coming year. This is how komodo will do very well, with a strong and diverse team of operators working as a team.
 
 #### Region: SH
 - 4x AMD Opteron 6176 12 Core CPU's (48 cores)
@@ -31,6 +31,13 @@ I have been promoted to a Komodo Team member from all my efforts throughout seas
 - 1 Gbps Port - in Aus, 100Mbit international link.
 - Location: Perth, Western Australia
 
+## Proposal Details 
+- I am running my node for LABS this year. While this node is mine, I will be donating up to 50% of the KMD to LABS (or other ecosystem projects should there be something worthy) as required. This is not a fixed percentage. I will put up what ever LABS needs from my KMD should the project require it. The most important for me this year is to get my hardware updgraded to cover the needed requirements into the future and secure my position next year without needing to run for election.
+- I will continue to try and improve quality of life for all notary operators and share all my findings and code improvments as I did this last season. 
+
+I hope the community can see my value to the ecosystem and give me another go this season. Please vote for me :) 
+
+I will update my pubkey and other details after election is over, as was the process last year to make sure everything is as secure as possible. 
 
 ## Contact details
 
