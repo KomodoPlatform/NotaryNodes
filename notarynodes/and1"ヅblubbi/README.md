@@ -88,6 +88,8 @@ Pirate Channel of Germany’s Telegram Group.
 
 
 
+
+
 ![Banner_2.png](./Banner_2.png)
 
 Discord: [and1"ヅblubbi#5456](https://komodoplatform.com/discord)
