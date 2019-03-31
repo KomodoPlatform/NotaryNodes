@@ -48,4 +48,5 @@ _I will comply with the minimum sever requirement if elected as provided:_
 ## Contact Info
 * Discord: gt#2812
 * Email: weget@protonmail.com
+* 한국어 가능
 
