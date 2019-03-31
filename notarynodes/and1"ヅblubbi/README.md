@@ -83,7 +83,10 @@ Pirate Channel of Germany’s Telegram Group.
 
 
 
-KMD EU Vote address:```RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ```
+
+**KMD EU Vote address:**```progRRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ```
+
+
 
 ![Banner_2.png](./Banner_2.png)
 
