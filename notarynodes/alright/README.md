@@ -26,3 +26,6 @@ I've been developing pos64staker. This project allows for a noob to stake their 
 
 I will run my node in Tel Aviv, Israel. I made this decision because there isn't a single notary node in the middle east. This will be beneficial to the decentralization of the network. At first this will be run on a VPS. This will allow me to seamlessly change datacenters if need be. I am currently researching hardware. I plan to buy a server within a few months of the season starting.
 
+## Disclosure 
+
+I am a KMD team member. ComputerGenie is my grandfather. 
