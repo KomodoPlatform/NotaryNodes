@@ -1,6 +1,6 @@
 ## Alright - Asia Region Notary Node
 
-### VOTE address : `RL716eGAQ1NdR7x48EdGFsSQvzewkdwjqM`
+### AR region VOTE address : `RL716eGAQ1NdR7x48EdGFsSQvzewkdwjqM`
 
 ## Who Am I?
 
