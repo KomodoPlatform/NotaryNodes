@@ -2,7 +2,7 @@
 
 ## Newvulcan Voting Address
 Region: Europe (EU)
-==RSdUzqzBZRUPfMiEpxdoVwykgFoB4yMbZt==
+RSdUzqzBZRUPfMiEpxdoVwykgFoB4yMbZt
 
 To vote for me, just send your [KMD VOTE tokens](https://komodoelection.com/2-election-process/vote-token/) before May 14, 2019 to the above KMD address
 
