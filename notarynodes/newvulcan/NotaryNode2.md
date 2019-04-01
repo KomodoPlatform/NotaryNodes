@@ -11,15 +11,6 @@ To vote for me, just send your [KMD VOTE tokens](https://komodoelection.com/2-el
 
 UK Based Dedicated Server
 
-|Hardware|Description      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-
-
-
 |Hardware | Description  |
 |--|--|
 |Processor  | AMD Epyc 7351P 2.4GHz 16 Core |
