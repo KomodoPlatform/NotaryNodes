@@ -1,4 +1,8 @@
-# Notary Node Proposal and1-89
+# **Notary Node Proposal and1-89**
+
+
+
+
 
 ![Banner_1.png](./Banner_1.png)
 
@@ -6,12 +10,15 @@
 
 
 <p align="center">
-  <img width="512" src="dog.jpg" />
+  <img width="350" src="dog.jpg" />
 
+-----
+-----
 
-# KMD EU:   
+# KMD EU : RB1BSgGjcNM1tJt7XG6CWqJ9kyWHuitRX7 
 
-## RRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp 
+----
+----
 
 
 
@@ -28,9 +35,11 @@
 
 **4.** Send your VOTE2019 Coins to one of the addresses listed
 
-**Note:** Only first transaction of VOTE2019 Coin will be counted as a valid vote.
-If you have multiple KMD addresses don't consolidate before sending your VOTE.
 
+```
+Note: Only first transaction of VOTE2019 Coin will be counted as a valid vote.
+If you have multiple KMD addresses don't consolidate before sending your VOTE.
+```
 
 # What is a Notary Node?
 
@@ -51,11 +60,11 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 # Reasons to vote for us:
 
 
-## First of all Who We are ? 
+##  First of all Who We are ? 
 
-We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs Node, XMPP Chat Server and handling 
+We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by running an KMDLabs StakedNotary, XMPP Chat Server and handling 
 our own Mining Farm. Also some of you knowing us as one of the Admin’s in the 
-Pirate Channel of Germany’s Telegram Group.
+Komodo and Pirate Channel of Germany’s Telegram Group.
 
 * We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
 
@@ -71,26 +80,25 @@ Pirate Channel of Germany’s Telegram Group.
 ## Server Information:
 
 
-**CPU:**          Intel  2x Xeon E5-2630v3 - 16/32t - 2.4GHz /3.2GHz
+**CPU:**          IIntel Xeon E5-1660v3 - 8c/16t - 3/3.5 GHz
 
-**RAM:**          128GB DDR4 ECC 1866 MHz
+**RAM:**          128GB DDR4 ECC 2133 MHz
 
-**SSD:**          SoftRaid 2x450GB SSD NVMe
+**SSD:**          SoftRaid 2x1.92TB NVMe
 
 **Networking:**   1000 Mbit/s upload bandwidth
 
 **Location:**     Frankfurt, Germany
 
 
+----
 
+**KMD EU Vote address:**```RB1BSgGjcNM1tJt7XG6CWqJ9kyWHuitRX7```
 
-**KMD EU Vote address:**```progRRkgrAmJR7wmt6NEJKrU936bxFigxi4ojp ```
-
-
+----
 
 
 
 ![Banner_2.png](./Banner_2.png)
 
 Discord: [and1"ヅblubbi#5456](https://komodoplatform.com/discord)
-
