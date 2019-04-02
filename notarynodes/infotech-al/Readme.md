@@ -16,7 +16,7 @@
 
 |   	|   	|
 |---	|---	|
-| ![komodo-logo!](komodo-logo.png "komodo-logo") |  You get a Notary Node Operator, Social Media Marketer, World Traveler, Philanthropist, Bicyclist... 	|
+| ![komodo-logo.png](https://drive.google.com/uc?export=view&id=1-Z0oSxA-ysMWEjV7DCW194AwqjFrig17) | You get a Notary Node Operator, Social Media Marketer, World Traveler, Philanthropist, Bicyclist... 	|
 | `InfoTech – Al Notary Node Candidate` | **VOTING DETAILS: NORTH AMERICA ADDRESS** <br/>RJZWxYnAuu6j6qUtqVJfBUPaMy2qyExBds  |
 | |**VOTING DETAILS: EUROPE ADDRESS** <br/>- TBD |
 
