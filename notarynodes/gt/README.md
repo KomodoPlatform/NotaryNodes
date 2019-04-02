@@ -24,8 +24,6 @@
 * 5% - Pirate Chain development
 * 5% - Verus Foundation
 * 5% - Toward other developments/bounties that come up.
-          TBD on a monthly basis
-
 ```
 
 ## Server Spec:
@@ -44,6 +42,7 @@ _I will comply with the minimum sever requirement if elected as provided:_
 
 ## Disclosure
 * KMDLabs node operator
+* First time running for a NN position
 
 ## Contact Info
 * Discord: gt#2812
