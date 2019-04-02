@@ -4,7 +4,7 @@
 
 I'm a bloke with a dog, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing. Most of this work has been self-directed until recently when I was honored with a place within the team as a dApp dev, support agent and qa tech.
 
-![alt text](https://i.imgur.com/U8fwSWC.png "Doctor Skrunch reporting for duty")
+![alt text](https://i.imgur.com/McTA1MS.png "Doctor Skrunch reporting for duty")
 
 Before joining the community, I spent the last decade working with Geographic Information Systems (GIS), automating cartographic production,  running spatial analysis, managing spatial databases, and running ArcGIS/QGIS training courses. Before that I was a nightshift forklift jockey in cold storage.
 I've been an afterhours coder since my old man introduced me to PERL as a youngster, and done a variety of "on the side" contracts over the years using a variety of languages. 
@@ -47,19 +47,19 @@ Running a NN is the next step in learning more and being able to do more.
 Collaboration, content and competitions. I have more ideas than time, and know there is talent within the community worth rewarding. If you have the time and talent to help, I'd like to tip you with tokens so we can build something awesome.
 
 NN income (after server costs) will be split as follows:
-- 40% Premium canine food and apparel
+- 39% Premium canine food and apparel
 - 20% KMD LABS development initiatives 
 - 20% GPS/IoT development 
-- 10% Monthly community competitions
-- 5% Translation bounties for support guides and developer documentation.
-- 5% Komodo Pioneers initiatives
+- 7% Monthly community competitions
+- 7% Translation bounties for support guides and developer documentation.
+- 7% Komodo Pioneers initiatives
 
 Voters will also be offered:
 - Quarterly transparency and progress reports
 - At-cost pricing for Dragonhound merch, kit and a free 1 year subscription to the tracking service when launched.
 - Unsolicited dog pics.
 
-![alt text](https://i.imgur.com/hTU5RGh.jpg "Will you let me in?")
+![alt text](https://i.imgur.com/ohe0y9q.png "Will you let me in?")
 
 Thanks for your consideration,
 
@@ -72,4 +72,4 @@ smk762
 - I do not have any active Komodo Notary Nodes
 - I am a KMD Labs Team Member
 - I am running for election as an independent, but will be donating a portion of Notary Node funds earned to Komodo Pioneers and KMD Labs.
-- A portion of Notary Node funds earned will also be distributed to community members participating in monthly competitions (you dont need to vote for me to participate).
+- A portion of Notary Node funds earned will also be awarded to winners of monthly community competitions (you dont need to vote for me to participate).
