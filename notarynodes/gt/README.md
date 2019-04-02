@@ -23,7 +23,7 @@
 * 20% - KMDLabs to be distributed to either fund nodes or development
 * 5% - Pirate Chain development
 * 5% - Verus Foundation
-* 5-10% - Toward other KMD ecosystem projects/developments/bounties that come up / current.
+* 5% - Toward other developments/bounties that come up.
           TBD on a monthly basis
 
 ```
