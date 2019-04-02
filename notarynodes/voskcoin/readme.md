@@ -8,6 +8,13 @@ VoskCoin is one of the largest and most active cryptocurrency YouTube channels w
 * Discord Channel: http://voskco.in/Discord
 * Four VoskCoin Team Members
 
+### Server Specifications
+* Located in London, UK
+* CPU: E5-2650L 16 CPUs
+* 64 GB RAM
+* 1.25 TB SSD
+* *Testnet server may differ
+
 ### Voting Address
 * [EU VOTE address]
 RDn2Wpn9abEr6qpdgab8o8MiibKiks6RLq
