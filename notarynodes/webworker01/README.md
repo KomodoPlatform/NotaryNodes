@@ -12,11 +12,11 @@ With modest server specs, daily attention to node operations allowed him to reac
 
 ## Vote2019
 
+### Vote2019 Address: `RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe` (SH)
+
 For 2019 I propose the setup of one additional notary node in the Southern Hemisphere (SH).   Similar to my first notary node, I will once again choose a data center that is in a different location from all other operators.  I am currently investigating data centers in Kenya and South Africa and plan to look at options in South America as well.  Exact location will be decided and announced near the end of the voting period. System specs will be similar to the NA notary node I am currently managing (which will be upgraded this year to include 1TB NVME for storage). 
 
 After running for a second node I will not seek to run for any additional nodes. The proceeds from this second node will of course help with the cost of maintaining multiple vps and dedicated servers for the Komodo ecosystem as well as help fund additional development to enhance the project.  My first goal will be to rewrite komodostats.com source code and open source it so that some suggestions that didn't make it into the first version can be submitted by the community as well as have other instances run by other admins. 
-
-### Vote2019 Address: `RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe`
 
 ## Projects
 ### For Komodo
