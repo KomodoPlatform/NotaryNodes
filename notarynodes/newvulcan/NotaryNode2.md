@@ -1,3 +1,5 @@
+![](C:\Users\Mike\Documents\NotaryNode\vulcan-works-mining.png)
+
 # Newvulcan Notary Node Proposal 2019
 
 ## Newvulcan Voting Address
