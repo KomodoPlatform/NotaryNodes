@@ -23,9 +23,9 @@
 * 20% - KMDLabs to be distributed to either fund nodes or development
 * 5% - Pirate Chain development
 * 5% - Verus Foundation
-* 5% - Toward other KMD ecosystem projects/developments/bounties that come up / current.
-  TBD on a monthly basis
-* Big Block Rewards > 100 will go to 50% to voters and put forward to above percentages
+* 5% - Toward other developments/bounties that come up.
+          TBD on a monthly basis
+
 ```
 
 ## Server Spec:
