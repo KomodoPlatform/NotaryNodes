@@ -1,4 +1,4 @@
-## VoskCoin - Notary Node Candidate
+## VoskCoin - Notary Node Candidate 2019
 VoskCoin is one of the largest and most active cryptocurrency YouTube channels with over 73,000 subscribers. In addition to our YouTube community we have very active communities on Discord, Facebook, and other platforms.
 ![Tails CTO](tailsCTO.jpg)
 
