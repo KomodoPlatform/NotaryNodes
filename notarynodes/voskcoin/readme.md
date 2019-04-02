@@ -1,10 +1,11 @@
 ## VoskCoin - Notary Node Candidate
 VoskCoin is one of the largest and most active cryptocurrency YouTube channels with over 73,000 subscribers. In addition to our YouTube community we have a very active communities on Discord, Facebook, and other platforms.
+![](&&&SFLOCALFILEPATH&&&tails.jpg)
 
 ### VoskCoin is running for 1 Notary Node in 2019 (EU)
-
 * VoskCoin will be utilizing notary node earnings to fund Komodo news and tutorials.
 * YouTube Channel: [https://youtube.com/VoskCoin/](https://youtube.com/VoskCoin/)
+* Discord Channel: [http://voskco.in/Discord](http://voskco.in/Discord)
 * Four VoskCoin Team Members
 
 ### Voting Address
@@ -17,7 +18,5 @@ RDn2Wpn9abEr6qpdgab8o8MiibKiks6RLq
 * [Komodo GPU Mining Profitability - KMD Notary Nodes Voting](https://www.youtube.com/watch?v=fi-Y43hrHD8)
 
 Disclaimer:VoskCoin is not affiliated with the Komodo team and currently holds no notary nodes.
-
-
 
 
