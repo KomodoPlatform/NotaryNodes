@@ -16,6 +16,21 @@ RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
+
+## Commitment ##
+
+#### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
+
+![](./nn_accounts.png)
+
+
+#### For ALL interest blocks larger than 100 KMD: ####
+* 50% of reward will go towards the Pirate Development fund
+* 50% of reward will go towards the node operators
+
+Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
+
+
 ### Server specs ###
 
 - [EU]
