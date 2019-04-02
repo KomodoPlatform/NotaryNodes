@@ -2,7 +2,7 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
@@ -32,6 +32,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/?VOTE2019">Referral System</a>. 
 * <a href="https://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS Node Operator</a>, therefore have the capability to run a Notary Node. <a href="https://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">Current Running</a> LABS Node uses Notary Hardware and Location.
+* <a href="https://notarystats.info/testnet.php">Notary Testnet 2019 Stats</a> on www.notarystats.info
 
 #### :soon: Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
@@ -45,15 +46,14 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	☠️ ( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE ☠️). These Big Rewards should be for Everybody.**
-* minimum Funds are paid regardless of the KMD-FIAT Price.
+* minimum Funds to LABS and PIRATE are paid regardless of the KMD-FIAT Price.
 * I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was paid by me.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructure I pay around USD 250 per Month out of my Pocket.
 
 ## Server Specs:
-* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_datacenter.png" align="right">
+* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_datacenter.png" align="right">
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
@@ -74,7 +74,7 @@ I got some Donations from Community members over the last few month which I'm ve
 
 ## Vote Now Deadline 14th May 2019
 ### Thank you for reading my Proposal and sending your VOTE2019 to 
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
