@@ -2,7 +2,7 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
@@ -53,7 +53,7 @@ If elected I can setup, run and pay more Servers and create new Tools I have a l
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructure I pay around USD 250 per Month out of my Pocket.
 
 ## Server Specs:
-* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_datacenter.png" align="right">
+* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_datacenter.png" align="right">
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
@@ -74,7 +74,7 @@ I got some Donations from Community members over the last few month which I'm ve
 
 ## Vote Now Deadline 14th May 2019
 ### Thank you for reading my Proposal and sending your VOTE2019 to 
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
