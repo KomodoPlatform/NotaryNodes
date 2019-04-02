@@ -16,7 +16,7 @@ For 2019 I propose the setup of one additional notary node in the Southern Hemis
 
 After running for a second node I will not seek to run for any additional nodes. The proceeds from this second node will of course help with the cost of maintaining multiple vps and dedicated servers for the Komodo ecosystem as well as help fund additional development to enhance the project.  My first goal will be to rewrite komodostats.com source code and open source it so that some suggestions that didn't make it into the first version can be submitted by the community as well as have other instances run by other admins. 
 
-###Vote2019 Address: `RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe`
+### Vote2019 Address: `RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe`
 
 ## Projects
 ### For Komodo
