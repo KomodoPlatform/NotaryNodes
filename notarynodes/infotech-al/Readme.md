@@ -1,11 +1,11 @@
 
 # Infotech-AL 2019KMD-NN-Elections - Season 3
 
-## INFOTECH – AL KMD NA & EU NOTARY NODE CANDIDATE 
+## INFOTECH – AL KMD NA & EU NOTARY NODE CANDIDATE
 
 |   	|   	|
 |---	|---	|
-| ![komodo!](komodo-ai.jpg "komodo") |  **WHY VOTE FOR INFOTECH – AL** 	|
+| ![komodo!](https://drive.google.com/uc?export=view&id=1c3MqdOpaAs0BWNRg_ogY-k3vYPIkdU-- "komodo") |  **WHY VOTE FOR INFOTECH – AL** 	|
 | `InfoTech – Al` | :ballot_box_with_check: Engaged community member for KMD on Discord / Twitter / Reddit |
 | `15 - year IT Veteran` | :ballot_box_with_check: Skills: Grid Computing Admin, Distributed Systems Exp., VMware Admin, Server Admin |
 | `Candidate to be a NA Notary Node` | :ballot_box_with_check: Skills: Fully Operational Notary Node already setup and hosted in a reliable state of the art Data Centers in NA/EU. |
