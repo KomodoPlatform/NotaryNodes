@@ -68,13 +68,15 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 * RAM: 64GB
 
-* HD: 1TB SSD
+* HD: 2T NVME M.2 Samsung 960 PRO soft raid 0, Highpoint raid card :rocket:
 
 * POWER: 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
 
 * INTERNET: business 940Mbps up/down with static ip:dash:
 
 * Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
+
+[![Nvme](https://www.strob.net/kmdNN2019/NVME.jpg)]
 
 <br>
 
