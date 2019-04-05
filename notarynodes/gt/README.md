@@ -19,11 +19,12 @@
 ## Pledge:
 * To maintain a well performing node for the security of KMD as well as it’s many assetchains and other projects using dPoW.
 * To continue maintaining a well performing KMDLabs node. As the KMDLabs project grows, the rest of the ecosystem will benefit.
+* Give back to the community.
 ```
 * 20% - KMDLabs to be distributed to either fund nodes or development
 * 5% - Pirate Chain development
 * 5% - Verus Foundation
-* 5% - Toward other developments/bounties that come up.
+* 3.33% - Toward other developments/bounties that come up.
 ```
 
 ## Server Spec:
@@ -49,4 +50,9 @@ _I will comply with the minimum sever requirement if elected as provided:_
 * Email: weget@protonmail.com
 * [notary.gtmatcha.com](https://gtmatcha.com)
 * 한국어 가능
+
+## Project Links
+* [KMDLabs](https://kmdlabs.com/)
+* [Pirate](https://pirate.black/)
+* [Verus](https://veruscoin.io/)
 
