@@ -72,10 +72,6 @@ Komodo and Pirate Channel of Germany’s Telegram Group.
 
 * We are not official team members or partners of Komodo. We see independence as an additional contribution to decentralisation.
 
-* We will pay **_30% of the mining profits as rewards_** to our voters per quarter (as a percentage of the total number of votes),because the confidence of the voters in us should pay off in a profit sharing.
-
-(On personal request, the remuneration in Pirate (ARRR) is possible. The price determination is made from the average of the buyer and seller offers, of the exchange with the largest volume on the date of the quarterly distribution.)
-
 
 ## Server Information:
 
