@@ -1,4 +1,4 @@
-![](https://utxo.fr/jirafeau/f.php?h=0cqkf5Bm&p=1)
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/zatjum/Vote_for_zatJUM.png)
 
 # zatJUM - Southern Hemisphere Notary node info #
 
