@@ -1,5 +1,16 @@
-## Server specifications
+# Notary Election 2019
+## EU Region Candidate
+We are a candidate for the EU region.
+## How to VOTE
+Send your VOTE to `RE72g3g3FgMd6zMvxrR7o3YopTqY7v76Qy`
 
+[![Vote Pioneers](./Top_Banner.png)](http://bit.ly/KPNN2019)
+![Pioneer Report](./Second_Section.png)
+[![Read Button](./Read_Button.png)](http://bit.ly/KPNN2019)
+
+
+# Winner 2018 Notary SH Candidate Below
+## Server specifications
 #### Region: SH
 - Dual Intel Xeon E5-2670 CPU 
 - 64 GB RAM
@@ -32,5 +43,6 @@ Komodo Pioneers has a discord channel which is linked to the #komodo-pioneers ch
 
 - Some of our team are Komodo Platform team members (mylo, audo, diesmaster).
 - We have pledged a portion of our mining rewards towards Komodo eco-system growth thru subsidizing meetups and producing presentations & content for sharing
-- Approx 90%+ of mined KMD are still available because the pledge was to spend when above a minimum price, despite the bear market pioneers have been active as new trading demos with MM tech and game dev become public/stable.
+- Despite the bear market pioneers have been active as new trading demos with MM tech and game dev become public/stable.
+- Please [read the yearly report](http://bit.ly/KPNN2019) to see how the group did representing Komodo.
 
