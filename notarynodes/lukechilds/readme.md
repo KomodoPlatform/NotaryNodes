@@ -3,7 +3,7 @@
   <img width="128" src="https://secure.gravatar.com/avatar/4af0d9a1f16bf05d1aedee5e3923d3e3?size=256" />
   <h2>lukechilds</h2>
   
-  **Region:** Asia (AR)
+  **Region:** Asia (AR) Automatically Re-elected | Europe (EU) Running for Election
   <br>
   <br>
   **Vote Address**<br>
