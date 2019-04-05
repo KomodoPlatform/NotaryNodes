@@ -1,4 +1,4 @@
-![](./VotePirate.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -30,7 +30,7 @@ RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
 
 #### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
 
-![](./nn_accounts.png)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/nn_accounts.png)
 
 
 #### For ALL interest blocks larger than 100 KMD: ####
@@ -147,7 +147,7 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](./welcome_pirates.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/welcome_pirates.jpg)
 
 ## Disclosure ##
 
