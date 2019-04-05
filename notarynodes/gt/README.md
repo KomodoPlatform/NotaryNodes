@@ -7,7 +7,7 @@
 
 ## GT Komodo Ecosystem evolvement:
 * Has been a part of the Komodo community since stress tests for barterdex started.
-* Maintain KMDLabs notary
+* Maintain [KMDLabs notary](https://kmdlabs.com/who/) and testing
 * Help test CC/mine/migrations when possible (rogue/sapling upgrade for pirate via Rocket, marmara etc)
 
 ## GT personal:
