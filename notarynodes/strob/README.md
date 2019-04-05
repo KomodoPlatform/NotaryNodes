@@ -60,7 +60,7 @@ If not elected I will still promote Komodo and Pirate as I can and will be willi
 ## STROB HARDWARE
 I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
-[![My rack](https://www.strob.net/WP/wp-content/uploads/2014/04/entrevue3DVF_00012.jpg)]
+![My rack](https://www.strob.net/WP/wp-content/uploads/2014/04/entrevue3DVF_00012.jpg)
 
 * MB: SUPERMICRO server X10DRL-i
 
@@ -68,13 +68,15 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 * RAM: 64GB
 
-* HD: 1TB SSD
+* HD: 2T NVME M.2 Samsung 960 PRO soft raid 0, Highpoint raid card :rocket:
 
 * POWER: 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
 
 * INTERNET: business 940Mbps up/down with static ip:dash:
 
 * Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
+
+![Nvme](https://www.strob.net/kmdNN2019/NVME.jpg)
 
 <br>
 
