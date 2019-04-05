@@ -16,6 +16,15 @@ RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
+### [AR - Asia-Russia] ###
+
+- VOTE address
+
+```
+RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
+```
+
+
 
 ## Commitment ##
 
@@ -52,6 +61,17 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 	| Storage  |SoftRaid 2x1.92 TB NVMe	|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
+
+- [AR]
+
+	| Spec     | Detail             |
+	|----------|--------------------|
+	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz / 2.7GHz |
+	| RAM      |64GB DDR4 ECC 2133 MHz			|
+	| Storage  |Hybrid SoftRaid 2x2 TB + 2x480 GB SSD	|
+    | Network  |250 Mbps up/down  |
+	| Location |Datacenter - Singapore		|
+
 
 ## Pirate Notary Crew ##
 
