@@ -1,12 +1,20 @@
+# How to VOTE for Komodo Pioneers EU candidate
+Send your VOTE to `RE72g3g3FgMd6zMvxrR7o3YopTqY7v76Qy` and click on the banner image below for our 2018 yearly report.  Thank you!!
+
+## We Reinvest Back Into Komodo Ecosystem
+
+UP TO 50 % REVENUE SHARE TO SUPPORT KOMODO COMMUNITY
+
+We pledge up to 50 % of our notary node revenue towards activities that support Komodo ecosystems, such as events and meetups. We can also support other small scale initiatives, such as development projects. The pledged percentage is smaller if the KMD price is below four dollars. That is to ensure sufficient funding to maintain stable notarization service, which is our core responsibility.
+
+The pledged funding is calculated monthly. On the calculation, we use the lowest price of the last day of each month. The price is taken from coinmarketcap.com. See the table below for example situations.
+
 # Notary Election 2019
 ## EU Region Candidate
 We are a candidate for the EU region.
 [Our performance in the community meetup space is in our report](http://bit.ly/KPNN2019). Please take the time to flick through it to see how we represent Komodo.
 
 We have also started a [DEX news site](https://hybriddex.com) with contributions from our newest team member who is a junior game dev.  The goal of this site is to cross communities and bring all crypto traders relevant DEX news.  The meetups and DEX news updates as well as collaboration within the community is what makes a pioneers vote bring more value to KMD.
-
-## How to VOTE for Komodo Pioneers EU candidate
-Send your VOTE to `RE72g3g3FgMd6zMvxrR7o3YopTqY7v76Qy` and click on the banner image below for our 2018 yearly report.  Thank you!!
 
 [![Vote Pioneers](./Top_Banner.png)](http://bit.ly/KPNN2019)
 ![Pioneer Report](./Second_Section.png)
