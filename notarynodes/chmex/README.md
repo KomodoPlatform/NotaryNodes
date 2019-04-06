@@ -2,11 +2,11 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
-
-```
+| ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
-```
+```  | <img src="https://raw.githubusercontent.com/CHMEX/VOTE2019/master/chmex_qr_voting.png" align="right" height="190px" width="150px">  |
+
+
 
 <br>
 
