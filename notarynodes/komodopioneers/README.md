@@ -16,9 +16,9 @@ We are a candidate for the EU region.
 
 We have also started a [DEX news site](https://hybriddex.com) with contributions from our newest team member who is a junior game dev.  The goal of this site is to cross communities and bring all crypto traders relevant DEX news.  The meetups and DEX news updates as well as collaboration within the community is what makes a pioneers vote bring more value to KMD.
 
-[![Vote Pioneers](./Top_Banner.png)](http://bit.ly/KPNN2019)
-![Pioneer Report](./Second_Section.png)
-[![Read Button](./Read_Button.png)](http://bit.ly/KPNN2019)
+[![Vote Pioneers](https://raw.githubusercontent.com/imylomylo/NotaryNodes/master/notarynodes/komodopioneers/Top_Banner.png)](http://bit.ly/KPNN2019)
+![Pioneer Report](https://raw.githubusercontent.com/imylomylo/NotaryNodes/master/notarynodes/komodopioneers/Second_Section.png)
+[![Read Button](https://raw.githubusercontent.com/imylomylo/NotaryNodes/master/notarynodes/komodopioneers/Read_Button.png)](http://bit.ly/KPNN2019)
 
 
 # Winner 2018 Notary SH Candidate Below
