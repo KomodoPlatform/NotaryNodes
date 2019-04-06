@@ -1,10 +1,10 @@
-![n9 Header](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9)
+![n9 Header](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n9_banner.png)
 # CrisF   node-9 
 ### KMD Notary Node Proposal 2019
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 Please send them here:  
-RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW                              ![n9 Address QR](https://github.com/Cris-F/NotaryNodes/blob/master/notarynodes/node-9/n9_address_QR.png "node-9 vote address QR")
+RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW                              ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n9_address_QR.png "node-9 vote address QR")
   
 In this proposal I talk about myself a lot.  That just seems to be the clearest way to express what I am offering.  Please don't think I'm a narcissistic megalomaniac.
 I am in fact far, far better than that.  
@@ -100,7 +100,7 @@ The point of this embarrassing self-aggrandizement is to give you one simple pic
 Please send votes my way.
 
 RBDivEArcb7aRsYTvtN5MRnaxeDAepSNmW
-![n9 Address QR](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9)
+![n9 Address QR](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n9_address_QR.png)
 
 Thanks!
 
@@ -114,5 +114,5 @@ CrisF
 
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
-![n9 Footer](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9)
+![n9 Footer](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n-9_banner_blanc.png)
 
