@@ -28,15 +28,16 @@ It allowed me to learn the basis of how a Notary Node works, so now I can candid
 
 ## Rewards ##
 
-If you vote for me (and if I win!), I will redistribute a 20% reward of my KMD mining gains on a regular basis.
-I'll do my best to not disappoint you, and will compete to have the best performance.
+If you vote for me (and if I win!), I will redistribute a 20% reward of my KMD mining gains on a regular basis like this:
+10% to the voters + 10% to @mrlynch#5735 (dev) for him to work on zcommerce adoption (because privacy matters!).
+I'll do my best to not disappoint you, and will compete to have the best performance, as I already do on the testnet with a crappy temporary server.
 
 ## Server spec ##
 
 I promise to comply with the **minimum** requirements listed here if elected:
 - Region: SH (Australia or New Zealand)
 - CPU: Xeon or i7 (8 cores)
-- RAM: 64 GB
+- RAM: 64 GB (more if I can)
 - Disk: 1 TB/SSD
 - Bandwidth: 1 Gbps
 
