@@ -1,6 +1,6 @@
 # ComputerGenie Notary Node Proposal 2019
 
-<img src="./genie.jpg" width="248">
+<img src="https://raw.githubusercontent.com/TheComputerGenie/NotaryNodes/master/notarynodes/computergenie/genie.jpg" width="248">
 
 ## Voting Addresses
 ```diff
