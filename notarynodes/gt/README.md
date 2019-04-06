@@ -1,7 +1,7 @@
 # GT Notary Proposal :tea:
 
 ## Vote Address: RNGnsh7uQhuFqyaAjAyNuWhLwRnK9JVuoq
-![QR Code](https://notary.inputforward.com/wp-content/uploads/2019/03/qr-e1554040554582.png)
+<img src="https://raw.githubusercontent.com/gtmatcha/NotaryNodes/master/notarynodes/gt/qr.png" heigh="250" width="250">
 
 ## Region: AR
 
