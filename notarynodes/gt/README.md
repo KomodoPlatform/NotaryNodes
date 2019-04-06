@@ -21,10 +21,11 @@
 * To continue maintaining a well performing KMDLabs node. As the KMDLabs project grows, the rest of the ecosystem will benefit.
 * Give back to the community.
 ```
-* 20% - KMDLabs to be distributed to either fund nodes or development
-* 5% - Pirate Chain development
-* 5% - Verus Foundation
-* 3.33% - Toward other developments/bounties that come up.
+* 20% - KMDLabs fund
+* 10% - To start a fund that will be used for current or futue KMD Ecosystem Projects 
+        (ex: Pirate Chain, Verus Coin, etc) 
+           - To be used for things such as listing fees, bounties, development
+
 ```
 
 ## Server Spec:
@@ -51,7 +52,7 @@ _I will comply with the minimum sever requirement if elected as provided:_
 * [notary.gtmatcha.com](https://gtmatcha.com)
 * 한국어 가능
 
-## Project Links
+## Ecosystem Project Links
 * [KMDLabs](https://kmdlabs.com/)
 * [Pirate](https://pirate.black/)
 * [Verus](https://veruscoin.io/)
