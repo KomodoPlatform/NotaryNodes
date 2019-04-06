@@ -22,7 +22,7 @@ I'm also a "electronic geek", in the past I spent a lot of time playing with stu
 
 ## :question: Why should you vote for me :question:
 
-I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from my NN, expand my team if needed and speed up my contribution to the Komodo ecosytem (for the moment I'm the only member, but even without getting elected, I'll will still spend time on learning & developping CC :grin:) . 
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have the time to take a deep look into it (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from my NN, expand my team if needed and speed up my contribution to the Komodo ecosytem (for the moment I'm the only member, but even without getting elected, I will still spend time on learning & developping CC :grin:) . 
 
 I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering and technical background, I believe that I'll be able to guarantee the performance of my NN.
  
