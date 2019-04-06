@@ -50,7 +50,7 @@ NN income (after server costs) will be split as follows:
 - 39% Premium canine food and apparel
 - 20% KMD LABS development initiatives 
 - 20% GPS/IoT development 
-- 7% Monthly community competitions
+- 7% Monthly community competitions (winners to be decided by which entry registers the most wags of Skrunch's tail)
 - 7% Translation bounties for support guides and developer documentation.
 - 7% Komodo Pioneers initiatives
 
