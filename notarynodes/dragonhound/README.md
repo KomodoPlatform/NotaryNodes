@@ -47,12 +47,13 @@ Running a NN is the next step in learning more and being able to do more.
 Collaboration, content and competitions. I have more ideas than time, and know there is talent within the community worth rewarding. If you have the time and talent to help, I'd like to tip you with tokens so we can build something awesome.
 
 NN income (after server costs) will be split as follows:
-- 39% Premium canine food and apparel. If KMD price rises beyond the cost of feeding Skrunch, the excess will be used to adopt/sponsor additional pack mates from the local shelter, or re-allocated to the initiatives below.
-- 20% KMD LABS development initiatives 
-- 20% GPS/IoT development (both that which I am doing, and toward approved community projects which apply for funding).
+- 25% Premium canine food and apparel. If KMD price rises beyond the cost of feeding Skrunch, the excess will be used to adopt/sponsor additional pack mates from the local shelter, or proportionally re-allocated to the initiatives below.
+- 25% GPS/IoT development (both that which I am doing, and toward bounties or approved community projects).
+- 25% KMD LABS development initiatives.
 - 7% Monthly community competitions (winners to be decided by which entry registers the most wags of Skrunch's tail).
 - 7% Translation bounties for support guides and developer documentation.
 - 7% Komodo Pioneers initiatives.
+- 4% Funds held in reserve.
 
 Voters will also be offered:
 - Quarterly transparency and progress reports
