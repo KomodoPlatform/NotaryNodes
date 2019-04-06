@@ -5,7 +5,9 @@
 ## Newvulcan Voting Address
 Region: Europe (EU)
 
-RSdUzqzBZRUPfMiEpxdoVwykgFoB4yMbZt
+- KMD-address: RSdUzqzBZRUPfMiEpxdoVwykgFoB4yMbZt
+- BTC-address: 13pwqb3aSWDrXwUweZBNqLEkd85sGxoXpL
+- btcpubkey: 0210b12f9c5955198ba20872f7abb8a860aa3a8c50468f18e585c5aa47b6561cdd
 
 To vote for me, just send your [KMD VOTE tokens](https://komodoelection.com/2-election-process/vote-token/) before May 14, 2019 to the above KMD address
 
