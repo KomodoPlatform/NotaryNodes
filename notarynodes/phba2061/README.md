@@ -2,7 +2,7 @@
 
 |					|				|
 | -----------------	| ------------- |
-|![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg) 	| ![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%201000.png)|
+|![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg) 	| ![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%20500.png)|
 
 |					|				|
 | -----------------	| ------------- |
