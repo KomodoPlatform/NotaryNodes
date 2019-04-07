@@ -28,11 +28,13 @@ I don't have much experience in system security/administration, but I don't mind
  
 __REV SHARE__
 **REV SHARE**
-`**REV SHARE**`
-`__REV SHARE__`
+` **REV SHARE** `
+` __REV SHARE__ `
 ```REV SHARE```
-```**REV SHARE**```
-```__REV SHARE__```
+``` **REV SHARE** ```
+``` __REV SHARE__ ```
+__`REV SHARE`__
+**```REV SHARE```**
  
 ## :link: My other social pages/links :link:
 - My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/).
