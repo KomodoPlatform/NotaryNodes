@@ -1,14 +1,8 @@
 # Komodo Notary Node (NN) Voting Proposal
 
-
-![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
-
-![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
-
-
 |					|				|
 | -----------------	| ------------- |
-|![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg) 	| ![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)|
+|![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg) 	| ![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)|
 
 |					|				|
 | -----------------	| ------------- |
