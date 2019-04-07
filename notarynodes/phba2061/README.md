@@ -8,6 +8,10 @@
 
 |					|				|
 | -----------------	| ------------- |
+|![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg) 	| ![Image of Yaktocat](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)|
+
+|					|				|
+| -----------------	| ------------- |
 |Discord username 	| @PHBA2061#2530|
 |Region 			| EU|
 |Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM, Frankfurt-DE|
