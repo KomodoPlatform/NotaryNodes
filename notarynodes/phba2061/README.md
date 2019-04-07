@@ -31,6 +31,8 @@ __REV SHARE__
 `**REV SHARE**`
 `__REV SHARE__`
 ```REV SHARE```
+```**REV SHARE**```
+```__REV SHARE__```
  
 ## :link: My other social pages/links :link:
 - My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/).
