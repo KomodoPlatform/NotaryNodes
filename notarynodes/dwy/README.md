@@ -37,7 +37,7 @@
 |--|--|
 | CPU | Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
 | RAM | 128GB DDR4 ECC 1866 MHz |
-| Storage | 2X Intel® SSD DC P3520 NVMe 1,2To |
+| Storage | 2X IntelÂ® SSD DC P3520 NVMe 1,2To |
 | Network | 1 Gbps |
 | Location | FR Datacenter (OVH) - Gravelines - France |
 
