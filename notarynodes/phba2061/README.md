@@ -26,15 +26,7 @@ I'd like to focus on developping blockchain dapps (I personnally believe that ga
 
 I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering and technical background, I believe that I'll be able to guarantee the performance of my NN.
  
-__REV SHARE__
-**REV SHARE**
-` **REV SHARE** `
-` __REV SHARE__ `
-```REV SHARE```
-``` **REV SHARE** ```
-``` __REV SHARE__ ```
-__`REV SHARE`__
-**```REV SHARE```**
+I don't have the intention of giving rev shares for my voters, because 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say I give 10000 KMD back to my voters, that's only 2% of their holdings!) 
  
 ## :link: My other social pages/links :link:
 - My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/).
