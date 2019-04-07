@@ -26,7 +26,11 @@ I'd like to focus on developping blockchain dapps (I personnally believe that ga
 
 I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering and technical background, I believe that I'll be able to guarantee the performance of my NN.
  
-
+__REV SHARE__
+**REV SHARE**
+`REV SHARE`
+```REV SHARE```
+ 
 ## :link: My other social pages/links :link:
 - My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/).
 - I'm a co-inventor of the published patent **"Device for analysis of mixtures of at least 2 gas"** :bulb: [worldwide.espacenet.com](https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017016840&KC=A1).
