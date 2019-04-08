@@ -39,7 +39,7 @@ I don't have the intention of giving rev shares for my voters, because: 1) I thi
 I will do a monthly report to keep things as transparent as possible.
 
 To summarize, rewards from my NN will be prioritized for: 
-- covering NN server cost ($320 monthly). 
+- covering NN server cost ($320/server monthly). 
 - developing & promoting CC based dapps, mainly focus on games.
   
  
