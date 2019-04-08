@@ -36,8 +36,10 @@ I don't have much experience in system security/administration, but I don't mind
  
 I don't have the intention of giving rev shares for my voters, because: 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say if I give 10000 KMD back to my voters, that's only 2% of their holdings!). Let us vote responsibly !
 
+I will do a monthly report to keep things as transparent as possible.
+
 To summarize, rewards from my NN will be prioritized for: 
-- covering NN server cost. 
+- covering NN server cost ($320 monthly). 
 - developing & promoting CC based dapps, mainly focus on games.
   
  
