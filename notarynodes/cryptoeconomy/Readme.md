@@ -6,7 +6,7 @@
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">We are a team with true enthusiasm for Bitcoin and all other projects in the ecosystem and we are sure of the benefits that the adoption of Blockchain technology can provide. With over 6 years of experience in the sector, passionate in our purpose to raise awareness about the existence of this technology.</span></span></span></p>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">As a media site, we are a young project, growing since 2016 that makes us very positive about the potential of our diffusion throughout the world, with thousands of direct visits per day and thousands of followers in our social networks.</span></span></span></p>
 
-<h2 align="justify"><strong>Crypto Eocnomy and Komodo Platform</strong></h2>
+<h2 align="justify"><strong>Crypto Economy and Komodo Platform</strong></h2>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Crypto Economy team has followed the steps of the Komodo project since its inception, its main members were already followers of the Bitcoin Dark project and participated as investors in the Komodo ICO in 2016.</span></span></span></p>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">As a crypto-digital media, we were supporting the Komodo project in its earliest phase to promote its adoption, since we believe that privacy is a fundamental pillar that should guide an important part of the developments in the field of cryptocurrencies.</span></span></span></p>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">That is why in our mining profitability calculator we only added coins to mine focused on these beliefs, and therefore, KMD was one of the first ones to be added and get their place in it on its own merits.</span></span></span></p>
@@ -34,18 +34,9 @@
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">W</span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">e will run a giveaway among our readers to let them know Komodo Platform </span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">and help, as a result, the KMD user community grow.</span></span></span></p>
 </li>
 </ul>
-<h2 align="justify"><strong>Servers Info</strong></h2>
+<h2 align="justify"><strong>Server Info</strong></h2>
 <h3 align="justify"><strong>EU Server</strong></h3>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: RXxDVSpCyWEn2bkVGAauAQDugX9UgWYLUM</span></span></span></p>
-
-<ul>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">CPU: Intel i7-7700K OC - 4c/8t - 4,7GHz /5GHz</span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">RAM: 64GB DDR4 2400 MHz</span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Bandwidth: 500 Mbit/s </span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">HDD 5Tb</span></span></span></li>
-</ul>
-<h3 align="justify"><strong>NA Server</strong></h3>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: RPkQSsnWAGfBWTujuZzXBnaoLzB54GRUr2</span></span></span></p>
 
 <ul>
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">CPU: Intel i7-7700K OC - 4c/8t - 4,7GHz /5GHz</span></span></span></li>
