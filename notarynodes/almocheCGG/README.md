@@ -53,6 +53,6 @@ RTX6GMdB6CUhUuNcmB7EDktYfst5fRqa18
  - [Discord](https://discord.gg/e2qEtHN)
  - [E-Mail](mailto:coingainguru@protonmail.com)
  - [Website](https://coingain.guru)
- - [Twitter](https://twitter.com/COINGAINGURU)
+ - [Twitter](<a href="https://twitter.com/COINGAINGURU" target="_blank"></a>)
  
 ![CGG.jpg](./CGG.jpg)
