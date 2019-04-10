@@ -1,6 +1,7 @@
 
-![](./header.png)
-![](./jawarrr.jpg)
+![](https://raw.githubusercontent.com/dwygit/NotaryNodes/master/notarynodes/dwy/header.png)
+![](https://raw.githubusercontent.com/dwygit/NotaryNodes/master/notarynodes/dwy/jawarrr.jpg)
+
 
 ## Who am I ? ##
 
@@ -36,7 +37,7 @@
 |--|--|
 | CPU | Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
 | RAM | 128GB DDR4 ECC 1866 MHz |
-| Storage | 2X Intel® SSD DC P3520 NVMe 1,2To |
+| Storage | 2X IntelÂ® SSD DC P3520 NVMe 1,2To |
 | Network | 1 Gbps |
 | Location | FR Datacenter (OVH) - Gravelines - France |
 
@@ -67,7 +68,7 @@ New Voters *(dwy_sh possible node):*
 
 - The mining rewards will be used to help me handle [Barterlly](https://www.barterlly.io)'s project (Server costs / Bounties / Legal stuff). I took the decision on purpose not to redistribute to voters, but to dedicate it to a project I believe in, and will fight for :).
 
-![](./barterlly.png)
+![](https://raw.githubusercontent.com/dwygit/NotaryNodes/master/notarynodes/dwy/barterlly.png)
 
 ## Rewards History (dwy_eu) ##
 

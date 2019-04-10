@@ -1,4 +1,39 @@
-# MadMaX - AR notary node Info
+# MadMaX - Notary node Proposal (2019)
+
+#### Why Vote for MadMaX
+- ##### launched https://komodod.com as i promised last year.
+-  ###### **40% rewards** airdropped as promised last year.
+-  ###### experienced komodo notary node operator.
+- ###### Strong KOMODO community supporter.
+- ###### 10+ years in experience in server management.
+- ##### this year 40% KMD mining rewards will be airdropped every month.
+
+
+#### Plans for this Year
+- ###### launch all asset chains explorers under komodod.com
+- ###### live transaction notification via telegram & email
+- ###### reward expiry notification
+- ###### stats & insights about dpow & notaries
+- ###### explorer API for developers
+
+
+### Vote Address
+
+if you think i am a right candidate please transfer your **vote2019** tokens from your agama wallet to below address .
+
+| Region | Vote Address |
+| ------ | ------ |
+| AR (Asia & Russia) | RG89JX1Ba8yRdv1dn6iZiGL8QfAQ1e4qzS |
+| EU (Europe) | RLvBZeWkEkgEFASZsEJRaCbFtVF89jVK1c |
+| NA (North America) | RQhiJaibyzusuBUT22MoDV9YDWN14RyFqz |
+
+### Contact
++ Discord - @MadMaX#0593
+
+/////////////////////////////////////2019 Proposal end////////////////////////////
+
+# 2018 notarynode info (AR)
+one of the **top 30** notary node in notarization ranking (komodstats data). unfortunately madmax_AR not able to find a spot in region wise top 7 nodes.
 
 KMD Address: **RQ5JmyvjzGMxZvs2auTabXVQeuxrA2oBjy**
 
@@ -24,7 +59,7 @@ total KMD mined: 6576.35478592.
 Voters share: 2630.54191436 KMD (40%).
 
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/ae013000bc8146dd5d8fffe0c10cda7756d0bc9bb91ed5a34766181c109b1e17)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://komodod.com/t/ae013000bc8146dd5d8fffe0c10cda7756d0bc9bb91ed5a34766181c109b1e17)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|633.80204675
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|383.05095848
@@ -71,7 +106,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.13689646
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.04488394
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.01997323
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00224398
-TOTAL|1172147.11560996|100|2630.54191436 [(tx)](https://kmdexplorer.ru/tx/ae013000bc8146dd5d8fffe0c10cda7756d0bc9bb91ed5a34766181c109b1e17)||
+TOTAL|1172147.11560996|100|2630.54191436 [(tx)](https://komodod.com/t/ae013000bc8146dd5d8fffe0c10cda7756d0bc9bb91ed5a34766181c109b1e17)||
 
 ----------------------------------------------------
 **Second Airdrop**
@@ -82,7 +117,7 @@ total KMD mined: 3069.23161038.
 
 Voters share: 1227.692644152 KMD (40%)
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/0d269503b91d1172d8ee2720bba4c403dfad563705d6d08b4b647968b4b1d96d)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://komodod.com/t/0d269503b91d1172d8ee2720bba4c403dfad563705d6d08b4b647968b4b1d96d)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|295.79992767
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|178.77260952
@@ -129,7 +164,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.06389055
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.02094765
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.00932165
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00104728
-TOTAL|1172147.11560996|100|1227.69263999 [(tx)](https://kmdexplorer.ru/tx/0d269503b91d1172d8ee2720bba4c403dfad563705d6d08b4b647968b4b1d96d)||
+TOTAL|1172147.11560996|100|1227.69263999 [(tx)](https://komodod.com/t/0d269503b91d1172d8ee2720bba4c403dfad563705d6d08b4b647968b4b1d96d)||
 
 ----------------------------------------------------
 **Third Airdrop**
@@ -140,7 +175,7 @@ total KMD mined: 3178.543115.
 
 Voters share: 1271.417246 KMD (40%)
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://komodod.com/t/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|306.33492224
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|185.13964444
@@ -187,7 +222,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.06616603
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.02169371
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.00965364
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00108458
-TOTAL|1172147.11560996|100|1271.417246 [(tx)](https://kmdexplorer.ru/tx/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)||
+TOTAL|1172147.11560996|100|1271.417246 [(tx)](https://komodod.com/t/bd2ca77d3f798eb96cd5876bc292c397d56c45d7e8a696292201b92476a272ad)||
 
 ----------------------------------------------------
 **Fourth Airdrop**
@@ -198,7 +233,7 @@ total KMD mined: 3094.2113.
 
 Voters share: 1237.6845 KMD (40%)
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://komodod.com/t/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|298.20736368
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|180.22759167
@@ -245,7 +280,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.06441054
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.02111814
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.00939751
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00105581
-TOTAL|1172147.11560996|100|1237.6845 [(tx)](https://kmdexplorer.ru/tx/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)||
+TOTAL|1172147.11560996|100|1237.6845 [(tx)](https://komodod.com/t/77155129b02e1f0f3a9cf53d992d57a1966401c07e8b8a54af8d2c2b5655921d)||
 
 ----------------------------------------------------
 **Fifth Airdrop**
@@ -256,7 +291,7 @@ total KMD mined: 3106.626.
 
 Voters share: 1242.6504 KMD (40%)
 
-**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://kmdexplorer.ru/tx/763270ac20a7c4a9cd9f3fbf006de17363bc7a772c573c470fd9c5710c52b619)|
+**Address**|**Votes**|**Vote Share%**|**Rewards** [(tx)](https://komodod.com/t/763270ac20a7c4a9cd9f3fbf006de17363bc7a772c573c470fd9c5710c52b619)|
 :-----:|:-----:|:-----:|:-----:
 RQps82fWSLSBm63DWKpurqjepaf1TURh3J|282416.80427544|24.094|299.40384626
 RAhJ2EKkKN2euPDTv2uA5qmSirxeKyu4SR|170684.25089999|14.5617|180.95070988
@@ -303,7 +338,7 @@ RRcwGQEf1ijwzPpJa8gjJLPUZ9mRt4ye91|60.99990000|0.0052|0.06466897
 RNjPd4xqoRPPPji9EZ2Joe54xJBusdm96e|19.99990000|0.0017|0.02120287
 RMsqjbSTfy4CZ5qf34BU7HwynYhd3Tm9nY|8.89990000|0.0008|0.00943522
 RQ2YMZAkd7YiMdpjHMYoP1iwLfrYP4RArR|0.99990000|0.0001|0.00106004
-TOTAL|1172147.11560996|100|1242.6504 [(tx)](https://kmdexplorer.ru/tx/763270ac20a7c4a9cd9f3fbf006de17363bc7a772c573c470fd9c5710c52b619)||
+TOTAL|1172147.11560996|100|1242.6504 [(tx)](https://komodod.com/t/763270ac20a7c4a9cd9f3fbf006de17363bc7a772c573c470fd9c5710c52b619)||
 
 ### Contact
-+ Discord/Slack - @MadMaX
++ Discord - @MadMaX#0593

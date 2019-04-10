@@ -1,4 +1,4 @@
-![](./VotePirate.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -15,6 +15,30 @@ RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 ```
 RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
+
+### [AR - Asia-Russia] ###
+
+- VOTE address
+
+```
+RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
+```
+
+
+
+## Commitment ##
+
+#### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
+
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/nn_accounts.png)
+
+
+#### For ALL interest blocks larger than 100 KMD: ####
+* 50% of reward will go towards the Pirate Development fund
+* 50% of reward will go towards the node operators
+
+Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
+
 
 ### Server specs ###
 
@@ -37,6 +61,17 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 	| Storage  |SoftRaid 2x1.92 TB NVMe	|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
+
+- [AR]
+
+	| Spec     | Detail             |
+	|----------|--------------------|
+	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz / 2.7GHz |
+	| RAM      |64GB DDR4 ECC 2133 MHz			|
+	| Storage  |Hybrid SoftRaid 2x2 TB + 2x480 GB SSD	|
+    | Network  |250 Mbps up/down  |
+	| Location |Datacenter - Singapore		|
+
 
 ## Pirate Notary Crew ##
 
@@ -112,7 +147,7 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](./welcome_pirates.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/welcome_pirates.jpg)
 
 ## Disclosure ##
 

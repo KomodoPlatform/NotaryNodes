@@ -1,7 +1,4 @@
 vote20!9 Notary 
-
-RSp89iBPWifdtq6d8NmXZ4ZXsg3AyakVtj
-![alt text](https://i.imgur.com/QTMbxwB.png)
 ![alt text](https://i.imgur.com/cs8fnhu.png)
 
 SH/EU/NA/AR
@@ -13,5 +10,8 @@ https://lumberscout.io/kmd_nn
 
 
 Vote Lumberscout 2019 !!!!
+
+RSp89iBPWifdtq6d8NmXZ4ZXsg3AyakVtj
+![alt text](https://i.imgur.com/QTMbxwB.png)
 
 

@@ -1,4 +1,4 @@
-![SAM_3920.jpg](./SAM_3920.jpg)
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/alien/SAM_3920.jpg)
 
 # Vote SHossain (alien) for NA region
 ## Vote Address: `RPzqobhiDPAh8uvRjkYVWUmcQUg6JbJuju`
