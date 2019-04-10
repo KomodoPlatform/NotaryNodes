@@ -7,6 +7,9 @@ Node Details
 Canada
 MG-128 Server - 2x Xeon E5-2630v3 - 128GB - SoftRaid 2x2To
 
+### Disclosure: 
+We thank our voters for the confidence in Chainmakers, which resulted in 2 notary spots in season 2. As keeping a notary re-elected for the next season falls on the shoulders of us, Chainmakers, we will not be airdropping any mining rewards from the automatically re-elected notary node or the node running as candidate for re-election this coming season.
+
 ![Proposal](https://i.imgur.com/sZGWgwj.png)
 
 
