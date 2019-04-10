@@ -44,12 +44,3 @@
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Bandwidth: 500 Mbit/s </span></span></span></li>
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">HDD 5Tb</span></span></span></li>
 </ul>
-<h3 align="justify"><strong>NA Server</strong></h3>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: RPkQSsnWAGfBWTujuZzXBnaoLzB54GRUr2</span></span></span></p>
-
-<ul>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">CPU: Intel i7-7700K OC - 4c/8t - 4,7GHz /5GHz</span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">RAM: 64GB DDR4 2400 MHz</span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Bandwidth: 500 Mbit/s </span></span></span></li>
- 	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">HDD 5Tb</span></span></span></li>
-</ul>
