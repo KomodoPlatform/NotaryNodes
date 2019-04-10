@@ -34,7 +34,7 @@
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">W</span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">e will run a giveaway among our readers to let them know Komodo Platform </span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">and help, as a result, the KMD user community grow.</span></span></span></p>
 </li>
 </ul>
-<h2 align="justify"><strong>Servers Info</strong></h2>
+<h2 align="justify"><strong>Server Info</strong></h2>
 <h3 align="justify"><strong>EU Server</strong></h3>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: RXxDVSpCyWEn2bkVGAauAQDugX9UgWYLUM</span></span></span></p>
 
