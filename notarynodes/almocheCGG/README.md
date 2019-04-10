@@ -1,6 +1,5 @@
 # Proposal KMD NN Election 2019 almocheCGG 
 
-![CGG.jpg](./CGG.jpg)
 ![Logo-CGG.png](./Logo-CGG.png)
 
 # Intro #
@@ -55,3 +54,4 @@ RTX6GMdB6CUhUuNcmB7EDktYfst5fRqa18
  - [E-Mail](coingainguru@protonmail.com)
  - [Website](https://coingain.guru)
  
+![CGG.jpg](./CGG.jpg)
