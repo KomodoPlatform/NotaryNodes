@@ -1,7 +1,4 @@
-# vote2018
-Notary Nodes candidates proposals
-
-## to verify results 
+# VOTE2019 re-elected nodes - how to verify results 
 
 git clone -b jl777 https://github.com/jl777/komodo.git
 
