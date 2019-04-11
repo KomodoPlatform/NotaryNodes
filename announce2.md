@@ -8,7 +8,7 @@ VOTE2019 token will be airdropped 14th. April, based on KMD chain snapshot (of t
 
 Dev nodes for the next season are: jl777_dev, kolo_dev, decker_dev, ca333_dev.
 
-Also here are those 28 lucky guys, who go into next season. Those nodes should provide 2 working pub keys not later than 14th May.
+Also here are those 28 lucky creatures, who go into next season. Those nodes should provide 2 working pub keys not later than 14th May.
 
 ## AR (7 nodes)
 
