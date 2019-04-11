@@ -10,6 +10,8 @@ Dev nodes for the next season are: jl777_dev, kolo_dev, decker_dev, ca333_dev.
 
 Also here are those 28 lucky guys, who go into next season. Those nodes should provide 2 working pub keys not later than 14th May.
 
+## AR (7 nodes)
+
 alien_AR (prev. devA)
 BTC notarizations: 21239
 AC notarizations: 391089
@@ -44,6 +46,8 @@ cipi_AR
 BTC notarizations: 13019
 AC notarizations: 282105
 Score: 107054
+
+## EU (7 nodes)
 
 alien_EU (prev. devE)
 BTC notarizations: 21014
@@ -80,6 +84,8 @@ BTC notarizations: 13141
 AC notarizations: 275172
 Score: 104865
 
+## NA (7 nodes)
+
 webworker01_NA
 BTC notarizations: 18193
 AC notarizations: 365284
@@ -114,6 +120,8 @@ pbca26_NA
 BTC notarizations: 7377
 AC notarizations: 276215
 Score: 99448
+
+## SH (7 nodes)
 
 fullmoon_SH
 BTC notarizations: 12908
