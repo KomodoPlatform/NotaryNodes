@@ -4,7 +4,7 @@ For the season 2019-2020 we will have 64 nodes. 32 nodes will be elected based o
 
 VOTE2019 token will be airdropped 14th. April, based on KMD chain snapshot (of the same date). You will get VOTe2019 token 1:1 as seen at all transparent KMD R- addresses. If you want to get VOTE2019 tokens - make sure your KMD are stored at your own wallet (where you own WIF/seed) and not on any exchange by the end of day April 13th.
 
-## Winners:
+# Winners
 
 Dev nodes for the next season are: jl777_dev, kolo_dev, decker_dev, ca333_dev.
 
