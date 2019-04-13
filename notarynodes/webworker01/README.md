@@ -21,6 +21,8 @@ After running for a second node I will not seek to run for any additional nodes.
 
 [komodostats.com](https://komodostats.com) - Developed and maintains the website, database and full coin nodes required for analysis and presentation of statistics for the dPoW process
 
+[notarystats](https://github.com/webworker01/notarystats) - Open source stats gathering for the dPow notary service
+
 [komodometrics](https://komodometrics.com/) - Took over hosting and domain name for komodometrics.com in early summer 2018 - converted notary-node-alarm bot to use komodostats.com database
 
 [knomp](https://github.com/webworker01/knomp) - Developed the first z-transaction only fork of z-nomp to facilitate the fully private PirateChain. The software is used by many mining pools for PirateChain and other Komodo based mining pools.
