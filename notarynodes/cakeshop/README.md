@@ -7,6 +7,7 @@ Vote for [cakeshop projects](https://cakeshop.dev) in the SH & AR regions to mak
 
 **The goals of cakeshop projects are to create base products for use in the ecosystem & collaborate**
 
+![Screenshot game 1](https://i.imgur.com/4adrmzB_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
 # Financials
 After server costs are taken out (budget at $500USD/month), the remaining KMD will be split like this
@@ -16,6 +17,8 @@ After server costs are taken out (budget at $500USD/month), the remaining KMD wi
 
 # Proposal
 Cakeshop has several projects already started, and will continue - although it will be at a snails pace without revenue, being part of the notary network will enable mined funds to be spent to grow (dev/human/testing/contractor)resources to these projects.
+
+![CAKESHOP 2019 PROPOSAL POSTER](https://i.imgur.com/pGG8K8e_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
 Cakeshop tries to take [existing implementations, the cakeshop](https://www.komodo-cakeshop.com/shop/) for showcase, and will continue to do so as [the developer ecosystem grows](https://www.komodo-cakeshop.com/2019/02/24/disclaimer-using-komodo-cakeshop/).
 
@@ -32,6 +35,8 @@ In-a-Box projects will require community testers and feedback, and funds for the
 * [Game development](https://cakeshop.dev/gamedev/) - a simple lemonade stand style game using Komodo's CC tech to create modules for a "cakeshop" game
 * [Labs & Liqudity](https://cakeshop.dev/labs-liquidity/) - a small proof of concept 0x relayer is being built by Ahmed to explore the potential of integrating with the marketmaker network
 * Cloud enablement using tools like terraform for cross cloud deployment and testing and introducing Komodo to organizations for blockchain integrations by becoming a [System Integrator Partner](https://www.hashicorp.com/partners).
+
+![Screenshot game 2](https://i.imgur.com/LQ383q1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
 # Why cakeshop exists
 Cakeshop spawned itself from the komodo pioneers because that organization aims to be a DAO that provides supporting materials to independent people to hold meetups and other community initiatives.  As a DAO it is better to have no products or services that can create a liability on its constituents - and cakeshop was born.
