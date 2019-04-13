@@ -9,6 +9,8 @@ Vote for [cakeshop projects](https://cakeshop.dev) in the SH & AR regions to mak
 
 ![Screenshot game 1](https://i.imgur.com/4adrmzB_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 
+![Sync assetchain](https://www.komodo-cakeshop.com/wp-content/uploads/2019/03/CiaB-sync-kmdice.png)
+
 # Financials
 After server costs are taken out (budget at $500USD/month), the remaining KMD will be split like this
 * 10% to go to LABS for their funding bounties
@@ -40,6 +42,8 @@ In-a-Box projects will require community testers and feedback, and funds for the
 
 # Why cakeshop exists
 Cakeshop spawned itself from the komodo pioneers because that organization aims to be a DAO that provides supporting materials to independent people to hold meetups and other community initiatives.  As a DAO it is better to have no products or services that can create a liability on its constituents - and cakeshop was born.
+
+![welcome screen komodo-in-abox](https://www.komodo-cakeshop.com/wp-content/uploads/2019/03/CiaB-welcome-screen.png)
 
 # Key contacts
 * Mylo @Mylo(KomodoPioneers) mylo@komodoplatform.com imylomylo@gmail.com
