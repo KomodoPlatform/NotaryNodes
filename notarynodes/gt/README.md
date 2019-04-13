@@ -20,10 +20,11 @@
 * To maintain a well performing node for the security of KMD as well as it’s many assetchains and other projects using dPoW.
 * To continue maintaining a well performing KMDLabs node. As the KMDLabs project grows, the rest of the ecosystem will benefit.
 * Give back to the community.
+* To scale with the needs of the network
 ```
 * 20% - KMDLabs fund
 * 10% - To start a fund that will be used for current or futue KMD Ecosystem Projects 
-        (ex: Pirate Chain, Verus Coin, etc) 
+        (ex: Pirate Chain, Verus Coin, Komodore64 etc) 
            - To be used for things such as listing fees, bounties, development
 
 ```

@@ -6,12 +6,6 @@
 ```diff
 +             Region: NA             +
 - RVoteCGxquRNeHWGiHC6vxzpXBodKt3P88 -
-
-+             Region: EU             +
-- RVoteCGx1Q7kXnHxUuMvysMUPN2zNnsN3L -
-
-+             Region: SH             +
-- RVoteCGxK9YbFkMyFGG8gJUi2cusX7Cjpd -
 ```
 
 ## Who ComputerGenie Is
