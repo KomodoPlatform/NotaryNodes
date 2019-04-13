@@ -24,8 +24,9 @@
 ```
 * 20% - KMDLabs fund
 * 10% - To start a fund that will be used for current or futue KMD Ecosystem Projects 
-        (ex: Pirate Chain, Verus Coin, Komodore64 etc) 
+        (ex: Pirate Chain, Verus Coin, Chips, Komodore64, self projects etc) 
            - To be used for things such as listing fees, bounties, development
+* 10% - Chips Development 
 
 ```
 
