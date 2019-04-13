@@ -7,6 +7,9 @@ Vote for [cakeshop projects](https://cakeshop.dev) in the SH & AR regions to mak
 
 **The goals of cakeshop projects are to create base products for use in the ecosystem & collaborate**
 
+![Screenshot game 1](https://i.imgur.com/4adrmzB_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+
+![Sync assetchain](https://www.komodo-cakeshop.com/wp-content/uploads/2019/03/CiaB-sync-kmdice.png)
 
 # Financials
 After server costs are taken out (budget at $500USD/month), the remaining KMD will be split like this
@@ -17,9 +20,11 @@ After server costs are taken out (budget at $500USD/month), the remaining KMD wi
 # Proposal
 Cakeshop has several projects already started, and will continue - although it will be at a snails pace without revenue, being part of the notary network will enable mined funds to be spent to grow (dev/human/testing/contractor)resources to these projects.
 
+![CAKESHOP 2019 PROPOSAL POSTER](https://i.imgur.com/pGG8K8e_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+
 Cakeshop tries to take [existing implementations, the cakeshop](https://www.komodo-cakeshop.com/shop/) for showcase, and will continue to do so as [the developer ecosystem grows](https://www.komodo-cakeshop.com/2019/02/24/disclaimer-using-komodo-cakeshop/).
 
-An :point_right:[install guide](https://www.komodo-cakeshop.com/guide/):point_left: is available for the komodo-in-a-box and an amazon machine image (AMI) is available using :point_right:ami-03bc6b5a144a93d19:point_left: from your AWS Management Console.   Running the installer from scratch on any ubuntu-18.04 machine needs a little more :heart: but should work.
+An :point_right:[install guide](https://www.komodo-cakeshop.com/guide/):point_left: is available for the komodo-in-a-box and an amazon machine image (AMI) is available using :point_right:komodo-in-a-box or komodo from AMI search:point_left: from your AWS Management Console.   Running the installer from scratch on any ubuntu-18.04 machine needs a little more :heart: but should work.
 
 
 In-a-Box projects will require community testers and feedback, and funds for these items will be available in the form of community bounties.
@@ -33,8 +38,12 @@ In-a-Box projects will require community testers and feedback, and funds for the
 * [Labs & Liqudity](https://cakeshop.dev/labs-liquidity/) - a small proof of concept 0x relayer is being built by Ahmed to explore the potential of integrating with the marketmaker network
 * Cloud enablement using tools like terraform for cross cloud deployment and testing and introducing Komodo to organizations for blockchain integrations by becoming a [System Integrator Partner](https://www.hashicorp.com/partners).
 
+![Screenshot game 2](https://i.imgur.com/LQ383q1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+
 # Why cakeshop exists
 Cakeshop spawned itself from the komodo pioneers because that organization aims to be a DAO that provides supporting materials to independent people to hold meetups and other community initiatives.  As a DAO it is better to have no products or services that can create a liability on its constituents - and cakeshop was born.
+
+![welcome screen komodo-in-abox](https://www.komodo-cakeshop.com/wp-content/uploads/2019/03/CiaB-welcome-screen.png)
 
 # Key contacts
 * Mylo @Mylo(KomodoPioneers) mylo@komodoplatform.com imylomylo@gmail.com
