@@ -55,6 +55,8 @@ I would also like to promote the `Komodo ecosystem` by doing other videos or 3D 
 
 If not elected I will still promote Komodo and Pirate as I can and will be willing to make rebates for my CG work too but just a bit less :stuck_out_tongue_winking_eye: and I will make proposals every year until elected!
 
+I will also allocate 7% of my NN mining profits (after costs and taxes deducted) to support CHIPS!
+
 <br>
 
 ## STROB HARDWARE
@@ -77,6 +79,8 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 * Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
 
 ![Nvme](https://www.strob.net/kmdNN2019/NVME.jpg)
+
+ Currently on test: i9-79870XE-64GBramDDR4-Intel Optane 960GB
 
 <br>
 
