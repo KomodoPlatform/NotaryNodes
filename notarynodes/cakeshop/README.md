@@ -24,7 +24,7 @@ Cakeshop has several projects already started, and will continue - although it w
 
 Cakeshop tries to take [existing implementations, the cakeshop](https://www.komodo-cakeshop.com/shop/) for showcase, and will continue to do so as [the developer ecosystem grows](https://www.komodo-cakeshop.com/2019/02/24/disclaimer-using-komodo-cakeshop/).
 
-An :point_right:[install guide](https://www.komodo-cakeshop.com/guide/):point_left: is available for the komodo-in-a-box and an amazon machine image (AMI) is available using :point_right:ami-03bc6b5a144a93d19:point_left: from your AWS Management Console.   Running the installer from scratch on any ubuntu-18.04 machine needs a little more :heart: but should work.
+An :point_right:[install guide](https://www.komodo-cakeshop.com/guide/):point_left: is available for the komodo-in-a-box and an amazon machine image (AMI) is available using :point_right:komodo-in-a-box or komodo from AMI search:point_left: from your AWS Management Console.   Running the installer from scratch on any ubuntu-18.04 machine needs a little more :heart: but should work.
 
 
 In-a-Box projects will require community testers and feedback, and funds for these items will be available in the form of community bounties.
