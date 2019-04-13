@@ -26,10 +26,11 @@ The Notary Nodes rewards will be used to pay the servers required to operate as 
 - Additional servers to provide mining pools for all assetchains that could need it
 - Additional servers to provide block explorers for all assetchains that could need it
 - Additional server for kmdlabs for testing (details to be discussed)
+- Other tools to support KMD ecosystem such as stats, BartexDEX, CHIPS into yiimp (2)
 
 My experience with UniMining.net will help me to be able to maintain assetchains, KMD and BTC nodes. We are familiar with virtualization (VMware ESXi), TeamCity and coin updates. We improved automation using TeamCity and custom scripts to build and deploy coins but also to monitor blockchains. We are planning to use Docker when we will have enough experience with it (1). To improve stability, another script checks if each coin daemon is on the same chain of several block explorers.
 
-I operate UniMining.net with friends since September 2017, my friends may help me for some tasks related to automation around NN. Now, UniMining is paying in the coin mined, including KMD. I mined 
+I operate UniMining.net with friends since September 2017, my friends may help me for some tasks related to automation around NN. Now, UniMining is paying in the coin mined, including KMD.
 
 
 ## Relations and agreement :
@@ -48,3 +49,6 @@ I have a friendly relationship with crackers of zpool, metaphilibert and ludom. 
 
 (1) Link to dockerfile:
 https://github.com/phm87/docker-coin
+
+(2) As CHIPS can be used with c-lightning's jl777 fork, if commands of c-lightning were kept, this testnet usecase of c-lightning should work:
+https://github.com/tpruvot/yiimp/pull/292
