@@ -89,15 +89,15 @@ fcd5eJa8
 ## :warning: UPDATE :warning:
 
 ### 20/04/2019
-- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me:
+- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000):
  
 | 				Address				 | 								 TXID			 					|  VOTE  |
 |------------------------------------|------------------------------------------------------------------|--------|
-| RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | 319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2 |  40000 |
-| RESES7Bvd5wJcy2bqizWHF6LXbUAA8GrnJ | 947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007 |  25000 |
-| RKDZEEiWrqrxFHyiEq9NTQeHxgdFLu6ybF | abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233 |  50000 |
-| RGYbkvpcrLDxDEyxvc1uBXpgMqBBGigFeA | d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6 |  50000 |
-| RGaR9uTGhrwyZFHJ1WdoGSECDhAHBj36tM | 6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd | 200000 |
+| RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | [319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2](https://komodod.com/vote2019/t/319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2) |  40000 |
+| RESES7Bvd5wJcy2bqizWHF6LXbUAA8GrnJ | [947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007](https://komodod.com/vote2019/t/947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007) |  25000 |
+| RKDZEEiWrqrxFHyiEq9NTQeHxgdFLu6ybF | [abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233](https://komodod.com/vote2019/t/abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233) |  50000 |
+| RGYbkvpcrLDxDEyxvc1uBXpgMqBBGigFeA | [d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6](https://komodod.com/vote2019/t/d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6) |  50000 |
+| RGaR9uTGhrwyZFHJ1WdoGSECDhAHBj36tM | [6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd](https://komodod.com/vote2019/t/6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd) | 200000 |
 
 - As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
 ## End
