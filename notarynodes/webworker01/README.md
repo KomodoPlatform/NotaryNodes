@@ -21,6 +21,8 @@ After running for a second node I will not seek to run for any additional nodes.
 
 [komodostats.com](https://komodostats.com) - Developed and maintains the website, database and full coin nodes required for analysis and presentation of statistics for the dPoW process
 
+[komodophp](https://packagist.org/packages/webworker01/komodophp) - First release of PHP library for working with Komodo chains and electrumX
+
 [notarystats](https://github.com/webworker01/notarystats) - Open source stats gathering for the dPow notary service
 
 [komodometrics](https://komodometrics.com/) - Took over hosting and domain name for komodometrics.com in early summer 2018 - converted notary-node-alarm bot to use komodostats.com database
