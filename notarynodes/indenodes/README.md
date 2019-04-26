@@ -30,12 +30,6 @@ We are also involved in few other businesses to connect crypto and physical worl
 
 AR NODE: RFQNjTfcvSAmf8D83og1NrdHj1wH2fc5X4
 
-EU NODE: RPknkGAHMwUBvfKQfvw9FyatTZzicSiN4y
-
-NA NODE: RMqbQz4NPNbG15QBwy9EFvLn4NX5Fa7w5g
-
-SH NODE: RQipE6ycbVVb9vCkhqrK8PGZs2p5YmiBtg
-
 ## Informations about our Nodes
 
 **Node Name : indenodes_AR**
