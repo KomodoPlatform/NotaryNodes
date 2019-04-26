@@ -46,8 +46,8 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 
 	| Spec     | Detail		|
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz	|
-	| RAM      |128GB DDR4 ECC 1866 MHz				|
+	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz	|
+	| RAM      |128GB DDR4 ECC 2400 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - London, UK 			|
@@ -56,8 +56,8 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 
 	| Spec     | Detail             |
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
-	| RAM      |128GB DDR4 ECC 1866 MHz			|
+	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz |
+	| RAM      |128GB DDR4 ECC 2400 MHz			|
 	| Storage  |SoftRaid 2x1.92 TB NVMe	|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
@@ -103,14 +103,16 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 - Assisted the Community through the migration from Sprout to Sapling
 - Early tester of Barterlly aka Tortuga
 - PrivateBay pool operator
+- NN Testnet results -> [https://notarystats.info/testnet.php](https://notarystats.info/testnet.php)
 
 ##### Contact Details #####
 
 - Discord: [@mrlynch#5735](https://pirate.black/discord)
-- Notary Website: [https://notary.privatebay.io](https://notary.privatebay.io)
+- Notary Website: [http://notary.privatebay.io](http://notary.privatebay.io)
 - Github: [@mrmlynch](https://github.com/MrMLynch)
 - E-mail: mrlynch@protonmail.ch
 - Website: [https://notary.pirate.black](https://notary.pirate.black)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.4.10
