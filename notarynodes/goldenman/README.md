@@ -1,3 +1,15 @@
+# NOTARY NODE ELECTION 2019
+
+Goldenman will participate next election 2019 for Komodo notary nodes in Regions below:
+
+1. EU Region (Currently running node)
++ KMD address to vote `RHzbQkW7oLK43GKEPK78rSCs7WDiaa4dbw`
+
+2. NA Region
++ KMD address to vote `RPEi3w12ZMMG6CzbrdQrD9rwZh5bAmjRFo`
+
+-----------
+
 # About goldenman
 
 * Has 13+ years experience as a Software engineer in tele-communication and mobile framework
