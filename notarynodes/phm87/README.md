@@ -23,10 +23,10 @@ Hardware will be chosen according to requirements to run the Notary Node setup w
 Server location will be in Sydney, Australia. I'd like to discuss and eventually test ideas to enhance SH region connectivity such as having another server in Asian region to run other nodes (same AC, different wallets) and use a fast private network between the NN server in Sydney and Asian region.
 
 
-## Reward sharing  :
+## Community support  :
 
-15% of KMD earnings will be given to KMDLabs
-15% of KMD earnings will be given to CHIPS
+20% of KMD earnings will be given to KMDLabs
+20% of KMD earnings will be given to CHIPS
 
 These donations won't stop after first year if auto re-elected. These donations will be performed in addition to the servers described in the next section.
 
@@ -37,11 +37,11 @@ The Notary Nodes rewards will be used to pay the servers required to operate as 
 - Additional servers to provide mining pools for all assetchains that could need it
 - Additional servers to provide block explorers for all assetchains that could need it (2)
 - Additional server for KMDLabs for testing (details to be discussed)
-- Other tools to support KMD ecosystem such as stats, BartexDEX, CHIPS, KSB and CHIPS into yiimp (3). By stats, I mean servers to have more stats about KMD and each assetchain (count of transactions per day, graphs).
+- Other tools to support KMD ecosystem such as stats, BartexDEX, CHIPS, KSB and CHIPS into yiimp (3). By stats, I mean servers to have more stats about KMD and each assetchain (count of transactions per day, graphs). I'm writing Dockerfiles for CHIPS, lightning and BET (4). I'd like to host a bootstrap for CHIPS blockchain.
 
-My experience with UniMining.net will help me to be able to maintain assetchains, KMD and BTC nodes. We are familiar with virtualization (VMware ESXi), TeamCity and coin updates. We improved automation using TeamCity and custom scripts to build and deploy coins but also to monitor blockchains. We are planning to use Docker when we will have enough experience with it (4). To improve stability, another script checks if each coin daemon is on the same chain of several block explorers.
+My experience with UniMining.net will help me to be able to maintain assetchains, KMD and BTC nodes. We are familiar with virtualization (VMware ESXi), TeamCity and coin updates. We improved automation using TeamCity and custom scripts to build and deploy coins but also to monitor blockchains. I am planning to use Docker when I will have enough experience with it. To improve stability, another script checks if each coin daemon is on the same chain of several block explorers.
 
-I operate UniMining.net with friends since September 2017, my friends may help me for some tasks related to automation around NN. Now, UniMining is paying in the coin mined, including KMD. Other features are possible such as to pay in another coin. I think it can be interesting to pay in KMD and in KSB.
+I operate UniMining.net with friends since September 2017, my friends may help me for some tasks related to automation around NN. Now, UniMining is paying in the coin mined, including KMD. Other features are possible such as to pay in another coin. I think it can be interesting to pay in KMD, CHIPS and in KSB. BarterDEX/MM2 can be used as a trading engine within yiimp (if trading is enabled on the pool).
 
 
 ## Relations and agreement :
@@ -71,4 +71,5 @@ https://github.com/Alrighttt/2019NNtestnet/pull/46
 https://github.com/tpruvot/yiimp/pull/292
 
 (4) Link to dockerfile:
+https://github.com/phm87/docker-chips (under development)
 https://github.com/phm87/docker-coin
