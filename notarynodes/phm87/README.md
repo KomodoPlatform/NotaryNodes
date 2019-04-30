@@ -25,8 +25,8 @@ Server location will be in Sydney, Australia. I'd like to discuss and eventually
 
 ## Community support  :
 
-20% of KMD earnings will be given to KMDLabs
-20% of KMD earnings will be given to CHIPS
+- 20% of KMD earnings will be given to KMDLabs
+- 20% of KMD earnings will be given to CHIPS
 
 These donations won't stop after first year if auto re-elected. These donations will be performed in addition to the servers described in the next section.
 
