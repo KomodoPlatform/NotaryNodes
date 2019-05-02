@@ -12,16 +12,30 @@ With modest server specs, daily attention to node operations allowed him to reac
 
 ## Vote2019 - Address: `RPyD36pL25mRh4uNR2AaEHfoUjVHYDUbVe` (SH)
 
-For 2019 I propose the setup of one additional notary node in the Southern Hemisphere (SH).   Similar to my first notary node, I will once again choose a data center that is in a different location from all other operators.  I am currently investigating data centers in Kenya and South Africa and plan to look at options in South America as well.  Exact location will be decided and announced near the end of the voting period. System specs will be similar to the NA notary node I am currently managing (which will be upgraded this year to include 1TB NVME for storage). 
+For 2019 I propose the setup of one additional notary node in the Southern Hemisphere (SH).   Similar to my first notary node, I will once again choose a data center that is in a different location from all other operators. ~~I am currently investigating data centers in Kenya and South Africa and plan to look at options in South America as well.  Exact location will be decided and announced near the end of the voting period. System specs will be similar to the NA notary node I am currently managing (which will be upgraded this year to include 1TB NVME for storage).~~
 
 After running for a second node I will not seek to run for any additional nodes. The proceeds from this second node will of course help with the cost of maintaining multiple vps and dedicated servers for the Komodo ecosystem as well as help fund additional development to enhance the project.  My first goal will be to rewrite komodostats.com source code and open source it so that some suggestions that didn't make it into the first version can be submitted by the community as well as have other instances run by other admins. 
+
+### Proposed Server Specs
+
+* Processor: Intel Xeon E5-1620
+* RAM: 64GB ECC DR
+* Storage: SSD 1TB
+* Networking: 200 Mbps uplink
+* Data Center: Johannesburg, ZA
+
+## Disclosure
+
+I am not an official member of Komodo team, but a motivated contributor where my skills allow. 
 
 ## Projects
 ### For Komodo
 
+Projects for Komodo funded by notary node income in 2018 to 2019.
+
 [komodostats.com](https://komodostats.com) - Developed and maintains the website, database and full coin nodes required for analysis and presentation of statistics for the dPoW process
 
-[komodophp](https://packagist.org/packages/webworker01/komodophp) - PHP library for working with Komodo chains and electrumX
+[komodophp](https://packagist.org/packages/webworker01/komodophp) - Open source PHP library for working with Komodo chains and electrumX
 
 [notarystats](https://github.com/webworker01/notarystats) - Open source stats gathering for the dPow notary service
 
@@ -33,7 +47,7 @@ After running for a second node I will not seek to run for any additional nodes.
 
 [komodotools](https://github.com/KomodoPlatform/komodotools/tree/master/webworker01) - Consistent contributor to the komodotools repo to provide scripts for notary nodes to maintain and analyze their own systems
 
-[freshubuntu](https://github.com/webworker01/freshubuntu) - Spin off some scripts from komodotools contributions with a set of scripts that can be used for any public facing Ubuntu server
+[freshubuntu](https://github.com/webworker01/freshubuntu) - Spun off some scripts from komodotools contributions with a set of scripts that can be used for any public facing Ubuntu server
 
 ### For PirateChain
 
@@ -50,6 +64,8 @@ webworker01 is one of the original set of notary nodes for KMDLabs and has assis
 [staked.cc](https://staked.cc) - Hosting and setup of Wordpress
 
 ### For ChainZilla 
+
+Projects sponsored by the ChainZilla team
 
 [KMD Paper Wallet](https://chainzilla.github.io/kmd-paper-wallet/) - Complete front end update for KMD paper wallet
 
