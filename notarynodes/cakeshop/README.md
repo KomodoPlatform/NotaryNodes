@@ -46,7 +46,7 @@ In-a-Box projects will require community testers and feedback, and funds for the
 
 ![Screenshot game 2](https://i.imgur.com/LQ383q1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 # Roadmap
-![Roadmap](https://i.imgur.com/rIGIQGa.png)
+![Roadmap](https://i.imgur.com/4PR7w6U.png)
 
 # Cakeshop Blockchain Menu
 ![Cakeshop Blockchain Menu](https://i.imgur.com/hU41w1a.png)
