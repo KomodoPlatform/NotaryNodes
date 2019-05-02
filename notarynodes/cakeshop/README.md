@@ -2,8 +2,14 @@
 Vote for [cakeshop projects](https://cakeshop.dev) in the SH & AR regions to make the funds do work.  A small developer team in the ME/SEA region, community testers and other community bounties including writing projects.
 
 **Send your VOTE for a server to be run in the SH region**: `RUTn853UxzQ3kg3NJR67yGFGeRzoxGT8Kr`
+* Server Location: Brisbane, Australia
+* Server Make: Supermicro
+* Server DC: DDoS Protection, Multi-homed Connection
 
 **Send your VOTE for a server to be run in the AR region**: `RQSXenqmWT9HhfvaPiiKqFzFBuKyxzS9UL`
+* Server Location: Tokyo or Singapore (to be decided)
+* Server Make: Supermicro
+* Server DC: Tokyo Multi homed Connection (high connectivity to Asia)
 
 **The goals of cakeshop projects are to create base products for use in the ecosystem & collaborate**
 
