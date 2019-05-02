@@ -52,10 +52,7 @@ In-a-Box projects will require community testers and feedback, and funds for the
 ![Cakeshop Blockchain Menu](https://i.imgur.com/hU41w1a.png)
 
 # Komodo-In-a-Box
-For testing some of the latest stuff with Komodo only, I have made a video & install gist [komodo-in-a-box specific console](https://gist.github.com/imylomylo/d78d1b9fe6fd72ccf60f34329b56922f)
-
-<iframe src="https://player.vimeo.com/video/332420851" width="640" height="519" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/332420851">Part 4 of 4 komodo-in-a-box zero-to-hero - Management Interface</a> from <a href="https://vimeo.com/user97728786">mylo</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+For testing some of the latest stuff with Komodo only, I have made a video (vimeo) & install gist [komodo-in-a-box specific console](https://gist.github.com/imylomylo/d78d1b9fe6fd72ccf60f34329b56922f)
 
 ## Difference between KIaB & CIaB
 * Original vision is for a turnkey multi blockchain installer leading to easy integration of marketmaker for supported coin communities
