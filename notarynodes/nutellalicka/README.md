@@ -14,7 +14,13 @@ To summarise, ever since I was introduced to Komodo and it's community, I have b
 
 ## My Notary Node Goal
 
-My goal as a Komodo Network Notary Node is to provide a reliable, effective and efficient notarising node. The way I will achieve this is by maximising the uptime and productivity of my node through continual monitoring and optimising as required. I will be available every day on Discord and via email in case of any required changes, or coin additions.
+My goal as a Komodo Network Notary Node is to provide a reliable, effective and efficient notarising node. The way I will achieve this is by maximising the uptime and productivity of my node through continual monitoring and optimising as required. I will be available every day on Discord and via email in case of any required changes, or coin additions. 
+
+
+## Community Development Funds
+
+Not only will I be dedicating my time and effort to work on various projects in the Komodo ecosystem, I will be dedicating 15% of my notary node mining rewards to support a fund for KMD ecosystem projects. This can be for dev costs/marketing initiatives /project improvement, etc. Initially this will be used to fund a gui developer for CHIPS. Following that, other KMD ecosystem projects will be able to apply to have KMD out of the fund.
+If anyone has requests or suggestions for fund allocations, shoot me a message, I would love to hear your thoughts. I will be creating a webpage with the details of the wallet that will secure the funds, how many funds have been allocated, and to what projects, for transparency. 
 
 ## Server Specifications
 

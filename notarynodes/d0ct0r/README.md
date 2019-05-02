@@ -19,6 +19,8 @@ I'm ready and very willing to make myself a part of the KMD network / community 
 
 I'm prepared to run 1 North American KMD Notary Node to the best of my ability while also assisting community members where and when possible across a full range of potential matters which I might contribute advice towards drawn from years of real-world experience.
 
+If I win a NN I will donate 10% of my KMD rewards to act as prizes and fees for regularly scheduled Discord Chat trivia session winners and host(s). I don't have to be the host, but I'm willing to kick off sessions I am present for or I'll provide the funds to another host who is elected or simply voluntarily standing in. Additionally, 'Popcorn Trivia' where each trivia question comes from whoever answered the previous question first/properly. One single host can still be used to pay out winners. I've been in channels which do this and it is incredibly fun! It also brings a real community feel among members too.
+
 
 NA - Komodo Supernet NN Server-01 Specs:
 

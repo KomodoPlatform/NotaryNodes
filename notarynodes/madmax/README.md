@@ -2,18 +2,19 @@
 
 #### Why Vote for MadMaX
 - ##### launched https://komodod.com as i promised last year.
--  ###### **40% rewards** airdropped as promised last year.
--  ###### experienced komodo notary node operator.
-- ###### Strong KOMODO community supporter.
-- ###### 10+ years in experience in server management.
+- ##### **40% rewards** airdropped as promised last year. [(info)](https://komodod.com/madmax)
+- ##### experienced komodo notary node operator.
+- ##### Strong KOMODO community supporter.
+- ##### 10+ years in experience in server management.
 - ##### this year 40% KMD mining rewards will be airdropped every month.
+- ##### live VOTE stats & VOTE2019 explorer https://komodod.com/vote2019
 
 
 #### Plans for this Year
 - ###### launch all asset chains explorers under komodod.com
 - ###### live transaction notification via telegram & email
 - ###### reward expiry notification
-- ###### stats & insights about dpow & notaries
+- ###### Improve dPoW [stats & insights](https://komodod.com/dpow/chart)
 - ###### explorer API for developers
 
 

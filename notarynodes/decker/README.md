@@ -47,7 +47,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 
 ## Hardware information ##
 
-- Server #1 (Primary)
+- Server #1 (Primary, AR) [owned]
 
     | Spec     | Detail              |
     |----------|---------------------|
@@ -57,7 +57,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
     | Storage  | 2 x 1Tb SSD Intel P4500 Series (SSDPE2KX010T701) + Samsung 970 EVO [MZ-V7E500BW] |
     | Location | Tier III Level Data Center |
 
-- Server #2 (Secondary)
+- Server #2 (Secondary, AR) [owned]
 
     | Spec    | Detail              |
     |---------|---------------------|
@@ -69,15 +69,19 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 
 Both servers uses RAID-1 (mirror) for fault tolerance, also, total storage space can be increased in case if we would have more 3rd party coins and assetchains on-board.
 
+- Server #3 (Primary, EU) [ready for rent]
+
+I will rent server for EU in case of win in this region, it will match current needed harware specs for optimal perfomance in notary tasks.
+
 ## Vote information ##
 
-- [**AR**] Transparent: 
+- [**AR**] 
 ```
 RDECKERmQJXWRN3n7o6gKy4vJrLqG16ufE
 ```
-- [**AR**] Private: 
+- [**EU**] 
 ```
-zs1kfk4qmu59w07l2ljd8lyvvfyhmms86zu0kzgpjlke02mlqsp4q499hnffqhu5c2dca9e56cn0y2
+RARcozaVAMZaXJaL6KWMSw297xTYzbDwa3
 ```
 
 
