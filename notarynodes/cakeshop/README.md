@@ -46,10 +46,10 @@ In-a-Box projects will require community testers and feedback, and funds for the
 
 ![Screenshot game 2](https://i.imgur.com/LQ383q1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
 # Roadmap
-[Roadmap](https://i.imgur.com/rIGIQGa.png)
+![Roadmap](https://i.imgur.com/rIGIQGa.png)
 
 # Cakeshop Blockchain Menu
-[Cakeshop Blockchain Menu](https://i.imgur.com/hU41w1a.png)
+![Cakeshop Blockchain Menu](https://i.imgur.com/hU41w1a.png)
 
 # Komodo-In-a-Box
 For testing some of the latest stuff with Komodo only, I have made a video & install gist [komodo-in-a-box specific console](https://gist.github.com/imylomylo/d78d1b9fe6fd72ccf60f34329b56922f)
