@@ -14,29 +14,22 @@
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;"><a href="https://www.crypto-economy.net/en/komodo-and-the-consensus-on-digital-currencies/">https://www.crypto-economy.net/en/komodo-and-the-consensus-on-digital-currencies/</a></span></span></span></p>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;"><a href="https://www.crypto-economy.net/en/jumblr-the-new-sharedrop-for-komodo-holders/">https://www.crypto-economy.net/en/jumblr-the-new-sharedrop-for-komodo-holders/</a></span></span></span></p>
 
-<h2 align="justify"><strong>As a Notary Node, what can Crypto Economy provide?</strong></h2>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: large;"><span style="font-size: medium;">Crypto Economy wants to be part of the Komodo community in a more active and committed way, that is why, if elected as Notary Node for 2019, Crypto Economy will contribute with the project in the following way</span><span style="font-size: medium;">s</span><span style="font-size: medium;">:</span></span></span></span></p>
-
-<h3 align="justify"><strong>With our voters</strong></h3>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: large;"><b><span style="font-size: medium;">Crypto Economy will reward its voters with 50% of the income</span></b><span style="font-size: medium;"> earned through the Notary Node </span><span style="font-size: medium;">which they have voted</span><span style="font-size: medium;">.</span></span></span></span></p>
-
-<h3 align="justify"><strong>With Komodo Platform</strong></h3>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">In addition to providing the nodes with the power and capacity necessary for the proper functioning of the notarization of the Komodo network in the Bitcoin chain, we are committed to making use of our media group to spread the Komodo brand among our readers and for this:</span></span></span></p>
+<h2 style="text-align: justify;"><strong>As a Notary Node, what can Crypto Economy provide?</strong></h2>
+<p style="text-align: justify;">Crypto Economy wants to be part of the Komodo community in a more active and committed way, that is why, if elected as Notary Node for 2019, Crypto Economy will contribute with the project not only by providing the node with the power and capacity necessary for the proper functioning of the notarization of the Komodo network, along with the required knowledge to make it possible, but also making use of our media group to spread the Komodo brand among our readers and for this:</p>
 
 <ul>
- 	<li>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">W</span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">e will publish all the relevant news about Komodo that may arise</span></span></span></p>
-</li>
- 	<li>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">We will publish </span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">r</span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">eviews, guides and tutorials, and more content with the aim of promoting the adoption of </span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">KMD</span></span></span></p>
-</li>
- 	<li>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">W</span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">e will run a giveaway among our readers to let them know Komodo Platform </span></span></span><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">and help, as a result, the KMD user community grow.</span></span></span></p>
-</li>
+ 	<li style="text-align: justify;">We will publish all the relevant news about Komodo that may arise</li>
+ 	<li style="text-align: justify;">We will publish reviews, guides and tutorials, and more content with the aim of promoting the adoption of KMD</li>
+ 	<li style="text-align: justify;">We will run a giveaway among our readers to let them know Komodo Platform and help, as a result, the KMD user community grow.</li>
 </ul>
+<p style="text-align: justify;">Furthermore, <strong>we will destinate the 50%</strong> of our mining rewards as Notary Operator <strong>to support Komodo projects</strong> in the following way:</p>
+<ul>
+ 	<li style="text-align: justify;"><strong>40%</strong> - CHIPS development</li>
+ 	<li style="text-align: justify;"><strong>10%</strong> - We will mantain a fund for other KMD projects in development who request it</li>
+ </ul>
 <h2 align="justify"><strong>Server Info</strong></h2>
 <h3 align="justify"><strong>EU Server</strong></h3>
-<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: RXxDVSpCyWEn2bkVGAauAQDugX9UgWYLUM</span></span></span></p>
+<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Voting address: <strong>RXxDVSpCyWEn2bkVGAauAQDugX9UgWYLUM</strong></span></span></span></p>
 
 <ul>
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">CPU: Intel i7-7700K OC - 4c/8t - 4,7GHz /5GHz</span></span></span></li>
