@@ -19,7 +19,15 @@ Thank you!
 ---
 
 **EU Vote Address: `RE72g3g3FgMd6zMvxrR7o3YopTqY7v76Qy`**
+* Server Location: Nuremberg, Germany
+* Server Make: Dell
+* Server Host: DDoS Protection, Multi homed data centre
+
+
 **SH Region: auto-elected**
+* Server Location: Sydney, Australia
+* Server Make: Supermicro
+* Server Host: DDoS Protection, Multi homed data centre
 
 ---
 
