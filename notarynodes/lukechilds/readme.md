@@ -6,12 +6,11 @@
   **Re-elected:** Asia (AR)
   <br>
   <br>
-  **Running for Election:** Europe (EU) | North America (NA)
-  <br>
-  <br>
-  **Vote Addresses**<br>
-  EU RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC<br>
-  NA RLUKECH1LDSnotarynodeNAoqzRiNgrSfR
+  **Running for Election:**<br>
+  **Europe (EU)**<br>
+  RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC<br>
+  **North America (NA)**<br>
+  RLUKECH1LDSnotarynodeNAoqzRiNgrSfR<br>
 </div>
 
 ## About Me
