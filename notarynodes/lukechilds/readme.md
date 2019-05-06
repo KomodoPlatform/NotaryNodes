@@ -3,11 +3,14 @@
   <img width="128" src="https://secure.gravatar.com/avatar/4af0d9a1f16bf05d1aedee5e3923d3e3?size=256" />
   <h2>lukechilds</h2>
   
-  **Region:** Asia (AR) Automatically Re-elected | Europe (EU) Running for Election
+  **Re-elected:** Asia (AR)
   <br>
   <br>
-  **Vote Address**<br>
-  RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC
+  **Running for Election:**<br>
+  **Europe (EU)**<br>
+  RV2evPRxFGk2ev7eRxUvWuzjYPWwQ2kpMC<br>
+  **North America (NA)**<br>
+  RLUKECH1LDSnotarynodeNAoqzRiNgrSfR<br>
 </div>
 
 ## About Me
@@ -29,7 +32,7 @@ I'm @lukechilds on Slack, [GitHub](https://github.com/lukechilds), [Twitter](htt
 
 ## Why vote for me?
 
-I was in a leading position throughout 2018 and as a result my AR node will be automatically re-elected for 2019. I would like to run for another node in the EU region.
+I was in a leading position throughout 2018 and as a result my AR node will be automatically re-elected for 2019. I would like to run for another node in the EU region and/or the NA region.
 
 I have the experience required to run a notary node properly and securely with good performance as proven by my results last year.
 
@@ -154,6 +157,23 @@ The server is hosted in Singapore in Asia.
 Will scale up as needed.
 
 The server will be hosted in the Netherlands in Europe.
+
+|                       |                                                                       |
+|-----------------------|-----------------------------------------------------------------------|
+| **KMD Address**       |                                                                       |
+| **BTC Address**       |                                                                       |
+| **BTC Public Key**    |                                                                       |
+
+
+### lukechilds_NA (not yet elected)
+
+- 16 Core CPU
+- 64 GB RAM
+- 1TB SSD
+
+Will scale up as needed.
+
+The server will be hosted in the USA in North America.
 
 |                       |                                                                       |
 |-----------------------|-----------------------------------------------------------------------|
