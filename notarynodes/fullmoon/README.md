@@ -1,18 +1,17 @@
-# fullmoon - notary node info
+# fullmoon - notary node info 2019-2020
 
 # AR:
-* KMD address: `RAtXFwGsgtsHJGuKhJBMbB8vri3SRVQYeu`
-* BTC address: `12cLBRPb654iEGY8E8CEVeoj6SaqpvEdWA`
-* BTC pubkey: `03380314c4f42fa854df8c471618751879f9e8f0ff5dbabda2bd77d0f96cb35676`
+* KMD address: `RE2ctwb1FhqpXWXMkEyZVqUy4B3D2tc9bE`
+* BTC address: `15kRpRhiet3FTWAAH4zSQK9mHuacSzqPqw`
+* BTC pubkey: `035673e913d603137f7f517d88bf316e51d408e0ec2b2cdcbfbdd5c0b553fc9351`
 
 ### Server
-* Location: Singapore
-* Location2: Kuala Lumpur
+* Location: Moscow
 
 # NA:
-* KMD address: `RAtyzPtx7yeH7jhFkD7e2dhf2p429Cn3tQ`
-* BTC address: `12cnut1fX9qi3jL4H38Ww7NTGYbRRMbbRj`
-* BTC pubkey: `030216211d8e2a48bae9e5d7eb3a42ca2b7aae8770979a791f883869aea2fa6eef`
+* KMD address: `REHcNgirFgF7ed1fJpS3L5baBcxiuAmfZp`
+* BTC address: `161RJAqZerSYaceTqeSvEZGNRMW8Jj73dS`
+* BTC pubkey: `02da228a67e519b21bca6426ed982509a21d24d45f1ac1bdf698b6083fed442ec3`
 
 ### Server
 * Location: Bend, Oregon
