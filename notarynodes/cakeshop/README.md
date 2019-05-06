@@ -2,8 +2,14 @@
 Vote for [cakeshop projects](https://cakeshop.dev) in the SH & AR regions to make the funds do work.  A small developer team in the ME/SEA region, community testers and other community bounties including writing projects.
 
 **Send your VOTE for a server to be run in the SH region**: `RUTn853UxzQ3kg3NJR67yGFGeRzoxGT8Kr`
+* Server Location: Brisbane, Australia
+* Server Make: Supermicro
+* Server DC: DDoS Protection, Multi-homed Connection
 
 **Send your VOTE for a server to be run in the AR region**: `RQSXenqmWT9HhfvaPiiKqFzFBuKyxzS9UL`
+* Server Location: Tokyo or Singapore (to be decided)
+* Server Make: Supermicro
+* Server DC: Tokyo Multi homed Connection (high connectivity to Asia)
 
 **The goals of cakeshop projects are to create base products for use in the ecosystem & collaborate**
 
@@ -39,11 +45,26 @@ In-a-Box projects will require community testers and feedback, and funds for the
 * Cloud enablement using tools like terraform for cross cloud deployment and testing and introducing Komodo to organizations for blockchain integrations by becoming a [System Integrator Partner](https://www.hashicorp.com/partners).
 
 ![Screenshot game 2](https://i.imgur.com/LQ383q1_d.jpg?maxwidth=640&shape=thumb&fidelity=medium)
+# Roadmap
+![Roadmap](https://i.imgur.com/4PR7w6U.png)
+
+# Cakeshop Blockchain Menu
+![Cakeshop Blockchain Menu](https://i.imgur.com/hU41w1a.png)
+
+# Komodo-In-a-Box
+For testing some of the latest stuff with Komodo only, I have made a video (vimeo) & install gist [komodo-in-a-box specific console](https://gist.github.com/imylomylo/d78d1b9fe6fd72ccf60f34329b56922f)
+
+## Difference between KIaB & CIaB
+* Original vision is for a turnkey multi blockchain installer leading to easy integration of marketmaker for supported coin communities
+* CHIPS project easy installer as part of Cakeshop-In-a-Box will allow for secure SSH tunnel GUI play using a web proxy on the box
+* Komodo-In-a-Box is a sub-section of the CIaB project specifically aimed at using the latest jl777 features like DTO (decentralized trustless oracles) Prices to make it accessible to more devs to create new crypto fintech integrations.  The KIaB is much quicker to release new features because it does not aim to manage firewall or user settings, purely for Komodo dev features, to ease installation/management.
 
 # Why cakeshop exists
 Cakeshop spawned itself from the komodo pioneers because that organization aims to be a DAO that provides supporting materials to independent people to hold meetups and other community initiatives.  As a DAO it is better to have no products or services that can create a liability on its constituents - and cakeshop was born.
 
+
 ![welcome screen komodo-in-abox](https://www.komodo-cakeshop.com/wp-content/uploads/2019/03/CiaB-welcome-screen.png)
+
 
 # Key contacts
 * Mylo @Mylo(KomodoPioneers) mylo@komodoplatform.com imylomylo@gmail.com
