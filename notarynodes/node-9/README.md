@@ -1,5 +1,38 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n9_banner.png)
-# CrisF   node-9 
+
+# node-9 
+[Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
+# KMD NN Elections 2019
+
+## Results (unofficial)
+### node-9 won a spot!!
+
+![Unoficial results](https://raw.githubusercontent.com/node-prime/node-9/master/2019%20NN%20Election%20Results%20(unofficial).png)
+
+
+## Thank you!
+
+I am deeply humbled and grateful for all of the support that node-9 has received.  The election was very tight in the EU region and your VOTE2019 really counted.  Thank you very much.
+
+The support node-9 has received goes back far beyond these elections.
+
+One year ago I watched the Notary Node elections and thought to myself how cool it would be to play a part in supporting such a cause. I fantasized of myself having such a role. A pleasant distraction from the troubles I was having operating a simple GUI and navigating Slack.
+
+The patience, help and encouragement that have been so freely given by the Komodo community and certain members in particular is a testament to the character of this project and the importance of its purpose.
+
+To me the thing that has shone through the brightest in all of this has been people's willingness to give an 'anybody' a chance.  
+
+I didn't expect that.
+
+This experience has shown me a big part of what the 'blockchain revolution' and, more specifically, the Komodo project is about. It is something worth fighting for and I'll stand up and do my part. 
+
+Thank you for giving me this hope and opportunity, and for your support.
+
+CrisF
+
+
+
+# node-9 
 ### KMD Notary Node Proposal 2019
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
@@ -77,7 +110,7 @@ Minimum specifications will be as follows:
 | ------ | ------ |
 | CPU | Xeon/i7 (or equivalent AMD) |
 | RAM | 128GB DDR4 ECC |
-| Storage| 2 x 1TB SSD purpose|
+| Storage| 2 x 1TB SSD |
 | Network | 1 Gbps |
 | Location | EU datacentre |
 
