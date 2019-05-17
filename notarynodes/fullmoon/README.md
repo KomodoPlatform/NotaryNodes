@@ -29,7 +29,7 @@
 
 # General Info
 
-* Discord: `@fullmoon`
+* Discord: `@fullmoon#9069`
 * PGP fingerprint: `6440 B80B DB9E 58E1`
 
 I am operating notary nodes since early testnet of Komodo. Though I did not participate much in community life in 2018-2019 I never neglected the nodes. My interests are in Interledger and stablecoin projects that can be implemented on Komodo, and for which I would invest block rewards and support devs. 
