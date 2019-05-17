@@ -37,3 +37,7 @@
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Bandwidth: 500 Mbit/s </span></span></span></li>
  	<li><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">HDD 5Tb</span></span></span></li>
 </ul>
+</ul>
+<h2 align="justify"><strong>Contact Info</strong></h2>
+<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Email address: info@crypto-economy.net</span></span></span></p>
+<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Discord: Carlos Crypto Economy#7861</span></span></span></p>
