@@ -1,4 +1,4 @@
-![](./Vote_for_zatJUM.png)
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/zatjum/Vote_for_zatJUM.png)
 
 # zatJUM - Southern Hemisphere Notary node info #
 
@@ -23,28 +23,33 @@ I am a proud Free software user.
 
 I discovered the cryptocurrencies world in early 2013 with Bitcoin, then I've been part of the NXT community (not with this nickname), and followed jl777's work till today, from BitcoinDark and Komodo ICO to these Notary Nodes elections :-)
 
-Few months ago, someone* pushed me to apply for being a STAKER Notary Node operator, and I won 1 of the 20 spots available (see https://kmdlabs.com).
-It allowed me to learn the basis of how a Notary Node works, so now I can candidate for a KOMODO one.
+Few months ago, someone* pushed me to apply for being a STAKER Notary Node operator, and I won 1 of the 20 spots available (see https://kmdlabs.io).
+It allowed me to learn the basis of how a Notary Node works, so now I can candidate for these KOMODO Notary Node 2019 elections.
 
 ## Rewards ##
 
-If you vote for me (and if I win!), I will redistribute a 20% reward of my KMD mining gains on a regular basis.
-I'll do my best to not disappoint you, and will compete to have the best performance.
+If you vote for me (and if I win!), I will redistribute a 20% reward of my KMD mining gains on a monthly basis like this:
+10% to the voters + 10% to @mrlynch#5735 (dev) for him to work on zcommerce adoption (because privacy matters!).
+I'll do my best to not disappoint you, and will compete to have the best performance, as I already do on the testnet with a cheap temporary server.
 
 ## Server spec ##
 
 I promise to comply with the **minimum** requirements listed here if elected:
-- Region: SH (Australia or New Zealand)
-- CPU: Xeon or i7 (8 cores)
-- RAM: 64 GB
-- Disk: 1 TB/SSD
-- Bandwidth: 1 Gbps
+- Region: SH
+  Australia or New Zealand if possible.
+  Although it would be great for decentralization, Testnet showed running a Node there
+  might cause poor performances for notarizations, so if I can find a good server there, it'll be there, but if not,
+  I'll have to choose another location to achieve best results (thinking about South America).
+- CPU: Xeon or i7 (4 cores)
+- RAM: 96 GB
+- Disk: 1 TB/SSD (2 TB/NVME if possible)
+- Bandwidth: 500 Mbps
 
 Server will be ready on time, don't worry!
 
 ## Special thanks to... ##
 
-*DWY! Many many thanks to this 2018 (and 2019?) Notary Node operator for believing in me!
+*DWY! Many many thanks to this 2018 and 2019 Notary Node operator for believing in me!
 
 ## Disclosure ##
 

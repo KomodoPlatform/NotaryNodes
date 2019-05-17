@@ -55,12 +55,14 @@ I would also like to promote the `Komodo ecosystem` by doing other videos or 3D 
 
 If not elected I will still promote Komodo and Pirate as I can and will be willing to make rebates for my CG work too but just a bit less :stuck_out_tongue_winking_eye: and I will make proposals every year until elected!
 
+I will also allocate 7% of my NN mining profits (after costs and taxes deducted) to support CHIPS!
+
 <br>
 
 ## STROB HARDWARE
 I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
 
-[![My rack](https://www.strob.net/WP/wp-content/uploads/2014/04/entrevue3DVF_00012.jpg)]
+![My rack](https://www.strob.net/WP/wp-content/uploads/2014/04/entrevue3DVF_00012.jpg)
 
 * MB: SUPERMICRO server X10DRL-i
 
@@ -68,13 +70,17 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 * RAM: 64GB
 
-* HD: 1TB SSD
+* HD: 2T NVME M.2 Samsung 960 PRO soft raid 0, Highpoint raid card :rocket:
 
 * POWER: 5000VA UPS (APC SUA5000), powered by clean hydro-electricity :leaves::zap:
 
 * INTERNET: business 940Mbps up/down with static ip:dash:
 
 * Server location: Saint-Sauveur, Québec, CANADA :maple_leaf:
+
+![Nvme](https://www.strob.net/kmdNN2019/NVME.jpg)
+
+ Currently on test: i9-79870XE-64GBramDDR4-Intel Optane 960GB
 
 <br>
 

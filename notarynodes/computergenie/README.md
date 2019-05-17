@@ -1,17 +1,11 @@
 # ComputerGenie Notary Node Proposal 2019
 
-<img src="./genie.jpg" width="248">
+<img src="https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/computergenie/genie.jpg" width="248">
 
-## Voting Addresses
+## Voting Address
 ```diff
 +             Region: NA             +
 - RVoteCGxquRNeHWGiHC6vxzpXBodKt3P88 -
-
-+             Region: EU             +
-- RVoteCGx1Q7kXnHxUuMvysMUPN2zNnsN3L -
-
-+             Region: SH             +
-- RVoteCGxK9YbFkMyFGG8gJUi2cusX7Cjpd -
 ```
 
 ## Who ComputerGenie Is
@@ -43,7 +37,15 @@ surrounding it, the best technology and currency that it can be. To sum it up in
 
 [My PGP signature](./mygpg.key)
 
-
+## Notary Addresses
+```diff
++                                KMD:                                +
+-                 RCGsNN1C51pXnPcHd6mi6qYuWoedrgDfiM                 -
++                                BTC:                                +
+-                 13zgHr7uUC1xiPF69vnb1KDhkYC3ELuLW3                 -
++                              PubKey:                               +
+- 03b41c764c8cd63b48b79f15f112a9b5105a0dce35df7d6990d6919503a1f3f245 -
+```
 
 ## Disclaimer
 While I am **not** an *official* "member" of any "team", I have deep ties to many other NN ops through friendships and projects of mutual interest (of which they may or may not be "team members").

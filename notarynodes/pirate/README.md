@@ -1,4 +1,4 @@
-![](./VotePirate.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -16,14 +16,38 @@ RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
+### [AR - Asia-Russia] ###
+
+- VOTE address
+
+```
+RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
+```
+
+
+
+## Commitment ##
+
+#### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
+
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/nn_accounts.png)
+
+
+#### For ALL interest blocks larger than 100 KMD: ####
+* 50% of reward will go towards the Pirate Development fund
+* 50% of reward will go towards the node operators
+
+Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
+
+
 ### Server specs ###
 
 - [EU]
 
 	| Spec     | Detail		|
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz	|
-	| RAM      |128GB DDR4 ECC 1866 MHz				|
+	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz	|
+	| RAM      |128GB DDR4 ECC 2400 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - London, UK 			|
@@ -32,11 +56,22 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 
 	| Spec     | Detail             |
 	|----------|--------------------|
-	| CPU      |Intel  2x Xeon E5-2630v3 - 16c/32t - 2.4GHz / 3.2GHz |
-	| RAM      |128GB DDR4 ECC 1866 MHz			|
+	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz |
+	| RAM      |128GB DDR4 ECC 2400 MHz			|
 	| Storage  |SoftRaid 2x1.92 TB NVMe	|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
+
+- [AR]
+
+	| Spec     | Detail             |
+	|----------|--------------------|
+	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz / 2.7GHz |
+	| RAM      |64GB DDR4 ECC 2133 MHz			|
+	| Storage  |Hybrid SoftRaid 2x2 TB + 2x480 GB SSD	|
+    | Network  |250 Mbps up/down  |
+	| Location |Datacenter - Singapore		|
+
 
 ## Pirate Notary Crew ##
 
@@ -68,14 +103,16 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 - Assisted the Community through the migration from Sprout to Sapling
 - Early tester of Barterlly aka Tortuga
 - PrivateBay pool operator
+- NN Testnet results -> [https://notarystats.info/testnet.php](https://notarystats.info/testnet.php)
 
 ##### Contact Details #####
 
 - Discord: [@mrlynch#5735](https://pirate.black/discord)
-- Notary Website: [https://notary.privatebay.io](https://notary.privatebay.io)
+- Notary Website: [http://notary.privatebay.io](http://notary.privatebay.io)
 - Github: [@mrmlynch](https://github.com/MrMLynch)
 - E-mail: mrlynch@protonmail.ch
 - Website: [https://notary.pirate.black](https://notary.pirate.black)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP.js v4.4.10
@@ -112,7 +149,7 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](./welcome_pirates.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/welcome_pirates.jpg)
 
 ## Disclosure ##
 
