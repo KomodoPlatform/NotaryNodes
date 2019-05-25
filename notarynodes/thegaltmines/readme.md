@@ -6,7 +6,11 @@
 
 **Election 2019:** We are not going to run for additional nodes this year and we are currently in the top half for our NA Node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
 
-**pubkey:** 031bea28bec98b6380958a493a703ddc3353d7b05eb452109a773eefd15a32e421
+**New Pubkeys For 2019**
+
+**#1:** 03b113c7aa1042c965154bf791713f562891ac75e60ab78886205535bcaabb5013
+
+**#2:** 022138be032da85227fde7d1d5cc665ea21ba3f149601e8c23db269750991bc0c3
 
 We will maintain our existing pubkey/privkey pair as wallet resets are working fine.
 
