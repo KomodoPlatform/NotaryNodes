@@ -48,3 +48,4 @@
 <h2 align="justify"><strong>Contact Info</strong></h2>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Email address: info@crypto-economy.net</span></span></span></p>
 <p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Discord: Carlos Crypto Economy#7861</span></span></span></p>
+<p align="justify"><span style="color: #222222;"><span style="font-family: Verdana, Geneva, sans-serif;"><span style="font-size: medium;">Pubkey: 0290ab4937e85246e048552df3e9a66cba2c1602db76e03763e16c671e750145d1 </span></span></span></p>
