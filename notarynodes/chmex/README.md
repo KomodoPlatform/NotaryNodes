@@ -1,3 +1,8 @@
+## Notary Pubkeys for 2019/2020
+ 1) 0281304ebbcc39e4f09fda85f4232dd8dacd668e20e5fc11fba6b985186c90086e
+ 2) 03e5b7ab96b7271ecd585d6f22807fa87da374210a843ec3a90134cbf4a62c3db1
+
+
 # CHMEX Notary Node Proposal 2019
 
 ## Voting Address ##
