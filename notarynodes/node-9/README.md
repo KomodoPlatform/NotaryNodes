@@ -2,6 +2,12 @@
 
 # node-9 
 [Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
+
+### Pubkeys
+
+    btcpubkey1: 02e90f0528f8fd7d2b7f28d53ed7368cc4b1dfc5814c70c486c533862ee05e37dc
+    btcpubkey1: 03a48773670b53e7d139182e1be70b8b3deeb38298af1950f7f9e9061a78156032
+    
 # KMD NN Elections 2019
 
 ## Results (unofficial)
