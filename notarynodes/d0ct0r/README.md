@@ -36,8 +36,16 @@ Network: 1 Gbps up/down
 Location:	Datacenter - Dallas, Texas - United States
 
 
-KMD Voting Address: RJgeTFv3UEUftGVn7BdpUhjmKpXi2KDvtZ
+KMD TestNet NN Voting Address: RJgeTFv3UEUftGVn7BdpUhjmKpXi2KDvtZ
 
+KMD NN Compressed PubKeys:
+
+Compressed pubkey01:
+0303725d8525b6f969122faf04152653eb4bf34e10de92182263321769c334bf58
+
+
+Compressed pubkey 02:
+0235b211469d7c1881d30ab647e0d6ddb4daf9466f60e85e6a33a92e39dedde3a7
 
 
 Contact Info:
