@@ -8,14 +8,14 @@ I'm SHossain, currently Komodo's Support Manager. Testing all core tech and end-
 Alien technology from top to bottom
 
 # AR
-### Primary For KMD > BTC & Mining
+### Primary
 
 ```
 KMD: RVrtLPvKrszs7zSggTsXPYsbxc5SwALiEN
 BTC Pubkey: 03911a60395801082194b6834244fa78a3c30ff3e888667498e157b4aa80b0a65f
 ```
 
-### Secondary For 3RD > KMD
+### Secondary
 
 ```
 KMD: RDosr7iNVe26tcErCBGHZ2YwE2JxcALiEN
@@ -23,14 +23,14 @@ BTC Pubkey: 024f20c096b085308e21893383f44b4faf1cdedea9ad53cc7d7e7fbfa0c30c1e71
 ```
 
 # EU
-### Primary For KMD > BTC & Mining
+### Primary
 
 ```
 KMD: RALiENAgeHExyyEnBARdZdwWbHWokoUbtc
 BTC Pubkey: 03bb749e337b9074465fa28e757b5aa92cb1f0fea1a39589bca91a602834d443cd
 ```
 
-### Secondary For 3RD > KMD
+### Secondary
 
 ```
 KMD: RALiENfYqijwdDuKUwtQmXFYWURq27S98S
