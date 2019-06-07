@@ -12,7 +12,6 @@
 
 **Pubkey #2:** 03e1d4cec2be4c11e368ff0c11e80cd1b09da8026db971b643daee100056b110fa
 
-
 **BTC:** 12dgVmYZ2XxnG3WoFV4PVBgMfy3cMhThwU
 
 **KMD:** RAusaHRqdMmML3szif3Wai1ZSEWCyu7X9Y
