@@ -7,7 +7,9 @@
 **Election 2019:** We are not going to run for additional nodes this year and we are currently in the top half for our NA Node. We will continue to maintain our existing NA Node to the best of our ability for the coming season. 
 
 **New - New - Pubkeys For 2019**
+
 **Pubkey #1:** 02db1a16c7043f45d6033ccfbd0a51c2d789b32db428902f98b9e155cf0d7910ed
+
 **Pubkey #2:** 03e1d4cec2be4c11e368ff0c11e80cd1b09da8026db971b643daee100056b110fa
 
 
