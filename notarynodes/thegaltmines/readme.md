@@ -12,6 +12,10 @@
 
 **Pubkey #2:** 03e1d4cec2be4c11e368ff0c11e80cd1b09da8026db971b643daee100056b110fa
 
+**BTC Address:** 1AExGNMtYbipxvx8EtcrNmkcHm6z9A91ji
+
+**KMD Address:** RJX9LtFB9RXQ2wKKi4byUJ5p42ZaiWSaiZ
+
 **Server Hardware:**
  - SuperMicro Dual EPYC Board 
  - 2x AMD EPYC 7281 16-Core Processor (32 Cores)
