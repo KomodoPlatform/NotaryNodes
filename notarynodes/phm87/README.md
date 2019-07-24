@@ -1,5 +1,39 @@
 # phm87 Node info
 
+## Main key
+
+
+## Secondary key
+KMD:
+RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
+GAME:
+GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
+HUSH
+t1dL53ewbr7UmH8Kt9rghEWpvJc1boSTN8H
+EMC2:
+EccNXuMyJjz5fnsr2Gs66qhxpbKeU3eEND
+GIN:
+GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
+
+## Community support  :
+
+- 20% of KMD earnings will be given to KMDLabs
+- 20% of KMD earnings will be given to CHIPS
+
+**SENDER**|**RECEIVER**|**AMOUNT**|**TIME**|**TX ID**|**NOTE**
+:-----:|:-----:|:-----:|:-----:|:-----:|:-----:
+:phm87_SH NN:|:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:126.123:|:24/07/2019:|:02ef4608b13eca8f4c9fc14721adda0282b4490c5ee5a8b2f04d0a525be3a4af:|:NN rewards:
+:phm87_SH NN:|:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:310:|:24/07/2019:|:a5c45243784270cd1d5983d410652075a58ef521a231b259eae497752a9f903f:|:CHIPS:
+:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:RChipsMFstBYP4VR4sSY4sX17rV5TFpovc:|:87.2246:|:24/07/2019:|:c9081940991cc086d413fc45a75d8c2e783f937ea72aa060a8feefb9bf5e9f0b:|:CHIPS:
+:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp:|:43.6123:|:24/07/2019:|:52476138cea1f556a885d5aba0e775b8fa7f692e2ef11686351e21827e35bc4d:|:KMDLabs Nota fund:
+:RXN4hoZkhUkkrnef9nTUDw3E3vVALAD8Kx:|:RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n:|:43.6123:|:24/07/2019:|:dc3dc28efaeecc2771a3ad3a15ab7560a4f6021cea2586693cf08a5b99cb1b5c:|:KMDLabs Dev fund:
+:-----:|:-----:|:-----:|:-----:|:-----:
+
+https://komodod.com/a/RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML
+
+
+# phm87_SH 2019 election proposal:
+
 Dear KMD community,
 
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years and I entered the world of cryptocurrencies in april 2017.
