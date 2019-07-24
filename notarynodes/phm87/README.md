@@ -1,17 +1,22 @@
 # phm87 Node info
 
 ## Main key
-
+- BTC: 1QBKamc2UzLAaXcSbgyVHeiJNGgrSaeoQd
+- KMD: RYTWfHVK5p8jeXye4rxcPB3W8Y9T5AV2U6
 
 ## Secondary key
-KMD:
+- KMD:
 RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
-GAME:
+
+- GAME:
 GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
-HUSH
+
+- HUSH
 t1dL53ewbr7UmH8Kt9rghEWpvJc1boSTN8H
+
 EMC2:
 EccNXuMyJjz5fnsr2Gs66qhxpbKeU3eEND
+
 GIN:
 GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
 
