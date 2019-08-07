@@ -1,10 +1,12 @@
 # phm87_SH Node info
 
 ## Main key
+Pubkey: 021773a38db1bc3ede7f28142f901a161c7b7737875edbb40082a201c55dcf0add
 - BTC: 1QBKamc2UzLAaXcSbgyVHeiJNGgrSaeoQd
 - KMD: RYTWfHVK5p8jeXye4rxcPB3W8Y9T5AV2U6
 
 ## Secondary key
+Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
 - KMD: RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
 - GAME: GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
 - HUSH: t1dL53ewbr7UmH8Kt9rghEWpvJc1boSTN8H
@@ -27,6 +29,16 @@
 
 https://komodod.com/a/RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML
 
+## Opensource contributions during season 3 (2019 - 2020):
+https://github.com/DeckerSU/komodo_scripts/pull/4
+https://github.com/jl777/SuperNET/pull/1113
+https://github.com/DeckerSU/komodo_scripts/pull/5
+
+Discussions:
+https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash
+-> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
+https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
+-> No change yet ...
 
 # phm87_SH 2019 election proposal:
 
