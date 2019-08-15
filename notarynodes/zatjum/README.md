@@ -11,9 +11,11 @@ If you want to vote for me as a SH NN operator, please send your VOTE2019 tokens
 
 ## Node addresses ##
 
-- KMD address:
-- BTC address:
-- BTC pubkey:
+- KMD address for main server: `RYB6wbNGkJHMzJnTkqBw5ghcLH85EqAxMD`
+- KMD address for third party coins server: `RKwdigZQguusUFNQabVVCGbPkYQrhtkWQJ`
+- BTC address: `1Ptus5Uz9UUnvJRGHfCozANQa1fUcgv29D`
+- BTC pubkey for main server: `02d6b0c89cacd58a0af038139a9a90c9e02cd1e33803a1f15fceabea1f7e9c263a`
+- BTC pubkey for third party coins server: `03643c3b0a07a34f6ae7b048832e0216b935408dfc48b0c7d3d4faceb38841f3f3`
 
 ## About me ##
 
@@ -59,6 +61,75 @@ I am running for myself.
 ## Convinced? ##
 
 Please send your VOTE2019 tokens to: ```RTeH9mLQbLx3iBtjjz7MUEjHLmRCURBLZA```
+
+## List of rewards already sent ##
+
+*In the beginning of june, Agama has been hacked (see https://support.komodoplatform.com/support/solutions/articles/29000029932-agama-security-announcement), and therefore, some of the addresses of the voters has been compromised.
+As I don't want to make the hacker richer than (s)he is, I checked explorer to find new addresses to send the rewards to.
+Those addresses are the ones you told the Komomodo team to refund to.
+(see https://support.komodoplatform.com/support/solutions/articles/29000029973-steps-to-reclaim-funds-after-the-agama-incident)
+In the following table, 1st column, the addresses voters sent their VOTE2019 tokens from, and in second one, addresses where rewards were sent to.*
+
+| Voter address                      | Rewards sent to                    |
+|------------------------------------|------------------------------------|
+| RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj | RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj |
+| RQhoMnqWeVHvY5xphVHkoiMacKZfFkBeTi | RNLCzh2nG6a8EvSSK3NFiJo6qGrZwZmJgT |
+| RFVvyUAnQe5yon6wq7B73Z1BzfFeZKyAZA | RM8KWtnw8ZNTwYjYAbGCSw7b9ydrDDtt5D |
+| RU3EDov1PTPAY8WhG5eGUANp2rvtki1yc9 | R9kBAWwCeUQoXYoP7PdRXpjtgqoCuZvZ9U |
+| RFBxwyTKGy5DtxR5CLLZSjKL5jU6fm13kp | RF2oMgg1xvgHSqsBDdfz65UL314Ji51suD |
+| RFkQHrVHb7xiFgjmhz1tvbrYJ8DcEH33ns | RMkyqNwXxuBQD81VVG2rvvEe9JWMXdJQnB |
+| REEtSLDAEXNkqRcbKbobBs3auVQHqqcMEh | REEtSLDAEXNkqRcbKbobBs3auVQHqqcMEh |
+| RJwGCBmdnsNJ9Ux7Mp7FUQs2FKsUGJhm65 | RJwGCBmdnsNJ9Ux7Mp7FUQs2FKsUGJhm65 |
+| RC6t3NGvo47whEavzcaVixPgJTGJCEQS8B | RC6t3NGvo47whEavzcaVixPgJTGJCEQS8B |
+| RLcvGZNcr9HrLKdVz55ucVd4YfgXiAkbU3 | RLcvGZNcr9HrLKdVz55ucVd4YfgXiAkbU3 |
+| RKfNFCerT2W5Zm7C9DWFZ3uTjoSFhMVzAe | RPZFWKwbMxF2fHZ1Qx2FawXyxefFrin1wM |
+| RJLmfR4vqzLEVP3wQMJQ3yWkNmUWmffZx4 | RJLmfR4vqzLEVP3wQMJQ3yWkNmUWmffZx4 |
+| RDGw8EqEuxaYEExsCXXNcyEga4RkcVbA4g | RRvkANPCDZpid5y1ozTMNXaS5TC8rgx8LZ |
+| RSdBZp9rbaKbGrxaxYNMNxVHBiacsfMZey | RSdBZp9rbaKbGrxaxYNMNxVHBiacsfMZey |
+| RDR3mgoFX3HxHj4C7egNYbeNN6vHJQ8o7z | RDR3mgoFX3HxHj4C7egNYbeNN6vHJQ8o7z |
+| RRbEEfxkqAKTUNsf5hchmjBDEcwSNxZAbG | RRbEEfxkqAKTUNsf5hchmjBDEcwSNxZAbG |
+| RXzB73rzwWRrRzGFHWtDwwyvy7GLhryDn3 | RXzB73rzwWRrRzGFHWtDwwyvy7GLhryDn3 |
+| RMcGui5DFJaDTyG5aX5iknrnG51ss4evqJ | RMcGui5DFJaDTyG5aX5iknrnG51ss4evqJ |
+| RBhZkVrEfN8Px7tPBuuhQNJAqN5o1C7Ubz | RBhZkVrEfN8Px7tPBuuhQNJAqN5o1C7Ubz |
+
+*In order to make my life easier, I've decided to send rewards each time I have 1000 KMD mined.*
+
+### [#1] **Payment**
+
+>[2019-08-07] @mrlynch#5735
+([txid](https://komodod.com/t/69fe57b49423991f03efaf7ce26c9785395e9f217606a6babb9ab79e60713a43))
+
+>[2019-08-15] Voters
+([txid](http://komodod.com/t/e614a52c3dffa33d665b676fed4dcd974d8e5cae201d80b5ca4cfbcf2fb95488))
+
+>
+| Rewards sent to                    | Reward amount |
+|------------------------------------|---------------|
+| RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj |    90.373 KMD |
+| RNLCzh2nG6a8EvSSK3NFiJo6qGrZwZmJgT |     2.569 KMD |
+| RM8KWtnw8ZNTwYjYAbGCSw7b9ydrDDtt5D |     2.420 KMD |
+| R9kBAWwCeUQoXYoP7PdRXpjtgqoCuZvZ9U |     1.479 KMD |
+| RF2oMgg1xvgHSqsBDdfz65UL314Ji51suD |     1.196 KMD |
+| RMkyqNwXxuBQD81VVG2rvvEe9JWMXdJQnB |     0.703 KMD |
+| REEtSLDAEXNkqRcbKbobBs3auVQHqqcMEh |     0.345 KMD |
+| RJwGCBmdnsNJ9Ux7Mp7FUQs2FKsUGJhm65 |     0.259 KMD |
+| RC6t3NGvo47whEavzcaVixPgJTGJCEQS8B |     0.227 KMD |
+| RLcvGZNcr9HrLKdVz55ucVd4YfgXiAkbU3 |     0.120 KMD |
+| RPZFWKwbMxF2fHZ1Qx2FawXyxefFrin1wM |     0.112 KMD |
+| RJLmfR4vqzLEVP3wQMJQ3yWkNmUWmffZx4 |     0.086 KMD |
+| RRvkANPCDZpid5y1ozTMNXaS5TC8rgx8LZ |     0.038 KMD |
+| RSdBZp9rbaKbGrxaxYNMNxVHBiacsfMZey |     0.031 KMD |
+| RDR3mgoFX3HxHj4C7egNYbeNN6vHJQ8o7z |     0.019 KMD |
+| RRbEEfxkqAKTUNsf5hchmjBDEcwSNxZAbG |     0.017 KMD |
+| RXzB73rzwWRrRzGFHWtDwwyvy7GLhryDn3 |     0.004 KMD |
+| RMcGui5DFJaDTyG5aX5iknrnG51ss4evqJ |     0.001 KMD |
+| RBhZkVrEfN8Px7tPBuuhQNJAqN5o1C7Ubz |     0.001 KMD |
+|                             TOTAL  |   100.000 KMD |
+
+### [#2] Payment
+
+> Will happen soon with same allocation
+
 
 ## Contact details ##
 
