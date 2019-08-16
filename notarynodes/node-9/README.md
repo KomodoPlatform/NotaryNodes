@@ -24,10 +24,10 @@ node-9 has sent out its Month 1 donations to KMDLabs.
     Balance:	1642.09600751KMD
     
     Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-07-15&end=2019-08-15
-    
+        
     Blocks Mined:	        541
     KMD Mined:		1642.09600751
-    
+        
     ---------------
     Donations (out)
     
