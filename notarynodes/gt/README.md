@@ -29,6 +29,13 @@
 * 10% - Chips Development 
 
 ```
+## Pubkey:
+```
+
+*Pubkey1: 03e22a6aad65c9a4c2ce2e724b26edf631b5f41253449dd5feaeba68e7c0cf3058
+*Pubkey2: 038b4f509468bfe51937bdce3f4529702d806b0e8fd4f7c487235d06d9c1b411ef
+
+```
 
 ## Server Spec:
 

@@ -1,4 +1,35 @@
-![vote for chainstrike](https://i.imgur.com/y59wBXq.png "Vote for CHAiNSTRiKE!")
+# General Information
+
+#### NODE SH
+
+* Location: Australia Tier 3 DC
+
+* Legacy Addr: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
+* Legacy BTC: 1PaDKKamr7MrnheZZc7twW81TwU9MQK4JV
+* Legacy PubKey: 0370bcf10575d8fb0291afad7bf3a76929734f888228bc49e35c5c49b336002153
+
+```
++++++++ CHAINSTRIKE_SH 2019 MAIN KEY +++++++
+PUBK: 03b806be3bf7a1f2f6290ec5c1ea7d3ea57774dcfcf2129a82b2569e585100e1cb
+KMD: RM9c7nGctj8WsJ1bKXW4JZNGpqC8MPfBVw
+BTC: 1CsR3GPLHuKwoHePrMWwD3354ZjXn9A2Cx
+GAME: GViLTPiHGkwEskwgnJB3doNxyjXNiciEbT
+EMC2: EV2KXrDqircrnbFFfCWTDB22qDEfEHrGAp
+GIN: GViLTPiHGkwEskwgnJB3doNxyjXNiciEbT
+SUQA: SZAR57AV2GX9KbRrPnW1kwBdiLxxagcxbt
+ETH: 0x54Ae48cf2CF4b251f08376D709EEFffb53A1e75a
+
++++++++ CHAINSTRIKE_SH 2019 BACKUP KEY +++++++
+PUBK: 0221f9dee04b7da1f3833c6ea7f7325652c951b1c239052b0dadb57209084ca6a8
+KMD: RMCTAokbRiSAJtYb22Zg3yT2gE7drWveYS
+BTC: 1CvG6HsJptdbEtBPYraYxT7puxf3DTtn4R
+GAME: GVmBWRCFokEtKMUgUoEfPDTiq8StEUak4f
+EMC2: EV5AashpFqvWEBnFMha4xb6ngcAAeNpsNV
+GIN: GVmBWRCFokEtKMUgUoEfPDTiq8StEUak4f
+SUQA: SZDG88eTZFpnmBxr6HZdWMGPZjtU29ji14
+ETH: 0x3Bf1AB6D545C7cDF28a027E2AC870E8AB1016450
+```
+
 
 # ladies and gentlemen, 
 
@@ -68,11 +99,11 @@ questions? reach us at:
 
 #### NODE NA => SEND VOTE2019 TO:
 
-    RBqwWPYGyi6vkSKYgniDabyMrk2fxVgZcH
+    TBA
 
 #### NODE AR => SEND VOTE2019 TO:
 
-    RV9fELEnjkSxLjdTSSBuKkwixN4e9tMc5P
+    TBA
 
 
 #### DISCLAIMER - aka How does this work? - Please read carefully!
@@ -84,28 +115,11 @@ questions? reach us at:
 
 #### Thank you for voting!
 
-# General Information
 
-#### NODE SH
-* Location: Australia Tier 3 DC
-* Legacy Addr: RXrQPqU4SwARri1m2n7232TDECvjzXCJh4
-* Legacy BTC: 1PaDKKamr7MrnheZZc7twW81TwU9MQK4JV
-* Legacy PubKey: 0370bcf10575d8fb0291afad7bf3a76929734f888228bc49e35c5c49b336002153
-* New Addr: RMQLywbU7JGGzUnV6HaZ3MVvnVuY4ijcUk
-* New BTC: 1D89uRiBWUThvURHd7bRwqAj2ESwQ422xk
-* New PubKey: 03e9b86e3431432f5e7a04ad056c7ef4026de866cd134fd1b47d0964029d79dd6f
 
-#### NODE NA
-* Location: TBD
-* Addr: RBqwWPYGyi6vkSKYgniDabyMrk2fxVgZcH
-* BTC: 13ZkRsezNtJMgRxMDcj6V5eA6Ua5Gkpb8b
-* PubKey: 036bb5c8ea5033e4bafd49ca75e40a0d029bf1f6d2a2ea8283d460ce6c712090a3
+![vote for chainstrike](https://i.imgur.com/y59wBXq.png "Vote for CHAiNSTRiKE!")
 
-#### NODE AR
-* Location: TBD
-* Addr: RV9fELEnjkSxLjdTSSBuKkwixN4e9tMc5P
-* BTC: 1LsU9pMW8vePGjGFyGCnEEcXC6c3ShkMsQ
-* PubKey: 03568a5c4e3989d2eecf13990db75f096837f83515e69977a787d05ce384f982a8
+
 
 ##### PGP
 

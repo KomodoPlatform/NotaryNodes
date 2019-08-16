@@ -1,3 +1,28 @@
+## Server specifications
+
+#### Region: NA
+- 2x Intel Xeon E5-2670v3
+- 128 GB RAM
+- 4x 480GB SSD (Hardware RAID 5)
+- 1 Gbit/s Port
+- Location: Dallas, USA
+- btcpubkey1: 02858904a2a1a0b44df4c937b65ee1f5b66186ab87a751858cf270dee1d5031f18
+- btcpubkey2: 034406ac4cf94e84561c5d3f25384dd59145e92fefc5972a037dc6a44bfa286688
+
+#### Region: AR
+- 2x Intel Xeon E5-2630v4
+- 128 GB RAM
+- 4x 480GB SSD (Hardware RAID 5)
+- 1 Gbit/s Port
+- Location: Hong Kong
+- btcpubkey1: 02c4f89a5b382750836cb787880d30e23502265054e1c327a5bfce67116d757ce8
+- btcpubkey2: 025b7655826f5fd3a807cbb4918ef9f02fe64661153ca170db981e9b0861f8c5ad
+
+## Contact details
+
+- Discord: cipi#4502
+- Email: cipi@komodoplatform.com
+
 ## About Me
 
 I am a UNIX systems engineer/administrator with around 20 years of experience in UNIX.
@@ -16,40 +41,6 @@ I am now part of the Komodo team, run a couple of servers, like the electrum ser
 - Bash and Perl scripting
 - Monitoring (Nagios)
 - HA (Linux-HA)
-
-## Server specifications (notary candidate)
-
-#### Region: EU
-- AMD EPYC 7401P
-- 128 GB RAM
-- 2x 960GB NVMe SSD
-- 1 Gbit/s Port
-- Location: Germany
-- <strong>VOTE-address: RVEqV7WnAs3NWUDGxjEjR99TtUNjUx7Smc</strong>
-- btcpubkey: 03610b299bfba5601bee22fb8e19a34589f7f8430987e311f4c2676ecbdf64e8eb
-
-## Server specifications (present notaries)
-
-#### Region: NA
-- 2x Intel Xeon E5-2670v3
-- 128 GB RAM
-- 4x 480GB SSD (Hardware RAID 5)
-- 1 Gbit/s Port
-- Location: Dallas, USA
-- btcpubkey: 02858904a2a1a0b44df4c937b65ee1f5b66186ab87a751858cf270dee1d5031f18
-
-#### Region: AR
-- 2x Intel Xeon E5-2620v4
-- 128 GB RAM
-- 4x 480GB SSD (Hardware RAID 5)
-- 1 Gbit/s Port
-- Location: Hong Kong
-- btcpubkey: 02c4f89a5b382750836cb787880d30e23502265054e1c327a5bfce67116d757ce8
-
-## Contact details
-
-- Discord: cipi#4502
-- Email: cipi@komodoplatform.com
 
 ## Disclosure
 
