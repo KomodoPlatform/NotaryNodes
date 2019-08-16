@@ -1,13 +1,43 @@
 ![n9 Header](https://raw.githubusercontent.com/Cris-F/NotaryNodes/master/notarynodes/node-9/n9_banner.png)
 
 # node-9 
-[Jump to node-9 NN Proposal](#node-9-kmd-notary-node-proposal-2019)
+[Jump to node-9 NN Information and Proposal](#node-9-kmd-notary-node-proposal-2019)
 
 ### Pubkeys
 
-    btcpubkey1: 02e90f0528f8fd7d2b7f28d53ed7368cc4b1dfc5814c70c486c533862ee05e37dc
-    btcpubkey1: 03a48773670b53e7d139182e1be70b8b3deeb38298af1950f7f9e9061a78156032
+    btcpubkey1: 0372e5b51e86e2392bb15039bac0c8f975b852b45028a5e43b324c294e9f12e411
+    btcpubkey1: 024f2402daddee0c8169ccd643e5536c2cf95b9690391c370a65c9dd0169fc3dc6
+
+## Month 1 (15 July - 15 August 2019) Donations 
+node-9 has sent out its Month 1 donations to KMDLabs.
+
+    ===============================================
+    July 15th, 0:00 UTC  ~  August 14th, 23:59 UTC		
+    -----------------------------------------------
     
+    From:		Block #1444308
+        		BlockHash 03fc2720941cdccd5cf2335e227e428b19d4ac8d8aaa8f06464c551acf07d30a
+    Balance:	0KMD
+     
+    To:             Block #1487467
+                    BlockHash 055c261a8f339e4fe14bb53e2ca815d3cb3f374b5a14ec533d09acb4f43dff19
+    Balance:	1642.09600751KMD
+    
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-07-15&end=2019-08-15
+    
+    Blocks Mined:	        541
+    KMD Mined:		1642.09600751
+    
+    ---------------
+    Donations (out)
+    
+    KMDLabs (20%)
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    Amount:		328.419201502 (actual send: 328.5)
+    txid:		d3ac152959cffb4a29a6167cf86c0e675a0fa16126b962d1fcf28df0fb31b9a6
+    ===============================================
+
+
 # KMD NN Elections 2019
 
 ## Results (unofficial)
