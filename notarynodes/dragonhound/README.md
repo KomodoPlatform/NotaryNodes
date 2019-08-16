@@ -76,8 +76,9 @@ smk762
 - A portion of Notary Node funds earned will also be awarded to winners of monthly community competitions (you dont need to vote for me to participate).
 
 ## Pubkeys for 2019-20 Season ##
-[1]  0354c779b9b111fdc825ee0250b33a79a837e0775a111a89916853d02a8999285c
-[2]  03c0d07f0b9932d5db003fe047e328f2bfd61fc24e19db79ef9471efd10ea4c102
+[1]  0224a9d951d3a06d8e941cc7362b788bb1237bb0d56cc313e797eb027f37c2d375
+
+[2]  022405dbc2ea320131e9f0c4115442c797bf0f2677860d46679ac4522300ce8c0a
 
 ## Contact ##
 Discord: smk762#7640
