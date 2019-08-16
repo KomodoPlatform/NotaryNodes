@@ -1,12 +1,20 @@
 # webworker01 - North American Notary Node
 
-* **btcpubkey** - 03bb7d005e052779b1586f071834c5facbb83470094cff5112f0072b64989f97d7
-* **btcaddr** - 1DKBo4B64DNbYziywQB3g9exvXTD7hKuig
-* **kmdaddr** - RMbNsa4Nf3BAd16BQaAAmfzAgnuorUDrCr
+* **btcpubkey** - 032735e9cad1bb00eaababfa6d27864fa4c1db0300c85e01e52176be2ca6a243ce
+* **btcaddr** - 1GQCvdQQQoYkZk5kQ1aQmx5yy4EWv6roMf
+* **kmdaddr** - RQgQ19Hh1dMKdkSwsBZXsURBjKh7XS5obb
+* **secondarypubkey** - 03bfc36a60194b495c075b89995f307bec68c1bcbe381b6b29db47af23494430f9
+
+# webworker01 - Southern Hemisphere Notary Node
+
+* **btcpubkey** - 031e50ba6de3c16f99d414bb89866e578d963a54bde7916c810608966fb5700776
+* **btcaddr** - 1EMChhWJm4VsHYD2zyo2emuqCYPzLho9DA
+* **kmdaddr** - RNdPnDPbMtJSMYaEU9n9kJF2xorazkRc15
+* **secondarypubkey** - 0221365d89a6f6373b15daa4a50d56d34ad1b4b8a48a7fd090163b6b5a5ecd7a0a
 
 ## About
 
-webworker01 is a North American Notary Node operator since Spring of 2018. During that time he's continued to tinker and work on keeping his node operations at peak performance while learning and contributing to the Komodo ecosystem.  
+webworker01 is a North American Notary Node operator since Spring of 2018. During that time he's continued to tinker and work on keeping his node operations at peak performance while learning and contributing to the Komodo ecosystem.
 
 With modest server specs, daily attention to node operations allowed him to reach top performer in North America and #3 overall in the notary network for the 2018-2019 season.
 
@@ -14,7 +22,7 @@ With modest server specs, daily attention to node operations allowed him to reac
 
 For 2019 I propose the setup of one additional notary node in the Southern Hemisphere (SH).   Similar to my first notary node, I will once again choose a data center that is in a different location from all other operators. ~~I am currently investigating data centers in Kenya and South Africa and plan to look at options in South America as well.  Exact location will be decided and announced near the end of the voting period. System specs will be similar to the NA notary node I am currently managing (which will be upgraded this year to include 1TB NVME for storage).~~
 
-After running for a second node I will not seek to run for any additional nodes. The proceeds from this second node will of course help with the cost of maintaining multiple vps and dedicated servers for the Komodo ecosystem as well as help fund additional development to enhance the project.  My first goal will be to rewrite komodostats.com source code and open source it so that some suggestions that didn't make it into the first version can be submitted by the community as well as have other instances run by other admins. 
+After running for a second node I will not seek to run for any additional nodes. The proceeds from this second node will of course help with the cost of maintaining multiple vps and dedicated servers for the Komodo ecosystem as well as help fund additional development to enhance the project.  My first goal will be to rewrite komodostats.com source code and open source it so that some suggestions that didn't make it into the first version can be submitted by the community as well as have other instances run by other admins.
 
 ### Proposed Server Specs
 
@@ -26,7 +34,7 @@ After running for a second node I will not seek to run for any additional nodes.
 
 ## Disclosure
 
-I am not an official member of Komodo team, but a motivated contributor where my skills allow. 
+I am not an official member of Komodo team, but a motivated contributor where my skills allow.
 
 ## Projects
 ### For Komodo
@@ -63,13 +71,13 @@ webworker01 is one of the original set of notary nodes for KMDLabs and has assis
 
 [staked.cc](https://staked.cc) - Hosting and setup of Wordpress
 
-### For ChainZilla 
+### For ChainZilla
 
 Projects sponsored by the ChainZilla team
 
 [KMD Paper Wallet](https://chainzilla.github.io/kmd-paper-wallet/) - Complete front end update for KMD paper wallet
 
-[faucet website](https://faucet.chainzilla.io) - Developed PHP/MySQL based faucet website using ElectrumX 
+[faucet website](https://faucet.chainzilla.io) - Developed PHP/MySQL based faucet website using ElectrumX
 
 Launched or assisted with launch of dPoW blockchains - Zilla and DionPay - insight explorers, agama, barterdex, dPow integration, web wallet
 
