@@ -1,11 +1,7 @@
 ![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/alien/SAM_3920.jpg)
 
 ## Who am I?
-I'm SHossain, currently Komodo's Support Manager. Testing all core tech and end-user product with a good understanding of Komodo ecosystem since November 2017 while supporting users in need. I'm with the community since BTCD mining days and participated in SuperNET ICO. During the 2018-2019 election I built high-end dedicated servers and hosted them in tier 3 Data Centers and. Notary Nodes are very important part of Komodo ecosystem and I intend to run my nodes reliably, which I have been doing since day one. Alien nodes achieved #1 and #2 in overall performance in 2018-2019 season.
-
-
-## Server Spec
-Alien technology from top to bottom
+Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node operator.
 
 # AR
 ### Primary
@@ -52,5 +48,4 @@ KMD - RBHzJTW73U3nyHyxBwiG92bJckxZowPY87
 ```
 
 # Contact details
-Discord handle: @SHossain#0007  
-[Komodo Discord](https://komodoplatform.com/discord)
+Discord handle: @SHossain#0007
