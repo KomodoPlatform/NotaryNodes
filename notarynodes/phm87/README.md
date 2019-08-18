@@ -20,14 +20,14 @@ Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
 
 **SENDER**|**RECEIVER**|**AMOUNT**|**TIME**|**TX ID**|**NOTE**
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
-:phm87_SH NN:|:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:126.123:|:24/07/2019:|:02ef4608b13eca8f4c9fc14721adda0282b4490c5ee5a8b2f04d0a525be3a4af:|:NN rewards:
-:phm87_SH NN:|:RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML:|:310:|:24/07/2019:|:a5c45243784270cd1d5983d410652075a58ef521a231b259eae497752a9f903f:|:NN rewards:
-:phm87_SH:|:RChipsMFstBYP4VR4sSY4sX17rV5TFpovc:|:87.2246:|:24/07/2019:|:c9081940991cc086d413fc45a75d8c2e783f937ea72aa060a8feefb9bf5e9f0b:|:CHIPS:
-:phm87_SH:|:RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp:|:43.6123:|:24/07/2019:|:52476138cea1f556a885d5aba0e775b8fa7f692e2ef11686351e21827e35bc4d:|:KMDLabs Nota fund (1):
-:phm87_SH:|:RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n:|:43.6123:|:24/07/2019:|:dc3dc28efaeecc2771a3ad3a15ab7560a4f6021cea2586693cf08a5b99cb1b5c:|:KMDLabs Dev fund (1):
-:phm87_SH NN:|:RLGNxuiRrvTvnZBZug7HUW7YY3UkmumxL7:|:260:|:28/07/2019:|:ab18f7185753719a5abfd0579078868943b58bb56318103953e6c93d4ab16c40:|:NN rewards:
-:phm87_SH:|:RChipsMFstBYP4VR4sSY4sX17rV5TFpovc:|:52:|:28/07/2019:|:1ed51ba45f2a9453ac9c7c040b6cd2f3f1e77971c51c82fec04b75369ef2599b:|:CHIPS:
-:phm87_SH:|:RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp:|:26:|:28/07/2019:|:96f86b4b51508c835d1be202d629d23039bdb42b32b908d508c5340d327c1e61:|:KMDLabs Nota fund (1):
+phm87_SH NN|RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML|126.123|24/07/2019|02ef4608b13eca8f4c9fc14721adda0282b4490c5ee5a8b2f04d0a525be3a4af|NN rewards
+phm87_SH NN|RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML|310|24/07/2019|a5c45243784270cd1d5983d410652075a58ef521a231b259eae497752a9f903f|NN rewards
+phm87_SH|RChipsMFstBYP4VR4sSY4sX17rV5TFpovc|87.2246|24/07/2019|c9081940991cc086d413fc45a75d8c2e783f937ea72aa060a8feefb9bf5e9f0b|CHIPS
+phm87_SH|RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp|43.6123|24/07/2019|52476138cea1f556a885d5aba0e775b8fa7f692e2ef11686351e21827e35bc4d|KMDLabs Nota fund (1)
+phm87_SH|RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n|43.6123|24/07/2019|dc3dc28efaeecc2771a3ad3a15ab7560a4f6021cea2586693cf08a5b99cb1b5c|KMDLabs Dev fund (1)
+phm87_SH NN|RLGNxuiRrvTvnZBZug7HUW7YY3UkmumxL7|260|28/07/2019|ab18f7185753719a5abfd0579078868943b58bb56318103953e6c93d4ab16c40|NN rewards
+phm87_SH|RChipsMFstBYP4VR4sSY4sX17rV5TFpovc|52|28/07/2019|1ed51ba45f2a9453ac9c7c040b6cd2f3f1e77971c51c82fec04b75369ef2599b|CHIPS
+phm87_SH|RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp|26|28/07/2019|96f86b4b51508c835d1be202d629d23039bdb42b32b908d508c5340d327c1e61|KMDLabs Nota fund (1)
 :phm87_SH:|:RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n:|:26:|:28/07/2019:|:dc3dc28efaeecc2771a3ad3a15ab7560a4f6021cea2586693cf08a5b99cb1b5c:|:KMDLabs Dev fund (1):
 :phm87_SH NN:|:RU7BCzvJh1MW8te3AYZ1cZXwsC946z7Hey:|:700:|:11/08/2019:|:ab18f7185753719a5abfd0579078868943b58bb56318103953e6c93d4ab16c40:|:NN rewards:
 :phm87_SH:|:RChipsMFstBYP4VR4sSY4sX17rV5TFpovc:|:140:|:11/08/2019:|:45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950:|:CHIPS TMP:
@@ -121,11 +121,11 @@ I have a friendly relationship with crackers of zpool, metaphilibert and ludom. 
 
 
 (1) During testnet 2019 of NN, I was able to contribute a little bit. These contributions were possible thanks to other persons who explained.
-https://github.com/jl777/komodo/pull/1416
+- https://github.com/jl777/komodo/pull/1416
 
-https://github.com/Alrighttt/2019NNtestnet/pull/40
-https://github.com/Alrighttt/2019NNtestnet/pull/43
-https://github.com/Alrighttt/2019NNtestnet/pull/46
+- https://github.com/Alrighttt/2019NNtestnet/pull/40
+- https://github.com/Alrighttt/2019NNtestnet/pull/43
+- https://github.com/Alrighttt/2019NNtestnet/pull/46
 
 (2) I heard that a new block explorer can be useful to support CHIPS : https://chips.unimining.net/ (it should work from about the 10th May 2019)
 
