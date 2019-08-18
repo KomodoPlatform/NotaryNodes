@@ -35,6 +35,7 @@ Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
 :phm87_SH:|:RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n:|:70:|:11/08/2019:|:45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950:|:KMDLabs Dev fund:
 
  (1) KMDLabs created a multisig for the donation address. I made a mistake and I sent my donation to addresses of a signer instead of addresses of the donation fund. As a gentleman, the signer sent all funds received to the KMDLabs fund: 
+
 **RECEIVER**|**TX ID**
 :-----:|:-----:
 :bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J:|:226455dfda354da48626bb13090f854792c968c40d1318f8dbbdda33faaffc0a:
