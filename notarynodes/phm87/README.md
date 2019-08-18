@@ -53,12 +53,14 @@ Ongoing:
 - https://github.com/blackjok3rtt/komodo/compare/FSM...phm87:force-rescan
 - Continuation of PR 1113/1114: https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:patch-10
 - https://github.com/KMDLabs/StakedNotary/compare/master...phm87:patch-2
+- https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:ktnn
 
 Discussions:
-https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash
--> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
-https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
--> No change yet ...
+- https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash
+ -> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
+- https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
+ -> No change yet ...
+
 
 # phm87_SH 2019 election proposal:
 
