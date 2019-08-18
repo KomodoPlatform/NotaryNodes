@@ -2,12 +2,12 @@
 
 ## Main key
 Pubkey: 021773a38db1bc3ede7f28142f901a161c7b7737875edbb40082a201c55dcf0add
-- BTC: 1QBKamc2UzLAaXcSbgyVHeiJNGgrSaeoQd
-- KMD: RYTWfHVK5p8jeXye4rxcPB3W8Y9T5AV2U6
+- BTC: [1QBKamc2UzLAaXcSbgyVHeiJNGgrSaeoQd](https://live.blockcypher.com/btc/address/1QBKamc2UzLAaXcSbgyVHeiJNGgrSaeoQd/)
+- KMD: [RYTWfHVK5p8jeXye4rxcPB3W8Y9T5AV2U6](https://komodod.com/a/RYTWfHVK5p8jeXye4rxcPB3W8Y9T5AV2U6)
 
 ## Secondary key
 Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
-- KMD: RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
+- KMD: [RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU](https://komodod.com/a/RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU)
 - GAME: GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
 - HUSH: t1dL53ewbr7UmH8Kt9rghEWpvJc1boSTN8H
 - EMC2: EccNXuMyJjz5fnsr2Gs66qhxpbKeU3eEND
