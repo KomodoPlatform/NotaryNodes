@@ -33,17 +33,15 @@ Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
 :phm87_SH:|:RChipsMFstBYP4VR4sSY4sX17rV5TFpovc:|:140:|:11/08/2019:|:45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950:|:CHIPS TMP:
 :phm87_SH:|:RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp:|:70:|:11/08/2019:|:45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950:|:KMDLabs Nota fund:
 :phm87_SH:|:RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n:|:70:|:11/08/2019:|:45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950:|:KMDLabs Dev fund:
-:-----:|:-----:|:-----:|:-----:|:-----:
 
  (1) KMDLabs created a multisig for the donation address. I made a mistake and I sent my donation to addresses of a signer instead of addresses of the donation fund. As a gentleman, the signer sent all funds received to the KMDLabs fund: 
+**RECEIVER**|**TX ID**
 :-----:|:-----:
 :bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J:|:226455dfda354da48626bb13090f854792c968c40d1318f8dbbdda33faaffc0a:
 :bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J:|:ae942f588ba52a43a892e0a1ecddc091ed2c600ba428377cab540e962e53bdb8:
 :bLaBSUDFCBTLnTZNQs1xnos77j7oAPUt8C:|:361180fd5966586667a8e0b4c603746a4116d4fca75b4056bdab106e2427d09d:
 :bLaBSUDFCBTLnTZNQs1xnos77j7oAPUt8C:|:aba4a8b824ba29bf93ca588fbcfd07fb01b03ff44402d6ac3576e360c8106918:
-:-----:|:-----:
- 
-https://komodod.com/a/RDPU3nXNSfnLfzXYM84uSgMfA9nRqoDCML
+
 
 ## Opensource contributions during season 3 (2019 - 2020):
 - https://github.com/DeckerSU/komodo_scripts/pull/4
