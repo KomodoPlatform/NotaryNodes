@@ -126,10 +126,13 @@ In the following table, 1st column, the addresses voters sent their VOTE2019 tok
 | RBhZkVrEfN8Px7tPBuuhQNJAqN5o1C7Ubz |     0.001 KMD |
 |                             TOTAL  |   100.000 KMD |
 
-### [#2] Payment
+### [#2] Payment (see first payment for allocation details)
 
-> Will happen soon with same allocation
+>[2019-08-19] @mrlynch#5735
+([txid](https://komodod.com/t/fc3e43b1ffe7ec8413a6c05e8e6332b89de989fb880b935cdf9be26a8ebb7b67))
 
+>[2019-08-19] Voters
+([txid](http://komodod.com/t/8c52e6103273cf58893321a73d0182fe942cb40266391f3a5a812b49eadc4dc6))
 
 ## Contact details ##
 
