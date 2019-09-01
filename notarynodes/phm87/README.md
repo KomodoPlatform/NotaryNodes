@@ -8,10 +8,11 @@ Pubkey: 021773a38db1bc3ede7f28142f901a161c7b7737875edbb40082a201c55dcf0add
 ## Secondary key
 Pubkey: 03889a10f9df2caef57220628515693cf25316fe1b0693b0241419e75d0d0e66ed
 - KMD: [RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU](https://komodod.com/a/RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU)
+- CHIPS: RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
 - GAME: GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
-- HUSH: t1dL53ewbr7UmH8Kt9rghEWpvJc1boSTN8H
 - EMC2: EccNXuMyJjz5fnsr2Gs66qhxpbKeU3eEND
 - GIN: GdJPTSrQreJTkxaH9NXgXU4ty7cN1FuM3s
+- VRSC: RUjf7qQkUcVjkVeBgbrhCE4CpDH7fRuGyU
 
 ## Community support  :
 
@@ -30,9 +31,14 @@ phm87_SH|RChipsMFstBYP4VR4sSY4sX17rV5TFpovc|52|28/07/2019|1ed51ba45f2a9453ac9c7c
 phm87_SH|RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp|26|28/07/2019|96f86b4b51508c835d1be202d629d23039bdb42b32b908d508c5340d327c1e61|KMDLabs Nota fund (1)
 phm87_SH|RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n|26|28/07/2019|dc3dc28efaeecc2771a3ad3a15ab7560a4f6021cea2586693cf08a5b99cb1b5c|KMDLabs Dev fund (1)
 phm87_SH NN|RU7BCzvJh1MW8te3AYZ1cZXwsC946z7Hey|700|11/08/2019|ab18f7185753719a5abfd0579078868943b58bb56318103953e6c93d4ab16c40|NN rewards
-phm87_SH|RChipsMFstBYP4VR4sSY4sX17rV5TFpovc|140|11/08/2019|45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950|CHIPS TMP
+phm87_SH|RWXv3obZRVEf4e17aGh9BqRr2Suumg7k2Q|140|11/08/2019|45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950|CHIPS TMP
 phm87_SH|RY56ahGYiW69bfPWc9Eids6BDqCtVLtQYp|70|11/08/2019|45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950|KMDLabs Nota fund
 phm87_SH|RPvDUd2f4QsHYcfVebBBGvZyqZcEYeJd2n|70|11/08/2019|45ed0fc94989b33c04d4e4b898122c2cd94af48ed89633e4733d383b4975e950|KMDLabs Dev fund
+phm87_SH|bLaBSUDFCBTLnTZNQs1xnos77j7oAPUt8C|111|27/08/2019|2b46844d8e96e3f9192c9f8bd1318d7627448dd7d022bbcc10cc8d5d74e920c7|KMDLabs Nota fund
+phm87_SH|bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J|111|27/08/2019|2b46844d8e96e3f9192c9f8bd1318d7627448dd7d022bbcc10cc8d5d74e920c7|KMDLabs Dev fund
+phm87_SH|RWXv3obZRVEf4e17aGh9BqRr2Suumg7k2Q|222|27/08/2019|2b46844d8e96e3f9192c9f8bd1318d7627448dd7d022bbcc10cc8d5d74e920c7|CHIPS TMP
+phm87_SH|RJT2KixeWKiciY6XQWmm48t8KL97mLneKU|333|27/08/2019|2b46844d8e96e3f9192c9f8bd1318d7627448dd7d022bbcc10cc8d5d74e920c7|NN rewards
+phm87_SH|RAUqsY6scsQrpLqbEkqWmeRYX5RwmP1tcg|333|27/08/2019|2b46844d8e96e3f9192c9f8bd1318d7627448dd7d022bbcc10cc8d5d74e920c7|NN rewards
 
  (1) KMDLabs created a multisig for the donation address. I made a mistake and I sent my donation to addresses of a signer instead of addresses of the donation fund. As a gentleman, the signer sent all funds received to the KMDLabs fund: 
 
@@ -54,12 +60,12 @@ Ongoing:
 - Continuation of PR 1113/1114: https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:patch-10
 - https://github.com/KMDLabs/StakedNotary/compare/master...phm87:patch-2
 - https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:ktnn
+- https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:phm87
 
 Discussions:
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash
  -> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
- -> No change yet ...
 
 
 # phm87_SH 2019 election proposal:
