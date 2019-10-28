@@ -22,18 +22,16 @@
 * Give back to the community.
 * To scale with the needs of the network
 ```
-* 20% - KMDLabs fund
-* 10% - To start a fund that will be used for current or futue KMD Ecosystem Projects 
-        (ex: Pirate Chain, Verus Coin, Chips, Komodore64, self projects etc) 
-           - To be used for things such as listing fees, bounties, development
+* 20% - KMDLabs fund: both notarisation and development 
+* 10% - To start a personal fund to be used for ecosystem related projects 
 * 10% - Chips Development 
 
 ```
 ## Pubkey:
 ```
 
-*Pubkey1: 03e22a6aad65c9a4c2ce2e724b26edf631b5f41253449dd5feaeba68e7c0cf3058
-*Pubkey2: 038b4f509468bfe51937bdce3f4529702d806b0e8fd4f7c487235d06d9c1b411ef
+*Pubkey1: 
+*Pubkey2: 
 
 ```
 
