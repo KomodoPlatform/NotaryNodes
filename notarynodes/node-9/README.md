@@ -8,35 +8,116 @@
     btcpubkey1: 0372e5b51e86e2392bb15039bac0c8f975b852b45028a5e43b324c294e9f12e411
     btcpubkey1: 024f2402daddee0c8169ccd643e5536c2cf95b9690391c370a65c9dd0169fc3dc6
 
-## Month 1 (15 July - 15 August 2019) Donations 
-node-9 has sent out its Month 1 donations to KMDLabs.
+## Month 3 & 4
 
+Month 3 & 4 have seen notarizations stats lower that needed. A change of servers is being considered depending on how optimizations currently being worked effect performance.
+
+Donations will be combined for the last 2 months and this update are being combined due to time constraints and this will most likely continue.  Please contact node-9 for updates or questions.
+
+Work with other Notary Node operators developing procedures and was the focus of the beginning of the 3rd month with a very strong focus on work for Komodo outside of the Notary Node arena. This will continue to be the main focus over the coming months.
+
+## node-9 Donations
+
+Node-9's 3rd and 4th round of donations are detailed below. As usual 20% of KMD mined are donated to the KMDLabs Dev Fund.
+
+Thanks for your continued support!
+
+    ---------
+    DONATIONS
+    ---------
+    ===============================================
+    September 15th, 0:00 UTC  ~  November 14th, 23:59 UTC		
+    -----------------------------------------------
+    
+    From:       Block #1531782
+           	    BlockHash   0bf895d415a63f954d5cf160a210c72eefad7c1c7cdf06a052233d8dadd0c308
+       
+    To:         Block #1618699
+                BlockHash   014e8c3da7b803cc8d41457e1a2e69284aec114e63a50f07313b48965a2de03d
+    
+                Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-09-15&end=2019-11-14
+    
+                Blocks Mined:		998
+
+    ---------------
+    Donation (out)
+    
+    KMDLabs (20%)
+       Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    txid:		7e33393c1791d9b22274041182f02334dd8499fe8461506eb7706837d8a4aa05
+    ===============================================
+
+## Month 2
+
+Month 2 proved to be very busy. Node-9 has been involved in preparing for a test of the updated version of the Iguana software used for notarizatioins.
+
+Notarization count was slightly up this month to 558, but needs improvement to pull up in overall rankings. This improvement will be the goal from Month 3.
+
+## node-9 Donations
+
+Node-9 has paid out its second round of donations.  20% of KMD mined are donated to  and you can find details of the payment below.
+
+    ---------
+    DONATIONS
+    ---------
+    ===============================================
+    August 15th, 0:00 UTC  ~  September 14th, 23:59 UTC		
+    -----------------------------------------------
+    
+    From:		Block #1487490
+        		BlockHash  00e787dbd935883acd01e699d9b8f22b1483aa011ae5d443ac5ac8191ae79a0e
+    
+    To:	        Block #1531710
+                    BlockHash  062642d19e95d1870df1ff10cee534ebc768f9cc112a8a7cba813a753cab0f76
+            
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-08-15&end=2019-09-14
+
+    Blocks Mined:		558
+    
+    ---------------
+    Donation (out)
+    
+    KMDLabs (20%)
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    txid:		83642aba7b98a4ecab5295727d87956f8e643914cdb5d8782acaaa4011e683f8
+    ===============================================
+
+## First month
+
+The first month flew by. There were a few minor troubles that were dealt with but node-9 is performing well.
+
+The goal for month 2 is to start pulling up towards the leaders. This will require some optimizations.
+
+There may be some changes in how Notary Nodes are selected to be amongst the 13 who make the actual notarizations to BTC over the next 4~6 weeks. That may require some strategic and functional changes to ensure node-9's best performance.
+
+## node-9 Donations
+
+Node-9 has paid out its first round of donations.  20% of KMD mined are donated to  and you can find details of the payment below.
+
+    ---------
+    DONATIONS
+    ---------
     ===============================================
     July 15th, 0:00 UTC  ~  August 14th, 23:59 UTC		
     -----------------------------------------------
     
     From:		Block #1444308
         		BlockHash 03fc2720941cdccd5cf2335e227e428b19d4ac8d8aaa8f06464c551acf07d30a
-    Balance:	0KMD
-     
-    To:             Block #1487467
-                    BlockHash 055c261a8f339e4fe14bb53e2ca815d3cb3f374b5a14ec533d09acb4f43dff19
-    Balance:	1642.09600751KMD
+ 
+    To:		Block #1487467
+    		BlockHash 055c261a8f339e4fe14bb53e2ca815d3cb3f374b5a14ec533d09acb4f43dff19
     
     Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-07-15&end=2019-08-15
-        
-    Blocks Mined:	        541
-    KMD Mined:		1642.09600751
-        
+    
+    Blocks Mined:		541
+    
     ---------------
-    Donations (out)
+    Donation (out)
     
     KMDLabs (20%)
     Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
-    Amount:		328.419201502 (actual send: 328.5)
     txid:		d3ac152959cffb4a29a6167cf86c0e675a0fa16126b962d1fcf28df0fb31b9a6
     ===============================================
-
 
 # KMD NN Elections 2019
 
