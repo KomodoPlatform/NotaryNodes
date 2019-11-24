@@ -35,15 +35,15 @@ Thanks for your continued support!
     To:         Block #1618699
                 BlockHash   014e8c3da7b803cc8d41457e1a2e69284aec114e63a50f07313b48965a2de03d
     
-                Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-09-15&end=2019-11-14
+    Mining Data from:	https://komodostats.com/mining/notary/node-9_EU?start=2019-09-15&end=2019-11-14
     
-                Blocks Mined:		998
+    Blocks Mined:		998
 
     ---------------
     Donation (out)
     
     KMDLabs (20%)
-       Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
+    Address:	bDEV1RkHmDWx9PvHpyabcNQW2bJqk9Dt6J
     txid:		7e33393c1791d9b22274041182f02334dd8499fe8461506eb7706837d8a4aa05
     ===============================================
 
