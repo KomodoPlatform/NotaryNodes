@@ -198,6 +198,14 @@ In the following table, 1st column, the addresses voters sent their VOTE2019 tok
 >[2019-12-24] Voters
 ([txid](http://komodod.com/t/c16ee41c0a3710579006495942c48652fa47c110ffca615c68c8823a0282c17a))
 
+### [#11] Payment (see first payment for allocation details)
+
+>[2020-01-12] @mrlynch#5735
+([txid](https://komodod.com/t/9fef7f222f426de73ee0cfdd8aaf8febcbbdd1e52c4e2d87af7a0e294210e13a))
+
+>[2020-01-12] Voters
+([txid](http://komodod.com/t/0803fab3dd4028dbc55fb10542fa6b9d4eeda96a3b8e23e11a5190603feb5cee))
+
 ## Contact details ##
 
 Feel free to contact me on:
