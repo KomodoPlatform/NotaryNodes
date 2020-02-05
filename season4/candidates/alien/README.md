@@ -17,7 +17,7 @@ Blockchain enthusiast, been with the community since BTCD mining days. Komodo lo
 alien server
 ```
 ---
-_Currently I am operating one Notary Node in the AR region and one Notary Node in the EU region. Both of them are at the top position in their respective region by performance._
+_Currently I am operating one Notary Node in the AR region `alien_AR` and one Notary Node in the EU region `alien_EU`. Both of them are at the top position in their respective region by performance._
 
 #### Thank you very much for voting for me and trusting me with securing the network.
 ## Contact details
