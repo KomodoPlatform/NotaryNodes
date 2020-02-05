@@ -28,7 +28,7 @@ Since July 2019, I have made more than `1335` contributions for different komodo
  
 ## Voting Address
 
-`RX43484BFZbfQiaaRZXDqskHQhwyCKwBk2`
+`RDASWS5PSHruahEzc1w9Mc2vmvwTNHq827`
 
 ## Hardware Informations
 
