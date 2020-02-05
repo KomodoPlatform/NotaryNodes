@@ -19,7 +19,7 @@ I would like to get re-elected for Notary Node Election 2020 to operate a Node i
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running several Fullnodes access the data and to help the network for all Notarized and known Assetchains<br>
-* Hosting 15min updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Live and Testing Network https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
+* Hosting 15min updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 40+ Explorers for Live and Testing Network https://explorer.dexstats.info .
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others.<br>
 * Helped out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
@@ -31,11 +31,12 @@ I would like to get re-elected for Notary Node Election 2020 to operate a Node i
 * Pay for Infrastructure
 * Dedicating  time to the Komodo Eco System
 * I will use Funds to pay Dev Bounties like RPC Integrations. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was partialy paid by me.
+* Donate to Devs and Projects
 
 If I get to run the node for another year it will allow me to keep paying for the 10 Servers I currently run.
 
 ## Server Specs:
-* Processor: `2x Xeon or Gold`
+* Processor: `2x Xeon Gold`
 * RAM: `128 GB`
 * Disk: `1TB NVME`
 * Network: `1 Gbit`
