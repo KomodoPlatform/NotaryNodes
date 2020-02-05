@@ -3,7 +3,7 @@
 ## Voting Address ##
 **Region: EU**
 
-<img src="https://github.com/chmex/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
 
 ```RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj```
 <br>
@@ -37,7 +37,7 @@ If I get to run the node for another year it will allow me to keep paying for th
 ## Server Specs:
 * Processor: `2x Xeon or Gold`
 * RAM: `128 GB`
-* Disk: `1TB nvme`
+* Disk: `1TB NVME`
 * Network: `1 Gbit`
 
 ## Disclosure:
@@ -52,7 +52,7 @@ If I get to run the node for another year it will allow me to keep paying for th
 
 ## Vote Now Deadline 31st March 2020
 ### Thank you for reading my Proposal and sending your VOTE2019 to 
-<img src="https://github.com/chmex/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr_voting.png" align="right" height="190px" width="150px">
+<img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
