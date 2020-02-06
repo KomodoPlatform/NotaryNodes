@@ -61,7 +61,7 @@ These funds will be used to make the aforementioned ideas and others like them a
 
 ## PGP Key
 
-[My PGP Key](./gcharang_pgp_pub.asc)
+[My PGP Key](./my-pgp-key.txt)
 
 ## Contact details
 
