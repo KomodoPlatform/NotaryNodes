@@ -21,7 +21,7 @@ At my leisure time, I like to polish my game, tinker with electronics, and play 
 * **Region:** EU
 * **Address:** `RKioHMjm52LNyAvr3Tj1ZJLydgNUo1FNBq`
 
-## Hardware
+## Hardware (2x)
 * **CPU**: Intel Xeon®
 * **RAM**: 64GB DDR4
 * **Disk**: SSD NVMe 1TB
