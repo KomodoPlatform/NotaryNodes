@@ -6,9 +6,11 @@
 |					|				|
 | -----------------	| ------------- |
 |Discord username 	| @PHBA2061#2530 |
-|Region 			| EU (Frankfurt-DE)|
-|Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM |
-|Voting address 	| RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM |
+|Region 			| NA (CANADA)|
+|Main Server    	| Intel Xeon-E 2136 - 64GB DDR4 ECC 2666MHz - 2x SSD NVMe 1TB |
+|3rd party Server 	| Intel Xeon E3-1230v6 - RAM 32GB LEG - 2x SSD NVMe 450GB |
+|Voting address 	| RPhbA2o61JM4ufrwJiAJ7SMmbR7cvbns4e |
+
 
 
 
@@ -17,7 +19,7 @@
 
 
 
-![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%20200.png)
+![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RPhbA2o61JM4ufrwJiAJ7SMmbR7cvbns4e%20200.png)
 
 ---
 
