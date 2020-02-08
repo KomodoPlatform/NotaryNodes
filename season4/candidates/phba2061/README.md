@@ -1,0 +1,124 @@
+# Komodo Notary Node (NN) Voting Proposal
+
+
+![Profile Image](https://i.pinimg.com/236x/e0/c6/5f/e0c65f4c027454ab7ee2fe02a8a42bcd--dynasty-warriors-lee-joon.jpg)
+
+|					|				|
+| -----------------	| ------------- |
+|Discord username 	| @PHBA2061#2530 |
+|Region 			| EU (Frankfurt-DE)|
+|Server details 	| Linode 64GB: 16 CPU, 1280GB Storage, 64GB RAM |
+|Voting address 	| RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM |
+
+
+
+#### VOTE Tokens will be airdropped on April 14, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before May 15. Thank you for your support !
+
+
+
+
+![QR voting address](https://raw.githubusercontent.com/NOCTLJRNE/Commands-Testing/master/qr-code%20RFcGrDLnWh1cMiQqMKncFJ6b9cnt8fwKCM%20200.png)
+
+---
+
+## :information_source: My profile and background :information_source:
+
+You can find my full background & profile on linkedin [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/). In short, I'm an electrical engineer who is currently working in France. After 3 years working for CEA as a R&D engineer, I decided to learn how to become a blockchain developper (fyi, CEA is a French public government-funded research organisation; me and my team, we build handheld gas sampling/analyzing devices, I wish I could show you some pictures but I can't due to NDA).
+
+I'm also a "electronic geek", in the past I spent a lot of time playing with stuffs like Arduino board, Raspberry SBC, and electronic components such as microcontrollers, sensors, LCD screens ... Here's an example of what I would do during my free time :clapper: [Rainbow RGB LED](https://youtu.be/YA9X3_JJ8hM) 
+
+
+## :question: Why should you vote for me :question:
+
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC), but didn't really have time to take a deep look into it, my objectives for the next 6-12 months is to replicate popular dapps (mainly games) that already existed on other platforms like Ethereum or EOS, in order to prove the capacity of CC in specific and Komodo platform in general (I started with Ethereum because it is well documented and supported). By entrusting me your votes, I'll be able to fund my works with the mining rewards from my NN, expand my team if needed and speed up my contribution to the Komodo ecosytem (for the moment I'm the only member, but even without getting elected, I will still spend time on learning & developping CC :grin:) . 
+
+I don't have much experience in system security/administration, but I don't mind spend time learning from other NN operators, and with my engineering and technical background, I believe that I'll be able to guarantee the performance of my NN.
+ 
+I don't have the intention of giving rev shares to my voters, because: 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what they already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say if I give 10000 KMD back to my voters, that's only 2% of their holdings!). Let us vote responsibly !
+
+I will do a monthly report to keep things as transparent as possible.
+
+To summarize, rewards from my NN will be prioritized for: 
+- covering NN server cost ($320/server monthly). 
+- developing & promoting CC based dapps, mainly focus on games. (and I believe this will contribute to drive the value of KMD up in the long term).
+- to be precised, I'll be focusing on Casino game type (like dice, poker) & colectible game type first.  
+ 
+## :link: My other social pages/links :link:
+- My linkedin profile [linkedin](https://www.linkedin.com/in/bao-an-pham-ho-b04814a3/).
+- I'm a co-inventor of the published patent **"Device for analysis of mixtures of at least 2 gas"** :bulb: [worldwide.espacenet.com](https://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=2017016840&KC=A1).
+- My website, which is still under construction & temporally hosted on [codesandbox.io](https://64n60p245n.codesandbox.io/). :joy:
+- A dapp (which was based on a Truffle framework tutorial, I migrated the front-end part to React) that I have deployed on Ethereum Ropsten testnet :dog: [codesandbox](https://jz0060zrmy.codesandbox.io/).
+- A simple dice game smart-contract (which use blockhash instead of a true source of randomness), also deployed on Ropsten tesnet :game_die: [etherscan](https://ropsten.etherscan.io/address/0xb5a5734ba7198a2283730bc998f8af56408ca06d#code).
+- And there will be more to come.
+
+
+## :lock: My PGP public key (*.asc) :lock:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+mQINBFySYFoBEAC99zs+kszeYtfM/Rh1eqykXMWcAczRuc4IwDq0w/xpTOzoM+xV
+5j/Q52JHfogmcDJwrVv3F+TfNNpp4dQGfVg8JqMKyCzyRpYna5Bz98hdJipVQlji
+pW/+oJGGhq1xzSnTb/4ecRf9/a8fHBsb8JTBvrYqxbDpt/7j16GjCEl+gVqXaFSc
+9YQ03dz2IGprypOz/bf0IlDfemwPb5N6pAZR1a6XuxnZwMvIrAixqDhYHufpc8IX
+EaUk7082e4wpoCVSARmtPTAWfgEkk7ZAyH+gtu7ebjMpydhDWqBW8K6nbqIuvvkZ
+Zn2dk69Wlz+Jk6fPs1dzrD+f91dSobAzVnUMGY/6Pv3JF2iEgEVsaqmw1e4KWEPO
+cvrVHVwsvV32d1bOBRl3SLQEDOd686nSuFQT3QrZijCL30lBFi6+/vykoQtOIcEC
+FZ3Jes2curwOdI5rBUoOmNAXw8K7j+3p7kAKmh+moioKrHzOe3/zXBMoCi/bRcn6
+1j/IDQ19dGvj3Xxf78bQfUwbS3fEDb/T08vS6KeobVJk4fFYKtetGIPg2jAv4MtG
+/qi3NNmqCD3gZNOKysIhZLj0EGd5WXTrkyJhWz3w96lCnpaJbVGsPQ/t0h8Vd5Ld
+7R9+a+QCRX4CVZteSUJ4yMJzjEMGvwskrVr65Ibwt8BilzTKPx2gIRcfeQARAQAB
+tB1waGJhMjA2MSA8bm9jdGxqcm5lQGxpdmUuY29tPokCVAQTAQgAPhYhBM1W+P81
+vWaf3z4Vt8+dS7wQSXD+BQJckmBaAhsPBQkDw3VWBQsJCAcCBhUKCQgLAgQWAgMB
+Ah4BAheAAAoJEM+dS7wQSXD+6YQP/Ryoy1FMh17MO8iLcXJL88dnbLLL/IseiJ9O
+M0HR2XXXSJIRdGtdcnRPvIVOyuwTvttwGp7y6JQitzL2gU5xyhCY83k3AObwNJv0
+TyFbIvzl9bpxNN48XOOiKTfzQBm2eb1C+Y3F8i2VCcpsPObm0TFRwpOtzCtW7rrw
+kJYA/77HWzRfGw1RRKN5LGtDmC1LunYiU6I18vYmW81RDr0hI8Qb2IICleKw3sUA
+LB1NEJLN/WEHrAOGvjg3IAOEFeYUfj+6bq3JBDQ10QeHi3IJhnvilwxWO9ARW6pT
+UrfntQjP4MlEGCpJLy36CmbOeyEXLlf2UH8Kf+m43CjsDnBfgZ4yTiJziMShV3F8
+N+tm7y77yNbu9XTX+gOr0uGk23OxdT/6fobTI3EKn+20j3dnXXhEwio+/bhnSpUo
+2n4AyAUnwF14qdUp9pdUR1dFfnT8ObNvQGYVUy3mtGIKPF/zqeKdfjJ0MXoN117S
+f6QJpWsV6azR4pCh0SEzVak2L+HqWp8I6bqlTDYfAGZ2ybMSE+NQVaIOajJ/gb11
++y4kYtbFxPqeosAhuXyIUI4nvyt+yUzWn8Na2+XcyIxKfdlQMfnU0wVQWa+A2Ugw
+jk8Pvh35E0M10OrYAPj/XSFKAEWN/cu9d6zMypU9YP/lnlRnlBQaoiU7ZPg27t5o
+fcd5eJa8
+=7uKG
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+
+
+## :warning: UPDATE :warning:
+
+### 20/04/2019
+- After the 1st week of the NN election, I'm very grateful to the people who casted their VOTEs for me (365000).
+### 07/05/2019
+- We are 1 week away from the conlcusion of the 2019 election, thank you for all your supports so far (655258.38).
+### 14/05/2019
+- The election has concluded, thank you all for helping me securing the 4th spot in EU region (1242866.05 in total).
+
+| 				Address				 | 								 TXID			 					|  VOTE2019  |
+|------------------------------------|------------------------------------------------------------------|--------|
+| RHEnnSwnfxtUppTrthHHknJK4YP11DFHzM | [319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2](https://komodod.com/vote2019/t/319034d93b23efeb0dcc25a6800b93ddbef500c3c69458fb79289a53002886d2) |  40000 |
+| RESES7Bvd5wJcy2bqizWHF6LXbUAA8GrnJ | [947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007](https://komodod.com/vote2019/t/947b176e37fba52b327bcb67001f043afb292543ec0ffe7267d547fc7a2b4007) |  25000 |
+| RKDZEEiWrqrxFHyiEq9NTQeHxgdFLu6ybF | [abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233](https://komodod.com/vote2019/t/abde2a1637543b20b7578dab01bfe854fbefe3c37d7c9b725f66d4eec3ba9233) |  50000 |
+| RGYbkvpcrLDxDEyxvc1uBXpgMqBBGigFeA | [d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6](https://komodod.com/vote2019/t/d2b085d337bc01b0bd7b3c680e99b94e3a110d52fb9040aefd2d222de5203bf6) |  50000 |
+| RGaR9uTGhrwyZFHJ1WdoGSECDhAHBj36tM | [6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd](https://komodod.com/vote2019/t/6d229901c513a9b34f27c84891dba0f8eb2d629dd857dafb3530955a3481f1fd) | 200000 |
+| RKHDb21A95kcdkwKtywh2DFy7Gt4ZqahyM | [a0030f607a320af8296e659f233ee4f73ff9bf5b2b04fa8eec70e9c25f197e13](https://komodod.com/vote2019/t/a0030f607a320af8296e659f233ee4f73ff9bf5b2b04fa8eec70e9c25f197e13) |  50000 |
+| RWZyKGtBgNMSJv2emxXxSBWtRqMq5CKvZJ | [a858687f387e68fc8d9ec372710d74f3a41f525e698d4d4749e06347e3d63047](https://komodod.com/vote2019/t/a858687f387e68fc8d9ec372710d74f3a41f525e698d4d4749e06347e3d63047) |  30000 |
+| RGKXNKrf7R8dEeLRkhZUF62uoxbxF6F5EV | [ea03190276b4b1f4bb74258920a67e3b14196732dda36cd72e1dc3c47507f92f](https://komodod.com/vote2019/t/ea03190276b4b1f4bb74258920a67e3b14196732dda36cd72e1dc3c47507f92f) | 100000 |
+| RCrLiF9E6BRPQ2dQdGTbj9udkByZ1aoMZp | [d96b6c52f6557dda3d3b667d5527225f5b4edea8dfc1ce9b307af03fbd1ffa6b](https://komodod.com/vote2019/t/d96b6c52f6557dda3d3b667d5527225f5b4edea8dfc1ce9b307af03fbd1ffa6b) |  60000 |
+| RHBGuAyrFKi8M4XSH71yHWKSQ9n7FdHtCv | [2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a](https://komodod.com/vote2019/t/2052791494fc3ef742d0bdba64febe02872c8a705a275424474c7e251999580a) | 17561.30696938 |
+| RHkPwTUqNGR8ScD3qqUq6BcACaDaTjPjEf | [a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba](https://komodod.com/vote2019/t/a7a7a4e3278dbfd42a477e8453ab3ffbdbf3c9621724afb7bfab3b67593860ba) |  30000 |
+| RDCDEEWUs7k2ySPjHAy8BNBvZ4MWfRN8Q8 | [e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c](https://komodod.com/vote2019/t/e02a42dc5cb99c8ff4e7d4edcac0b1ece269c383384a9c77abb1fd33a2d8641c) | 2697.07742698 |
+| RGmBP5iip6otPxJeHddnA4xcAtjgMnsToE | [038dce47319f91bfadd49a025b92b5a0d6cfc8fd97ad33b31dca6b11e3d794f2](https://komodod.com/vote2019/t/038dce47319f91bfadd49a025b92b5a0d6cfc8fd97ad33b31dca6b11e3d794f2) | 75000 |
+| RTCzHLA5ZambDV75opqFLE2PbvWFdtUmTU | [95060662a23e0479f0911156213a69118b795b5935afe1330d11ac199c1867ff](https://komodod.com/vote2019/t/95060662a23e0479f0911156213a69118b795b5935afe1330d11ac199c1867ff) | 100000 |
+| RBQhpBcQZ69gTh6w688hnkK1xHeLfCtKtD | [90f723b2c093a772415b98da16cae26d5192b6f729a028415398d1bda8f97121](https://komodod.com/vote2019/t/90f723b2c093a772415b98da16cae26d5192b6f729a028415398d1bda8f97121) | 200000 |
+| RG3zZw4xXG13V11c3mGqVA4NwqqMHz6rS8 | [609a9a772f3faa9c6568232804ed2e396e32236931df3781b2afb02236bcced5](https://komodod.com/vote2019/t/609a9a772f3faa9c6568232804ed2e396e32236931df3781b2afb02236bcced5) | 10267.46896043 |
+| RCtUiCMni6VSgJi9ZYqcUzKSuAUDFthK4K | [f7aa446c076a3beea44a34d64b2a8ede1a730d5016befeaddb020c8a579d39dc](https://komodod.com/vote2019/t/f7aa446c076a3beea44a34d64b2a8ede1a730d5016befeaddb020c8a579d39dc)| 35000 |
+| REFEa1TwukE7nRCNYEKNALXjLi2HDJmmJD | [d05c2f3713adce613ae616ac9b82ee1ca0a544fb1756845bcf5d3bc41dabf81a](https://komodod.com/vote2019/t/d05c2f3713adce613ae616ac9b82ee1ca0a544fb1756845bcf5d3bc41dabf81a) | 60000 |
+| RWqAkqz57niDD99538KprPVbLo36FtvojE | [133e0c0a4ffb5e496d54d872bcea1aed6f2f9dcb026ab3c3ee39322c2e4e1887](https://komodod.com/vote2019/t/133e0c0a4ffb5e496d54d872bcea1aed6f2f9dcb026ab3c3ee39322c2e4e1887) | 40000 |
+| RV647eg4VwiKLYqFVayYu2JTTbsm7u7ASE | [afa1e6f7a8f255cb4f2fb51989ae9db217971a8850ce399a8af435caf55c648b](https://komodod.com/vote2019/t/afa1e6f7a8f255cb4f2fb51989ae9db217971a8850ce399a8af435caf55c648b) | 7340.19684585 |
+| RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj | [0278661f697983a0a6fc7380bf8125c1cae90191bf60a1d719569fbe00fb66b9](https://komodod.com/vote2019/t/0278661f697983a0a6fc7380bf8125c1cae90191bf60a1d719569fbe00fb66b9) |  50000 |
+| RQBR36P3i1N4H6zLsrtdcJ7tRUiy2egy32 | [0acad37b9f69b953a10c47129f3136da51e4f0d1f14d4dddeefae7a5c25d7441](https://komodod.com/vote2019/t/0acad37b9f69b953a10c47129f3136da51e4f0d1f14d4dddeefae7a5c25d7441) |  10000 |
+
+- As stated previously, I'll be focusing on developing & promoting CC based dapps, mainly focus on games, to be precised, I have the intention to contribute my time working on the CHIPS project (even if I'm not elected).
+## End
