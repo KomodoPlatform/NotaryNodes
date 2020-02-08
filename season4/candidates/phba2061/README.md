@@ -14,7 +14,7 @@
 
 
 
-#### For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on March 15 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before March 31. Thank you for your support !
+#### Thank you for dropping by, if you're not familiar with NN election, please spend several minutes to read this [article](https://komodoplatform.com/fourth-annual-notary-node-election/) first. For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on March 15 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before March 31. Thank you for your support !
 
 
 
@@ -40,7 +40,7 @@ I participated in testing CHIPS decentralized poker, setting up testing nodes fo
 
 I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC). During seaszon 3, I made a demo of non-fungible tokens (NFT) marketplace (that I call Komodo-Pokémon) built on Komodo MORTY chain (thanks to Komodo assets/tokens modules), which you find [here](https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex). I also made a Antara-coin-cap web app, you can visit the app [here](http://antara-coin-cap.herokuapp.com/coinCap) (thanks Slyris for providing the back-end codes & thanks smk762 also TonyL for providing the back-end API !).  
  
-I don't have the intention of giving rev shares to my voters, because: 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what they already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say if I give 10000 KMD back to my voters, that's only 2% of their holdings!).
+I don't have the intention of giving rev shares to my voters, because: 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what they already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say if I give 10000 KMD back to my voters, that's only 2% of their holdings !).
 
 To summarize, rewards from my NN will be prioritized for: 
 - covering NN server cost. 
