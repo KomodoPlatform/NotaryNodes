@@ -34,11 +34,11 @@ I'm also learning full-stack JavaScript during my free time (please take a look 
 
 ## :question: Why should you vote for me :question:
 
-I am operating a NN located in EU during season 3, at the moment of writing this proposal, my NN score is ranked #2 in EU, and #3 world (I think I'm a bit lucky though). So if you want to vote for a reliable NN operator, I'm one of the best candidates.
+I am operating a NN located in EU during season 3, at the moment of writing this proposal, my NN score is ranked #2 in EU, and #3 world (I think I'm a bit lucky though). So if you want to vote for a reliable NN operator, please consider voting for me.
 
 I participated in testing CHIPS decentralized poker, setting up testing nodes for the CHIPS project. 
 
-I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC). During seaszon 3, I made a demo of non-fungible tokens (NFT) marketplace (that I call Komodo-Pokémon) built on Komodo (thanks to Komodo assets/tokens modules), which you find [here](https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex). I also made a Antara-coin-cap web app, you can visit the app [here](http://antara-coin-cap.herokuapp.com/coinCap) (thanks Slyris for providing the back-end code & thanks smk762 also TonyL for providing the back-end API !)  
+I'd like to focus on developping blockchain dapps (I personnally believe that games will be the catalyst for blockchain mass adoption). I've already deployed a few dapps on Ethereum Ropsten testnet. I'm also interrested in Komodo's crypto conditions (CC). During seaszon 3, I made a demo of non-fungible tokens (NFT) marketplace (that I call Komodo-Pokémon) built on Komodo (thanks to Komodo assets/tokens modules), which you find [here](https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex). I also made a Antara-coin-cap web app, you can visit the app [here](http://antara-coin-cap.herokuapp.com/coinCap) (thanks Slyris for providing the back-end codes & thanks smk762 also TonyL for providing the back-end API !)  
  
 I don't have the intention of giving rev shares to my voters, because: 1) I think it is a bad practice 2) I think it only economically gives voters a relative small percentage of what they already have (to secure a NN seat I will need at least 500000 votes, by becoming a NN I can mine up to 18500 KMD per year on average, let's say if I give 10000 KMD back to my voters, that's only 2% of their holdings!). Let us vote responsibly !
 
@@ -56,14 +56,22 @@ To summarize, rewards from my NN will be prioritized for:
 ## :lock: My PGP public key (*.asc) :lock:
 - [my PGP key](https://github.com/NOCTLJRNE/NotaryNodes/blob/master/season4/candidates/phba2061/my-pgp-key.txt).
 
-## :camera: Some screenshots of the Antara-coin-cap web app and the Komodo-Pokémon demo :camera:
+## :camera: Screenshots of the Antara-coin-cap app & the Komodo-Pokémon demo :camera:
 ![antara-coin-cap-1](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-1.JPG)
 
 ---
 ![antara-coin-cap-2](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-2.JPG)
 
 --- 
+![komodo-pokemon-03-transfer](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/komodo-pokemon-03-transfer.JPG)
 
+---
+![komodo-pokemon-04-askbid](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/komodo-pokemon-04-askbid.JPG)
+
+---
+![komodo-pokemon-05-marketplace](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/komodo-pokemon-05-marketplace.JPG)
+
+---   
 ## :warning: DISCLOSURE :warning:
 
 ## End
