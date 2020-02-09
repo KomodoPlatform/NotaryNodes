@@ -34,7 +34,7 @@ I'm also learning full-stack JavaScript during my free time (please take a look 
 
 ## :question: Why should you vote for me :question:
 
-I am operating a NN located in EU during season 3, at the moment of writing this proposal, my NN score is ranked #2 in EU, and #3 world (I think I'm a bit lucky though). So if you want to vote for a reliable NN operator, please consider voting for me.
+I am operating a NN located in EU during season 3, at the moment of writing this proposal, my NN score is ranked #2 in EU, and #3 world, which you can check [here](https://komodostats.com/nn) (I think I'm a bit lucky though). So if you want to vote for a reliable NN operator, please consider voting for me.
 
 I participated in testing CHIPS decentralized poker, setting up testing nodes for the CHIPS project. 
 
