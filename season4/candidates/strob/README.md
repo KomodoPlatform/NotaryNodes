@@ -8,9 +8,9 @@
 
 | Region  | Address |
 | ------------- | ------------- |
-| Asian region (AR)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
-| Europe (EU)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
-| South Hemisphere (SH)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
+| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
+| South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
 
 :point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before March 31, 2020 to the above KMD addresses.:point_up:
 
