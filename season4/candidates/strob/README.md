@@ -8,7 +8,7 @@
 
 | Region  | Address |
 | ------------- | ------------- |
-| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU.png)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU.pnl)  |
 | Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2020/voteStrobAR.png)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2020/voteStrobSH.png)  |
 
