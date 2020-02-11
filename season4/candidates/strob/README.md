@@ -90,7 +90,7 @@ I have my own servers so I don't even need to access it remotely (no open SSH po
 
 ## DISCLOSURE
 
-* In 2019, strob_NA was the 1rts place TOP SCORE Notary Node Operator for North America. Which earned a GURU title.
+* In 2019, strob_NA was the 1rts place TOP SCORE Notary Node Operator for North America. Which me earned a GURU title.
 * This will be my second year as a NN operator.
 
 <br>
