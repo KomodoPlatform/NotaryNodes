@@ -5,7 +5,7 @@
 
 <img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
 
-```RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj```
+```RCHMexS677JDTtAvCmYyorwkXLmDjLUVVS```
 <br>
 
 ## About me 
@@ -51,12 +51,12 @@ If I get to run the node for another year it will allow me to keep paying for th
 :e-mail: Email: `chmex@dexstats.info`<br>
 :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`<br>
 
-## Vote Now Deadline 31st March 2020
-### Thank you for reading my Proposal and sending your VOTE2019 to 
+## Vote Nowè Deadline 31st March 2020
+### Thank you for reading my Proposal and sending your VOTE2020 to 
 <img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
 
 ```
-RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
+RCHMexS677JDTtAvCmYyorwkXLmDjLUVVS
 ```
 
 <br><br><br>
