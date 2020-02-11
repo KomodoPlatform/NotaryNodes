@@ -1,6 +1,6 @@
 # STROB Notary Node Proposal 2020
 
-#1 best score Notary Node Operator in North America for 2019 (with guru title).
+#1 best score Notary Node Operator in North America for 2019.
 
 ![StrobFX banner](https://www.strob.net/kmdNN2019/cropped-strobFXheader2000_0011.jpg)
 
