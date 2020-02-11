@@ -59,8 +59,7 @@ If I get to run the node for another year it will allow me to keep paying for th
 RCHMexS677JDTtAvCmYyorwkXLmDjLUVVS
 ```
 
-<br><br>
-<img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
+<img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" height="190px" width="150px">
 <br><br><br>
 
 
