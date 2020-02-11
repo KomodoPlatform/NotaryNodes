@@ -6,7 +6,11 @@
 
 ## STROB VOTING ADDRESS
 
-
+| Region  | Address |
+| ------------- | ------------- |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU200.png)  |
+| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2020/voteStrobAR200.png)  |
+| South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2020/voteStrobSH200.png)  |
 
 :point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before March 31, 2020 to the above KMD addresses.:point_up:
 
