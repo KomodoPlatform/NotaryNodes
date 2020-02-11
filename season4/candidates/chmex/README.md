@@ -60,9 +60,7 @@ RCHMexS677JDTtAvCmYyorwkXLmDjLUVVS
 ```
 
 <img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" height="190px" width="150px">
-<br><br><br>
-
-
+<br><br>
 
 ## PGP Public Key
 ```
