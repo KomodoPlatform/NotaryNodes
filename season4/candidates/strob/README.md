@@ -64,7 +64,7 @@ I would also like to continue promoting the `Komodo ecosystem` by doing other vi
 <br>
 
 ## STROB HARDWARE
-I have my own servers so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available.
+I have my own hardware for my NA server so I don't even need to access it remotely (no open SSH port). I also have many of those servers in a rack as well as many others setup as workstations (total of 16) so there will always be a hardware backup available. For my EU, SH and AR eventual servers I would use data center rentals.
 
 ![My rack](https://www.strob.net/WP/wp-content/uploads/2014/04/entrevue3DVF_00012.jpg)
 
@@ -112,6 +112,15 @@ https://www.strob.net/
 
 <br>
 
+## STROB VOTING ADDRESS
+
+| Region  | Address |
+| ------------- | ------------- |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU200.png)  |
+| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2020/voteStrobAR200.png)  |
+| South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2020/voteStrobSH200.png)  |
+
+:point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before March 31, 2020 to the above KMD addresses.:point_up:
 
 
 <br>
