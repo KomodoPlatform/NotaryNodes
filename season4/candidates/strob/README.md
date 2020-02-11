@@ -8,8 +8,8 @@
 
 | Region  | Address |
 | ------------- | ------------- |
-| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
 | Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
+| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
 
 :point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before March 31, 2020 to the above KMD addresses.:point_up:
@@ -112,69 +112,6 @@ https://www.strob.net/
 
 <br>
 
-## STROB VOTING ADDRESSES
-
-| Region  | Address |
-| ------------- | ------------- |
-| Asian region (AR)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
-| Europe (EU)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
-| South Hemisphere (SH)  | ```RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7```![QR code](https://www.strob.net/kmdNN2019/RRREEicQXX6fkmpqF3rTSsFCWx4b9fYUk7_QR.png)  |
 
 
 <br>
-
-## PGP KEY
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-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
-TfEAi8EvM1sRbVo0GmI=
-=yCRS
------END PGP PUBLIC KEY BLOCK-----
-```
