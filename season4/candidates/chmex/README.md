@@ -53,6 +53,7 @@ If I get to run the node for another year it will allow me to keep paying for th
 
 ## Vote Nowè Deadline 31st March 2020
 ### Thank you for reading my Proposal and sending your VOTE2020 to 
+
 <img src="https://github.com/CHMEX/NotaryNodes/blob/master/season4/candidates/chmex/chmex_qr.png?raw=true" align="right" height="190px" width="150px">
 
 ```
