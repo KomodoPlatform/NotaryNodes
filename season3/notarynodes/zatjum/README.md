@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/notarynodes/zatjum/Vote_for_zatJUM.png)
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season3/notarynodes/zatjum/Vote_for_zatJUM.png)
 
 # zatJUM - Southern Hemisphere Notary node info #
 
@@ -205,6 +205,14 @@ In the following table, 1st column, the addresses voters sent their VOTE2019 tok
 
 >[2020-01-12] Voters
 ([txid](http://komodod.com/t/0803fab3dd4028dbc55fb10542fa6b9d4eeda96a3b8e23e11a5190603feb5cee))
+
+### [#12] Payment (see first payment for allocation details)
+
+>[2020-01-30] @mrlynch#5735
+([txid](https://komodod.com/t/cc2024b8b4d1e9565c35a9a18d4f407fc006e1997ba6de3b4d53c24ef2eebe38))
+
+>[2020-01-30] Voters
+([txid](http://komodod.com/t/735d3b2513e86455295a3bfa04f521023dff051036d7e939780838534dd64db2))
 
 ## Contact details ##
 
