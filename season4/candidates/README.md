@@ -6,8 +6,8 @@ Upload your proposal before the 28th of February in this repository, using a fol
 Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.  
 
 
-|   EU	|   NA	|   SH	|   AR	|   	
-|---	|---	|---	|---	|---	|
+|   EU	|   NA	|   SH	|   AR	|
+|---	|---	|---	|---	|
 |   [chmex](chmex/README.md)	|   [alien](alien/README.md)	|   [gcharang](gcharang/README.md)	|   [tonyl](tonyl/README.md)	|   	
 |   [jeezy](jeezy/README.md)	|   [computergenie](computergenie/README.md)	|   	|   	|   	
 |   [naezith](naezith/README.md)	|   [phba2061](phba2061/README.md)	|   	|   	|   	
