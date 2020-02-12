@@ -16,7 +16,7 @@ I am also passionate about Blockchain, to be more serious, I first discovered Et
 
 Since Yesterday I have made 2 important advices to the Komodo platform (2 in 1 day... imagine what I can do if I am elected)
 1. I have suggested that if you send some Komodo to every voting adress 10sec before the voting process, everyone will be banned from the process as say in the rule
-2. MY code is already merged with this repository from the KomodoPlatorm: https://github.com/KomodoPlatform/NotaryNodes
+2. My code is already merged with this repository from the KomodoPlatorm: https://github.com/KomodoPlatform/NotaryNodes
 
 ## Why me?
 - I love to help people in my region, a platform like Komodo will grow much much faster with people who enjoy giving time to other
