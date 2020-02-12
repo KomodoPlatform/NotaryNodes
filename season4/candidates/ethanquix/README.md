@@ -4,12 +4,12 @@
 
 ## Who am i ?
 
-I have been working for a friend working on Komodo since July 2019, and supporting the project since 2017.
-I'm now a lead developer a company havin abolutely no letter in common with Komodo. 
-I am a backend developer expert in `HTML`, `Css`, `Pohtoshop`
-I enjoy making plugins for my coffee machine in `C++`, `Go` and `Python`
-I play with Lego since my childhood (and with code since my parents stopped buying me Lego...).
-I am also passionate about Blockchain, to be more serious, I first discovered Ethereum and have been interested to any crypto related project since.
+- I have been leading a friend working on Komodo since July 2019, and supporting the project since 2017.
+- I'm now a lead developer a company havin abolutely no letter in common with Komodo. 
+- I am a backend developer expert in `HTML`, `Css`, `Pohtoshop`
+- I enjoy making plugins for my coffee machine in `C++`, `Go` and `Python`
+- I play with Lego since my childhood (and with code since my parents stopped buying me Lego...).
+- I am also passionate about Blockchain, to be more serious, I first discovered Ethereum and have been interested to any crypto related project since.
   To me it's more a new ideology which can change the world for the better, improve access to multiple services for people on earth and enabling them to participate and shape the future.
 
 ## Komodo Involvment
