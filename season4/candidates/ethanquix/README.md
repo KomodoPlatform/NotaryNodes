@@ -4,9 +4,9 @@
 
 ## Who am i ?
 
-- I have been leading a friend working on Komodo since July 2019, and supporting the project since 2017.
+- I am a CS Engineer working on the place on earth where the rent is equal to the GDP of a small african country
 - I'm now a lead developer a company havin abolutely no letter in common with Komodo. 
-- I am a backend developer expert in `HTML`, `Css`, `Pohtoshop`
+- I am a backend developer expert in `HTML`, `Css`, `Photoshop`
 - I enjoy making plugins for my coffee machine in `C++`, `Go` and `Python`
 - I play with Lego since my childhood (and with code since my parents stopped buying me Lego...).
 - I am also passionate about Blockchain, to be more serious, I first discovered Ethereum and have been interested to any crypto related project since.
