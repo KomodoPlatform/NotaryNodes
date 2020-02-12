@@ -1,6 +1,6 @@
 ## Ethanquix NA Region
 
-https://i.imgur.com/M9YQQWD.jpg
+![](https://i.imgur.com/M9YQQWD.jpg)
 
 ## Who am i ?
 
