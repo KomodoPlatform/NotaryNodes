@@ -21,7 +21,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 
 - [yiimp-stratum-equihash](https://github.com/DeckerSU/yiimp-stratum-equihash) - created world first public implementation of equihash stratum for well-known Yiimp pool. Also, distinctive feature of this implementation is so called "local mode", which allows stratum binary to work without Yiimp MySQL database. In "local mode" it acts like simple proxy, between miners (equihash stratum protocol) and daemon's `getblocktemplate` and can be used not only with KMD or any other equihash based coin, but also with any other coin daemon supported by Yiimp Stratum in original. Also, project included a special branch for MSVC building, so, it can be used in "local mode" even by Windows users.
 
-- [komodo](https://github.com/KomodoPlatform/komodo) and [vrsc](https://veruscoin.io/) - contributed with various fixes and improovements, which allowed komodo and verus daemon to be more stable, secured and convienment in use. Assisted other developers in mitigating of few attack vectors, discovered during 2019 year. 
+- [komodo](https://github.com/KomodoPlatform/komodo) and [vrsc](https://veruscoin.io/) - contributed with various fixes and improovements, which allowed komodo and verus daemon to be more stable, secured and convienment to use. Assisted other developers in mitigating of few attack vectors, discovered during 2019 year. 
 
 ## Projects / Milestones (2018-2019) ###
 
