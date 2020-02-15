@@ -14,14 +14,15 @@ I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexst
 
 I would like to get re-elected for Notary Node Election 2020 to operate a Node in the `EU Region`. **I only run for one Region and one Node**. 
 
-## Why Vote for CHMEX - Dexstats
+## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
 
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running several Fullnodes access the data and to help the network for all Notarized and known Assetchains<br>
 * Hosting 15min updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 40+ Explorers for Live and Testing Network https://explorer.dexstats.info .
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others.<br>
-* Helped out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
+* Dexstats Rewards Notification Bot <a href="https://www.dexstats.info/rewards.php" target="_new">www.dexstats.info/rewards.php</a> Sends you a notification when your rewards stop accruing.
+* Helped out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT to KMD Assets saved. Trustee in OTC Transactions.
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a>. 
