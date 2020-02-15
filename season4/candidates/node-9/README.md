@@ -10,11 +10,22 @@ Thank you for checking out my Notary Node Proposal. Your votes would be greatly 
 
 Please send them here:  
 
+### Region:       EU
 ### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo
 
   
 
-### Contact
+### TL;dr  --  The Point
+
+
+
+> The point of all of this is to give you one simple picture.
+
+> **```I'll be there, I'll do the work and I'll push limits.```**
+
+> You can check my record on this through Discord search, or
+
+> by asking around.  Get in touch if you have any questions.
 
 
 
@@ -38,38 +49,127 @@ Information on how the NN elections work and how to vote can be found on the [Ko
 
 # Proposal
 
-
-
 ### Region: EU
-
-
 
 ### Purpose
 
-
-
-As a Komodo EU Notary I will focus on notarizing.  Notarizing to the highest level I am able.  I will also support others in doing the same.  I believe that what we are creating here with Komodo is a very important step in the right direction.  As such, I take the responsibility of the role of Notary Node operator very seriously.
+As a Komodo EU Notary I will focus on notarizing.  I will also support others in doing the same.  I believe that what we are creating here with Komodo is a very important step in the right direction.  As such, I take the responsibility of the role of Notary Node operator very seriously.
 
   
-
 ### Method
-
-
 
 I will reliably put in the time and effort to do the best job I can possibly do.  This means being available when needed for updates, support and for active participation in the notary node community.  It also means I will do my best to improve my skills and hardware continually throughout the entire one year term.  Although these concepts may sound trivial and common, they are in fact not.  I believe my record, found through search or by asking around, will show that I am capable and willing to make this happen.
 
 
-
 ### Means
 
-Through the use of a network of support I have developed and with the experience, skills and knowledge I have gained through working in KMDLabs as a Notary Node operator and basic tester I will continually optimize my node throughout the year, regardless of my notarization standings. I am not a dev or a very technical person but I have found out where and how to find and implement solutions to technical problems.
-
+Through the use of a network of support I have developed and with the experience, skills and knowledge I have gained as a Komodo Notary Node operator in Season 3 I will continue to contribute to th NN community. I am not a dev or a very technical person but I have found out where and how to find and implement solutions to technical problems.
 
 
 ### Biography
 
+-------
+2019/20
+-------
+
+- activly participated in Notary Node community (Season 3)
+
+  * discussion
+  
+  * security issues
+  
+  * proposed method for reaching group decisions (Group Consensus) - [kip_0700]https://github.com/KomodoPlatform/kips/pull/4/commits/83bcc5f188f18b2dda454f24cf2d3d83a08fd98a), discussion [here]https://github.com/KomodoPlatform/kips/pull/4).
+    
+  * involved in Notary Node testing group
+  
+- very actively involved in community and business development for Komodo, both online and in person
+
+  * discussion panel, presentations, demonstrations, podcast
+  
+  * face-to-face and online meetings with projects, businesses, exchanges
+  
+- actively involved with promoting Komodo Ecosystem projects online and in person
+  * AtomicDEX, KMDLabs, PIRATE, HUSH, Marmara
+
+- donations to Komodo, KMDLabs, PIRATE
+  * nSPV translation (paid translator), KMDLabs Dev Fund (20% of NN mined KMD), PIRATE website translation (paid translator)
+  
+-  testing contributions
+    * Komodo (multiple areas, including PRICES, NN, TOKENS, etc)
+    * PIRATE (mobile wallet, Android)
+    * AtomicDEX (Android)
+    * MarketMaker2 Community Tester
+    * KMDLabs (launch, TOKENS, etc) 
+
+- Komodo Discord Moderator
+
+- Komodo Community Contributor
+
+- Komodo Team Supporter
+
+- multiple Komodo Community Contributor award winner (3/3)
+
+- KMDLabs Notary Node Operator
+
+- actively building relationships with non-Ecosystem projects
+
+- actively contribute content to Komodo Portal
+
+- working and coordinating with multiple Komodo Team members during the course of the above activities 
+
+
+-------
+2018/19
+-------
+
+- mm1 stress test - received bug bounty for finding and reporting bug
+
+- scaling test - one of very few to send a txBlast, participating where possible
+
+- Pos64tests - actively participated in tests. Found minor bugs.  Only one to set up CC (dice) outside of 'official' test contract. 
+
+- minor participation in PIRATE
+
+  * setup a test chain for PIRATE NN tests (not used)
+
+  * involved in deciding change to the current block reward
+
+  * involved in PIRATE notarization testing in KMDLabs
+
+- provide assistance in Discord ```'LANGUAGES AND LOCATIONS' #japanese``` channel
+
+- KMDLabs
+
+  * active participation in community
+
+  * basic testing on setup of Labs
+
+  * basic testing on first CCs
+
+  * built and maintain [KMDLabs website](https://kmdlabs.com)
+
+  * wrote, compiled or edited majority of content for website
+
+  * setup and maintain [KMDLabs pad](https://kmdlabs.cc)
+
+  * perform various non-dev jobs so devs can get on with devving
+
+  
+
+- basic testing on Marmara chain
+
+- assisted in early Marmara documentation work
+
+- mm2 community tester
+
+- active in various KMD channels
+
+- actively working with KMD team, outside of the online world, to bring business to KMD and its ecosystem
+
 
 ### Pledge
+
+As a Komodo Notary Node operator in 2020/1 (Season 4) I pledge to donate no less than 10% of NN mining earnings to the benefit of Komodo.  These donations will be used for promotional activities such as translations, conference fees, prizes, test servers, etc.
 
 
 ### The Point
@@ -77,7 +177,7 @@ Through the use of a network of support I have developed and with the experience
 
 **```I'll be there, I'll do the work and I'll push limits.```**
 
-
+I believe that my track record supports this.
 
 Please send votes my way.
 
@@ -86,23 +186,17 @@ Please send votes my way.
 ### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo
 
 
-
 Thanks!
-
-
 
 CrisF
 
-
-
 ### Disclosure
-
 
 - I am a Season 3 Notary Node operator [node-9](https://node9.xyz).
 
 - I am a current [KMDLabs Notary Node](https://kmdlabs.com/notary-node) operator.
 
-- I have personally donated funds to KMDLabs, who I will donate a portion of node earnings to, and its spin-off projects.
+- I have made personal donations to KMDLabs, Komodo and PIRATE. (NN mined funds, translation fees paid to translators)
 
 
 
