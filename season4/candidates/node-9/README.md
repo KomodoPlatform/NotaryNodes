@@ -92,7 +92,9 @@ Through the use of a network of support I have developed and with the experience
   * AtomicDEX, KMDLabs, PIRATE, HUSH, Marmara
 
 - donations to Komodo, KMDLabs, PIRATE
-  * nSPV translation (paid translator), KMDLabs Dev Fund (20% of NN mined KMD), PIRATE website translation (paid translator)
+  * nSPV translation (paid translator)
+  * KMDLabs Dev Fund (20% of NN mined KMD)
+  * PIRATE website translation (paid translator)
   
 -  testing contributions
     * Komodo (multiple areas, including PRICES, NN, TOKENS, etc)
