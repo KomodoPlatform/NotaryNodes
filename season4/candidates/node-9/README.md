@@ -8,7 +8,7 @@
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 
-Please send them here:  
+Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**
 
 ### Region:       EU
 ### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo
@@ -78,7 +78,7 @@ Through the use of a network of support I have developed and with the experience
   
   * security issues
   
-  * proposed method for reaching group decisions (Group Consensus) - [kip_0700]https://github.com/KomodoPlatform/kips/pull/4/commits/83bcc5f188f18b2dda454f24cf2d3d83a08fd98a), discussion [here]https://github.com/KomodoPlatform/kips/pull/4).
+  * proposed method for reaching group decisions (Group Consensus) - [kip_0700](https://github.com/KomodoPlatform/kips/pull/4/commits/83bcc5f188f18b2dda454f24cf2d3d83a08fd98a), discussion [here](https://github.com/KomodoPlatform/kips/pull/4).
     
   * involved in Notary Node testing group
   
