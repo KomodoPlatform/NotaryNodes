@@ -27,6 +27,7 @@ I would like to get re-elected for Notary Node Election 2020 to operate a Node i
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a>. 
 * LABS Node Operator
+* Dexstats.info is now in the Top 600k Websites in the World that is a better Ranking than most Crypto Websites. (https://www.alexa.com/siteinfo/dexstats.info)
 
 ## Use of Funds:
 * Pay for Infrastructure
