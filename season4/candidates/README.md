@@ -13,4 +13,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [naezith](naezith/README.md)	|   [phba2061](phba2061/README.md)	|   	|   	|   	
 |   [oszy](oszy/README.md)    |   [pbca26](pbca26/README.md)    |       |       |       
 |   [slyris](slyris/README.md)    |       |       |       |       
-|   [tonyl](tonyl/README.md)    |       |       |       |       
+|   [tonyl](tonyl/README.md)    |       |[zatjum](zatjum/README.md)    |       |       
