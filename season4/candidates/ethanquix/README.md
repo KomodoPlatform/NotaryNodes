@@ -1,11 +1,11 @@
-## Ethanquix NA Region
+## Ethanquix SH Region
 
 ![](https://i.imgur.com/M9YQQWD.jpg)
 
 ## Who am i ?
 
 - I am a CS Engineer working on the place on earth where the rent is equal to the GDP of a small african country
-- I'm now a lead developer a company havin abolutely no letter in common with Komodo. 
+- I'm now a developer in a company havin abolutely no letter in common with Komodo. 
 - I am a backend developer expert in `HTML`, `Css`, `Photoshop`
 - I enjoy making plugins for my coffee machine in `C++`, `Go` and `Python`
 - I play with Lego since my childhood (and with code since my parents stopped buying me Lego...).
