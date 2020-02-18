@@ -12,9 +12,9 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
 |   [chmex](chmex/README.md)	    |   [alien](alien/README.md)	                |   [gcharang](gcharang/README.md)  |   [goldenman](goldenman/README.md)	|   	
-|   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [tonyl](tonyl/README.md)	        |   	
-|   [jeezy](jeezy/README.md)	    |   [phba2061](phba2061/README.md)	            |   [zatjum](zatjum/README.md)	    |   [strob](strob/README.md)	        |   	
-|   [naezith](naezith/README.md)    |   [pbca26](pbca26/README.md)                  |       |       |       
+|   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [strob](strob/README.md)	        |   	
+|   [jeezy](jeezy/README.md)	    |   [pbca26](pbca26/README.md)	                |   [zatjum](zatjum/README.md)	    |   [tonyl](tonyl/README.md)	        |   	
+|   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)              |       |       |       
 |   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |       |       |       
 |   [oszy](oszy/README.md)          |                                               |       |       |       
 |   [slyris](slyris/README.md)      |                                               |       |       |       
