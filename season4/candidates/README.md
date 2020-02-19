@@ -21,3 +21,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [strob](strob/README.md)        |                                               |       |       |
 |   [tonyl](tonyl/README.md)        |                                               |       |       |
 |   [zatjum](zatjum/README.md)    |       |       |       |
+|   [soldat](soldat/README.md)    |       |       |       |
