@@ -1,8 +1,15 @@
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/banner.png)
+
 ### TL;DR ###
+
+I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in EU region.
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
+
+(on phone, swipe to left for SH QR code!)
+
 | for EU region| for SH region|
 |:-:|:-:|
 |![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
@@ -25,6 +32,13 @@ I promise to comply with the **minimum** requirements listed here:
 
 ... **in each region I may be elected**
 
+### Important dates for Season 4 ###
+
+According to https://github.com/KomodoPlatform/dPoW/blob/master/doc/bible.md#guideline-general-infos-and-policies :
+- autoelection announcement should be done on March 15th
+- airdrop of VOTE2020 tokens should be done on March 16th
+- elections should start on March 16th and end on April 6th
+
 ### Disclosure ###
 
 I am not part of the Komodo Team
@@ -34,6 +48,9 @@ I am not part of the Komodo Team
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
+
+(on phone, swipe to left for SH QR code!)
+
 | for EU region| for SH region|
 |:-:|:-:|
 |![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
