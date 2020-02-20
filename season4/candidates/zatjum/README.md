@@ -1,13 +1,17 @@
 ### TL;DR ###
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
-- in EU: send your VOTE2020 tokens to: ```RKf96jJB861terNPb623v9F3PSj7uBbhxv```
-- in SH: send your VOTE2020 tokens to: ```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```
+
+Send your VOTE2020 tokens to:
+| for EU region| for SH region|
+|:-:|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
 
 ### Involvement and results ###
 
 - Season 3 was my first participation as a NN, and my rank, as of today, is 4th in my region (SH)
-- Even if you don't see me often on Dicord, I constantly monitor my node, and that's probably one of the reason I have this good ranking
+- Even if you don't see me often on Dicord, I constantly monitor my node, and that's probably one of the reason I have this [good ranking](https://komodostats.com/nn)
 - I was one of the first 20 [KMDLabs](https://kmdlabs.io) Notary Nodes operator, back in 2018
 - As promised last year, [I paid](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season3/notarynodes/zatjum/README.md) 10% of my KMD earnings to my voters and 10% to [mrlynch#5735](https://komodoplatform.com/discord) (dev) for him to work on zcommerce adoption (because privacy matters!)
 - For season 4, I won't offer reward distribution to voters anymore, as it's prohibited, but I'll try my best to promote and encourage the use of [atomicDEX](https://atomicdex.io) and [PIRATE](https://pirate.black)
@@ -18,7 +22,8 @@ I promise to comply with the **minimum** requirements listed here:
 - CPU: Xeon or i7 (4 cores)
 - RAM: 64GB for main server, 32GB for "third party coins"
 - Disk: 1 TB/SSD for main server, 500MB/SSD for "third party coins"
-**in each region I may be elected**
+
+... **in each region I may be elected**
 
 ### Disclosure ###
 
@@ -27,8 +32,12 @@ I am not part of the Komodo Team
 ### Convinced? ###
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
-- in EU: send your VOTE2020 tokens to: ```RKf96jJB861terNPb623v9F3PSj7uBbhxv```
-- in SH: send your VOTE2020 tokens to: ```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```
+
+Send your VOTE2020 tokens to:
+| for EU region| for SH region|
+|:-:|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
 
 ## Contact details ##
 
