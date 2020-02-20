@@ -12,7 +12,7 @@
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
 
 
-I would like to get re-elected for Notary Node Election 2020 to operate a Node in the `EU Region`. **I only run for one Region and one Node**. 
+I would like to get re-elected for Notary Node Election 2020 to operate a Node in the `EU Region`.
 
 ## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
 
