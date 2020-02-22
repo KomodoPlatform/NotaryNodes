@@ -15,8 +15,8 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [strob](strob/README.md)	        |   	
 |   [jeezy](jeezy/README.md)	    |   [pbca26](pbca26/README.md)	                |   [zatjum](zatjum/README.md)	    |   [tonyl](tonyl/README.md)	        |   	
 |   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)              |   [NutellaLicka](NutellaLicka/README.md)   |   [dudezmobi.vrsc](dudezmobi/README.md)       |       
-|   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |       |       |       
-|   [oszy](oszy/README.md)          |                                               |       |       |       
+|   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |       |   [smdmitry](smdmitry/README.md)     |       
+|   [oszy](oszy/README.md)          |                                                           |       |       |       
 |   [slyris](slyris/README.md)      |                                               |       |       |       
 |   [strob](strob/README.md)        |                                               |       |       |
 |   [tonyl](tonyl/README.md)        |                                               |       |       |
