@@ -54,7 +54,7 @@ The yearly cost for those servers including Notary Node are about 8000 USD I can
 :e-mail: Email: `chmex@dexstats.info`<br>
 :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`<br>
 
-## Vote Now! Deadline 6th of April 2020
+## Vote Now! Deadline April 6th 2020, 12pm UTC
 ### Thank you for reading my Proposal and sending your VOTE2020 to 
 
 
