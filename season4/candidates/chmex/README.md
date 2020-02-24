@@ -11,7 +11,6 @@
 ## About me 
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
 
-
 I would like to get re-elected for Notary Node Election 2020 to operate a Node in the `EU Region`.
 
 ## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
@@ -27,12 +26,12 @@ I would like to get re-elected for Notary Node Election 2020 to operate a Node i
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a>. 
 * LABS Node Operator
-* Dexstats.info is now in the Top 600k Websites in the World that is a better Ranking than most Crypto Websites. (https://www.alexa.com/siteinfo/dexstats.info)
+* Dexstats.info is now in the Top 500k Websites in the World that is a better Ranking than a lot of Crypto Websites. (https://www.alexa.com/siteinfo/dexstats.info)
 
 ## Use of Funds:
 * Pay for Infrastructure
 * Dedicating  time to the Komodo Eco System
-* I will use Funds to pay Dev Bounties like RPC Integrations. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was partialy paid by me.
+* I will use Funds to pay Dev Bounties like RPC Integrations. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was partialy paid by me. zindex should come to KMD soon
 * Donate to Devs and Projects
 
 If I get to run the node for another year it will allow me to keep paying for the 10 Servers I currently run.
@@ -47,14 +46,14 @@ The yearly cost for those servers including Notary Node are about 8000 USD I can
 ## Disclosure:
 * I'm an official Komodo Team Member (volunteering on part time base, not on payroll)
 * PIRATE Member First Mate 🏴
-* LABS Member
+* LABS Member and NN
 
 ## Contact:
 :iphone: Discord: `CHMEX#0686`<br>
 :e-mail: Email: `chmex@dexstats.info`<br>
 :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`<br>
 
-## Vote Now! Deadline 31st March 2020
+## Vote Now! Deadline 6th of April 2020
 ### Thank you for reading my Proposal and sending your VOTE2020 to 
 
 
