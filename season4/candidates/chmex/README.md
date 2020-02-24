@@ -17,6 +17,7 @@ I would like to get re-elected for Notary Node Election 2020 to operate a Node i
 
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
+* Un-Official voting List in realtime at <a href="https://vote.dexstats.info" target="_blank">https://vote.dexstats.info</a><br>
 * Running several Fullnodes access the data and to help the network for all Notarized and known Assetchains<br>
 * Hosting 15min updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 40+ Explorers for Live and Testing Network https://explorer.dexstats.info .
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others.<br>
