@@ -47,7 +47,7 @@ Some of the projects that work with ChainZilla include Komodo, NEM, NIX, Pundix,
 
 
 ## Vote information ##
-On the 14th of April 2019 you will receive an airdrop of VOTE tokens. If you have 1 KMD you will receive 1 VOTE token. In order to participate in the vote, all you need to do is send the Token to our address. On the 14th of May, the addresses with the most VOTE tokens will be chosen as next year's Notary Nodes for the Komodo ecosystem. 
+On the 15th of March 2020 you will receive an airdrop of VOTE tokens. If you have 1 KMD you will receive 1 VOTE token. In order to participate in the vote, all you need to do is send the Token to our address. On the 14th of May, the addresses with the most VOTE tokens will be chosen as next year's Notary Nodes for the Komodo ecosystem. 
 
 - [**Please Send Your Vote To This Address**]:
 Region: North America
