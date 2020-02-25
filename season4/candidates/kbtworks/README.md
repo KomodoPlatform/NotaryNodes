@@ -15,3 +15,6 @@
  ## Voting address
  RHQMEwV6zGALeFpWXJ7Lk5JGWgybtVRoJT
  
+ ## Region
+ AR
+ 
