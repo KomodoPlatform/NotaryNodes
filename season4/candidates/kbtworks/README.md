@@ -7,10 +7,10 @@
  - I'm lazy as f***, so I write scripts for everything what I need to do twice.
   
  # How am I involved in Komodo?
- To be honest, I'm not involved yet. I'm learning a lot of the cryptocurrencies, checking the current tools and sometimes I fix them, if you check the source codes of the open source tools, I have some pull requests.
+ To be honest, I'm not involved yet. I'm learning a lot of the cryptocurrencies, checking the current tools and sometimes I fix them, if you check the source codes of the open source tools, I have a few pull requests.
  
  # How I work?
- Currently I don't have the needed hardware for Notary Node operation, but if you give me the chance, I promise that the best hardware and software architecture will be made with high-end security.
+If I win, I promise that the best hardware and OS will be used with high-end security.
   
  ## Voting address
  RHQMEwV6zGALeFpWXJ7Lk5JGWgybtVRoJT
