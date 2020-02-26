@@ -25,7 +25,7 @@
 
 :trophy::trophy::trophy:<a href="https://komodostats.com/nn">THE #1 NN operator in North America</a>:trophy::trophy::trophy:
 
-Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
+Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! I reached these results by investing a lot in hardware and by dedicating many hours everyday and nights 7/7 to my node. With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
 
 I'm a big supporter of Pirate Chain ARRR (with "first mate" and "translators" titles on Pirate Discord). I made the animated Pirate Discord logo, and some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website. I also earned a guru title as a Komodo NN operator. I donated 7% of my NN profits to CHIPS in 2019-2020.
 
