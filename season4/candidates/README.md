@@ -15,8 +15,8 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [strob](strob/README.md)	        |   	
 |   [jeezy](jeezy/README.md)	    |   [pbca26](pbca26/README.md)	                |   	 [NutellaLicka](NutellaLicka/README.md)    |   [tonyl](tonyl/README.md)	        |   	
 |   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)              |  [antonind81](antonind81/README.md)   |   [dudezmobi.vrsc](dudezmobi/README.md)       |       
-|   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |       |   [smdmitry](smdmitry/README.md)     |       
+|   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |   [ethanquix](ethanquix/README.md)    |   [smdmitry](smdmitry/README.md)     |       
 |   [oszy](oszy/README.md)          |   [chainzilla](chainzilla/README.md)               |       |   [zatjum](zatjum/README.md)    |       
-|   [slyris](slyris/README.md)      |                                               |       |       |       
+|   [slyris](slyris/README.md)      |                                               |       |    [kbtworks](kbtworks/README.md)   |       
 |   [tonyl](tonyl/README.md)        |                                               |       |       |
 |   [soldat](soldat/README.md)    |       |       |
