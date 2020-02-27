@@ -2,18 +2,15 @@
 
 ### TL;DR ###
 
-I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in EU region.
+I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in AR region.
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
 
-(on phone, swipe to left for SH QR code!)
-
-| for EU region| for SH region|
-|:-:|:-:|
-|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
-|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv``` |
+|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|
 
 ### Involvement and results ###
 
@@ -49,12 +46,9 @@ Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
 
-(on phone, swipe to left for SH QR code!)
-
-| for EU region| for SH region|
-|:-:|:-:|
-|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
-|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv``` |
+|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|
 
 ## Contact details ##
 
