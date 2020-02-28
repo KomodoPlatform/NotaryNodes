@@ -3,7 +3,7 @@
 See below for an overview of the currently active proposals for the 2020 Notary Node election.
 To participate in the elections:
 
-1. Upload your proposal before the 28th of February in this repository, using a folder with your operator name, and in it at least a `README.md` file. See the already existing proposals as an example.
+1. Upload your proposal before the 16th of March in this repository, using a folder with your operator name, and in it at least a `README.md` file. See the already existing proposals as an example.
 2. Add your name to the table below.
 
 Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.  
