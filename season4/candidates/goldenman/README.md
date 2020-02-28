@@ -25,3 +25,8 @@
 * progamming language: C, C++, Java, JS
 * Operating system: Linux, Windows, MacOS
 
+## contact
+
+* telegram: @goldenman_kr
+* Komodo discord: goldenman#7301
+
