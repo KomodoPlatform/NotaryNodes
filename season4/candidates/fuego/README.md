@@ -17,6 +17,8 @@ Bachelor of Science
 
 Code Monkey
 
+Tea Drinker
+
 ### Proposal Details
 
 As my background is in DevOps and SysAdmin I want to create a toolset to automate/containerise/virtualise parts of the ecosystem where possible => better security and reliability.
