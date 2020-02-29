@@ -10,7 +10,8 @@ over a decade and a half of experience in business applications and infrastructu
 I operate a **veruscoin** staking pool. (1.5 years, 1 year private for 3 members during which I *established standards 
 process* in administering and maintaining the infrastructure and sustainability of operations, and expanded to a public staking pool last July 2019 with features such as **HW firewall, server redundancy and a crappy but reliable discord bot**).
 
-I have participated in testing of atomic-dex and submitted over 30 issues.
+I have participated in testing of **atomic-dex** and submitted over 30 issues.
+I have been running full nodes(not notary node) of **KOMODO ,VERUSCOIN and EQUALIZER(rip)** since **2018**.
 
 ## REQUIREMENTS
 
