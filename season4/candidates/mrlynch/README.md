@@ -47,7 +47,7 @@ CHIPS dev fund - 6% *
         | CPU      |2 x Intel  Xeon E5-2640v4 20c/40t @ 2.40 GHz |
         | RAM      |256GB DDR4 ECC 2133 MHz                      |
         | Storage  |HardRaid 3x960 GB NVMe       |
-    | Network  |1 Gbps up/down  |
+        | Network  |1 Gbps up/down  |
         | Location |Datacenter - Singapore              |
 
 - [EU]
