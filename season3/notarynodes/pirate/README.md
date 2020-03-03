@@ -28,16 +28,15 @@ RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
 
 ## Commitment ##
 
-#### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
+#### My commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
 
-![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/nn_accounts.png)
+```
+PIRATE dev fund - 10% *
+PIRATE Arrrmada - 5% *
+CHIPS dev fund - 5% *
+```
 
-
-#### For ALL interest blocks larger than 100 KMD: ####
-* 50% of reward will go towards the Pirate Development fund
-* 50% of reward will go towards the node operators
-
-Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
+* Donations will be made after operational costs are covered.
 
 
 ### Server specs ###
@@ -150,7 +149,3 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 ```
 
 ![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/welcome_pirates.jpg)
-
-## Disclosure ##
-
-- We are running for election for the first time
