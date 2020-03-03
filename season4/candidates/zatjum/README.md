@@ -24,14 +24,13 @@ Send your VOTE2020 tokens to:
 
 I promise to comply with the **minimum** requirements listed here:
 - CPU: Xeon or i7 (4 cores)
-- RAM: 64GB for main server, 32GB for "third party coins"
-- Disk: 1 TB/SSD for main server, 500MB/SSD for "third party coins"
-
-... **in each region I may be elected**
+- RAM: 64GB for main server, and 32GB for "third party coins"
+- Disk: 1 TB/SSD for main server, and 500MB/SSD for "third party coins"
 
 ### Important dates for Season 4 ###
 
 According to https://github.com/KomodoPlatform/dPoW/blob/master/doc/bible.md#guideline-general-infos-and-policies :
+- KMD snapshot on March 13rd
 - autoelection announcement should be done on March 15th
 - airdrop of VOTE2020 tokens should be done on March 16th
 - elections should start on March 16th and end on April 6th
