@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/VotePirate.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/season3/notarynodes/pirate/VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -149,7 +149,7 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/welcome_pirates.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/season3/notarynodes/pirate/welcome_pirates.jpg)
 
 ## Disclosure ##
 
