@@ -30,9 +30,9 @@ PENDING RE-ELECTION - RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 #### My commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
 
 ```
-PIRATE dev fund - 25% *
+PIRATE dev fund - 10% *
 PIRATE Arrrmada - 5% *
-CHIPS dev fund - 6% *
+CHIPS dev fund - 5% *
 ```
 
 * Donations will be made after operational costs are covered.
