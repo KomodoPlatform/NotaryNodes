@@ -24,12 +24,10 @@
 * 10% - KMDLabs fund: both notarisation and development 
 * 10% - Chips Development
 * 10% - To start a personal fund to be used for personal ecosystem related projects 
- 
-
-```
+ ```
 ## Previous Donations
-* https://www.komodod.com/t/bda62a8a182a150e88b1e5fa83c9490f9ab33188fe7e3d9427051c1619eb9cf5
-* https://www.komodod.com/t/dd79bfa6222069fc012843157cdd271fb85f7b25ce21e9f3325d956b00d25745
+* CHIPS - https://www.komodod.com/t/bda62a8a182a150e88b1e5fa83c9490f9ab33188fe7e3d9427051c1619eb9cf5
+* LABS - https://www.komodod.com/t/dd79bfa6222069fc012843157cdd271fb85f7b25ce21e9f3325d956b00d25745
 
 ## Pubkey:
 ```
