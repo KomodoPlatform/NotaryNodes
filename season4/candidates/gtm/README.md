@@ -21,9 +21,9 @@
 * Give back to the community.
 * To scale with the needs of the network
 ```
-* 10% - KMDLabs fund: both notarisation and development 
-* 10% - Chips Development
-* 10% - To start a personal fund to be used for personal ecosystem related projects 
+* 10% - KMDLabs development 
+* 5% - Chips Development
+* 10% - personal fund to be used for ecosystem related projects should need come 
  ```
 ## Previous Donations
 * CHIPS - https://www.komodod.com/t/bda62a8a182a150e88b1e5fa83c9490f9ab33188fe7e3d9427051c1619eb9cf5
