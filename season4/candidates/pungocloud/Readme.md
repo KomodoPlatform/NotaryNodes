@@ -1,4 +1,4 @@
-![logo](https://pungo.io/images/pungo/pungo_header_logo.png "pungocloud")
+![logo](https://pungo.cloud/images/peer2cloud_logo.png "pungocloud")
 
 * **Telegram:** [PungoTalk](https://t.me/pungotalk)
 * **Slack:** [Komodo Slack](https://join.slack.com/t/komodo-platform/shared_invite/enQtMzI3MTc2MjAwNDUzLTkwN2Q3ZDkxMDlhMTY5NTg0NWI1MWMxY2YwMDRiYzNkM2JiYTc2MGRlZTc5YjlkNThkMWZhYzAyYjQ0N2UwNjU) at channel **#pungo** & our aliases: @kimmel @experimenter 
