@@ -29,7 +29,7 @@
 
 # REWARD PROGRAM 2020
 
-* All voters will receive an Airdrop of 1.5M **PUNGO token** as rewards to their voting wallets
+* All voters will receive an Airdrop of 1.5M **PUNGO token** as rewards to their voting wallets (we suggest to keep them safe, in a cold wallet)
 
 * PGT holders will receive very especial advantages if Pungo products proof successfull
 
