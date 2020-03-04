@@ -22,7 +22,7 @@
 * Give back to the community.
 * To scale with the needs of the network
 ```
-* 20% - KMDLabs fund: both notarisation and development 
+* 10% - KMDLabs fund: both notarisation and development 
 * 10% - To start a personal fund to be used for ecosystem related projects 
 * 10% - Chips Development 
 
@@ -56,7 +56,6 @@ _I will comply with the minimum sever requirement if elected as provided:_
 ## Contact Info
 * Discord: gt#2812
 * Email: weget@protonmail.com
-* [notary.gtmatcha.com](https://gtmatcha.com)
 * 한국어 가능
 
 ## Ecosystem Project Links
