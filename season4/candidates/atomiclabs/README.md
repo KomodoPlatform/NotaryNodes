@@ -2,6 +2,8 @@
 
 To be able to continue development and support for the pretty HyperDEX app, we need your support!
 
+SH: `RAtoMic1yi2sjP5NjfpGwoAb4uxva1ERhT`
+
 ## Plan 2020-2021
 
 - Funding for continuing HyperDEX app
