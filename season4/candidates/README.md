@@ -19,5 +19,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [oszy](oszy/README.md)          |   [chainzilla](chainzilla/README.md)               |       |   [zatjum](zatjum/README.md)    |       
 |   [slyris](slyris/README.md)      |   [gtm](gtm/README.md)                         |       |    [kbtworks](kbtworks/README.md)   |       
 |   [tonyl](tonyl/README.md)        |                                               |       |    [cipi](cipi/README.md)    |
-|   [soldat](soldat/README.md)    |       |       |
+|   [soldat](soldat/README.md)      |                                               |       |    [mrlynch](mrlynch/README.md) |
 |   [cipi](cipi/README.md)          |       |       |

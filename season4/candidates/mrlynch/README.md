@@ -1,20 +1,4 @@
-![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/VotePirate.jpg)
-
-### [EU - Europe] ###
-
-- VOTE address
-
-```
-RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
-```
-
-### [NA - North America] ###
-
-- VOTE address
-
-```
-RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
-```
+## I once again ask for your voting support. Please consider voting in my NN node in AR region ##
 
 ### [AR - Asia-Russia] ###
 
@@ -24,6 +8,21 @@ RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
 ```
 
+### [EU - Europe] ###
+
+- VOTE address
+
+```
+PENDING RE-ELECTION - RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
+```
+
+### [NA - North America] ###
+
+- VOTE address
+
+```
+PENDING RE-ELECTION - RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
+```
 
 
 ## Commitment ##
@@ -41,6 +40,16 @@ CHIPS dev fund - 5% *
 
 ### Server specs ###
 
+- [AR]
+
+	| Spec     | Detail		|
+	|----------|--------------------|
+	| CPU      |2 x Intel  Xeon E5-2640v4 20c/40t @ 2.40 GHz	|
+	| RAM      |256GB DDR4 ECC 2133 MHz				|
+	| Storage  |HardRaid 3x960 GB NVMe				|
+    | Network  |1 Gbps up/down  |
+	| Location |Datacenter - Singapore |
+
 - [EU]
 
 	| Spec     | Detail		|
@@ -49,7 +58,7 @@ CHIPS dev fund - 5% *
 	| RAM      |128GB DDR4 ECC 2400 MHz				|
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
     | Network  |1 Gbps up/down  |
-	| Location |Datacenter - London, UK 			|
+	| Location |Datacenter - London, UK |
 
 - [NA]
 
@@ -61,56 +70,29 @@ CHIPS dev fund - 5% *
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
 
-- [AR]
-
-	| Spec     | Detail             |
-	|----------|--------------------|
-	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz / 2.7GHz |
-	| RAM      |64GB DDR4 ECC 2133 MHz			|
-	| Storage  |Hybrid SoftRaid 2x2 TB + 2x480 GB SSD	|
-    | Network  |250 Mbps up/down  |
-	| Location |Datacenter - Singapore		|
-
 
 ## Pirate Notary Crew ##
 
-### Fishy Guts ###
-```PirateChain Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
-
-- 1 year active Community Contributor in KMD Ecosystem - Ran many Community raffles to promote dICOs
-- Provided the KMD Tip Bot and Wordpress Payment portal to the Community
-- Commited [DigitalPrice.io](https://digitalprice.io) to add KMD as a base trading pair
-- Working with radix42 to create a dedicated full node port of KMD to Nodl.it which will support all asset chains
-- Pushed Z Address integration and adoption - something even JL777 was skeptical about
-- 20+ years experience in Mortgage Finance and Sales including compliance and regulatory procedures
-
-##### Contact Details #####
-
-- Discord: [@FishyGuts#5085](https://pirate.black/discord)
-- Twitter: [@PirateChain](https://twitter.com/PirateChain)
-- E-mail: marketing@pirate.black
-- Website: [https://notary.pirate.black](https://notary.pirate.black)
-
 ### Mr Lynch ###
-```PirateChain Team role: Technical contact, Node operations & security, Zcommerce enabler```
+```PirateChain Team role: Sys-admin, Project Lead, Technical contact, Node operations & security, Zcommerce enabler```
 
-- 18+ years ICT experience: system administration and security (red/blue team; mostly red)
+- 19+ years ICT experience: system administration and security
 - Early crypto miner (late 2010)
-- Security Analyst by day, full time Pirate and KMD supporter
-- Created the ARRR Sapling Bot which provides useful info to the Pirate Community
+- Full time Pirate - ported paper wallet, lite wallet to Pirate, technical support to exchanges integrating PIRATE
+- KMD Community Moderator
+- KMD & Pirate Tester (latest tests participation: dexp2p)
+- Created the ARRR Sapling Bot which provides useful info to the Pirate Community (ported to main ARRRtipbot)
 - Took part in early testing for Sapling migration
 - Assisted the Community through the migration from Sprout to Sapling
-- Early tester of Barterlly aka Tortuga
-- PrivateBay pool operator
-- NN Testnet results -> [https://notarystats.info/testnet.php](https://notarystats.info/testnet.php)
+- Pirate Team Notary Node Operator
+- Part of Notary Node testing - all NN updates undergo rigorous testing before rolling out to NN network
 
 ##### Contact Details #####
 
 - Discord: [@mrlynch#5735](https://pirate.black/discord)
-- Notary Website: [http://notary.privatebay.io](http://notary.privatebay.io)
 - Github: [@mrmlynch](https://github.com/MrMLynch)
 - E-mail: mrlynch@protonmail.ch
-- Website: [https://notary.pirate.black](https://notary.pirate.black)
+- Website: [https://pirate.black](https://pirate.black)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -148,4 +130,4 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/welcome_pirates.jpg)
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/season4/candidates/mrlynch/welcome_pirates.jpg)
