@@ -17,7 +17,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)              |  [antonind81](antonind81/README.md)   |   [dudezmobi.vrsc](dudezmobi/README.md)       |       
 |   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)                |   [ethanquix](ethanquix/README.md)    |   [smdmitry](smdmitry/README.md)     |       
 |   [oszy](oszy/README.md)          |   [chainzilla](chainzilla/README.md)               |       |   [zatjum](zatjum/README.md)    |       
-|   [slyris](slyris/README.md)      |   [crackers] (crackers/README.md)             |       |    [kbtworks](kbtworks/README.md)   |       
-|   [tonyl](tonyl/README.md)        |                                               |       |    [cipi](cipi/README.md)    |
-|   [soldat](soldat/README.md)    |       |       |
+|   [slyris](slyris/README.md)      |   [gtm](gtm/README.md)                        |       |    [kbtworks](kbtworks/README.md)   |       
+|   [tonyl](tonyl/README.md)        |   [crackers] (crackers/README.md)             |       |    [cipi](cipi/README.md)    |
+|   [soldat](soldat/README.md)      |                                               |       |    [mrlynch](mrlynch/README.md) |
 |   [cipi](cipi/README.md)          |       |       |

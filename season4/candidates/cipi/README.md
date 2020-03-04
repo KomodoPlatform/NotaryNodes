@@ -32,11 +32,11 @@ I use my own [trading bot](https://github.com/cipig/mmtools) on the AtomicDEX ma
 - btcpubkey2: 026f4f66385daaf8313ef30ffe4988e7db497132682dca185a70763d93e1417d9d
 
 #### Region: AR
-- 2x Intel Xeon E5-2630v4
+- AMD EPYC 7301
 - 128 GB RAM
 - 4x 480GB SSD (Hardware RAID 5)
 - 1 Gbit/s Port
-- Location: Hong Kong
+- Location: Singapore
 - <strong>VOTE-address: RPmn49RyrLzoSHxiXxhuchbcBu8nj6PxYu</strong>
 - btcpubkey1: 029fc69a286466857f5e5f13044b36962252a3c7e78778a4b2616af48e9855359e
 - btcpubkey2: 02191c7911b5b8b1900ea65361e8b6f5bff01ad72d9f9ce86dba6ab1772dffc882

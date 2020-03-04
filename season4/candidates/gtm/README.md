@@ -1,16 +1,15 @@
-# GT Notary Proposal :tea:
+# gtm Notary Proposal :tea:
 
-## Vote Address: RNGnsh7uQhuFqyaAjAyNuWhLwRnK9JVuoq
-<img src="https://raw.githubusercontent.com/gtmatcha/NotaryNodes/master/notarynodes/gt/qr.png" heigh="250" width="250">
+## Vote Address: RNmhemcCpDhGi93XZRcELuiZMJrK1ZeTd8
 
-## Region: AR
 
-## GT Komodo Ecosystem evolvement:
+## Region: NA
+
+## gtm Komodo Ecosystem envolvement:
 * Has been a part of the Komodo community since stress tests for barterdex started.
 * Maintain [KMDLabs notary](https://kmdlabs.com/who/) and testing
-* Help test CC/mine/migrations when possible (rogue/sapling upgrade for pirate via Rocket, marmara etc)
 
-## GT personal:
+## gtm personal:
 * KMD believer and believer in the open source ethos
 * Started off as a noob in blockchain tech but learned through hands on envolvement via KMDLabs
 * Getting masters in CompSci :point_right: Putting experience forward to KMD
@@ -22,11 +21,14 @@
 * Give back to the community.
 * To scale with the needs of the network
 ```
-* 10% - KMDLabs fund: both notarisation and development 
-* 10% - To start a personal fund to be used for ecosystem related projects 
-* 10% - Chips Development 
+* 10% - KMDLabs development 
+* 5% - Chips Development
+* 10% - personal fund to be used for ecosystem related projects should need come 
+ ```
+## Previous Donations
+* CHIPS - https://www.komodod.com/t/bda62a8a182a150e88b1e5fa83c9490f9ab33188fe7e3d9427051c1619eb9cf5
+* LABS - https://www.komodod.com/t/dd79bfa6222069fc012843157cdd271fb85f7b25ce21e9f3325d956b00d25745
 
-```
 ## Pubkey:
 ```
 
@@ -47,19 +49,12 @@ _I will comply with the minimum sever requirement if elected as provided:_
 * Bandwidth: 1 Gbp
 ```
 
-## TestNet Notarization Counts: [Here](https://notarystats.info/testnet.php)
+
 
 ## Disclosure
 * KMDLabs node operator
-* First time running for a NN position
+* Second time running for a NN position
 
 ## Contact Info
 * Discord: gt#2812
 * Email: weget@protonmail.com
-* 한국어 가능
-
-## Ecosystem Project Links
-* [KMDLabs](https://kmdlabs.com/)
-* [Pirate](https://pirate.black/)
-* [Verus](https://veruscoin.io/)
-
