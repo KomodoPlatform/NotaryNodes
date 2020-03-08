@@ -1,4 +1,4 @@
-# AR region
+# AR region - SOLAR POWERED
 ## Address 
 ## **RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy**
 
