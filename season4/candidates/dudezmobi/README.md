@@ -7,7 +7,7 @@
 **dudezmobi.vrsc** is a primarily a **loving husband** the extras includes being a **software and network engineer** with 
 over a decade and a half of experience in business applications and infrastructure both in **service and manufacturing sectors**.
 
-I operate a **veruscoin** staking pool. (1.5 years, 1 year private for 3 members during which I *established standards 
+My site is powered by solar. I operate a **veruscoin** staking pool. (1.5 years, 1 year private for 3 members during which I *established standards 
 process* in administering and maintaining the infrastructure and sustainability of operations, and expanded to a public staking pool last July 2019 with features such as **HW firewall, server redundancy and a crappy but reliable discord bot**).
 
 I have participated in testing of **atomic-dex** and submitted over 30 issues.
@@ -31,7 +31,7 @@ For **risk mitigation** I have the capability and resources to separate my physi
 Lastly i would also be **allocating 10% of monthly earnings to veruscoin project**.
 
 Thank you for your support. 
-りがとうございます。
+ありがとうございます。
 谢谢。
 
 Discord: dudezmobi#1945
