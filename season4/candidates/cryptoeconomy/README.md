@@ -90,7 +90,7 @@ as a Notary Node for 2020, Crypto Economy will continue to improve the work of t
 <h2 align="justify"><strong>Server Info</strong></h2>
 
 <p>EU Server</p>
-<p>Voting address: RXxDVSpCyWEn2bkVGAauAQDugX9UgWYLUM</p>
+<p>Voting address: RLLMtPkB9kC48HgCGbdu9EiqYgE4aVp7Gz</p>
 <p>• CPU: Intel i7-7700K OC - 4c / 8t - 4.7GHz / 5GHz</p>
 <p>• RAM: 64GB DDR4 2400 MHz</p>
 <p>• Bandwidth: 500 Mbit / s</p>
