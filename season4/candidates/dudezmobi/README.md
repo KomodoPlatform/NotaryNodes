@@ -61,11 +61,11 @@ firewall, server redundancy and a crappy_minimal but reliable discord bot all po
 Linux and scripting knowledge
 Redundant internet providers (2)
 Hardware Firewall
-Threadripper 3970x, 64 GB memory, 1 TB SSD NVme RAID 0, 
+Threadripper 3970x, 64 GB memory, 1 TB SSD NVme RAID 0 
 Ryzen 3900x, 32 GB memory, 500 GB SSD NVme RAID 0
 
 :+1: I have a total capacity of **2000 watts** of solar power for 7 hours daily, thus **lowering
-my operational costs** and a **sustainable model** for a NN support infrastructure.
+my operational costs**. It is a **sustainable model** for a NN support infrastructure.
 ```
 
 ## TARGETS
