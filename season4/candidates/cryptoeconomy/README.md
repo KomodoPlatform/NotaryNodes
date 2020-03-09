@@ -97,7 +97,7 @@ as a Notary Node for 2020, Crypto Economy will continue to improve the work of t
 <p>• HDD 5Tb</p>
 
 
-<h2 align="justify"><strong><strong>Contact Info</strong></h2>
+<h2 align="justify"><strong>Contact Info</strong></h2>
 
 <p>• Email address: info@crypto-economy.com</p>
 <p>• Discord: Carlos Crypto Economy # 7861</p>
