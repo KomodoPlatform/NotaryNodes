@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-size: 50px;" align="justify"><strong>Crypto Economy candidacy - NOTARY NODE 2020</strong></h1>
 
-<a href="https://www.crypto-economy.net/wp-content/uploads/2019/04/NOTARY-NODE.jpg"><img class="aligncenter wp-image-163365" src="https://www.crypto-economy.net/wp-content/uploads/2019/04/NOTARY-NODE-1024x460.jpg" alt="" width="900" height="405" /></a>
+<a href="https://crypto-economy.com/wp-content/uploads/2020/03/2020-NOTARY-NODE.jpg"><img class="aligncenter wp-image-163365" src="https://crypto-economy.com/wp-content/uploads/2020/03/2020-NOTARY-NODE.jpg" alt="" width="900" height="405" /></a>
 
 <h2 align="justify"><strong>ABOUT US</strong></h2>
 
