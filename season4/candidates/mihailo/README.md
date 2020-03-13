@@ -2,7 +2,7 @@
 
 ## Who am I ?
 
-I have joined Komodo on October 2018. Since then I have been working as Core C++ Blockchain developer and I was in charge of creating various crypto condition (CC/Antara) modules. My work is behind modules like channel, gateway, side chain gateway (importgateway), and currently I'm concentrated on pegs module which purpose is to create a stablecoin backed by various crypto currencies.
+I have joined Komodo on October 2018. Since then I have been working as Core C++ Blockchain developer and I was in charge of creating various crypto condition (CC/Antara) modules. My work is behind modules like channels, gateways, side chain gateways (importgateways), and currently I'm concentrated on pegs module which purpose is to create a stablecoin backed by various crypto currencies.
 In personal life my passion is car racing, and I'm competing in several championships in Europe. 
 
 ## Plans for NN earnings
@@ -18,7 +18,7 @@ My plan is to use most of the funds the comes from Notary Node to back the main 
 In process of obtaining 2 machines:
 
 - CPU: 2 x Intel Xeon E5-2660 2.2GHz/3.0GHz - 16c/32t
-- 64GB DDR3
+- 64GB DDR3 ECC
 - 1TB SSD
 
 ## Contact
