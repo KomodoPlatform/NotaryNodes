@@ -9,9 +9,10 @@ In personal life my passion is car racing, and I'm competing in several champion
 
 My plan is to use most of the funds the comes from Notary Node to back the main stablecoin that will be created by Komodo in the future. This way the stablecoin will have better initial liquidity and it will attract more users to use and trust this stablecoin. If for any reason that project doesn't go live, I will discuss with the community which of the projects would benefit the most from funds accumulated by NN and redirect them there. Part of funds will be used to fund the servers running.
  
-## Voting Address
+## Voting
 
-`RFxQPGQ5v2nnDM4rHvc3qaRmRyfPQroxhR`
+* **Region:** EU
+* **Address:** `RFxQPGQ5v2nnDM4rHvc3qaRmRyfPQroxhR`
 
 ## Hardware Information
 
