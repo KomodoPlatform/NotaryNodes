@@ -1,6 +1,6 @@
 
 
-# DudezMobi.vrsc NOTARY NODES ELECTION 2020 CANDIDATURE
+# DudezMobi.vrsc NOTARY NODES ELECTION 2020
 
 ## SOLAR POWERED NOTARY NODE
 
@@ -55,18 +55,21 @@ firewall, server redundancy and a crappy_minimal but reliable discord bot all po
 
 ## REQUIREMENTS
 
-```markdown
-:+1: I meet the technical skills and hardware requirements for running a notary node 
 
-Linux and scripting knowledge
-Redundant internet providers (2)
-Hardware Firewall
-Threadripper 3970x, 64 GB memory, 1 TB SSD NVme RAID 0 
-Ryzen 3900x, 32 GB memory, 500 GB SSD NVme RAID 0
+:+1: 
+ I meet the technical skills and hardware requirements for running a notary node 
 
-:+1: I have a total capacity of **2000 watts** of solar power for 7 hours daily, thus **lowering
+* Linux and scripting knowledge
+* Redundant internet providers (2)
+* Hardware Firewall
+* Threadripper 3970x, 64 GB memory, 1 TB SSD NVme RAID 0 
+* Ryzen 3900x, 32 GB memory, 500 GB SSD NVme RAID 0
+
+:+1: 
+I have a total capacity of **2000 watts** of solar power for 7 hours daily, thus **lowering
 my operational costs**. It is a **sustainable model** for a NN support infrastructure.
-```
+
+
 
 ## TARGETS
 
@@ -76,7 +79,8 @@ my operational costs**. It is a **sustainable model** for a NN support infrastru
 To the best of my ability a 100% compliance with NN duties and responsibilities.
 Timely updates <24H as deemed by komodo team.  
 Reach at least 35% or better monthly NN notarization score.
-For risk mitigation I have the capability and resources to separate my physical servers to two operating sites 100 kms from each other```
+For risk mitigation I have the capability and resources to separate my physical servers to two operating 
+sites 100 kms from each other```
 
 _Thank you for your support_.
 
@@ -84,5 +88,5 @@ _Thank you for your support_.
 
 谢谢。
 
-Discord: :D dudezmobi#1945
+Discord: dudezmobi#1945
 Email: kmd@dudez.mobi
