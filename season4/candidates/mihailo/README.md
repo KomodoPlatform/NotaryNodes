@@ -22,5 +22,5 @@ In process of obtaining 2 machines:
 - 1TB SSD
 
 ## Contact
-# * KomodoPlatform Discord - Mihailo#5902
+### * KomodoPlatform Discord - Mihailo#5902
  * Email: mihailo.milenkovic84@gmail.com
