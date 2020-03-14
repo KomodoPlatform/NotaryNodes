@@ -19,7 +19,7 @@ I remember the oil shock of '73, and the Continental Illinois bailout of '84, fr
 
 I took to Debian and open source software in general around 2002 or so, and worked on projects like Morphix which wrapped up Debian into LiveCDs with bells and whistles, and also around then became interested in decentralisation, watching someone implement the the original Chord paper in Python in a few days. jl777's work reminds me of that experience. Hanging out with some of the best coders since then, and not having any formal training, has meant that I haven't had the confidence to code, so I'm not a dev type person, though I can do UI stuffs if pushed, and have a MSc (User-Interface Design).
 
-As a founding director of a small insurance broker in the UK, I might be able to get the required FSA permissions to deal in regulated tokens should the requirment arise.
+As a founding director of a small insurance broker in the UK, I might be able to get the required FSA permissions to deal in regulated tokens should the requirement arise.
 
 Though quite a reticent guy online, in person you'll find me quite voluble, garrulous and charismatic; free free to hit me up on Discord for a meet should you come to London.
 
