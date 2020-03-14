@@ -3,6 +3,7 @@
 # DudezMobi.vrsc NOTARY NODES ELECTION 2020
 
 ## SOLAR POWERED NOTARY NODE
+## RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy
 
 ## Who Is DudezMobi@.vrsc
 
@@ -90,3 +91,4 @@ _Thank you for your support_.
 
 Discord: dudezmobi#1945
 Email: kmd@dudez.mobi
+Voteme: RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy
