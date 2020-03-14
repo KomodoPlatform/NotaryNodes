@@ -22,3 +22,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [soldat](soldat/README.md)      |   [dragonhound](dragonhond)                  |       |    [mrlynch](mrlynch/README.md) |
 |   [cipi](cipi/README.md)          |       |       |    [MarmaraChain](MarmaraChain/README.md)    |
 |   [chuckforis](chuckforis/README.md) |
+|   [Fuego](fuego/README.md) |
