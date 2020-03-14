@@ -25,7 +25,7 @@ Though quite a reticent guy online, in person you'll find me quite voluble, garr
 
 ### Market beliefs:
 
-Today, late March 2020, the financial system looks as fragile as it ever has, and the willful venality and stupidity of the powers that be continues in trying to prop up the status quo at the expense of the individuals outside it with loans galore. What's needed, and was needed last time, is a [modern jubilee to reduce the debt in the system](https://braveneweurope.com/steve-keen-a-modern-jubilee-as-a-cure-to-the-financial-ills-of-the-coronavirus).
+Today, late March 2020, the financial system looks as fragile as it ever has, and the wilful venality and stupidity of the powers that be continues in trying to prop up the status quo at the expense of the individuals outside it with loans galore. What's needed, and was needed last time, is a [modern jubilee to reduce the debt in the system](https://braveneweurope.com/steve-keen-a-modern-jubilee-as-a-cure-to-the-financial-ills-of-the-coronavirus).
 
 I got into crypto in 2014 or so, seeing it as a modern version of [free banking](https://en.wikipedia.org/wiki/Free_banking#Scotland) and it has been part of my reading since then. I first came across Komodo around 2017 or so, seeing posts by jl777 on Bitcointalk, but didn't really get an appreciation for what was going on in the project until I joined the Discord server in August 2018.
 
@@ -37,10 +37,10 @@ These are very early days, there is much to do and a long way to go. I'm here fo
 
 ### Hardware as is
 
-CPU: Xeon 1650 v2 @ 3.50GHz
-RAM: 64GB
-HDD: NVMe 500GB (will be upgraded, likely to add NVMe 1TB)
-Fibre: 150 Mbps (upgradeable to 500 Mbps or 900 Mbps)
+* CPU: Xeon 1650 v2 @ 3.50GHz
+* RAM: 64GB
+* HDD: NVMe 500GB (will be upgraded, likely to add NVMe 1TB)
+* Fibre: 150 Mbps (upgradeable to 500 Mbps or 900 Mbps)
 
 
 ### Disclosure
