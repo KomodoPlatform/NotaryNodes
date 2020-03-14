@@ -17,7 +17,7 @@ My background was in economics, finance and banking. My overriding lifelong inte
 
 I remember the oil shock of '73, and the Continental Illinois bailout of '84, from which this current state of affairs has evolved. I got to study these sorts of things several times over; BSc Econ. (Accounting and Finance) '88.
 
-I took to Debian and open source software in general around 2002 or so, and worked on projects like Morphix which wrapped up Debian into LiveCDs with bells and whistles, and also around then became interested in decentralisation, watching someone implement the the original Chord paper in Python in a few days. jl777's work reminds me of that experience. Hanging out with some of the best coders since then, and not having any formal training, has meant that I haven't had the confidence to code, so I'm not a dev type person, though I can do UI stuffs if pushed, and have a MSc (User-Interface Design).
+I took to Debian and open source software in general around 2002 or so, and worked on projects like Morphix which wrapped up Debian into LiveCDs with bells and whistles, and also around then became interested in decentralisation, watching someone implement the the original Chord paper in Python in a few days. jl777's work reminds me of that experience. Hanging out with some of the best coders since then, and not having any formal training, has meant that I haven't had the confidence to code, so I'm not a dev type person, though I can usually do UI stuffs if pushed, and have a MSc (User-Interface Design).
 
 As a founding director of a small insurance broker in the UK, I might be able to get the required FSA permissions to deal in regulated tokens should the requirement arise.
 
