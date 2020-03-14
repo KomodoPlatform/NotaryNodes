@@ -1,38 +1,94 @@
-# AR region - SOLAR POWERED
-## Address 
-## **RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy**
 
-## ABOUT ME
 
-**dudezmobi.vrsc** is a primarily a **loving husband** the extras includes being a **software and network engineer** with 
-over a decade and a half of experience in business applications and infrastructure both in **service and manufacturing sectors**.
+# DudezMobi.vrsc NOTARY NODES ELECTION 2020
 
-My site is powered by solar. I operate a **veruscoin** staking pool. (1.5 years, 1 year private for 3 members during which I *established standards 
-process* in administering and maintaining the infrastructure and sustainability of operations, and expanded to a public staking pool last July 2019 with features such as **HW firewall, server redundancy and a crappy but reliable discord bot**).
+## SOLAR POWERED NOTARY NODE
+## RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy
 
-I have participated in testing of **atomic-dex** and submitted over 30 issues.
-I have been running full nodes(not notary node) of **KOMODO ,VERUSCOIN and EQUALIZER(rip)** since **2018**.
+## Who Is DudezMobi@.vrsc
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![Follow Me on][1.1]][1]
+[![also on ][2.1]][2]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/dudezmobi
+[2]: http://www.github.com/dudezmobi
+
+
+
+
+
+```markdown
+
+I have participated in testing of atomic-dex and submitted over 30 issues.
+I have been running full nodes(not notary node) of KOMODO ,VERUSCOIN and EQUALIZER(rip)
+since 2018
+
+I also operate a VERUSCOIN staking pool. for 1.5 years,One year in private mode involving 
+only 3 members during which I Established standards process in administering and maintaining 
+the Staking pool infrastructure and the sustainability of all the related operations,Finaly 
+decide to expand it to a public staking pool in last July 2019 with features such as HW 
+firewall, server redundancy and a crappy_minimal but reliable discord bot all powred by Sun
+
+
+```
 
 ## REQUIREMENTS
 
-:+1: I meet the technical skills and hardware requirements for running a notary node.
 
-:+1: I have a total capacity of **2000 watts** of solar power for 6.5 hours daily, thus **lowering
-my operational costs** and a **sustainable model** for a support infrastructure.
+:+1: 
+ I meet the technical skills and hardware requirements for running a notary node 
+
+* Linux and scripting knowledge
+* Redundant internet providers (2)
+* Hardware Firewall
+* Threadripper 3970x, 64 GB memory, 1 TB SSD NVme RAID 0 
+* Ryzen 3900x, 32 GB memory, 500 GB SSD NVme RAID 0
+
+:+1: 
+I have a total capacity of **2000 watts** of solar power for 7 hours daily, thus **lowering
+my operational costs**. It is a **sustainable model** for a NN support infrastructure.
+
+
 
 ## TARGETS
 
-I wont give *moonshot promises and expectations* but I would ensure that ***realistic key performance indicators*** are met. 
-To the best of my ability a **100% compliance** with NN duties and responsibilities. 
-Timely updates **<24H** as deemed by komodo team.  
-Reach at **least 35% or better monthly NN notarization score**.
-For **risk mitigation** I have the capability and resources to separate my physical servers to two operating sites **100 kms from each other**. 
+```I would also be allocating 10% of monthly earnings to veruscoin project.```
 
-Lastly i would also be **allocating 10% of monthly earnings to veruscoin project**.
+```I wont give moonshot promises and expectations but I would ensure that realistic key performance indicator are met.
+To the best of my ability a 100% compliance with NN duties and responsibilities.
+Timely updates <24H as deemed by komodo team.  
+Reach at least 35% or better monthly NN notarization score.
+For risk mitigation I have the capability and resources to separate my physical servers to two operating 
+sites 100 kms from each other```
 
-Thank you for your support. 
+_Thank you for your support_.
+
 ありがとうございます。
+
 谢谢。
 
 Discord: dudezmobi#1945
 Email: kmd@dudez.mobi
+Voteme: RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy

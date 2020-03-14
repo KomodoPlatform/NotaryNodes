@@ -25,7 +25,7 @@ First time I learned about Bitcoin was late 2013 from one of my college friends.
 
 ## Pledges ##
 
-**`10%` quarterly KMD airdrop to voters that support me.**
+**`10%` quarterly to CHIPS development fund.**
 
 ## Server specs ##
 - CPU: AMD Ryzen Threadripper 2950X
