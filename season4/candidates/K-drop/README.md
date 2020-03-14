@@ -16,7 +16,7 @@ We are thankful for your consideration and looking forward to hopefully becoming
 
     K-Drop
 
-https://camo.githubusercontent.com/348a59cf421d94857cae61d0da5425a24dea68fe/687474703a2f2f6170692e71727365727665722e636f6d2f76312f6372656174652d71722d636f64652f3f636f6c6f723d303030303030266267636f6c6f723d46464646464626646174613d524d616f796b763533394d38364b5955776a5a634462376d5862797057356b396e6626717a6f6e653d31266d617267696e3d302673697a653d31353078313530266563633d4c
+<img src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=RMaoykv539M86KYUwjZcDb7mXbypW5k9nf&amp;qzone=1&amp;margin=0&amp;size=150x150&amp;ecc=L" alt="qr code" />
 
 Vote token Address: RMaoykv539M86KYUwjZcDb7mXbypW5k9nf
 
