@@ -1,4 +1,4 @@
-![test](./Banner1.png | width=48)
+![test](./Banner1.png =100x100)
 
 ![Banner1.png](./Banner1.png)
 
