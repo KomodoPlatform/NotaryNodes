@@ -16,6 +16,8 @@
 
 * **Pungoio offers Pungo Wallet** An open wallet that we created based on Agama mobile. Check it out on https://pungo.app - available on Google Play & Web 
 
+* **Pungo is actively pushing Blockchain in Barcelona** And we plan to improve Komodo visibility in the city this year. We have recently joined [Barcelona Tech City](https://barcelonatechcity.com) and we are collaborating with several Institutions like Pompeu Fabra University & Eurecat while actively boosting Blockchain ecosystem in Barcelona [Blockchain Spirit](https://blockchainspirit.barcelona)
+
 * **Pungo has a Reward Program to encourage participating** in Notary Node Elections. We will Airdrop 2M PGT tokens (PUNGO tokens) that will be used to share exciting opportunities related to our PUNGO project success. 
 
 # OUR SH CANDIDATE NODE FOR 2020 ELECTION:
