@@ -17,6 +17,19 @@ KMD : RUAShFaDNpHixyp7jFZu3EWph1DtC1AHwr
 
 
 
+# Reasons to vote for us:
+
+
+##  First of all Who We are ? 
+
+We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by being a Notary Node Operator over the last year,running an KMDLabs StakedNotary, VMware on a Linux Host, XMPP Chat Server and handling our own Mining Farm. Also some of you knowing us as one of the Admin’s in the Komodo and Pirate Channel of Germany’s Telegram Group.
+
+* We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
+
+* Since the Komodo team is focused on developing the technical applications of  Blockchain, we are convinced that this will have an enormous impact on the entire future Blockchain technology. That's why we want to bring in our personal experience to the community.
+
+* We are not official team members or partners of Komodo. We see independence as an additional contribution to decentralisation.
+
 # What is a Notary Node?
 
 *Excerpts from the original documentation*
@@ -33,20 +46,6 @@ https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md
 * The location of Notary Node servers must be diversified on all continents. The regions are categorized in the following locations: Southern-Hemisphere (SH), Asia-Rusia (AR), North-America (NA), Europe (EU).
 You find the full explanation about how delayed Proof of Work (dPoW) and Notary Nodes (NN) work in the link above.
 
-
-
-# Reasons to vote for us:
-
-
-##  First of all Who We are ? 
-
-We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by being a Notary Node Operator over the last year,running an KMDLabs StakedNotary, VMware on a Linux Host, XMPP Chat Server and handling our own Mining Farm. Also some of you knowing us as one of the Admin’s in the Komodo and Pirate Channel of Germany’s Telegram Group.
-
-* We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
-
-* Since the Komodo team is focused on developing the technical applications of  Blockchain, we are convinced that this will have an enormous impact on the entire future Blockchain technology. That's why we want to bring in our personal experience to the community.
-
-* We are not official team members or partners of Komodo. We see independence as an additional contribution to decentralisation.
 
 # How to vote ##
 
@@ -66,19 +65,7 @@ Important:It’s important to note that you must hold you private keys in order 
 Note: Only first transaction of VOTE2020 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
 ```
-## Server Information:
-
-
-**CPU:**          
-
-**RAM:**          
-
-**SSD:**          
-
-**Networking:**   
-
-**Location:**    
-
+ 
 
 ----
 
