@@ -60,7 +60,8 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 **4.** Send your VOTE2020 Coins to one of the addresses listed until April 6th 
 
 ```
-Important:It’s important to note that you must hold you private keys in order to receive your VOTE2020 tokens.
+Important:
+It’s important to note that you must hold you private keys in order to receive your VOTE2020 tokens.
 If you hold your KMD on a centralized exchange,
 then you do not hold your private keys and you will not receive any VOTE2020 tokens.
 
