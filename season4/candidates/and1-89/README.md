@@ -1,5 +1,5 @@
 
-![Banner1.png](./Banner1.png=100x250))
+![Banner1.png](./Banner1.png)
 
 <p align="center">
   <img width="250" src="dog.jpg" />
