@@ -22,7 +22,7 @@ KMD : RUAShFaDNpHixyp7jFZu3EWph1DtC1AHwr
 
 ##  First of all Who We are ? 
 
-We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by being a Notary Node Operator over the last year,running an KMDLabs StakedNotary, VMware on a Linux Host, XMPP Chat Server and handling our own Mining Farm. Also some of you knowing us as one of the Admin’s in the Komodo and Pirate Channel of Germany’s Telegram Group.
+We’re  Technic and Crypto enthusiast from Germany, who has already collected experience by being a Notary Node Operator over the last year, running an KMDLabs StakedNotary, VMware on a Linux Host, XMPP Chat Server and handling our own Mining Farm. Also some of you knowing us as one of the Admin’s in the Komodo and Pirate Channel of Germany’s Telegram Group.
 
 * We are convinced that the potential of crypto lies in it’s decentralisation. It means specifically (for us) that 64 nodes should be distributed among 64 different node operators.
 
@@ -60,7 +60,9 @@ You find the full explanation about how delayed Proof of Work (dPoW) and Notary 
 **4.** Send your VOTE2020 Coins to one of the addresses listed until April 6th 
 
 ```
-Important:It’s important to note that you must hold you private keys in order to receive your VOTE2020 tokens. If you hold your KMD on a centralized exchange, then you do not hold your private keys and you will not receive any VOTE2020 tokens.
+Important:It’s important to note that you must hold you private keys in order to receive your VOTE2020 tokens.
+If you hold your KMD on a centralized exchange,
+then you do not hold your private keys and you will not receive any VOTE2020 tokens.
 
 Note: Only first transaction of VOTE2020 Coin will be counted as a valid vote.
 If you have multiple KMD addresses don't consolidate before sending your VOTE.
