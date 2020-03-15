@@ -23,6 +23,8 @@ I have joined the blockchain evolution in 2017, Komodo was one of the first proj
 As of today, I am a Community Moderator of **Komodo**, and a First Mate in **[PirateChain](https://pirate.black/)**.
 In addition to the moderator role, I volunteer in Komodo and Blockchain related technical support, and community testing.
 I am one of the Notary Node operators in [KMDLabs](http://kmdlabs.io/), Komodo's incubation and testing environment for developing Komodo-based Smart Chains and custom Antara modules. 
+I have recenlty developed an infographic site about the [mining of Komodo Smart Chains](https://cryptostats.cc/komodo/mining)
+I am taking part in the 2020 Notarization TestNet, you can see my stats at [https://dexstats.info/testnet.php](https://dexstats.info/testnet.php)
 
 ### Why am I running for the election?
 
