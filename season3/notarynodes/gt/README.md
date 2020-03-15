@@ -25,15 +25,9 @@
 * 10% - KMDLabs fund: both notarisation and development 
 * 10% - To start a personal fund to be used for ecosystem related projects 
 * 10% - Chips Development 
-
-```
-## Pubkey:
+* ~To be considered after operational cost
 ```
 
-*Pubkey1: 
-*Pubkey2: 
-
-```
 
 ## Server Spec:
 
