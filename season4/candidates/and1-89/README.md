@@ -1,7 +1,6 @@
 <p align="center">
-  <img width="250" src="Banner1.png" />
+  <img width="350" src="Banner1.png" />
 
-![Banner1.png](./Banner1.png)
 
 <p align="center">
   <img width="250" src="dog.jpg" />
