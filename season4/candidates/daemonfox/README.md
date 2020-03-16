@@ -25,7 +25,7 @@ All mining and Notary proceeds will go towards this goal, to relaunch daemoncoin
 
 ### Project Involvement
    - 2011-2013 actively mining BTC, LTC and several alts as they came into the ecosystem
-	- From Solo wallet mining, to pool mining, to running local stratum solutions for my own miners
+   	- From Solo wallet mining, to pool mining, to running local stratum solutions for my own miners
 	- Began deploying explorers to test with other developers for new coins and projects. BTC, NMC, LTC and some early SciFi coins
    - 2014-2015 experimented with many open source block explorers for BTC, scrypt coins and other emerging coins including BTCD
 	- As I would mine new coins, I created one off explorers for myself, always hosted at daemoncoins.com until no longer needed
