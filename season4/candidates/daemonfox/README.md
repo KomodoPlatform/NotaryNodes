@@ -19,7 +19,7 @@ By day, I am an IT Project Manager for a multi billion USD retailer and manufact
 By night, I play as my own private Sysadmin and Full Stack Dev. I have dabbled in blockchain since 2011, starting when I could still GPU mine BTC and slowly have added the skills needed to host near any blockchain related service I might want in the moment. I have operated a few private explorers for my own tinkering, a couple of private pools for myself and friends to test and mine, as well as participated in many blockchain projects through the years leading right up to this moment.
 
 ## What do I want?
-My goal in running for this elecetion is to finally put together the infrastructure needed to execute several service ideas I have been planning wth the Komodo ecosystem. Mostly, I am looking forward to leveraging the nSPV RPC calls through my node to help build out an Enterprise Retail Platform solution on top of Komodo based blockchains.
+My goal in running for this election is to finally put together the infrastructure needed to execute several service ideas I have been planning wth the Komodo ecosystem. Mostly, I am looking forward to leveraging the nSPV RPC calls through my node to help build out an Enterprise Retail Platform solution on top of Komodo based blockchains.
 
 All mining and Notary proceeds will go towards this goal, to relaunch daemoncoins.com permanently, with active explorers, create web hooks to nSPV calls for the ERP solution, and bring online the pools needed to power a set of blockchain data structures and procedures for businesses to leverage. The plan is to build out several services that can be used singularly, or all in tandem.
 
@@ -55,7 +55,7 @@ All mining and Notary proceeds will go towards this goal, to relaunch daemoncoin
     - Current participant in KMDLABS crosschain transactonal testing
     - Constant participant in BarterDEX, HyperDEX and the atomicDEX wallets
   - POS64, MGNX and KMDLABS
-    - Once POS64 completed the fork, KGNX decided to launch, and we all participated. I was one of the top holders before closing my daemon to go back to KMDLABS testing
+    - Once POS64 completed the fork, MGNX decided to launch, and we all participated. I was one of the top holders before closing my daemon to go back to KMDLABS testing
 	- KMDLabs LabsAssistant since project birth
     - KMDLABS Notary Node operator for well over a year now
   - PIRATE (ARRR)
