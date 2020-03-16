@@ -1,5 +1,4 @@
-![n9 Header](https://github.com/Cris-F/node-9/blob/master/n-9_banner_blanc.png)
-
+![n9 Header](https://github.com/Cris-F/node-9/blob/master/n9_banner.png "node-9")
 # CrisF   node-9 
 
 ### KMD Notary Node Proposal 2020
@@ -8,7 +7,7 @@
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 
-Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**
+Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
 
 ### Region:       EU
 ### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo

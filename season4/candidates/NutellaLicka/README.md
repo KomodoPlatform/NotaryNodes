@@ -4,7 +4,7 @@
 
 ### **SH** region VOTE2020 address : `RB47JxCEPrGSDBauDQiKF8dgxqUYMdUhHj`
 
-You can vote for my by sending your VOTE2020 coins to the address listed above. 
+You can vote for me by sending your VOTE2020 coins to the address listed above. 
 
 ## About Me
 
@@ -25,7 +25,7 @@ I believe I have successfully carried out my goal over the last year as a NN. Al
 ## Community Development Funds
 
 #### Total donated to date: 1,577.25‬ KMD
-You can find donation verification over at my KMD-NN repo. I put all of my important NN information there for transperancy purposes.
+You can find donation verification over at my KMD-NN repo. I put all of my important NN information there for transparency purposes.
 [https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
 
 Over the past period as a Notary Node, I have been donating a portion of my rewards to the CHIPS project. Last election, I chose to donate to the CHIPS project financially as I believe it has quite large potential.

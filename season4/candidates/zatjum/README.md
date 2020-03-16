@@ -2,18 +2,15 @@
 
 ### TL;DR ###
 
-I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in EU region.
+I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in AR region.
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
 
-(on phone, swipe to left for SH QR code!)
-
-| for EU region| for SH region|
-|:-:|:-:|
-|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
-|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv``` |
+|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|
 
 ### Involvement and results ###
 
@@ -27,14 +24,13 @@ Send your VOTE2020 tokens to:
 
 I promise to comply with the **minimum** requirements listed here:
 - CPU: Xeon or i7 (4 cores)
-- RAM: 64GB for main server, 32GB for "third party coins"
-- Disk: 1 TB/SSD for main server, 500MB/SSD for "third party coins"
-
-... **in each region I may be elected**
+- RAM: 64GB for main server, and 32GB for "third party coins"
+- Disk: 1 TB/SSD for main server, and 500MB/SSD for "third party coins"
 
 ### Important dates for Season 4 ###
 
 According to https://github.com/KomodoPlatform/dPoW/blob/master/doc/bible.md#guideline-general-infos-and-policies :
+- KMD snapshot on March 13rd
 - autoelection announcement should be done on March 15th
 - airdrop of VOTE2020 tokens should be done on March 16th
 - elections should start on March 16th and end on April 6th
@@ -49,12 +45,9 @@ Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
 Send your VOTE2020 tokens to:
 
-(on phone, swipe to left for SH QR code!)
-
-| for EU region| for SH region|
-|:-:|:-:|
-|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_SH.png)|
-|```RKf96jJB861terNPb623v9F3PSj7uBbhxv```|```RLQ3qkn4htkwAdWGUGnuh1nHp25hj8SFrZ```|
+|```RKf96jJB861terNPb623v9F3PSj7uBbhxv``` |
+|:-:|
+|![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/QRcode_EU.png)|
 
 ## Contact details ##
 
