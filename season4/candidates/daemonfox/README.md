@@ -11,7 +11,7 @@ Discord: daemonfox#6136
 	- Ryzen 7 2700X
 	- 64GB DDR4 3200+ (likely replacing with 3600)
 	- 1 TB M.2 NvME 3500 Mbps drive
-	- Sharing a 1 Gbit symmetrical fiber connction
+	- Sharing a 1 Gbit symmetrical fiber connection
 
 ## Who am I?
 By day, I am an IT Project Manager for a multi billion USD retailer and manufacturer. There, I help onboard new members to our partner network, guide them in choosing IT solutions for their markets and help them train and implement those solutions into production. Most of my focus there has been dragging the outdated and slugish into compliance, and up to date with our in house software offerings for our partners. To date, it has been over 6 years of cleaning house and growing our partner network from a handful of groups barely keeping in step, to over 5 dozen North American markets running our latest platform, representing nearly 300 retail stores nationwide. Often, my spare available time is taken up providing support to our development and administration teams, who handle the day to day escalations and brokens. When our partners need something, I find it, I document it and then drive our teams to deliver it.
