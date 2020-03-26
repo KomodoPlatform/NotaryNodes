@@ -21,6 +21,6 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [tonyl](tonyl/README.md)        |   [crackers](crackers/README.md)             |       |    [cipi](cipi/README.md)    |
 |   [soldat](soldat/README.md)      |   [dragonhound](dragonhond)                  |       |    [mrlynch](mrlynch/README.md) 
 |   [cipi](cipi/README.md)          |       |   [antonind81](antonind81/README.md)       |    [MarmaraChain](MarmaraChain/README.md)    |
-|   [chuckforis](chuckforis/README.md) | [karasugoi](karasugoi/README.md) |
+|   [chuckforis](chuckforis/README.md) | [karasugoi](karasugoi/README.md) |   |   [artem.pikulin](artem.pikulin/README.md)    |
 |   [Fuego](fuego/README.md) |    [greer](greer/README.md) |
 |   [SwissCertifiers](SwissCertifiers/README.md)  |
