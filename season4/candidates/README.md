@@ -23,3 +23,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [cipi](cipi/README.md)          |       |   [antonind81](antonind81/README.md)       |    [MarmaraChain](MarmaraChain/README.md)    |
 |   [chuckforis](chuckforis/README.md) |
 |   [Fuego](fuego/README.md) |
+|   [SwissCertifiers](SwissCertifiers/README.md)  |
