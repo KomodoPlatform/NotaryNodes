@@ -8,7 +8,6 @@
 
 | Region  | Address |
 | ------------- | ------------- |
-| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU200.png)  |
 | Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2020/voteStrobAR200.png)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2020/voteStrobSH200.png)  |
 
@@ -26,7 +25,9 @@
 
 :trophy::trophy::trophy:<a href="https://komodostats.com/nn">THE #1 NN operator in North America</a>:trophy::trophy::trophy:
 
-Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
+Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! I reached these results by investing a lot in hardware and by dedicating many hours everyday and nights 7/7 to my node. With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
+
+I'm a big supporter of Pirate Chain ARRR (with "first mate" and "translators" titles on Pirate Discord). I made the animated Pirate Discord logo, and some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website. I also earned a guru title as a Komodo NN operator. I donated 7% of my NN profits to CHIPS in 2019-2020.
 
 I am a professional CG artist doing `3D animations` and `visual effects` since more than `25 years`. I am also passionated about crypto since 2014 and last year I made a video and some images for one of my favorite project: `Pirate $ARRR`: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
@@ -48,11 +49,13 @@ I have a passion for crypto since 2014 and I got really interested in `Pirate` a
 
 In 2019 I showed my dedication by becoming the #1 top NN op in NA, I will show the same dedication in 2020.
 
+I also want to continue helping projects like ARRR and CHIPS when I can (like I did in 2019-2020 by doing some animated logos for ARRR Twitch, Discord and Pirate OS and donations to CHIPS.)
+
 
 <br>
 
 ## STROB SKILLS
-I am an artist but with a strong technical background having most often worked on 3D/VFX involving fluid simulations (smoke, water, fire), particles and rigging. I know the basics of a few scritping languages in 3ds Max, Maya, Softimage (maxscript, melscript, VEX, VOP) and I manage all kinds of softwares and plugins on my Windows render farm writing bat files to install, update or remove softwares and plugins. I maintain many websites and host my own ftp server since 2003. I also do some mining. I went through the whole Komodo Notary Node installation guide as well as the standard security setup sucessfully. So I can guarantee I have the skills to run the node. I am also eager to learn more about blockchain, IT and network security. I worked in Windows for years but I am now learning Linux fast and love it!
+I am an artist but with a strong technical background having most often worked on 3D/VFX involving fluid simulations (smoke, water, fire), particles and rigging. I know the basics of a few scritping languages in 3ds Max, Maya, Softimage (maxscript, melscript, VEX, VOP) and I manage all kinds of softwares and plugins on my Windows render farm writing bat files to install, update or remove softwares and plugins. I maintain many websites and host my own ftp server since 2003. I also do some mining. I went through the whole Komodo Notary Node installation guide as well as the standard security setup sucessfully. So I can guarantee I have the skills to run the node. I am also eager to learn more about blockchain, IT and network security. I worked in Windows for years but I am now converted to Linux and loving it!
 
 <br>
 
@@ -116,11 +119,9 @@ https://www.strob.net/
 
 | Region  | Address |
 | ------------- | ------------- |
-| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2020/voteStrobEU200.png)  |
 | Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2020/voteStrobAR200.png)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2020/voteStrobSH200.png)  |
 
 :point_up: To vote for me, just send your <a href="https://komodoelection.com/2-election-process/vote-token/">KMD VOTE tokens</a> before March 31, 2020 to the above KMD addresses.:point_up:
-
 
 <br>

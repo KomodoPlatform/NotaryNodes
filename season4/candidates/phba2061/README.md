@@ -57,12 +57,14 @@ To summarize, rewards from my NN will be prioritized for:
 - [my PGP key](https://github.com/NOCTLJRNE/NotaryNodes/blob/master/season4/candidates/phba2061/my-pgp-key.txt).
 
 ## :camera: Screenshots of the Antara-coin-cap app & the Komodo-Pokémon demo :camera:
+- [http://antara-coin-cap.herokuapp.com/coinCap](http://antara-coin-cap.herokuapp.com/coinCap)
 ![antara-coin-cap-1](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-1.JPG)
 
 ---
 ![antara-coin-cap-2](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-2.JPG)
 
 --- 
+- [https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex](https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex)
 ![komodo-pokemon-03-transfer](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/komodo-pokemon-03-transfer.JPG)
 
 ---
