@@ -19,7 +19,8 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [oszy](oszy/README.md)          |   [chainzilla](chainzilla/README.md)         |   [Dapp Vader](dapp_vader/README.md)    |   [zatjum](zatjum/README.md)    |       
 |   [slyris](slyris/README.md)      |   [gtm](gtm/README.md)                       |   [Mcrypt](Mcrypt-nn/README.md)    |    [kbtworks](kbtworks/README.md)   |       
 |   [tonyl](tonyl/README.md)        |   [crackers](crackers/README.md)             |   [and1-89](and1-89/README.md)    |    [cipi](cipi/README.md)    |
-|   [soldat](soldat/README.md)      |   [dragonhound](dragonhond)                  |       |    [mrlynch](mrlynch/README.md) |
-|   [cipi](cipi/README.md)          |       |       |    [MarmaraChain](MarmaraChain/README.md)    |
-|   [chuckforis](chuckforis/README.md) |
-|   [Fuego](fuego/README.md) |
+|   [soldat](soldat/README.md)      |   [dragonhound](dragonhond)                  |       |    [mrlynch](mrlynch/README.md) 
+|   [cipi](cipi/README.md)          |       |   [antonind81](antonind81/README.md)       |    [MarmaraChain](MarmaraChain/README.md)    |
+|   [chuckforis](chuckforis/README.md) | [karasugoi](karasugoi/README.md) |   |   [artem.pikulin](artem.pikulin/README.md)    |
+|   [Fuego](fuego/README.md) |    [greer](greer/README.md) |
+|   [SwissCertifiers](SwissCertifiers/README.md)  |
