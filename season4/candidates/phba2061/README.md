@@ -14,7 +14,7 @@
 
 
 
-#### Thank you for dropping by, if you're not familiar with NN election, please spend several minutes to read this [article](https://komodoplatform.com/fourth-annual-notary-node-election/) first. For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on March 15 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before March 31. Thank you for your support !
+#### Thank you for reading my proposal, if you're not familiar with NN election, please spend several minutes to read this [article](https://komodoplatform.com/fourth-annual-notary-node-election/) first. For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on Apr 13th 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before May 4th. Thank you for your support !
 
 
 
