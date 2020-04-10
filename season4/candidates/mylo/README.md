@@ -25,7 +25,7 @@ During S3, 50% of any hunting bonus mining income was sent to the Agama hack add
 
 Komodo Experience
 =================
-I collaborated with the Komodo team and worked on the rebrand. I wrote approximately 35 "Tech Tuesday" blog posts for Komodo in 2018 & 2019 whilst participating in phases of the new technology - scaling to 800k payments on amazon infrastructure, all-in-one docker images for Antara documentation.
+I collaborated with the Komodo team and worked on the rebrand. I wrote approximately 35 "[Tech Tuesday](https://komodoplatform.com/tech-tuesday-update/)" blog posts for Komodo in 2018 & 2019 whilst participating in phases of the new technology - [scaling to 800k payments on amazon infrastructure](https://medium.com/@imylomylo/komodo-blockchain-scaling-ec5d1b7af9c8), all-in-one docker images for Antara documentation.
 
 Deployment strategies
 =====================
