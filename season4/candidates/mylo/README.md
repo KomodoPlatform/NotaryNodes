@@ -2,6 +2,8 @@ Thank you to the voting community for this honour of candidacy to secure the eco
 
 More info can be found at the [iKomodo P2P](https://ikomodo.com/notary-node-election-2020/) Community News website.
 
+* Discord: Mylo#8306
+
 Vote Mylo in SH
 ===============
 ```
@@ -29,7 +31,7 @@ I collaborated with the Komodo team and worked on the rebrand. I wrote approxima
 
 Deployment strategies
 =====================
-I continued my last unfinished collaboration with Komodo to create orderbook.live and it has a downloadable all-in-one distribution on dockerhub still in development. This model of redistribution can be reimplemented for other jl777 tech, including chips & Pangea poker, nspv compatible apps and more, as a means of lowering the barrier to use Komodo tech for preview & promotion, especially on short notice or for meet ups.
+I continued my last unfinished collaboration with Komodo to create orderbook.live and it has a downloadable [all-in-one distribution on dockerhub](https://hub.docker.com/r/coingateways/atomicdexorderbook/tags) still in development (docs coming soon). This model of redistribution can be reimplemented for other jl777 tech, including [chips & Pangea poker](https://github.com/NOCTLJRNE/CHIPS-tuto/blob/master/README.md), nspv compatible apps and more, as a means of lowering the barrier to use Komodo tech for preview & promotion, especially on short notice or for meet ups.
 
 This attitude led to community collaboration during the scaling tests & may provide for testnet versions of Komodo stablecoin applications.
 
@@ -43,4 +45,4 @@ I have a good understanding of the UTXO & Antara systems to be curious to develo
 
 About me
 ==========
-I am Mylo, freelance veteran. I have 20+ years experience in computing in telecommunications protocol development & service delivery, online learning systems & social outreach using technology to communicate ideas & collaborate globally (before social media or github existed).
+I am [Mylo](https://github.com/KomodoPlatform/NotaryNodes/tree/master/obsolete/komodopioneers#lead-mylo), freelance veteran. I have [20+ years experience](https://au.linkedin.com/in/mylo) in computing in telecommunications protocol development & service delivery, online learning systems & social outreach using technology to communicate ideas & collaborate globally (before social media or github existed).
