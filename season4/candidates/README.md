@@ -24,3 +24,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [chuckforis](chuckforis/README.md) | [karasugoi](karasugoi/README.md) |   |   [artem.pikulin](artem.pikulin/README.md)    |
 |   [Fuego](fuego/README.md) |    [greer](greer/README.md) |
 |   [SwissCertifiers](SwissCertifiers/README.md)  |
+|   [PowerWolf](PowerWolf/README.md)  |
