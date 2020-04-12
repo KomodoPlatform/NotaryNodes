@@ -1,0 +1,130 @@
+================================================
+AR NN (main) peer2cloud_AR
+------------------------------------------------
+[ BTC ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: 1M11wPXuA3SMw2FjwQBsQaxkt19grPzjwQ
+
+[ KMD ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: RVHD1uRBksEw12cwQaAzW7HxeGcHRpnHnm
+
+[ GAME ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: GdqwMWrr8u3f1VZ2sLqyqMJeoAwXkw62jZ
+
+[ HUSH ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: t1dscwix38NDxXfJdspzzYQ4g8fLmaGYfcb
+
+[ EMC2 ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: Ed9vRyNQazjGvKrbkFBPQiwieeepCrJ2EJ
+
+[ GIN ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: GdqwMWrr8u3f1VZ2sLqyqMJeoAwXkw62jZ
+
+[ SUQA ]
+pubkey:  02acc001fe1fe8fd68685ba26c0bc245924cb592e10cec71e9917df98b0e9d7c37
+pubaddr: ShJ1yEK3tQdZTL3CUqAwxV7KXnP7aSwiSh
+
+
+
+================================================
+AR NN (spare) peer2cloud_AR
+------------------------------------------------
+[ BTC ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: 15wgwde59RiQPRgVdRUX1fWpa3cNnbLUTG
+
+[ KMD ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: REDt29XMkFWyTS3h6bTe7Br2LK4yW9onJL
+
+[ GAME ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: GNncMky28HKhTtynZN8dSRriVDQDogcU2k
+
+[ HUSH ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: t1NpHwy4D7kVzz4jPZrHe9UcjphoTeLur5B
+
+[ EMC2 ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: EN6bSDUaaP1KNjHMSGU31oVnLh7WFc2yYg
+
+[ GIN ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: GNncMky28HKhTtynZN8dSRriVDQDogcU2k
+
+[ SUQA ]
+pubkey:  0351c784d966dbb79e1bab4fad7c096c1637c98304854dcdb7d5b5aeceb94919b4
+pubaddr: SSEgyURDsnubujTxArTbZZfPDpqodiPYKd
+
+
+
+================================================
+SH NN (main) peer2cloud_SH
+------------------------------------------------
+[ BTC ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: 1Ga5LE2WgU9gtD9ox1m3zZEBVXvDoNzdnx
+
+[ KMD ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: RQrGQjuoHHxFxDX1RBkB65ZPFoNpWgdTDx
+
+[ GAME ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: GZQzkMMTfKkyxgT6sxRARKa5Qhi4mAyRce
+
+[ HUSH ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: t1ZSgLZSeenwHUrChtSaB8NL6kC7JY4UBTR
+
+[ EMC2 ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: EYiypos27RSbsWkfkrkZzhD9GBRMFUmLYD
+
+[ GIN ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: GZQzkMMTfKkyxgT6sxRARKa5Qhi4mAyRce
+
+[ SUQA ]
+pubkey:   024dfc76fa1f19b892be9d06e985d0c411e60dbbeb36bd100af9892a39555018f6
+pubaddr: Scs5N4ofQqLtQWwGVSk8YTNk9K9eap4uNM
+
+
+
+================================================
+SH NN (spare) peer2cloud_SH
+------------------------------------------------
+[ BTC ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: 1P6jN4coBKNiD8V1TW9YA5NZuxdqqvMSCG
+
+[ KMD ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: RXNvSaW5n9BHH8rCvg8fFbhmgE6SboJrhk
+
+[ GAME ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: GfwenBwkAAz1HbnJPSoeaqiTq8Rgv537G1
+
+[ HUSH ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: t1fyLNQ2w9eAJomXuPvxfHtUVAcpvfPCBrL
+
+[ EMC2 ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: EfFdreTJcGfdCS5sGM94ADMXgc8yKNzwHs
+
+[ GIN ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: GfwenBwkAAz1HbnJPSoeaqiTq8Rgv537G1
+
+[ SUQA ]
+pubkey:  0203064e291045187927cc35ed350e046bba604e324bb0e3b214ea83c74c4713b1
+pubaddr: SjPjPuPwugZujSGTzw8chyX8ZjsGjJUjU5
+================================================
