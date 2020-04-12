@@ -1,26 +1,47 @@
-# Notary Node elections 2020
+### VOTE ADDRESS:  RAyYbRv6kKjk9m4r267pR9bGY9Fk1yuJ5R
 
-See below for an overview of the currently active proposals for the 2020 Notary Node election.
-To participate in the elections:
+### SERVERS
 
-1. Upload your proposal before the 16th of March, 12pm UTC in this repository, using a folder with your operator name, and in it at least a `README.md` file. See the already existing proposals as an example.
-2. Add your name to the table below.
+Main Server
 
-Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.  
+CPU 10-cores
+RAM 256 GB
+Storage 1000 GB SSD
+Bandwith 1 Gbit/s port 
+
+3rd Party Server
+
+CPU 8-cores
+RAM 30 GB 
+Storage  800 GB
+Bandwith 600 Mbit/s port
 
 
-|   EU	|   NA	|   SH	|   AR	|
-|---	|---	|---	|---	|
-|   [chmex](chmex/README.md)	    |   [alien](alien/README.md)	                |   [gcharang](gcharang/README.md)  |   [goldenman](goldenman/README.md)	|   	
-|   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [strob](strob/README.md)	        |   	
-|   [jeezy](jeezy/README.md)	    |   [pbca26](pbca26/README.md)	                |   	 [NutellaLicka](NutellaLicka/README.md)    |   [tonyl](tonyl/README.md)	        |   	
-|   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)            |  [antonind81](antonind81/README.md)   |   [dudezmobi.vrsc](dudezmobi/README.md)       |       
-|   [node-9](node-9/README.md)      |   [NodeOne](NodeOne/README.md)              |   [ethanquix](ethanquix/README.md)    |   [smdmitry](smdmitry/README.md)      |       
-|   [oszy](oszy/README.md)          |   [chainzilla](chainzilla/README.md)         |   [Dapp Vader](dapp_vader/README.md)    |   [zatjum](zatjum/README.md)    |       
-|   [slyris](slyris/README.md)      |   [gtm](gtm/README.md)                       |   [Mcrypt](Mcrypt-nn/README.md)    |    [kbtworks](kbtworks/README.md)   |       
-|   [tonyl](tonyl/README.md)        |   [crackers](crackers/README.md)             |   [and1-89](and1-89/README.md)    |    [cipi](cipi/README.md)    |
-|   [soldat](soldat/README.md)      |   [dragonhound](dragonhond)                  |       |    [mrlynch](mrlynch/README.md) 
-|   [cipi](cipi/README.md)          |   [daemonfox](daemonfox/README.md)    |   [antonind81](antonind81/README.md)       |    [MarmaraChain](MarmaraChain/README.md)    |
-|   [chuckforis](chuckforis/README.md) | [karasugoi](karasugoi/README.md) |   |   [artem.pikulin](artem.pikulin/README.md)    |
-|   [Fuego](fuego/README.md) |    [greer](greer/README.md) |
-|   [SwissCertifiers](SwissCertifiers/README.md)  |  [sapphire](sapphire/README.md) |
+### About Me
+
+My background is in Web Development,  joined the blockchain space over 2 years. Learned a lot and continue to learn. Hardcore Crypto Enthusiast, my main focus is based on mass adoption. Therefore I love brainstorming ideas to help facilitate mass adoption, I believe this constant brainstorming makes me a well of ideas for any project I am part of. Currently working from home during the current pandemic allows me to monitor my nodes during all waking hours, once I return to the office I will monitor remotely during office hours. Over the past two years I have ran nodes and masternodes, so I am familiar with the fundamentals. Running a Komodo Notary Node will be my biggest achievement on the blockchain space thus far. I’ve always wanted to be part of something big and I feel this is my opportunity. 
+
+ My Vision is to see different blockchain projects work together to promote mass adoption so I constantly advise projects when I see a benefit for both parties. My goal is to make a full-time career in blockchain via mining, trading, marketing and promoting. BitcoinCryptoSwap.com is my most recent website, launched early April 2020 it was created with the intention to educate the novice and provide quick swap anonymity for both novice and the more informed crypto user. The website domain name was chosen specifically for SEO purposes, as traffic picks up I plan to provide news about Komodo as well as other useful projects and blockchain tools that help facilitate mass adoption. I am a True Hodlr because I believe in the long term market of cryptocurrency and blockchain success. The market is here to stay, there is no going back to the way things were before. Those of us that catch on early have the exciting opportunity to be part of the foundation before mass adoption. 
+
+What peaked my interest the I first time I heard about Komodo was the fact you can easily kickstart your very own side chain, it was also the first time I heard the term Atomic Swap. Atomic Swaps addressed a problem I’ve always desired exchanges to solve, but  no one could deliver until I discovered Komodo. Also, the last but not least, KMD is also the acronym of one of my favorite childhood hip-hop groups, that just put the icing on the cake for me :). Aside of technology my passions reside in food and music:)   
+
+### Notary Address:
+
+BTC: 1CWrup7dvnQnaA7jy1oZeVEmmZwbwQu61e
+KMD: RLo3zKzvXcDMeAUwSBngk1ZyXqQCcMboUM
+Pub Key: 038d66febedb2a416e2cd208780db032bb06cfabb60691134a4ba0a8c4e752bead
+
+
+### Contact
+
+**Discord:** @Crypton47843069
+
+### VOTE Address:
+
+RAyYbRv6kKjk9m4r267pR9bGY9Fk1yuJ5R
+
+
+
+
+
+
