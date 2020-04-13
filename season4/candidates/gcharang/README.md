@@ -4,6 +4,7 @@
 
 - Region: `SH`
 - Address: `RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB`
+- QR Code: ![gcharang Address QR](./qr-notary-2020-address-gcharang.png)
 
 ## Who am I?
 
@@ -38,14 +39,14 @@ I have many ideas to make introduction and usage of Komodo's technologies easier
 - create videos explaining the new Atomic-Swap protocol, the Pegs mechanism, the design of the DTO, features enabled by dexp2p, etc.
 - make the insight explorers able to display data related to Antara modules  
 
-After the server costs are subtracted, from the remaining funds I will use at least 
+After the server costs are subtracted, from the remaining funds I will use at least
 
 - `10%` to commission graphics and explainer videos for Komodo
 - `20%` to pay bounties/donations to Devs/Projects that contribute to the Komodo Ecosystem
 
 These funds will be used to make the aforementioned ideas and others like them a reality. I plan to allot more funds for the above mentioned allocations based on the fiat price of Komodo at the time.
 
-## Server Specifications 
+## Server Specifications
 
 - CPU:  Intel  Xeon E3-1245v5 - 4c/8t - 3.5GHz /3.9GHz
 - RAM:  64GB DDR4
