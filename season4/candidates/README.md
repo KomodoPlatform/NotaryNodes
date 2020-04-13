@@ -11,7 +11,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
-|   [chmex](chmex/README.md)	    |   [alien](alien/README.md)	                |   [gcharang](gcharang/README.md)  |   [goldenman](goldenman/README.md)	|   	
+|      |   [alien](alien/README.md)	                |   [gcharang](gcharang/README.md)  |   [goldenman](goldenman/README.md)	|   	
 |   [decker](decker/README.md)	    |   [computergenie](computergenie/README.md)	|   [strob](strob/README.md)	    |   [strob](strob/README.md)	        |   	
 |   [jeezy](jeezy/README.md)	    |   [pbca26](pbca26/README.md)	                |   	 [NutellaLicka](NutellaLicka/README.md)    |   [tonyl](tonyl/README.md)	        |   	
 |   [naezith](naezith/README.md)    |   [phba2061](phba2061/README.md)            |  [antonind81](antonind81/README.md)   |   [dudezmobi.vrsc](dudezmobi/README.md)       |       
