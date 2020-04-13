@@ -25,3 +25,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [Fuego](fuego/README.md) |    [greer](greer/README.md) |   | [chmex](chmex/README.md)
 |   [SwissCertifiers](SwissCertifiers/README.md)  |
 |   [CMaurice](CMaurice/README.md)  |
+|   [K-drop](kdrop/README.md)  |
