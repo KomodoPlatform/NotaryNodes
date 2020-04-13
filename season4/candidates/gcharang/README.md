@@ -24,7 +24,7 @@
 - a bridge between the newly launched Community Portal and our Discord server https://pipedream.com/@gcharang?tab=workflows
 - a website to display notary testnet's stats:  https://gcharang.github.io/notary-testnet-stats-2020/ (Source repo: https://github.com/gcharang/notary-testnet-stats-2020)
 - the script used to collect and save the notary testnet stats: https://github.com/gcharang/notary-stats
-- A cross-platform GUI prototype for all use cases that need the Komodo daemon running in the background: https://github.com/gcharang/komodo-electron-gui-prototype (In early stages of dev)
+- a cross-platform GUI prototype for all use cases that need the Komodo daemon running in the background: https://github.com/gcharang/komodo-electron-gui-prototype (In early stages of dev)
 
 I am also a KMDLabs Notary Node operator and participated in Documenting most of the Komodo tech like Smart Chain creation(various launch parameters), Antara modules, nSPV, dexp2p etc., 
 
@@ -39,7 +39,7 @@ Currently most of the technologies developed by Komodo are coming together to pr
 I have many ideas to make introduction and usage of Komodo's technologies easier. Some Examples:
 
 - fork the repo https://github.com/janoside/btc-rpc-explorer to create a GUI Fullnode explorer for Komodo to make it easier for people afraid of the Terminal to use new Antara modules before a full featured GUI can be developed (Live example: https://btc-explorer.com/rpc-terminal)
-- create videos explaining the new Atomic-Swap protocol, the Pegs mechanism, the design of the DTO, features enabled by dexp2p, etc.
+- create videos explaining the new Atomic-Swap protocol, the Pegs mechanism, design of the DTO, new exciting features enabled by dexp2p, etc.
 - make the insight explorers able to display data related to Antara modules  
 
 After the server costs are subtracted, from the remaining funds I will use at least
