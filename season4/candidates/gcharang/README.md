@@ -8,9 +8,9 @@
 
 ## Who am I?
 
-  I graduated with a B.Tech in Engineering Physics and love solving problems. When I find an interesting problem, I scour all the available information for possible solutions. I first learned about Cryptocurrencies (Bitcoin specifically) in 2014, but didn't think much of it other than "Interesting tech!". Later, in 2018 I came across an article about the Mt. Gox hack and how Centralised Exchanges are security holes. Then I started reading about alternatives and came across Atomic Swaps and DEX's which obviously led me to Komodo. After discussing the Atomic Swap tech with the team and community for several days, I was convinced this was the real deal and left it at that. A few days later, I came across a discussion about the `51%` attack problem and there was Komodo once again, having solved it through `dPoW`. I was very fascinated and came back to the Komodo live chat server (Slack at that time) and started asking more questions and links to documentation. 
+  I graduated with a B.Tech in Engineering Physics and love solving problems. When I find an interesting problem, I scour all the available information for possible solutions and rest till I either solve it or know that people with more time and smarts than me have tried and failed :D . I first learned about Cryptocurrencies (Bitcoin specifically) in 2014, but didn't think much of it other than "Interesting tech!". Later, in 2018 I came across an article about the Mt. Gox hack and how Centralised Exchanges are security holes. Then I started reading about alternatives and came across Atomic Swaps and DEX's which obviously led me to Komodo. After discussing the Atomic Swap tech with the team and community for several days, I was convinced this was the real deal and left it at that. A few days later, I came across a discussion about the `51%` attack problem and there was Komodo once again, having solved it through `dPoW`. I was very fascinated and came back to the Komodo live chat server (Slack at that time) and started asking more questions and links to documentation. 
 
-  While I was reading the documentation, I found that while the tech was cutting edge and most of it documented properly, it was scattered across Github wikis of multiple repositories and various websites. When I complained about this difficulty in access, I was offered the task of improving it :smiley: , which I gladly accepted and completed. I was offered the job to maintain and add to the documentation a few days after that (around May 2018). 
+  While I was reading the documentation, I found that while the tech was cutting edge and most of it documented properly, it was scattered across Github wikis of multiple repositories and various websites. When I complained about this difficulty in access, I was offered the task of improving it :smiley: , which I gladly accepted and completed. I was offered the job to maintain and add to the documentation a few days later (around May 2018). 
 
   Since then, I was a part of the Komodo Team and helped in various ways including testing, documenting new tech, end user support, etc. While Documentation and Support remain my major tasks today, I also created various tools that make testing and introduction to Komodo easier. 
 
@@ -22,6 +22,9 @@
 - created two npm packages for accessing `komodod`'s RPC using browser and nodejs. https://github.com/gcharang/komodo-rpc-js , https://github.com/gcharang/node-komodo-rpc
 - a bot that auto bans impersonators of people with roles in our Discord server; it also has some commands to ban mass joining bots
 - a bridge between the newly launched Community Portal and our Discord server https://pipedream.com/@gcharang?tab=workflows
+- a website to display notary testnet's stats:  https://gcharang.github.io/notary-testnet-stats-2020/ (Source repo: https://github.com/gcharang/notary-testnet-stats-2020)
+- the script used to collect and save the notary testnet stats: https://github.com/gcharang/notary-stats
+- A cross-platform GUI prototype for all use cases that need the Komodo daemon running in the background: https://github.com/gcharang/komodo-electron-gui-prototype (In early stages of dev)
 
 I am also a KMDLabs Notary Node operator and participated in Documenting most of the Komodo tech like Smart Chain creation(various launch parameters), Antara modules, nSPV, dexp2p etc., 
 
