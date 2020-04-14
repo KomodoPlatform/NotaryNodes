@@ -28,7 +28,9 @@ What peaked my interest the I first time I heard about Komodo was the fact you c
 ### Notary Address:
 
 BTC: 1CWrup7dvnQnaA7jy1oZeVEmmZwbwQu61e
+
 KMD: RLo3zKzvXcDMeAUwSBngk1ZyXqQCcMboUM
+
 Pub Key: 038d66febedb2a416e2cd208780db032bb06cfabb60691134a4ba0a8c4e752bead
 
 
