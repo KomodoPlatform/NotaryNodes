@@ -35,6 +35,7 @@ Pub Key: 038d66febedb2a416e2cd208780db032bb06cfabb60691134a4ba0a8c4e752bead
 ### Contact
 
 **Twitter:** @Crypton47843069
+
 **Discord:** @Cryptonian#5022
 
 ### VOTE Address:
