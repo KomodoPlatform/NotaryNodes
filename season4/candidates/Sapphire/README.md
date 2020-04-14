@@ -2,18 +2,18 @@
 
 ### SERVERS
 
-Main Server
+**Main Server**
 
-CPU 10-cores
-RAM 256 GB
-Storage 1000 GB SSD
+CPU 10-cores/
+RAM 256 GB/
+Storage 1000 GB SSD/
 Bandwith 1 Gbit/s port 
 
-3rd Party Server
+**3rd Party Server**
 
-CPU 8-cores
-RAM 30 GB 
-Storage  800 GB
+CPU 8-cores/
+RAM 30 GB/ 
+Storage  800 GB/
 Bandwith 600 Mbit/s port
 
 
