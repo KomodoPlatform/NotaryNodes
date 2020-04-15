@@ -24,4 +24,5 @@ In process of obtaining 2 machines:
 
 ## Contact
  * **KomodoPlatform Discord - Mihailo#5902**
+ * **Keybase: [https://keybase.io/mihailom](https://keybase.io/mihailom)**
  * Email: mihailo.milenkovic84@gmail.com
