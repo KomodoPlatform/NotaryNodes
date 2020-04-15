@@ -103,7 +103,9 @@ I have my own hardware for my NA server so I don't even need to access it remote
 ## STROB CONTACT
 ![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
 
-![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net
+![Komodo Community Portal](https://strob.net/kmdNN2020/KCP.png)`@Strob`
+
+![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
 
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)
