@@ -27,6 +27,8 @@
 
 Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! I reached these results by investing a lot in hardware and by dedicating many hours everyday and nights 7/7 to my node. With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
 
+![Pirate Discord logo by Strob](https://www.strob.net/kmdNN2020/PIRATE_discordLogo_v002_1.gif "Pirate gif by Strob")
+
 I'm a big supporter of Pirate Chain ARRR (with "first mate" and "translators" titles on Pirate Discord). I made the animated Pirate Discord logo, and some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website. I also earned a guru title as a Komodo NN operator. I donated 7% of my NN profits to CHIPS in 2019-2020.
 
 I am a professional CG artist doing `3D animations` and `visual effects` since more than `25 years`. I am also passionated about crypto since 2014 and last year I made a video and some images for one of my favorite project: `Pirate $ARRR`: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
@@ -101,7 +103,9 @@ I have my own hardware for my NA server so I don't even need to access it remote
 ## STROB CONTACT
 ![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
 
-![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net
+![Komodo Community Portal](https://strob.net/kmdNN2020/KCP.png)`@Strob`
+
+![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
 
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)

@@ -8,21 +8,7 @@
 RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
 ```
 
-### [EU - Europe] ###
-
-- VOTE address
-
-```
-PENDING RE-ELECTION - RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
-```
-
-### [NA - North America] ###
-
-- VOTE address
-
-```
-PENDING RE-ELECTION - RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
-```
+![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/season4/candidates/mrlynch/qr-ar.png)
 
 
 ## Commitment ##
@@ -50,25 +36,6 @@ CHIPS dev fund - 5% *
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Singapore |
 
-- [EU]
-
-	| Spec     | Detail		|
-	|----------|--------------------|
-	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz	|
-	| RAM      |128GB DDR4 ECC 2400 MHz				|
-	| Storage  |SoftRaid 2x1.92 TB NVMe				|
-    | Network  |1 Gbps up/down  |
-	| Location |Datacenter - London, UK |
-
-- [NA]
-
-	| Spec     | Detail             |
-	|----------|--------------------|
-	| CPU      |AMD Epyc 7351P - 16c/ 32t - 2.4GHz / 2.9GHz |
-	| RAM      |128GB DDR4 ECC 2400 MHz			|
-	| Storage  |SoftRaid 2x1.92 TB NVMe	|
-    | Network  |1 Gbps up/down  |
-	| Location |Datacenter - Beauharnois, Canada		|
 
 
 ## Pirate Notary Crew ##
@@ -84,7 +51,7 @@ CHIPS dev fund - 5% *
 - Created the ARRR Sapling Bot which provides useful info to the Pirate Community (ported to main ARRRtipbot)
 - Took part in early testing for Sapling migration
 - Assisted the Community through the migration from Sprout to Sapling
-- Pirate Team Notary Node Operator
+- Pirate Team Notary Node Operator - EU & NA nodes re-elected
 - Part of Notary Node testing - all NN updates undergo rigorous testing before rolling out to NN network
 
 ##### Contact Details #####
