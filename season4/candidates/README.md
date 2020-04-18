@@ -27,3 +27,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   [CMaurice](CMaurice/README.md)  |    
 |   [mihailo](mihailo/README.md)    |
 |   [K-drop](kdrop/README.md)  |
+|   [PowerWolf](PowerWolf/README.md)  |
