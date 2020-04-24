@@ -28,14 +28,10 @@ stablecoins because we are ourselves involved in this field. From a code point
 of view, our contributions will be at the application and SDK level. There
 might also be some innovative synergies at the applied research level.
 
-Following is an example of a reference to Komodo DEX in our latest co-authored
-chapter called "A Survey of KYC/AML for Cryptocurrencies Transactions" as part
-the "Handbook of Research on Cyber Crime and Information Privacy” (to be
-published soon)
-
-Other examples are Binance DEX or Komodo DEX (Komodo—An Open, Composable Smart
-Chain Platform, n.d.), which is even working as a smartphone application
-(Decentralized Exchanges, 2019)
+For example, we have mentioned Komodo DEX in our latest co-authored chapter
+called "A Survey of KYC/AML for Cryptocurrencies Transactions" as part the
+"Handbook of Research on Cyber Crime and Information Privacy" (to be published
+soon)
 
 Server Specifications
 ---------------------
