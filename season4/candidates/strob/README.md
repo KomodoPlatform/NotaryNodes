@@ -66,6 +66,8 @@ In 2019 I became the top NA NN operator. I promise tu run all my nodes with the 
 
 I would also like to continue promoting the `Komodo ecosystem` by doing other videos or 3D illustrations to promote the Komodo ecosystem like the ones I did for Pirate $ARRR at a small fraction of the cost.
 
+Like for season 4, my strob_NA re-elected node will continue to pledge 7% of its profits to CHIPS for season 5.
+
 <br>
 
 ## STROB HARDWARE
