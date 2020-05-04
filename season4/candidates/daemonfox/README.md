@@ -65,6 +65,13 @@ All mining and Notary proceeds will go towards this goal, to relaunch daemoncoin
 	- Volunteered for testing many times, including for the algo changes, merged mining and VerusIdentity
 
 ## Notary Addresses
+
+MAIN
    - KMD: RWQrQd6MiuW5Eqqv9E8JE6arLQVZ4q8pSS                 -
    - BTC: 1N8fL7D585hWAqUig49B8aFea92xQozint                 -
    - PubKey: 022d6f4885f53cbd668ad7d03d4f8e830c233f74e3a918da1ed247edfc71820b3d
+
+3P
+   - KMD: RQjWkcfAoNd9pDv1oohtwSLF4gyHUzoamE-
+   - BTC: 1GTKg6mtCYpakDYpLdimqv13JRWgpNmD1V-
+   - PubKey: 023c7584b1006d4a62a4b4c9c1ede390a3789316547897d5ed49ff9385a3acb411
