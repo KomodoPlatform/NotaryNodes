@@ -7,7 +7,6 @@
 
 ```json
 Region AR: RHhQQ2kpoE5kPGEmyhNc8AcZyvBDAMC4Y4
-Region EU: RBUB9etJT8UYD9ogsWF6eRK5rEUbcrpb1a
 ```
 
 ## About me:

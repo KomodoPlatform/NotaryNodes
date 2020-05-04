@@ -222,6 +222,38 @@ In the following table, 1st column, the addresses voters sent their VOTE2019 tok
 >[2020-02-18] Voters
 ([txid](http://komodod.com/t/4a20b6b6cc354c19a5f878922f1222d70b2d7720fb72f408079b715d69b1a258))
 
+### [#14] Payment (see first payment for allocation details)
+
+>[2020-03-06] @mrlynch#5735
+([txid](https://komodod.com/t/ecb294274c78e639ad1c08cb1018137b57c744f11a5bea7c755e7d22819ad169))
+
+>[2020-03-06] Voters
+([txid](http://komodod.com/t/0eef62b42bd7aa20247ba221988ba470a90721e94c45a9bbaeae96487045eb8b))
+
+### [#15] Payment (see first payment for allocation details)
+
+>[2020-03-26] @mrlynch#5735
+([txid](https://komodod.com/t/c7ab306f29f0489104579655f96c0e41e291cd33e29d80670ab4b1f56288de8d))
+
+>[2020-03-26] Voters
+([txid](http://komodod.com/t/4a02abf4dc4506792c26673e47325cf94433f21ff8955cf5e801317f37fe4c0d))
+
+### [#16] Payment (see first payment for allocation details)
+
+>[2020-04-14] @mrlynch#5735
+([txid](https://komodod.com/t/15fe35310256cad72a08d2da3f47240d5b0f19deef8409251509982126e18cf6))
+
+>[2020-04-14] Voters
+([txid](http://komodod.com/t/c1bee07047b2a888e83e4ff591426e4c646b5156e1816a24b1e15eb741d1ec31))
+
+### [#17] Payment (see first payment for allocation details)
+
+>[2020-04-21] @mrlynch#5735
+([txid](https://komodod.com/t/99b045bb1835349ccd818b459ac109cfb55cc7a549a2a513b715ec8e43365ec2))
+
+>[2020-04-21] Voters
+([txid](http://komodod.com/t/29b980fd306053e5a8fc61fade2fa28e0199b47709052d5a40d9b49805116b29))
+
 ## Contact details ##
 
 Feel free to contact me on:

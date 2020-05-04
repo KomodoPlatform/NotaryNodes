@@ -14,7 +14,7 @@
 
 
 
-#### Thank you for dropping by, if you're not familiar with NN election, please spend several minutes to read this [article](https://komodoplatform.com/fourth-annual-notary-node-election/) first. For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on March 15 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before March 31. Thank you for your support !
+#### Thank you for reading my proposal, if you're not familiar with NN election, please spend several minutes to read this [article](https://komodoplatform.com/fourth-annual-notary-node-election/) first. For season 4 (2020) I'll be running for a NN spot in NA region. VOTE2020 Tokens will be airdropped on Apr 13th 2020, if you decide to vote for me, please send your VOTE tokens to the voting address above (you can also obtain the address by scanning the QR image below) before May 4th. Thank you for your support !
 
 
 
@@ -57,12 +57,14 @@ To summarize, rewards from my NN will be prioritized for:
 - [my PGP key](https://github.com/NOCTLJRNE/NotaryNodes/blob/master/season4/candidates/phba2061/my-pgp-key.txt).
 
 ## :camera: Screenshots of the Antara-coin-cap app & the Komodo-Pokémon demo :camera:
+- [http://antara-coin-cap.herokuapp.com/coinCap](http://antara-coin-cap.herokuapp.com/coinCap)
 ![antara-coin-cap-1](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-1.JPG)
 
 ---
 ![antara-coin-cap-2](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/antara-coin-cap-2.JPG)
 
 --- 
+- [https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex](https://github.com/NOCTLJRNE/Komodo-Pokemon/tree/dex)
 ![komodo-pokemon-03-transfer](https://raw.githubusercontent.com/NOCTLJRNE/NotaryNodes/master/season4/candidates/phba2061/img/komodo-pokemon-03-transfer.JPG)
 
 ---
