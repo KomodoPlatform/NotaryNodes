@@ -1,10 +1,10 @@
 Thank you for allowing me into the SH region
 
-1st key for the mainserver
+**1st key** for the mainserver
 <br>
 pubkey: **025faab3cc2e83bf7dad6a9463cbff86c08800e937942126f258cf219bc2320043**
 <br><br>
-2nd key for the second or HUSH GAME GIN etc<br>
+**2nd key** for the second or HUSH GAME GIN etc<br>
 pubkey: **027a4ca7b11d3456ff558c08bb04483a89c7f383448461fd0b6b3b07424aabe9a4**
 
 
