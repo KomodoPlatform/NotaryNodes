@@ -7,7 +7,9 @@ This past year, I've learned a lot about what it takes to be a reliable Notary N
 ## NA region 
 Location USA  
 * Name:  
-### greer_NA  
+```
+greer_NA
+```  
 * Vote Address:  
 ```
 RUfLAuqJxjdnyiq4UajGhWmtzt3PMWAiUG
@@ -33,6 +35,9 @@ RUfLAuqJxjdnyiq4UajGhWmtzt3PMWAiUG
 
 ## Obligatory Dog Picture
 ![Bodie.jpg](./Bodie.jpg)
+
+## Badass Motorcycle
+![R3TFC.jpg](./R3TFC.jpg)
 
 ## Contact
 * Discord: Greer#0666
