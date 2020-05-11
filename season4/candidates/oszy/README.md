@@ -22,10 +22,18 @@ In addition to the moderator role, I volunteer in Komodo and Blockchain related 
 I am one of the Notary Node operators in [KMDLabs](http://kmdlabs.io/), Komodo's incubation and testing environment for developing Komodo-based Smart Chains and custom Antara modules. 
 
 **Pubkeys**
+
 KMD Main: 
 Address: RJbdDwRtpmoryVy6FBKJ6BpvEFwJT3qypM
-Pubkey:03d60e0597d7ec26a88a6b7c076e3ec67c5814311c10bf429223ad3e43edbb0505
+
+Pubkey: 03d60e0597d7ec26a88a6b7c076e3ec67c5814311c10bf429223ad3e43edbb0505
+
+
 Third-Party: 
+
 Address: RSLpHbyag1AJKahv4A7QkN86yKxFAz3Q6B
-Pubkey:03f246ae95924892ac710bd453b67613627bb18843849795f53c2c807593f640a1
+
+Pubkey: 03f246ae95924892ac710bd453b67613627bb18843849795f53c2c807593f640a1
+
+
 Discord contact name/tag: Oszy#5734
