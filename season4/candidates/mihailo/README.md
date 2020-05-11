@@ -15,12 +15,22 @@ My plan is to use most of the funds the comes from Notary Node to back the main 
 * **Address:** `RFxQPGQ5v2nnDM4rHvc3qaRmRyfPQroxhR`
 
 ## Hardware Information
+**2x HP DL380p Gen8 servers:**
 
-In process of obtaining 2 machines:
+- CPU: 2 x Intel Xeon E5-2690 2.9GHz/3.8GHz - 16c/32t
+- 128 GB DDR3 ECC
+- 1TB SSD Samsung 860 Evo
 
-- CPU: 2 x Intel Xeon E5-2660 2.2GHz/3.0GHz - 16c/32t
-- 64GB DDR3 ECC
-- 1TB SSD
+## NN Keys and addresses
+**Main**
+ * Pubkey: 037f9563f30c609b19fd435a19b8bde7d6db703012ba1aba72e9f42a87366d1941
+ * BTC addr: 13sJQ9wBWh8ssihHUgAaCmNWJbBAG5Hr9N
+ * KMD addr: RC9VUfpU7WwSwj4Uwr9hJHhi4rdkspDPn6
+
+**3P**
+ * Pubkey: 036494e7c9467c8c7ff3bf29e841907fb0fa24241866569944ea422479ec0e6252
+ * BTC addr: 14RTHEVDCqNpjxx938jDmh7chmVqxZwx89
+ * KMD addr: RCheMkNVofBPoyKLWJiLsDSpU2xSYdYjw4
 
 ## Contact
  * **KomodoPlatform Discord - Mihailo#5902**
