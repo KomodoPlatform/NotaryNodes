@@ -3,10 +3,7 @@
 </p>
 
 # Oszy 
-***Notary Node Election 2020 Proposal***
 
-## Region: EU (UK)
-```Vote Address EU: RVoteNNv5rDWH8iMVkjhnJVZJUr7UNtMd3```
 
 ### Who Am I?
 Many of you may already know me from Slack/Discord, 
@@ -24,43 +21,11 @@ As of today, I am a Community Moderator of **Komodo**, and a First Mate in **[Pi
 In addition to the moderator role, I volunteer in Komodo and Blockchain related technical support, and community testing.
 I am one of the Notary Node operators in [KMDLabs](http://kmdlabs.io/), Komodo's incubation and testing environment for developing Komodo-based Smart Chains and custom Antara modules. 
 
-### Why am I running for the election?
-
-I do feel that I have the technical knowledge and experience to run a Notary Node, as well as I am committed to supporting the ecosystem as much as I possibly can. 
-I would like to further increase my experience and be part of the core of this community.
-
-### Hardware
-
-I am going to have 2 dedicated servers ***on time*** (Main and 3rd party) with the following or better specifications:
-
-**CPU**
-
-Intel Xeon  4c/8t - 3.5GHz/3.9GHz
-
-**RAM**
-
-64GB DDR4 
-
-**Disk**
-
-2× 1920GB SSD NVMe Raid
-
-### Pledges
-
-As I said, my main goal is to support the ecosystem therefore I am pledging the following amounts from my monthly Notary Node earnings to the following projects if I get elected. 
-
-**To PirateChain: 10%**
-
-**To KMDLabs: 10%**
-
-**To the Komodo Team for Community Bounties / Marketing  / Development:  5/5/5 = 15%**
-
-
-***I do not  offer  reward distribution to voters, as I am strongly against “buying votes” sorry. 
-The above pledges may increase/decrease depending on KMD Fiat price at the time to make sure I can cover the server costs.***
-
-
-**Disclaimer**
-
-I am not part of the official Komodo Team and I do not currently have a Komodo Notary Node.
-Thank you for reading my proposal, and hope you will give me a chance to prove myself, and give your VOTE on me!
+**Pubkeys**
+KMD Main: 
+Address: RJbdDwRtpmoryVy6FBKJ6BpvEFwJT3qypM
+Pubkey:03d60e0597d7ec26a88a6b7c076e3ec67c5814311c10bf429223ad3e43edbb0505
+Third-Party: 
+Address: RSLpHbyag1AJKahv4A7QkN86yKxFAz3Q6B
+Pubkey:03f246ae95924892ac710bd453b67613627bb18843849795f53c2c807593f640a1
+Discord contact name/tag: Oszy#5734
