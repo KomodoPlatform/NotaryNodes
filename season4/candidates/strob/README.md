@@ -1,3 +1,20 @@
+# STROB pubkeys 2020 season 4
+
+Main NA
+02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405
+
+3rdparty NA
+02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3
+
+
+Main SH
+025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a
+
+3rdparty SH
+0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6
+
+
+
 # STROB Notary Node Proposal 2020
 
 #1 best score Notary Node Operator in North America for 2019.
