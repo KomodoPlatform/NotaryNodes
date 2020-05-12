@@ -19,20 +19,20 @@ reliable and efficient Notary Node.
 
 - AMD Ryzen 9 3900X
 - 128GB Samsung DDR4 ECC
-- 2 TB M.2 NvME Samsing
+- 2 TB M.2 NVMe Samsung
 - 1 Gbit connection
 - APC UPS Backup power
 
 ## Notary Addresses
 
 Main
-   - KMD: RKrkipUqx8LR18JcBVQUZWzuZsZh5eXqVC                 -
-   - BTC: 1BaZeJbZMJXqw7wQiKRMTzfhoc76MWBAkn                 -
+   - KMD: RKrkipUqx8LR18JcBVQUZWzuZsZh5eXqVC
+   - BTC: 1BaZeJbZMJXqw7wQiKRMTzfhoc76MWBAkn
    - PubKey: 022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac
 
 3P
-   - KMD: RAUxUitZ9GCd1F7EcG7QiKVeXxYMdwAtaS-
-   - BTC: 12CmQD1GYSQ3wEk3968HcoASmh5m17MPCq-
+   - KMD: RAUxUitZ9GCd1F7EcG7QiKVeXxYMdwAtaS
+   - BTC: 12CmQD1GYSQ3wEk3968HcoASmh5m17MPCq
    - PubKey: 0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a
    
 ## Contact:
