@@ -6,9 +6,21 @@ This past year, I've learned a lot about what it takes to be a reliable Notary N
 
 ## NA region 
 Location USA  
+* Name:  
+```
+greer_NA
+```  
 * Vote Address:  
 ```
 RUfLAuqJxjdnyiq4UajGhWmtzt3PMWAiUG
+```  
+* pubkey:  
+```
+03e0995615d7d3cf1107effa6bdb1133e0876cf1768e923aa533a4e2ee675ec383
+```  
+* 3p pubkey:  
+```
+0262da6aaa0b295b8e2f120035924758a4a630f899316dc63ee15ef03e9b7b2b23
 ```  
 ### Main NN Server Specs:  
 * CPU: Xeon, 8 Cores  
@@ -23,6 +35,9 @@ RUfLAuqJxjdnyiq4UajGhWmtzt3PMWAiUG
 
 ## Obligatory Dog Picture
 ![Bodie.jpg](./Bodie.jpg)
+
+## Badass Motorcycle
+![R3TFC.jpg](./R3TFC.jpg)
 
 ## Contact
 * Discord: Greer#0666
