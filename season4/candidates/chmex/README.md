@@ -1,3 +1,23 @@
+Pubkeys for Season 4
+
+EU<br>
+chmex_EU   MAIN<br>
+025b7209ba37df8d9695a23ea706ea2594863ab09055ca6bf485855937f3321d1d
+<br><br>
+chmex_EU   3P<br>
+030bf7bd7ad0515c33b5d5d9a91e0729baf801b9002f80495ae535ea1cebb352cb
+<br><br>
+AR<br>
+chmex_AR  MAIN<br>
+036c856ea778ea105b93c0be187004d4e51161eda32888aa307b8f72d490884005
+<br><br>
+chmex_AR 3P<br>
+030cd487e10fbf142e0e8d582e702ecb775f378569c3cb5acd0ff97b6b12803588
+
+
+<br><br>
+
+
 # CHMEX Notary Node Proposal 2020
 
 ## Voting Address ##
