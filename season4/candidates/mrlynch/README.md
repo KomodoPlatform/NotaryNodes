@@ -35,6 +35,8 @@ CHIPS dev fund - 5% *
 	| Storage  |HardRaid 3x960 GB NVMe				|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Singapore |
+	| MAIN Pubkey |031987dc82b087cd53e23df5480e265a5928e9243e0e11849fa12359739d8b18a4 |
+	| 3P Pubkey |03e67440141f53a08684c329ebc852b018e41f905da88e52aa4a6dc5aa4b12447a |
 
 
 
