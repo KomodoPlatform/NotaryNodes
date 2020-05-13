@@ -1,12 +1,15 @@
 ## Server specifications
 
 #### Region: EU
+
+##### main
 - AMD EPYC 7502P
 - 128 GB RAM
 - 2 x 960GB NVMe SSD
 - Location: Germany
 - pubkey1: 02f2b6defff1c544202f66e47cfd6909c54d67c7c39b9c2a99f137dbaf6d0bd8fa
 
+##### 3rd-party
 - AMD Ryzen 5 3600
 - 64 GB RAM
 - 2 x 512GB NVMe SSD
@@ -14,12 +17,15 @@
 - pubkey2: 026f4f66385daaf8313ef30ffe4988e7db497132682dca185a70763d93e1417d9d
 
 #### Region: NA
+
+##### main
 - 2x E5 2680 v3
 - 128 GB RAM
 - 2 x 960GB SSD
 - Location: New York, USA
 - pubkey1: 029fc69a286466857f5e5f13044b36962252a3c7e78778a4b2616af48e9855359e
 
+##### 3rd-party
 - AMD Opteron 3280
 - 32 GB RAM
 - 2 x 250 GB SSD
