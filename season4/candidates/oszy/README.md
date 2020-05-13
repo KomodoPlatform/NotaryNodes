@@ -24,16 +24,16 @@ I am one of the Notary Node operators in [KMDLabs](http://kmdlabs.io/), Komodo's
 **Pubkeys**
 
 KMD Main: 
-Address: RJbdDwRtpmoryVy6FBKJ6BpvEFwJT3qypM
+Address: RGYmFPnBipM5cDeXe8WoBNyopVdJVLZzMP
 
-Pubkey: 03d60e0597d7ec26a88a6b7c076e3ec67c5814311c10bf429223ad3e43edbb0505
+Pubkey: 03d1ffd680491b98a3ec5541715681d1a45293c8efb1722c32392a1d792622596a
 
 
 Third-Party: 
 
-Address: RSLpHbyag1AJKahv4A7QkN86yKxFAz3Q6B
+Address: RKuFvAoLsuvWqmS8F6PSBBZGYLj6WHKLc8
 
-Pubkey: 03f246ae95924892ac710bd453b67613627bb18843849795f53c2c807593f640a1
+Pubkey: 03c53bd421de4a29ce68c8cc83f802e1181e77c08f8f16684490d61452ea8d023a
 
 
 Discord contact name/tag: Oszy#5734
