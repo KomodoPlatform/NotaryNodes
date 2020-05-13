@@ -6,11 +6,12 @@
 |					|				|
 | -----------------	| ------------- |
 |Discord username 	| @PHBA2061#2530 |
-|Region 			| NA (CANADA)|
+|Region 			| EU |
+|Season 			| 4 |
 |Main server    	| Intel Xeon-E 2136 - 64GB DDR4 ECC 2666MHz - 2x SSD NVMe 1TB |
+|Main pubKey    	| 03a9492d2a1601d0d98cfe94d8adf9689d1bb0e600088127a4f6ca937761fb1c66 |
 |3rd party server 	| Intel Xeon E3-1230v6 - RAM 32GB LEG - 2x SSD NVMe 450GB |
-|Voting address 	| RPhbA2o61JM4ufrwJiAJ7SMmbR7cvbns4e |
-
+|3rd party pubKey 	| 03369187ce134bd7793ee34af7756fe1ab27202e09306491cdd5d8ad2c71697937 |
 
 
 
