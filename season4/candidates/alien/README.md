@@ -49,6 +49,6 @@ Pubkey: 022f62b56ddfd07c9860921c701285ac39bb3ac8f6f083d1b59c8f4943be3de162
 ```
 
 # Contact details
-Discord handle: @SHossain#0007
-Keybase: https://keybase.io/shossain
-PGP Key: [9C1ABCC1202F2F7A](https://keybase.io/shossain/pgp_keys.asc)  
+Discord handle: @SHossain#0007  
+Keybase: https://keybase.io/shossain  
+PGP Key: [9C1ABCC1202F2F7A](https://keybase.io/shossain/pgp_keys.asc)    
