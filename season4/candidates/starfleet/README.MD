@@ -4,6 +4,10 @@ I truly believe in the success of digital assets over fiat currencies. Bankless 
 
 My team has an engineering background and the proper motivation to do the job and we will strive for managing 1-2 notary nodes around the globe. All the more we are proud to perform the notarizations part if I getting elected.
 
+## Pubkeys for NN season4 2020/2021 EU server
+
+**Mainnet:**      022deb41d492ce56d7db85c8ee0b96fa06d28bc5614d6432de047f1188736ac7cd  
+**3rd Party:**    03b79b2ed65e165654acdfed36e6258f897459838f6681921a10de062bc1feceb2
 
 ### EU vote address:
 Send VOTE2020 token to: **RG7NBA3CKz3fqu5Dji3vKeR3HdQ4gY681B**
