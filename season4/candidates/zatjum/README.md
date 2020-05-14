@@ -1,3 +1,9 @@
+Season 4 pubkeys (SH node):
+
+```036066fd638b10e555597623e97e032b28b4d1fa5a13c2b0c80c420dbddad236c2``` (main server)
+```0241c5660ca540780be66603b1791127a1261d56abbcb7562c297eec8e4fc078fb``` (third party server)
+
+
 ![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/banner.png)
 
 ### TL;DR ###
