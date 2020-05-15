@@ -6,8 +6,8 @@ My team has an engineering background and the proper motivation to do the job an
 
 ## Pubkeys for NN season4 2020/2021 EU server
 
-**Mainnet:**      022deb41d492ce56d7db85c8ee0b96fa06d28bc5614d6432de047f1188736ac7cd  
-**3rd Party:**    03b79b2ed65e165654acdfed36e6258f897459838f6681921a10de062bc1feceb2
+**Mainnet:** 025c7275bd750936862b47793f1f0bb3cbed60fb75a48e7da016e557925fe375eb
+**3rd Party:** 03c6e047218f34644ccba67e317b9da5d28e68bbbb6b9973aef1281d2bafa46496
 
 ### EU vote address:
 Send VOTE2020 token to: **RG7NBA3CKz3fqu5Dji3vKeR3HdQ4gY681B**
