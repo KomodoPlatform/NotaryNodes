@@ -29,8 +29,22 @@ main: 0299684d7291abf90975fa493bf53212cf1456c374aa36f83cc94daece89350ae9
 
 3p:   0229e499e3f2e065ced402ceb8aaf3d5ab8bd3793aa074305e9fa30772ce604908
 
-Addys:
+AR node addys:
 
 main: RVtN79Z1PGLra6mKJ18x6AtbYwtMciXoz5
 
 3p:   RTksBtECQrCg9XiZW6ocUbvzsEgbVsZ3FK
+
+
+DEV node pubkeys:
+
+main: 02d5f7fd6e25d34ab2f3318d60cdb89ff3a812ec5d0212c4c113bb12d12616cfdc
+
+3p:   0258b77d7dcfc6c2628b0b6b438951a6e74201fb2cd180a795e4c37fcf8e78a678
+
+
+DEV node addys:
+
+main: RLNxjj7hm2Y83NscZ5MgGUEuH2Qt2U1hLF
+
+3p:   RDG9Y7SLFWV2f4JRYGoXnJPjWykt5L6Ui8
