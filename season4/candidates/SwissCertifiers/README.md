@@ -57,3 +57,12 @@ Disclosure
 ----------
 
 We are not members of the Komodo plateform teams
+
+### Season 4 Main Node Address & Pubkey:
+RKCoKMBMjsnLPbSiCyormES6gRDzW3HtS8
+03ebcc71b42d88994b8b2134bcde6cb269bd7e71a9dd7616371d9294ec1c1902c5
+
+
+### Season 4 3rd Party Address & Pubkey:
+RGFyHBRNiaVXJJ3ajFLNoxbvhM49vcomqw
+02e7722ebba9f8b5ebfb4e87d4fa58cc75aef677535b9cfc060c7d9471aacd9c9e
