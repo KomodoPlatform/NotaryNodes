@@ -75,9 +75,9 @@ These funds will be used to make the aforementioned ideas and others like them a
 ## Pubkeys and Addresses
 
 **Main Server**
-addr: `RGcGqDQV6DHHYCVteio5VG2zeH5KyCcYjF`
-pubkey: `02ec4172eab854a0d8cd32bc691c83e93975a3df5a4a453a866736c56e025dc359`
+- addr: `RGcGqDQV6DHHYCVteio5VG2zeH5KyCcYjF`
+- pubkey: `02ec4172eab854a0d8cd32bc691c83e93975a3df5a4a453a866736c56e025dc359`
 
 **3rd Party Coin Server**
-addr: `RGcGBpcaZSdypzFiNrjqF7bdVLm1ocE8nW`
-pubkey: `02a654037d12cdd609f4fad48e15ec54538e03f61fdae1acb855f16ebacac6bd73`
+- addr: `RGcGBpcaZSdypzFiNrjqF7bdVLm1ocE8nW`
+- pubkey: `02a654037d12cdd609f4fad48e15ec54538e03f61fdae1acb855f16ebacac6bd73`
