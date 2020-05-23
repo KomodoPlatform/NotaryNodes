@@ -38,6 +38,17 @@ First time I learned about Bitcoin was late 2013 from one of my college friends.
 
 **Keybase:** https://keybase.io/dappvader
 
+## Notary node keys ##
+**Main node pubkey:** 02962e2e5af746632016bc7b24d444f7c90141a5f42ce54e361b302cf455d90e6a
+
+**Main node Komodo address:** RJtv718xd79fE8NmbCprdVLa85jUbmos35
+
+**Main node Bitcoin address:** 1Acj2VFg2HM6A81a82qjXy1NMpGstVnbsf
+
+**3rd party node pubkey:** 025199bc04bcb8a17976d9fe8bc87763a6150c2727321aa59bf34a2b49f2f3a0ce
+
+**3rd party node Komodo address:** RVzSB86EbusEnSpjv9jJL9MDQkRoo5vBgL
+
 ## Disclosure ##
 - I am not a member of Komodo Platform team
 - I am running in Notary Elections for the first time

@@ -1,4 +1,4 @@
-# NN Season 4 Proposal for *`karasugoi`* (NNoperator)
+﻿# NN Season 4 Proposal for *`karasugoi`* (NNoperator)
 ## Vote Details
 
 **Vote Address - North America (NA)**
@@ -29,6 +29,11 @@ Server Spec
  - Motherboard : X10SRi-F
  - Outgoing bandwidth : 1 Gbps
  - Incoming bandwidth : 1 Gbps
+Pubkey
+ 0262cf2559703464151153c12e00c4b67a969e39b330301fdcaa6667d7eb02c57d
+Pubkey (3rd party)
+ 02f803e6f159824a181cc5d709f3d1e7ff65f19e1899920724aeb4e3d2d869f911
+
 
 ```
 ---

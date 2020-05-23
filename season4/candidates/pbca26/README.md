@@ -83,9 +83,10 @@ Thank you for your vote and support!
 - 2 x 960GB NVME
 - 2 Gbps port
 - Location: NA
-- KMD-address: RMZHMdSAJrGzsKp7xUtLtYizBf9L8eVawZ
-- BTC-address: 1DH6H7Ysi2URoKSvVJuDo2PnRPgjUhWy9r
-- btcpubkey: 03a97606153d52338bcffd1bf19bb69ef8ce5a7cbdc2dbc3ff4f89d91ea6bbb4dc
+- KMD-address: RMgxprD7cNgQmAkoLZXbuNEbEq7nfqfe2Q
+- BTC-address: 1DQmkLKq1YsqhAPbsPYUoquPUZfC43QfD6
+- Main pubkey: 0387e0fb6f2ca951154c87e16c6cbf93a69862bb165c1a96bcd8722b3af24fe533
+- 3p pubkey: 03c18431bb6bc95672f640f19998a196becd2851d5dcba4795fe8d85b7d77eab81
 
 ### Disclosure
 I am a part of the Komodo team
