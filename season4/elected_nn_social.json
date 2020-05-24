@@ -560,14 +560,14 @@
     "youtube": "http://www.youtube.com/user/STROBdotNET"
   },
   "swisscertifiers_EU": {
-    "discord": "",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
+    "discord": "670603177963290634",
+    "icon": "https://keybase.pub/swisscertifiers/images/swiss-certifier-logo.png",
+    "github": "https://github.com/swiss-certifier",
+    "keybase": "swisscertifiers",
+    "telegram": "https://t.me/swiss_certifier",
+    "twitter": "https://twitter.com/swiss_certifier",
+    "website": "https://www.swiss-certifier.ch",
+    "youtube": "https://www.youtube.com/channel/UCSYwGzcHMkACIO9r-qBuQUQ"
   },
   "titomane_AR": {
     "discord": "456121385966764052",
