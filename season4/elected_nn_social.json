@@ -1,5 +1,5 @@
 {
-  "alien_AR": {
+  "alien": {
     "discord": "412323938782150658",
     "icon": "",
     "github": "https://github.com/himu007/",
@@ -7,29 +7,10 @@
     "telegram": "",
     "twitter": "",
     "website": "https://techloverhd.com",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA", "AR", "EU"]
   },
-  "alien_EU": {
-    "discord": "412323938782150658",
-    "icon": "",
-    "github": "https://github.com/himu007/",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "https://techloverhd.com",
-    "youtube": ""
-  },
-  "alien_NA": {
-    "discord": "412323938782150658",
-    "icon": "",
-    "github": "https://github.com/himu007/",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "https://techloverhd.com",
-    "youtube": ""
-  },
-  "alright_DEV": {
+  "alright": {
     "discord": "405011811511828481",
     "icon": "",
     "github": "",
@@ -37,9 +18,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["DEV"]
   },
-  "artemii235_DEV": {
+  "artemii235": {
     "discord": "457121878465708043",
     "icon": "",
     "github": "",
@@ -47,9 +29,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["DEV"]
   },
-  "chainmakers_NA": {
+  "chainmakers": {
     "discord": "242635006516658197",
     "icon": "",
     "github": "https://github.com/chainmakers",
@@ -57,9 +40,10 @@
     "telegram": "",
     "twitter": "",
     "website": "https://chainmake.rs",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "chainzilla_SH": {
+  "chainzilla": {
     "discord": "303794669945618442",
     "icon": "",
     "github": "",
@@ -67,9 +51,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "chmex_AR": {
+  "chmex": {
     "discord": "420119978138664961",
     "icon": "",
     "github": "",
@@ -77,19 +62,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "EU"]
   },
-  "chmex_EU": {
-    "discord": "420119978138664961",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "cipi_EU": {
+  "cipi": {
     "discord": "419964976397156352",
     "icon": "",
     "github": "",
@@ -97,19 +73,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA", "EU"]
   },
-  "cipi_NA": {
-    "discord": "419964976397156352",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "daemonfox_NA": {
+  "daemonfox": {
     "discord": "133773904471785473",
     "icon": "",
     "github": "",
@@ -117,9 +84,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "dappvader_SH": {
+  "dappvader": {
     "discord": "686210447266807838",
     "icon": "",
     "github": "",
@@ -127,9 +95,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "decker_AR": {
+  "decker": {
     "discord": "345544724167524352",
     "icon": "",
     "github": "",
@@ -137,29 +106,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "DEV", "EU"]
   },
-  "decker_DEV": {
-    "discord": "345544724167524352",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "decker_EU": {
-    "discord": "345544724167524352",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "dragonhound_NA": {
+  "dragonhound": {
     "discord": "448777271701143562",
     "icon": "https://i.imgur.com/WQKfaEj.png",
     "github": "https://github.com/smk762/",
@@ -167,9 +117,10 @@
     "telegram": "",
     "twitter": "https://twitter.com/smk_cartografix",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "dudezmobi_AR": {
+  "dudezmobi": {
     "discord": "455283678939971585",
     "icon": "",
     "github": "",
@@ -177,9 +128,10 @@
     "telegram": "https://t.me/Dudezmobi",
     "twitter": "https://twitter.com/dudezmobi",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR"]
   },
-  "etszombi_AR": {
+  "etszombi": {
     "discord": "",
     "icon": "",
     "github": "",
@@ -187,7 +139,8 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR"]
   },
   "etszombi_EU": {
     "discord": "",
@@ -197,9 +150,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU"]
   },
-  "fullmoon_AR": {
+  "fullmoon": {
     "discord": "394600406459744257",
     "icon": "",
     "github": "",
@@ -207,29 +161,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "NA", "SH"]
   },
-  "fullmoon_NA": {
-    "discord": "394600406459744257",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "fullmoon_SH": {
-    "discord": "394600406459744257",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "gcharang_SH": {
+  "gcharang": {
     "discord": "423176312354635779",
     "icon": "",
     "github": "https://github.com/gcharang/",
@@ -237,9 +172,10 @@
     "telegram": "https://t.me/gcharang",
     "twitter": "https://twitter.com/gcharang",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "greer_NA": {
+  "greer": {
     "discord": "396076245575794698",
     "icon": "",
     "github": "https://github.com/greerso/",
@@ -247,9 +183,10 @@
     "telegram": "https://t.me/greerso",
     "twitter": "https://twitter.com/greerso",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "indenodes_AR": {
+  "indenodes": {
     "discord": "",
     "icon": "",
     "github": "",
@@ -257,39 +194,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "NA", "EU", "SH"]
   },
-  "indenodes_EU": {
-    "discord": "",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "indenodes_NA": {
-    "discord": "",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "indenodes_SH": {
-    "discord": "",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "karasugoi_NA": {
+  "karasugoi": {
     "discord": "426823107865608192",
     "icon": "",
     "github": "",
@@ -297,9 +205,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "madmax_AR": {
+  "madmax": {
     "discord": "380786853558747139",
     "icon": "",
     "github": "",
@@ -307,29 +216,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "EU", "NA"]
   },
-  "madmax_EU": {
-    "discord": "380786853558747139",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "madmax_NA": {
-    "discord": "380786853558747139",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "marmarachain_AR": {
+  "marmarachain": {
     "discord": "150437093879840768",
     "icon": "",
     "github": "https://github.com/marmarachain",
@@ -337,9 +227,10 @@
     "telegram": "https://t.me/MarmaraCreditLoop",
     "twitter": "https://twitter.com/marmarachain",
     "website": "http://marmara.io/",
-    "youtube": "https://www.youtube.com/channel/UCTtJzqwJVEEk7JlNZgO31ug"
+    "youtube": "https://www.youtube.com/channel/UCTtJzqwJVEEk7JlNZgO31ug",
+    "regions": ["AR"]
   },
-  "mcrypt_SH": {
+  "mcrypt": {
     "discord": "458507065178980353",
     "icon": "",
     "github": "",
@@ -347,9 +238,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "metaphilibert_AR": {
+  "metaphilibert": {
     "discord": "368864295397752833",
     "icon": "",
     "github": "",
@@ -357,19 +249,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH", "AR"]
   },
-  "metaphilibert_SH": {
-    "discord": "368864295397752833",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "mihailo_EU": {
+  "mihailo": {
     "discord": "424224648889106444",
     "icon": "https://i.imgur.com/xCjGE8L.jpg",
     "github": "https://github.com/Mixa84",
@@ -377,9 +260,10 @@
     "telegram": "https://t.me/mihailo84",
     "twitter": "",
     "website": "",
-    "youtube": "https://www.youtube.com/user/mixaracing"
+    "youtube": "https://www.youtube.com/user/mixaracing",
+    "regions": ["EU"]
   },
-  "mrlynch_AR": {
+  "mrlynch": {
     "discord": "504735704543395853",
     "icon": "",
     "github": "",
@@ -387,9 +271,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR"]
   },
-  "mylo_SH": {
+  "mylo": {
     "discord": "371114647052615681",
     "icon": "",
     "github": "",
@@ -397,9 +282,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "node9_EU": {
+  "node9": {
     "discord": "412482228359266328",
     "icon": "",
     "github": "https://github.com/Cris-F",
@@ -407,9 +293,10 @@
     "telegram": "",
     "twitter": "",
     "website": "https://node9.xyz",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU"]
   },
-  "nodeone_NA": {
+  "nodeone": {
     "discord": "474206298427097099",
     "icon": "",
     "github": "",
@@ -417,9 +304,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "nutellalicka_SH": {
+  "nutellalicka": {
     "discord": "202999072519356416",
     "icon": "",
     "github": "",
@@ -427,9 +315,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "oszy_EU": {
+  "oszy": {
     "discord": "231533083818590211",
     "icon": "",
     "github": "https://github.com/lilszi/",
@@ -437,9 +326,10 @@
     "telegram": "",
     "twitter": "https://twitter.com/MoarApplez",
     "website": "https://cryptostats.cc",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU"]
   },
-  "patchkez_SH": {
+  "patchkez": {
     "discord": "406037988850794496",
     "icon": "",
     "github": "",
@@ -447,9 +337,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "pbca26_NA": {
+  "pbca26": {
     "discord": "403229823834521616",
     "icon": "",
     "github": "",
@@ -457,9 +348,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "peer2cloud_AR": {
+  "peer2cloud": {
     "discord": "457001023928795136",
     "icon": "",
     "github": "",
@@ -467,9 +359,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR"]
   },
-  "phba2061_EU": {
+  "phba2061": {
     "discord": "249256116150730753",
     "icon": "",
     "github": "https://github.com/NOCTLJRNE/",
@@ -477,9 +370,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU"]
   },
-  "phm87_SH": {
+  "phm87": {
     "discord": "352577127494713345",
     "icon": "",
     "github": "",
@@ -487,9 +381,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "pirate_EU": {
+  "pirate": {
     "discord": "504735704543395853",
     "icon": "",
     "github": "",
@@ -497,19 +392,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU", "NA"]
   },
-  "pirate_NA": {
-    "discord": "504735704543395853",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "pungocloud_SH": {
+  "pungocloud": {
     "discord": "457001023928795136",
     "icon": "",
     "github": "",
@@ -517,9 +403,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   },
-  "smdmitry_AR": {
+  "smdmitry": {
     "discord": "486144655369437184",
     "icon": "",
     "github": "",
@@ -527,9 +414,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR"]
   },
-  "starfleet_EU": {
+  "starfleet": {
     "discord": "407288940148555786",
     "icon": "",
     "github": "",
@@ -537,9 +425,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["EU"]
   },
-  "strob_NA": {
+  "strob": {
     "discord": "278565047113089025",
     "icon": "",
     "github": "https://github.com/StrobFX",
@@ -547,19 +436,10 @@
     "telegram": "",
     "twitter": "http://twitter.com/strobFX",
     "website": "https://strobfx.com/",
-    "youtube": "http://www.youtube.com/user/STROBdotNET"
+    "youtube": "http://www.youtube.com/user/STROBdotNET",
+    "regions": ["NA", "SH"]
   },
-  "strob_SH": {
-    "discord": "278565047113089025",
-    "icon": "",
-    "github": "https://github.com/StrobFX",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "http://twitter.com/strobFX",
-    "website": "https://strobfx.com/",
-    "youtube": "http://www.youtube.com/user/STROBdotNET"
-  },
-  "swisscertifiers_EU": {
+  "swisscertifiers": {
     "discord": "670603177963290634",
     "icon": "https://keybase.pub/swisscertifiers/images/swiss-certifier-logo.png",
     "github": "https://github.com/swiss-certifier",
@@ -567,9 +447,10 @@
     "telegram": "https://t.me/swiss_certifier",
     "twitter": "https://twitter.com/swiss_certifier",
     "website": "https://www.swiss-certifier.ch",
-    "youtube": "https://www.youtube.com/channel/UCSYwGzcHMkACIO9r-qBuQUQ"
+    "youtube": "https://www.youtube.com/channel/UCSYwGzcHMkACIO9r-qBuQUQ",
+    "regions": ["EU"]
   },
-  "titomane_AR": {
+  "titomane": {
     "discord": "456121385966764052",
     "icon": "",
     "github": "",
@@ -577,29 +458,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "EU", "SH"]
   },
-  "titomane_EU": {
-    "discord": "456121385966764052",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "titomane_SH": {
-    "discord": "456121385966764052",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "tonyl_AR": {
+  "tonyl": {
     "discord": "272003866906722306",
     "icon": "",
     "github": "",
@@ -607,19 +469,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["AR", "DEV"]
   },
-  "tonyl_DEV": {
-    "discord": "272003866906722306",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": ""
-  },
-  "webworker01_NA": {
+  "webworker01": {
     "discord": "300741339279130624",
     "icon": "",
     "github": "",
@@ -627,9 +480,10 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["NA"]
   },
-  "zatjum_SH": {
+  "zatjum": {
     "discord": "401454267812151298",
     "icon": "",
     "github": "",
@@ -637,6 +491,7 @@
     "telegram": "",
     "twitter": "",
     "website": "",
-    "youtube": ""
+    "youtube": "",
+    "regions": ["SH"]
   }
 }
