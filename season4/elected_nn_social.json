@@ -140,18 +140,7 @@
     "twitter": "",
     "website": "",
     "youtube": "",
-    "regions": ["AR"]
-  },
-  "etszombi_EU": {
-    "discord": "",
-    "icon": "",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": "",
-    "regions": ["EU"]
+    "regions": ["AR", "EU"]
   },
   "fullmoon": {
     "discord": "394600406459744257",
