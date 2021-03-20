@@ -26,8 +26,10 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 - Together with other devs participating in `crypto-conditions` (CC) integration into the 3rd party projects sources.
 
 - Developing Verus-Qt native wallet for VRSC:
-![Verus-Qt](https://download.kmd.sh/verus/verus-qt-v0.7.2-3qt-64bit.jpg)
-Sources are not yet public available, bcz it's in the alpha state, but you can download and test Windows binaries from [download page](https://download.kmd.sh/verus/) to test the functionallity.
+
+    ![Verus-Qt](https://download.kmd.sh/verus/verus-qt-v0.7.2-3qt-64bit.jpg)
+
+    Sources are not yet public available, bcz it's in the alpha state, but you can download and test Windows binaries from [download page](https://download.kmd.sh/verus/) to test the functionallity.
 
 ## Projects / Milestones (2019-2020) ###
 
