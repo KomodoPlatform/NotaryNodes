@@ -69,6 +69,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `035b0502c05d5c6d9ae82e18e278f9e0c7db5eaaa9d2499532d04d51f10d705929` | **AR**     |
 | `RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf` | `03990f1b18b93df3a36e48fa9763a8c59e63f6c73cfe6bff29fab2d647472ce531` | **EU**     |
+| `RD2FrT7nKcnx9jaMRLopqqzWFyuMRT3YoM` | `029fa20ab7e43b65f52a9d7aa9b76694ae2a699330c5a7a4e16424e1f039a99a9f` | **NA**     |
 
 
 ## Contact information ##
