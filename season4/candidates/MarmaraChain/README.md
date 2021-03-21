@@ -1,4 +1,4 @@
-![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/marmara-specific/marmara_coin_logo.png "Marmara Credit Loop Logo")
+![MarmaraCreditLoop Logo](https://raw.githubusercontent.com/marmarachain/Marmara-v.1.0/master/sonhali-beyaz-fo.png "Marmara Credit Loop Logo")
 
 # Komodo Notary Node Candidacy from Marmara Chain Community
 

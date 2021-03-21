@@ -53,6 +53,13 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RHTDBTqeMyoEEdRZWWXfL6TZzF7LAi8jNd` | `0262ad1510104b5b7b175e2f80ff68a55884a5d9d98716e70656e204fb7873d1db` | **EU**     |
 
+## Season 4 Info ##
+
+|                         | Pubkey                                                             | KMD address                          | BTC address                          |
+| :---------------------- |:------------------------------------------------------------------:| :----------------------------------: |:-----------------------------------: |
+| decker_EU (mainnet) | `03777777caebce56e17ca3aae4e16374335b156f1dd62ee3c7f8799c6b885f5560` | RS4S9b9aG1yfeXFoBj2NcPoBE21XKfJDgc | 1HnF55GHfCB6aWtbiZ3FWsTyTkYvf9QQpJ |
+| decker_EU (3p)      | `027777775b89ff548c3be54fb0c9455437d87f38bfce83bdef113899881b219c9e` | RT7FV7XBPrJXuuTCYK8HsfZEg5a5X2Qzzi | 1Jq4Qbdto2Vxqu61599An9E2up7Uumci3E |
+
 
 ## Contact information ##
 

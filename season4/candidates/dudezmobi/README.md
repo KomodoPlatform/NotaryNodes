@@ -4,6 +4,9 @@
 
 ## SOLAR POWERED NOTARY NODE
 ## RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy
+## Discord contact: dudezmobi#1945
+## Main Pubkey: 027ecd974ff2a27a37ee69956cd2e6bb31a608116206f3e31ef186823420182450
+## 3rd Party Pubkey: 033c121d3f8d450174674a73f3b7f140b2717a7d51ea19ee597e2e8e8f9d5ed87f
 
 ## Who Is DudezMobi@.vrsc
 

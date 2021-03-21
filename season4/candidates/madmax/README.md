@@ -1,4 +1,17 @@
-# MadMaX [EU]- Notary node Proposal (2020)
+### MadMaX Notarynode S4 Pubkeys
+
+| Region | Pubkey |
+| ------ | ------ |
+| AR (Main) | 022be5a2829fa0291f9a51ff7aeceef702eef581f2611887c195e29da49092e6de |
+| AR (3p) | 027afddbcf690230dd8d435ec16a7bfb0083e6b77030f763437f291dfc40a579d0 |
+| EU (Main) | 02ea0cf4d6d151d0528b07efa79cc7403d77cb9195e2e6c8374f5074b9a787e287 |
+| EU (3p) | 0397ec3a4ad84b3009566d260c89f1c4404e86e5d044964747c9371277e38f5995 |
+| NA (Main) | 02997b7ab21b86bbea558ae79acc35d62c9cedf441578f78112f986d72e8eece08 |
+| NA (3p) | 036d3afebe1eab09f4c38c3ee6a4659ad390f3df92787c11437a58c59a29e408e6 |
+
+
+
+### MadMaX [EU]- Notary node Proposal (2020)
 
 ##### Why Vote for MadMaX? ###
 - Quality & professional notary node network.

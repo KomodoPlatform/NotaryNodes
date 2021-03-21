@@ -1,3 +1,20 @@
+# STROB pubkeys 2020 season 4
+
+Main NA
+02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405
+
+3rdparty NA
+02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3
+
+
+Main SH
+025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a
+
+3rdparty SH
+0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6
+
+
+
 # STROB Notary Node Proposal 2020
 
 #1 best score Notary Node Operator in North America for 2019.
@@ -26,6 +43,8 @@
 :trophy::trophy::trophy:<a href="https://komodostats.com/nn">THE #1 NN operator in North America</a>:trophy::trophy::trophy:
 
 Currently with approx 5000 score points before the 2nd place. So if you want to vote for the best, vote for me! I reached these results by investing a lot in hardware and by dedicating many hours everyday and nights 7/7 to my node. With these perfect results in my pocket I plan to expand my operations in 2020 with more nodes if the voters kindly allow it to me.
+
+![Pirate Discord logo by Strob](https://www.strob.net/kmdNN2020/PIRATE_discordLogo_v002_1.gif "Pirate gif by Strob")
 
 I'm a big supporter of Pirate Chain ARRR (with "first mate" and "translators" titles on Pirate Discord). I made the animated Pirate Discord logo, and some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website. I also earned a guru title as a Komodo NN operator. I donated 7% of my NN profits to CHIPS in 2019-2020.
 
@@ -101,7 +120,9 @@ I have my own hardware for my NA server so I don't even need to access it remote
 ## STROB CONTACT
 ![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
 
-![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net
+![Komodo Community Portal](https://strob.net/kmdNN2020/KCP.png)`@Strob`
+
+![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
 
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
 [![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)
