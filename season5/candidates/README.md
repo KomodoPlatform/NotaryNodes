@@ -11,3 +11,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
+|       |       |  [zatJUM](zatjum/README.md)  |   |
