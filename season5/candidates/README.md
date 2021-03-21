@@ -12,3 +12,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
 |[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|	|[decker](decker/README.md)	|
+|	|[decker](decker/README.md)	|	|	|
