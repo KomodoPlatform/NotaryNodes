@@ -8,6 +8,6 @@ To participate in the elections:
 
 Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.  
 
-
 |   EU	|   NA	|   SH	|   AR	|
-|---	|---	|---	|[dudezmobi](dudezmobi/README.md)| 
+|---	|---	|---	|---	|
+|       |       |    |  [dudezmobi](dudezmobi/README.md)  |
