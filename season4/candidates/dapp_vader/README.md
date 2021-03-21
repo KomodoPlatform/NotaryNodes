@@ -27,6 +27,18 @@ First time I learned about Bitcoin was late 2013 from one of my college friends.
 
 **`10%` quarterly to CHIPS development fund.**
 
+## Q1 CHIPS fund donation. ##
+
+In Q1 my SH node mined 4508.393762 KMD starting from block 1922020 until block 2052084. Server expenses for 3 months are $350 x 3 = $1050 at current KMD price $0.62 is 1693.55 KMD. Total mined funds after expenses 4508.39 - 1693.55 = 2814.84. 10% of this amount is 281.48 KMD.
+
+http://kmd.explorer.dexstats.info/tx/9f0cd5629d49bd6a8939f96c4923e03776a9af16898b840071094c3306e84051
+
+## Q2 CHIPS fund donation. ##
+
+In Q2 my SH node mined 4178.592633 KMD starting from block 2052162 until block 2180215. Server expenses for 3 months are $350 x 3 = $1050 at current KMD price $0.53 is 1981.13 KMD. Total mined funds after expenses 4178.59 - 1981.13 = 2197.46. 10% of this amount is 219.74 KMD.
+
+http://kmd.explorer.dexstats.info/tx/8a5ac8e681481f1dc97f809a104bc2cd7859aaea2e1a2d3c1cb77ce3fe1de9d5
+
 ## Server specs ##
 - CPU: AMD Ryzen Threadripper 2950X
 - RAM: DDR4 128GB
