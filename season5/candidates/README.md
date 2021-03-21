@@ -11,3 +11,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
+|[decker](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/decker/README.md)	|	|	|[decker](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/decker/README.md)	|
