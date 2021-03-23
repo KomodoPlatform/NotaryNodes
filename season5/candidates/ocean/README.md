@@ -2,7 +2,7 @@
 
 Ocean is a Komodo IT Expert and Senior Software Engineer.
 
-He joined the Komodo team in 2018 and actively involved in the development of Komodo related software. 
+Since 2018 he was actively involved in the development of Komodo related software. 
 
 He is one of developers of the first Komodo GUI wallet - Komodo-Qt (KomodoOcean) and many other various tools.
 
