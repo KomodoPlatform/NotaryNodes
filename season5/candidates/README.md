@@ -13,6 +13,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |---	|---	|---	|---	|
 |[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|[zatJUM](zatjum/README.md)	|[decker](decker/README.md)	|
 |[alien](alien/README.md)	|[decker](decker/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
-|[tonyl](tonyl/README.md)	|[alien](alien/README.md)	|	|[dudezmobi](dudezmobi/README.md)	|
+|[tonyl](tonyl/README.md)	|[alien](alien/README.md)	|	[NutellaLicka](NutellaLicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
 |[smdmitry](smdmitry/README.md)	|[greer](greer/README.md)	|	|[smdmitry](smdmitry/README.md)	|
 |	|	|	|[ocean](ocean/README.md)	|
+|	|	|	|[NutellaLicka](NutellaLicka/README.md)	|
