@@ -1,6 +1,6 @@
 ## Komodo Notary Node Proposal for <u>**Ocean**</u>
 
-Ocean is a Komodo IT Expert and Senior Software Engineer.
+Ocean is an IT Expert and Senior Software Engineer.
 
 Since 2018 he was actively involved in the development of Komodo related software. 
 
