@@ -41,3 +41,9 @@ Since July 2019, I have made more than `4116` contributions for different komodo
 - 64Go DDR4 ECC 2666MHz
 - 1Gbit/s
 - 2x500go SSD NVMe soft Raid
+
+## Contact
+
+- Github account: Milerius
+- Discord: Slyris#2880
+- Twitter: https://twitter.com/mileriesime
