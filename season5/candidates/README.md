@@ -15,5 +15,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |[alien](alien/README.md)	|[decker](decker/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
 |[tonyl](tonyl/README.md)	|[alien](alien/README.md)	|	[NutellaLicka](NutellaLicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
 |[smdmitry](smdmitry/README.md)	|[greer](greer/README.md)	|	|[smdmitry](smdmitry/README.md)	|
-|	|	|	|[ocean](ocean/README.md)	|
+|[slyris](slyris/README.md)	|	|	|[ocean](ocean/README.md)	|
 |	|	|	|[NutellaLicka](NutellaLicka/README.md)	|
