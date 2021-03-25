@@ -9,7 +9,7 @@ RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h
 I'm a bloke with two dogs, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing.
 Most of this work was self-directed until I was honored with a place within the team as a dApp dev, support agent and QA tech.
 Since joining the team the main focus of my work has been testing the AtomicDEX desktop app, writing and reviewing support guides, and 
-creating a series of APIs, bots and dashboards (e.g. stats.kmd.io).
+creating a series of APIs, bots and dashboards (e.g. [stats.kmd.io](http://stats.kmd.io)).
 
 I've been a Notary Node Operator for the last 2 seasons, and last year implemented automated balance alerts to ensure other Notary Nodes
 are sufficiently funded to carry out thier notarisation duties, and alerts to prod any nodes that have stopped mining.
@@ -19,6 +19,8 @@ are sufficiently funded to carry out thier notarisation duties, and alerts to pr
 - Active Notary Notary operator since Season 3, contributing a variety of works to assist with smoother running.
 - Always quick to update my Notary nodes when updates are announced.
 - Assist with testing out misc updates for dPow, the Komodo daemon and AtomicDEX before release.
+- Ongoing implementation of improved metrics and auditing of Notary Node related operations.
+- Creating miscellaneous scripts, tools, bots and APIs to assist with Notary Node management and monitoring.
 
 ## What's in it for the community? ##
 Collaboration and content. I have more ideas than time, and know there is talent within the community worth rewarding. If you have the time and talent to help, I'd like to tip you with tokens so we can build something awesome.
@@ -43,5 +45,6 @@ _I am a Komodo Team member, and currently operating one Notary Node in the NA re
 
 # Contact details
 Discord handle: smk#7640
+
 Keybase: https://keybase.io/smk762
 
