@@ -15,7 +15,7 @@ Charles manages the DogeDEX project to leverage the AtomicDEX apps as branded to
 
 ## Projects / Milestones ###
 
-- [DogeDEX] (https://www.dogedex.xyz) / - Mar 2021 Reached over 10K installs on iOS and Android. DogeDEX is a branded version of the original AtomicDEX. It's built for the Doge community and it's being used to bridge Komodo's tech with other projects that have a larger user base. 
+- [DogeDEX](https://www.dogedex.xyz) / - Mar 2021 Reached over 10K installs on iOS and Android. DogeDEX is a branded version of the original AtomicDEX. It's built for the Doge community and it's being used to bridge Komodo's tech with other projects that have a larger user base. 
 
 - [ChainZilla](https://chainzilla.io) / - June 2018 we launched C.Z. Web Service S.A. as the parent company of Chainzilla.io. The goal is to faciliate blockchain onboarding for Komodo and serveral platforms. Our team has been successful at launching several projects which range in blockchain creation, app design, and web development. 
 
