@@ -1,28 +1,25 @@
 ![chainzilla-banner-01.jpg](./chainzilla-banner-02.jpg)
 
-- **IF YOU WANT TO VOTE FOR CHAINZILLA, SEND YOUR VOTE TOKENS HERE**: 
+- **IF YOU WANT TO VOTE FOR THE PTYX, SEND YOUR VOTE TOKENS HERE**: 
 
+NA REGION
 ```
-RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
+RHZAnQxv6tGajPppWywpkP5W8JXQR3QEvi
 ```
 
 ## BIOGRAPHY ##
 
-ChainZilla is a project that was launched in June 2018 to facilitate blockchain onboarding and app development on Komodo Platform and serveral other networks.
+Charles Gonzalez has been part of the Komodo community since 2016. He's worked as part of the Komodo team in multiple capacities including technical support, management, and business development. Over the past year he's onboarded several projects to Komodo solutions such as smart chains, blockchain security, and AtomicDEX. 
 
-Since our launch we have re-designed and developed several applications in order to make it easy to launch a blockchain and manage an ICO. Some of these tools include a mobile wallet, paper wallet tool, and a faucet. We are currently working on the expansion of Chameleon Pay and a new payment processor that will allow us to offer different services to our clients. 
-
-Some of the projects that work with ChainZilla include Komodo, NEM, NIX, Pundix, and Groestlcoin. Early in 2019 we launched [LABFin](https://labfin.io), a foundation to foment blockchain development in Panama and Latin America. 
+Charles manages the DogeDEX project to leverage the AtomicDEX apps as branded tools that can be introduced to other communities. In a short time the DogeDEX has amassed over 10K installs and the community is growing. This exposes newcomers and external developers to Komodo technologies. 
 
 ## Projects / Milestones ###
 
+- [DogeDEX] (https://www.dogedex.xyz) / - Mar 2021 Reached over 10K installs on iOS and Android. DogeDEX is a branded version of the original AtomicDEX. It's built for the Doge community and it's being used to bridge Komodo's tech with other projects that have a larger user base. 
+
 - [ChainZilla](https://chainzilla.io) / - June 2018 we launched C.Z. Web Service S.A. as the parent company of Chainzilla.io. The goal is to faciliate blockchain onboarding for Komodo and serveral platforms. Our team has been successful at launching several projects which range in blockchain creation, app design, and web development. 
 
-- [LABFin](https://labfin.io) / January 2019 - In order to foment blockchain development and education in Panama we launched the Latin American Blockchain and Fintech Initiative. This foundation is based in Panama and our main goal is to provide support to the public sector, lawmakers, startups, and private entities in Latin America. Komodo is one of LABFin's partners and is promoted in our presentations. 
-
 - [Chameleon Pay](https://www.chainzilla.io/download) / - Feb 2019 We released the first version of Chameleon Pay - a universal cryptocurrency wallet that was tailored made for Komodo projects. The wallet was inspired by Agama wallet which is developed by the Komodo team. 
-
-- [Chameleon Additions](https://www.chainzilla.io/download) / - Mar 2019 We have closed several deals with different coins which will be implemented into Chameleon Pay. 
 
 ## Hardware information ##
 
@@ -47,18 +44,19 @@ Some of the projects that work with ChainZilla include Komodo, NEM, NIX, Pundix,
 
 
 ## Vote information ##
-On the 15th of March 2020 you will receive an airdrop of VOTE tokens. If you have 1 KMD you will receive 1 VOTE token. In order to participate in the vote, all you need to do is send the Token to our address. On the 14th of May, the addresses with the most VOTE tokens will be chosen as next year's Notary Nodes for the Komodo ecosystem. 
+On the 2nd of April 2021 you will receive an airdrop of VOTE tokens. If you have 1 KMD you will receive 1 VOTE token. In order to participate in the vote, all you need to do is send the Token to our address. On the 14th of May, the addresses with the most VOTE tokens will be chosen as next year's Notary Nodes for the Komodo ecosystem. 
 
 - [**Please Send Your Vote To This Address**]:
 Region: North America
 ```
-RAfJvh7cGEYavic3NSZhg9QERGpJ3KfTV5
+RHZAnQxv6tGajPppWywpkP5W8JXQR3QEvi
 ```
 
 ## Contact information ##
 
  - [Discord](https://discord.gg/HXjJkB4)
- - [Website](https://chainzilla.io)
+ - [Website](https://chainzilla.io/notary-node-elections/)
+ - [DogeDEX] (https://www.dogedex.xyz)
  - [Chameleon Pay Wallet](https://www.youtube.com/watch?v=FaKf6jQzoLo)
  
  
