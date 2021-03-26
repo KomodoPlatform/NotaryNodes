@@ -13,6 +13,8 @@ Charles Gonzalez has been part of the Komodo community since 2016. He's worked a
 
 Charles manages the DogeDEX project to leverage the AtomicDEX apps as branded tools that can be introduced to other communities. In a short time the DogeDEX has amassed over 10K installs and the community is growing. This exposes newcomers and external developers to Komodo technologies. 
 
+The notary node rewards will be used to keep promoting DogeDEX and other side-projects that promote Komodo technologies. 
+
 ## Projects / Milestones ###
 
 - [DogeDEX](https://www.dogedex.xyz) / - Mar 2021 Reached over 10K installs on iOS and Android. DogeDEX is a branded version of the original AtomicDEX. It's built for the Doge community and it's being used to bridge Komodo's tech with other projects that have a larger user base. 
