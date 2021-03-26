@@ -12,3 +12,7 @@ SH: RPvzKxby2fU5zm4q5ySrNdh3NbjgeMcw47
 
 ### Server Specs
  Xeon Gold 128Gb DDR4 2Tb NVMe 1Gbt/s
+ 
+ Discord
+ 
+ Workax1983#2888
