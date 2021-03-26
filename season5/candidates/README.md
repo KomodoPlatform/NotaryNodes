@@ -12,8 +12,8 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
 |[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|[zatJUM](zatjum/README.md)	|[decker](decker/README.md)	|
-|[alien](alien/README.md)	|[decker](decker/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
-|[tonyl](tonyl/README.md)	|[alien](alien/README.md)	|	[NutellaLicka](NutellaLicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
-|[smdmitry](smdmitry/README.md)	|[greer](greer/README.md)	|[darkolisio](darkolisio/README.md)	|[smdmitry](smdmitry/README.md)	|
-|[slyris](slyris/README.md)	|[dragonhound](dragonhound/README.md)	|	|[ocean](ocean/README.md)	|
+|[alien](alien/README.md)	|[alien](alien/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
+|[tonyl](tonyl/README.md)	|[greer](greer/README.md)	|	[NutellaLicka](NutellaLicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
+|[smdmitry](smdmitry/README.md)	|[dragonhound](dragonhound/README.md)	|[darkolisio](darkolisio/README.md)	|[smdmitry](smdmitry/README.md)	|
+|[slyris](slyris/README.md)	|	|	|[ocean](ocean/README.md)	|
 |	|	|	|[NutellaLicka](NutellaLicka/README.md)	|
