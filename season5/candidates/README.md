@@ -6,8 +6,7 @@ To participate in the elections:
 1. Upload your proposal before the 16th of April, 12pm UTC in this repository, using a folder with your operator name, and in it at least a `README.md` file. See the already existing proposals as an example.
 2. Add your name to the table below.
 
-Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.  
-
+Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more election rules.
 
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
@@ -15,5 +14,6 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |[alien](alien/README.md)	|[alien](alien/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
 |[tonyl](tonyl/README.md)	|[greer](greer/README.md)	|	[NutellaLicka](NutellaLicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
 |[smdmitry](smdmitry/README.md)	|[dragonhound](dragonhound/README.md)	|[darkolisio](darkolisio/README.md)	|[smdmitry](smdmitry/README.md)	|
-|[slyris](slyris/README.md)	|	|	|[ocean](ocean/README.md)	|
+|[slyris](slyris/README.md)	|	|[gcharang](gcharang/README.md)	|[ocean](ocean/README.md)	|
 |	|	|	|[NutellaLicka](NutellaLicka/README.md)	|
+
