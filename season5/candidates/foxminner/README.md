@@ -14,3 +14,5 @@ I would like to be part of this project which has many possibilities and prosper
 I firmly believe in decentralization and I think that th st of Komodo is yet to come. 
 
 SH: RB9KccHNa7TGAW5Tw9USF7Y84H3cCba2zu 
+
+Contact me: Discord/foxminner#4156
