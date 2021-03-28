@@ -4,7 +4,7 @@
 
 - Region: `AR`
 - Address: `RLEeYUDycBbmKvN1irX5jZohskrynntFcH`
-
+- Pubkey: 020c3d33ddac956a0ce5ec0d307351f748db81845efcd863f30168ce85af93b511
 ## Who am I?
 
 Hello! I'm Kulim. I started to study in Bolu Abant İzzet Baysal University, Department of Construction Technology and also in the Department of Web Design and Coding. I graduated from Construction Technology. I attended workshops at the university, I got acquainted with @Paro and got an idea about MCL and Komodo. In this way, my interest in Blockchain started. 
