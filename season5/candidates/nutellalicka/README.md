@@ -2,9 +2,9 @@
 
 #### Regions: Southern Hemisphere & Asia/Russia
 
-### **SH** region VOTE2020 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
+### **SH** region VOTE2021 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
-### **AR** region VOTE2020 address : `RRXLDNAmvSC848d6VqRGmNEugrsHx7mfS9`
+### **AR** region VOTE2021 address : `RRXLDNAmvSC848d6VqRGmNEugrsHx7mfS9`
 
 ## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
