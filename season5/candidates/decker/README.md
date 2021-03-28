@@ -18,7 +18,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 ## Vote4Decker with QR ##
 
 | AR | EU |
-| ------ | ------ |
+| :---: | :---: |
 | ![RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7](./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg) | ![RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf](./RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf.svg) |
 | `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf` |
 
