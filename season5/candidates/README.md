@@ -17,5 +17,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |[slyris](slyris/README.md)	|	|[gcharang](gcharang/README.md)	|[ocean](ocean/README.md)	|
 |	|	|[workax](workax/README.md)	|[nutellalicka](nutellalicka/README.md)	|
 |	|	|	|[kulim](kulim/README.md)	|
-
-
+|	|	|	|[paro](paro/README.md)	|
