@@ -15,6 +15,13 @@ He is one of the Komodo-Qt wallet devs - the world's first GUI wallet for a zero
 
 Decker has demonstrated knowledge and passion for blockchain, cryptography, programming languages and system administration. He is among the most active Komodo members. 
 
+## Vote4Decker with QR ##
+
+| AR | EU |
+| ------ | ------ |
+| ![RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7](./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg) | ![RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf](./RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf.svg) |
+| `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf` |
+
 ## Projects / Milestones (2020-2021) ###
 
 - [KomodoOcean](https://github.com/DeckerSU/KomodoOcean) - last year Komodo-Qt wallet obtained several highly wanted dev and user features, such as possibility of cross-compilation build for MacOS X from Linux, get rid of using `gcc` as default builder on native Darwin platform with using of default `clang` compiler instead, new .dmg package installer for MacOS ... See *What's new?* section of every build on [releases](https://github.com/DeckerSU/KomodoOcean/releases) page for all changes. Also it has become more fast (in some places even faster than original `komodod`), fail-safe and easy-to-use.
