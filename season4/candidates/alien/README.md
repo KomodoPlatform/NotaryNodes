@@ -1,47 +1,54 @@
-# NN Season 4 Proposal for *`alien`* (SHossain)
-## Vote Details
-
-**Vote Address - North America (NA)**
-```
-RCaRTEnGFdpcuvGou6QPQG1tLJS9tZQUB9
-```
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season3/notarynodes/alien/SAM_3920.jpg)
 
 ## Who am I?
-Blockchain enthusiast, been with the community since BTCD mining days. Komodo lover, long-term hodler and a reliable Notary Node operator for the last 2 seasons and a NN Guru now. I run my nodes with high-end servers and no compromise on that. Also monitor the nodes and network constantly. With experience on Komodo, iguana and Linux systems, along with operating my nodes, I try to help other operators who needs help. I help the Komodo ecosystem by testing new tech and reporting any issues found to make things better.
+Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node operator.
 
-## Why Vote alien?
-- Long term Komodo supporter and hodler.
-- Top Notary Notary operator out of all 4 regions in season 2 and season 3. #1 in ranking in the respective AR and EU region and #1 & #2 globally. You can check the stats [here](https://komodostats.com/nn).
-- I put network security as priority before the server cost or anything else.
-- I test all new core tech that Komodo develops and write the easy to follow testing guides for others. Some of my guides: 
-	1. [Subatomic OTC Swap Testing](https://gist.github.com/himu007/add3181427bb53ab5dc5160537f0c238)
-	2. [Import Gateway Testing](https://gist.github.com/himu007/5b61ebb330ee46c4c1f7518d34e30d42)
-	3. [dexp2p blaster](https://gist.github.com/himu007/c301e69883556d595bfbcb672149783d)
-	4. [dexp2p Live-Streaming](https://techloverhd.com/2020/01/use-komodo-dexp2p-tech-for-live-streaming/)
-	5. [Compile and Play Rogue Blockchain Based Game](https://gist.github.com/himu007/93e77004490f4716a523d2a0daaf0d37) 
-- Tested barterDEX and wrote the first full barterDEX API doc
-- Help out other Notary Operators as needed.
-- Monitoring the network constantly with a dedicated computer and monitor.
-- Helped VRSC notarization to continue with Season 2 keys for months until they hardforked to use Season 3 keys.
-- One of the first to update my Notary nodes as updates becomes available.
-- Testing out `komodod` and `iguana` to make sure they are working before they are being announced to update by other nodes.
--  Helping CHIPS chain with continuous mining.
--  Helped the team and the community after the Agama hack, claiming and the refund process which is still continuing.
+# alien_AR
+### Main
 
-## Server Spec
 ```
-alien server - a server with latest and greatest tech
+KMD: RVrtLPvKrszs7zSggTsXPYsbxc5SwALiEN
+Pubkey: 03911a60395801082194b6834244fa78a3c30ff3e888667498e157b4aa80b0a65f
 ```
----
 
-**Vote Address - North America (NA)**
+### 3rd Party
+
 ```
-RCaRTEnGFdpcuvGou6QPQG1tLJS9tZQUB9
+KMD: RDosr7iNVe26tcErCBGHZ2YwE2JxcALiEN
+Pubkey: 024f20c096b085308e21893383f44b4faf1cdedea9ad53cc7d7e7fbfa0c30c1e71
 ```
----
-_Currently I am operating one Notary Node in the AR region `alien_AR` and one Notary Node in the EU region `alien_EU`. Both of them are at the top position in their respective region by performance._
 
-#### Thank you very much for voting for me and trusting me with securing the Komodo Notary Node network.
+# alien_EU
+### Main
 
-## Contact details
-Discord handle: @SHossain#0007
+```
+KMD: RALiENAgeHExyyEnBARdZdwWbHWokoUbtc
+Pubkey: 03bb749e337b9074465fa28e757b5aa92cb1f0fea1a39589bca91a602834d443cd
+```
+
+### 3rd Party
+
+```
+KMD: RALiENfYqijwdDuKUwtQmXFYWURq27S98S
+Pubkey: 022b85908191788f409506ebcf96a892f3274f352864c3ed566c5a16de63953236
+```
+
+# alien_NA
+### Main
+
+```
+KMD: RDZaLiENRUnckP57oRxLznYmFM5bV9PaZV
+Pubkey: 03bea1ac333b95c8669ec091907ea8713cae26f74b9e886e13593400e21c4d30a8
+```
+
+### 3rd Party
+
+```
+KMD: RSUALiEnuYzcudwcAxSjeMiB7SwQMRR3Xu
+Pubkey: 022f62b56ddfd07c9860921c701285ac39bb3ac8f6f083d1b59c8f4943be3de162
+```
+
+# Contact details
+Discord handle: @SHossain#0007  
+Keybase: https://keybase.io/shossain  
+PGP Key: [9C1ABCC1202F2F7A](https://keybase.io/shossain/pgp_keys.asc)    

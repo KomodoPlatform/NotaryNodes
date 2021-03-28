@@ -1,8 +1,14 @@
+Season 4 pubkeys (SH node):
+
+```036066fd638b10e555597623e97e032b28b4d1fa5a13c2b0c80c420dbddad236c2``` (main server)
+```0241c5660ca540780be66603b1791127a1261d56abbcb7562c297eec8e4fc078fb``` (third party server)
+
+
 ![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season4/candidates/zatjum/banner.png)
 
 ### TL;DR ###
 
-I'm the operator of 1 node in SH region for season 3 (and should be auto-reelected for, unless an unplanned event occurs before March, 13th), and I would like to be elected for a second node, in AR region.
+I'm the operator of 1 node in SH region for season 3, and I would like to be elected for a second node, in AR region.
 
 Vote for a **reliable** Notary Node operator, vote for **zatJUM**!
 
@@ -14,7 +20,7 @@ Send your VOTE2020 tokens to:
 
 ### Involvement and results ###
 
-- Season 3 was my first participation as a NN, and my rank, as of today, is 4th in my region (SH)
+- Season 3 was my first participation as a NN, and my rank, as of today, is 5th in my region (SH)
 - Even if you don't see me often on Dicord, I constantly monitor my node, and that's probably one of the reason I have this [good ranking](https://komodostats.com/nn)
 - I was one of the first 20 [KMDLabs](https://kmdlabs.io) Notary Nodes operator, back in 2018
 - As promised last year, [I paid](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season3/notarynodes/zatjum/README.md) 10% of my KMD earnings to my voters and 10% to [mrlynch#5735](https://komodoplatform.com/discord) (dev) for him to work on zcommerce adoption (because privacy matters!)
@@ -30,10 +36,10 @@ I promise to comply with the **minimum** requirements listed here:
 ### Important dates for Season 4 ###
 
 According to https://github.com/KomodoPlatform/dPoW/blob/master/doc/bible.md#guideline-general-infos-and-policies :
-- KMD snapshot on March 13rd
-- autoelection announcement should be done on March 15th
-- airdrop of VOTE2020 tokens should be done on March 16th
-- elections should start on March 16th and end on April 6th
+- KMD snapshot on April 12th
+- autoelection announcement should be done on April 12th too
+- airdrop of VOTE2020 tokens should be done on April 13th
+- elections should start on April 13th and end on Mai 4th
 
 ### Disclosure ###
 

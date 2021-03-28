@@ -3,10 +3,7 @@
 </p>
 
 # Oszy 
-***Notary Node Election 2020 Proposal***
 
-## Region: EU (UK)
-```Vote Address EU: RVoteNNv5rDWH8iMVkjhnJVZJUr7UNtMd3```
 
 ### Who Am I?
 Many of you may already know me from Slack/Discord, 
@@ -24,43 +21,19 @@ As of today, I am a Community Moderator of **Komodo**, and a First Mate in **[Pi
 In addition to the moderator role, I volunteer in Komodo and Blockchain related technical support, and community testing.
 I am one of the Notary Node operators in [KMDLabs](http://kmdlabs.io/), Komodo's incubation and testing environment for developing Komodo-based Smart Chains and custom Antara modules. 
 
-### Why am I running for the election?
+**Pubkeys**
 
-I do feel that I have the technical knowledge and experience to run a Notary Node, as well as I am committed to supporting the ecosystem as much as I possibly can. 
-I would like to further increase my experience and be part of the core of this community.
+KMD Main: 
+Address: RGYmFPnBipM5cDeXe8WoBNyopVdJVLZzMP
 
-### Hardware
-
-I am going to have 2 dedicated servers ***on time*** (Main and 3rd party) with the following or better specifications:
-
-**CPU**
-
-Intel Xeon  4c/8t - 3.5GHz/3.9GHz
-
-**RAM**
-
-64GB DDR4 
-
-**Disk**
-
-2× 1920GB SSD NVMe Raid
-
-### Pledges
-
-As I said, my main goal is to support the ecosystem therefore I am pledging the following amounts from my monthly Notary Node earnings to the following projects if I get elected. 
-
-**To PirateChain: 10%**
-
-**To KMDLabs: 10%**
-
-**To the Komodo Team for Community Bounties / Marketing  / Development:  5/5/5 = 15%**
+Pubkey: 03d1ffd680491b98a3ec5541715681d1a45293c8efb1722c32392a1d792622596a
 
 
-***I do not  offer  reward distribution to voters, as I am strongly against “buying votes” sorry. 
-The above pledges may increase/decrease depending on KMD Fiat price at the time to make sure I can cover the server costs.***
+Third-Party: 
+
+Address: RKuFvAoLsuvWqmS8F6PSBBZGYLj6WHKLc8
+
+Pubkey: 03c53bd421de4a29ce68c8cc83f802e1181e77c08f8f16684490d61452ea8d023a
 
 
-**Disclaimer**
-
-I am not part of the official Komodo Team and I do not currently have a Komodo Notary Node.
-Thank you for reading my proposal, and hope you will give me a chance to prove myself, and give your VOTE on me!
+Discord contact name/tag: Oszy#5734
