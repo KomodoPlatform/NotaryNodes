@@ -24,22 +24,25 @@ I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 https://github.com/KomodoPlatform/komodo/pull/380
 Thank you to the whole KMDLabs Team and special thanks to daemonfox !
-<img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" width="50%" height="30%" />
+<img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" width="60%" height="60%" />
 
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 https://github.com/chips-blockchain/chips/pull/2
 https://github.com/chips-blockchain/chips/pull/3
 https://github.com/chips-blockchain/chips/pull/4
 https://github.com/KomodoPlatform/dPoW/pull/193
-<img src="chips_apow_HF.png" alt="drawing" style="width: 80%; height: 80%" />
+<img src="chips_apow_HF.png" alt="drawing" width="60%" height="60%" />
 
-- [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in kmdlabs. i will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
+- [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in KMDLabs. I will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
+https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
+https://discord.com/channels/412898016371015680/497080413387489291/780873228838895626
 
-Beginning of development of -ac_aur (see details here above)
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 TODO: Add link
+
 - [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
-TODO: Update code, Add links
+TODO: Update code, Add links + printscreens
+
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
 TODO: Add printscreens
 - Discuss about notarization and Komodo outside of Komodo discord
@@ -100,8 +103,7 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 
 - [PUBLIC TESTS ONGOING] **-ac_aur=** 
 TODO: Add link + printscreen
-https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
-https://discord.com/channels/412898016371015680/497080413387489291/780873228838895626
+
 
 - [TESTS ONGOING] New RPC call **validateaddressgeneric** to verify an address belonging to any coin. This rpc call is not specific to Komodo, it can be added into AtomicDEX-API but since the aim was to try to run it on the mining pool using yiimp architecture, a coin daemon is more suitable. As discussed with Alright, many other RPC calls unrelated to Komodo were added to Komodo. Maybe I'll pull request this RPC call into phm87 branch.
 
