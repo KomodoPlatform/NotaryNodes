@@ -65,6 +65,7 @@ https://discord.com/channels/412898016371015680/497080413387489291/7808732288388
 
 ### -ac_naur
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
+
 TODO: Add link
 
 ### Multicurrency faucet (with AtomicDEX-API in the back-end)
@@ -73,17 +74,27 @@ TODO: Update code, Add links + printscreens
 
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
 TODO: Add printscreens
+
 - Discuss about notarization and Komodo outside of Komodo discord
 https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 TODO: Add printscreens
+
 - iguana contributions & tests
+
 https://github.com/KomodoPlatform/dPoW/pull/158
+
 https://github.com/KomodoPlatform/dPoW/pull/186
+
 https://github.com/KomodoPlatform/dPoW/pull/187
+
 https://github.com/KomodoPlatform/dPoW/pull/201
+
 https://github.com/KomodoPlatform/dPoW/pull/202
+
 - Tiny komodo contributions:
+
 https://github.com/KomodoPlatform/komodo/pull/406
+
 https://github.com/KomodoPlatform/komodo/pull/383
 
 
@@ -95,11 +106,14 @@ please vote for me if you want to support these projects !
 
 ### AtomicDEX
 - I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
+
 The withdraw function of AtomicDEX-API is used in the current implementation but we can use batch transactions to send coins to faucet users to lower fees (sendmany equivalent), I began to work to adapt AtomicDEX-API to have a new rpc call similar to sendmany but I'm very new to rust.
 This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. The demand for disord faucets & tipbots is increasing due to the Bubble.
 
 - **Add and test ERC20 (and BEP20) into AtomicDEX**: I'd like to add and test some ERC20 (and BEP20 when possible) on AtomicDEX-API: 1MT and WSCRT, two ERC20 so I won't need to run any electrumx since it relies on Ethereum (or Binance Smart Chain) blockchain. 
+
 Why 1MT ? See explanations here below (cross-chain development).
+
 Why SCRT and WSCRT ? WSCRT is SCRT wrapped on ethereum. I know IRL a SCRT Team member so we need to integrate more our ecosystems. SCRT allows to execute private smart contracts using special hardware and HSM, their system is very interesting technologically. Maybe it can be interesting to create a bridge between SCRT and ARRR. Will we see a future bARRR/bSCRT LP farm on pancakeswap in the future ? i won't describe all SCRT features in this proposal but I think that many bridges are possible between our communities.
 
 https://gist.github.com/phm87/e62ad935e5d55be1ec1fe9732fdf3be2
