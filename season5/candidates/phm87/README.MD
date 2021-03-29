@@ -6,10 +6,16 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 
 ## Who am I ?
 
-<img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200" style="float: right;" />
-
+<table>
+  <tr>
+    <td>
+      <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200" style="float: right;" />
+    </td>
+    <td>
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
-
+    </td>
+  </tr>
+</table>
 I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
 
 # Server requirements:
@@ -38,17 +44,17 @@ https://github.com/chips-blockchain/chips/pull/4
 
 https://github.com/KomodoPlatform/dPoW/pull/193
 
-<img src="chips_apow_HF.png" alt="drawing" width="60%" height="60%" />
+<img src="chips_apow_HF.png" alt="drawing" width="80%" height="80%" />
 
-<img src="https://user-images.githubusercontent.com/31578435/88123868-14be3c80-cbcc-11ea-8a74-73252f918359.png" alt="drawing" width="60%" height="60%" />
+<img src="https://user-images.githubusercontent.com/31578435/88123868-14be3c80-cbcc-11ea-8a74-73252f918359.png" alt="drawing" width="90%" height="90%" />
 
-<img src="https://user-images.githubusercontent.com/31578435/88123895-21429500-cbcc-11ea-8a13-bccbf05050b0.png" alt="drawing" width="60%" height="60%" />
+<img src="https://user-images.githubusercontent.com/31578435/88123895-21429500-cbcc-11ea-8a13-bccbf05050b0.png" alt="drawing" width="90%" height="90%" />
 
 - [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in KMDLabs. I will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
 
 Please feel free to review https://github.com/KomodoPlatform/komodo/compare/master...phm87:ac_aur
 
-TODO: Add image
+<img src="TAUR_help.png" alt="drawing" width="90%" height="90%" />
 
 https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 
