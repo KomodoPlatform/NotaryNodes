@@ -6,7 +6,7 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 
 ## Who am I ?
 
-<img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="50"/>
+<img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200"/>
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
 
 I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
@@ -17,7 +17,8 @@ I've been Notary Node operator of phm87_SH and Community Contributor since 2019,
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 https://github.com/KomodoPlatform/komodo/pull/380
 Thank you for daemonfox for your support !
-TDO: Add printscreen
+TODO: Add printscreen
+
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 
 https://github.com/KomodoPlatform/dPoW/pull/193
