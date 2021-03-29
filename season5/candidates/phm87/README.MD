@@ -24,7 +24,7 @@ I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 https://github.com/KomodoPlatform/komodo/pull/380
 Thank you to the whole KMDLabs Team and special thanks to daemonfox !
-<img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" style="width: 80%; height: 80%" />
+<img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" style="width: 70%; height: 70%" />
 
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 https://github.com/chips-blockchain/chips/pull/2
