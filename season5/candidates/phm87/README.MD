@@ -144,6 +144,7 @@ TODO: Add cipi remarks
 Adding suport for SCRT will require more work since SCRT blockchain is a based on Cosmos (and Cosmos is not yet supported on AtomicDEX).
 
 - About **integration of AtomicDEX into yiimp**, since most of the code is ready, I'm planning to perform more tests, document it properly, add helpers about how to use and configure. A pull request can be done when more testing will be done. Maybe I'll ask some help to crackers and Ondalf of zpool.
+
 [Add AtomicDEX support into yiimp](https://github.com/tpruvot/yiimp/compare/next...phm87:AtomicDEX)
 
 - About **integration of LN submarive swaps into AtomicDEX**, except the BTC node on my main Notary Node, I don't have any BTC node anymore. I will run a testnet LN node and testnet BTC node to be able to work on this development. Komodo Team doesn't support LN, I don't think that a pull request will be accepted. But users'demand and network effect may be worth the work in addition to LN low fees.
