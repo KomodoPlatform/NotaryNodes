@@ -8,7 +8,39 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
 
-I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana, chips and ecosystem.
+I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
+
+
+
+## 2020-2021 Projects/milestones
+- [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
+https://github.com/KomodoPlatform/komodo/pull/380
+Thank you for daemonfox for your support !
+TDO: Add printscreen
+- [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
+
+https://github.com/KomodoPlatform/dPoW/pull/193
+TODO: Add links + printscreens
+- [DEV FINISHED] **-ac_aur=** Beginning of development of -ac_aur (see details here above)
+- [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
+TODO: Add link
+- [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
+TODO: Update code, Add links
+- Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
+TODO: Add printscreens
+- Discuss about notarization and Komodo outside of Komodo discord
+https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
+TODO: Add printscreens
+- iguana contributions & tests
+https://github.com/KomodoPlatform/dPoW/pull/158
+https://github.com/KomodoPlatform/dPoW/pull/186
+https://github.com/KomodoPlatform/dPoW/pull/187
+https://github.com/KomodoPlatform/dPoW/pull/201
+https://github.com/KomodoPlatform/dPoW/pull/202
+- Tiny komodo contributions:
+https://github.com/KomodoPlatform/komodo/pull/406
+https://github.com/KomodoPlatform/komodo/pull/383
+
 
 ## 2021-2022 Projects/ideas
 
@@ -59,35 +91,6 @@ https://discord.com/channels/412898016371015680/497080413387489291/7808732288388
 - [TESTS ONGOING] New RPC call **validateaddressgeneric** to verify an address belonging to any coin. This rpc call is not specific to Komodo, it can be added into AtomicDEX-API but since the aim was to try to run it on the mining pool using yiimp architecture, a coin daemon is more suitable. As discussed with Alright, many other RPC calls unrelated to Komodo were added to Komodo. Maybe I'll pull request this RPC call into phm87 branch.
 
 https://github.com/KomodoPlatform/komodo/compare/master...phm87:patch-23
-
-## 2020-2021 Projects/milestones
-- [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
-https://github.com/KomodoPlatform/komodo/pull/380
-Thank you for daemonfox for your support !
-TDO: Add printscreen
-- [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
-
-https://github.com/KomodoPlatform/dPoW/pull/193
-TODO: Add links + printscreens
-- [DEV FINISHED] **-ac_aur=** Beginning of development of -ac_aur (see details here above)
-- [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
-TODO: Add link
-- [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
-TODO: Update code, Add links
-- Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
-TODO: Add printscreens
-- Discuss about notarization and Komodo outside of Komodo discord
-https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
-TODO: Add printscreens
-- Tiny komodo contributions:
-https://github.com/KomodoPlatform/komodo/pull/406
-https://github.com/KomodoPlatform/komodo/pull/383
-- iguana contributions & tests
-https://github.com/KomodoPlatform/dPoW/pull/158
-https://github.com/KomodoPlatform/dPoW/pull/186
-https://github.com/KomodoPlatform/dPoW/pull/187
-https://github.com/KomodoPlatform/dPoW/pull/201
-https://github.com/KomodoPlatform/dPoW/pull/202
 
 
 ### TO FINISH !!!
