@@ -17,6 +17,12 @@ This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. 
 Why 1MT ? See explanations here below (cross-chain development).
 Why SCRT and WSCRT ? WSCRT is SCRT wrapped on ethereum. I know IRL a SCRT Team member so we need to integrate more our ecosystems. SCRT allows to execute private smart contracts using special hardware and HSM, their system is very interesting technologically. Maybe it can be interesting to create a bridge between SCRT and ARRR. Will we see a future bARRR/bSCRT LP farm on pancakeswap in the future ? i won't describe all SCRT features in this proposal but I think that many bridges are possible between our communities.
 
+https://gist.github.com/phm87/e62ad935e5d55be1ec1fe9732fdf3be2
+
+https://github.com/KomodoPlatform/coins/compare/master...phm87:patch-1
+
+https://github.com/KomodoPlatform/atomicDEX-Desktop/compare/dev...phm87:patch-1
+
 - **Integration and support of coins into AtomicDEX**: When a coin is added on my mining pool, I'd like to run an electrumx for it then add it on AtomicDEX and on the discord faucet. we can't rely on KMD Team to run electrumx for many coins. This additional infrastructure will be paid with NN earnings.
 Adding suport for SCRT will require more work since SCRT blockchain is a based on cosmos (and cosmos not yet supported on AtomicDEX).
 
@@ -30,14 +36,19 @@ Adding suport for SCRT will require more work since SCRT blockchain is a based o
 - I'd like to **enhance some rpc calls** about cpu mining (details to be discussed with chips team)
 
 ### Cross-chain development
-- [TODO] I discussed on discord and slack how to **airdrop a smartchain/token to all hodlers of an ERC20 (or BEP20)** ? I'd like to do the experiment on 1MT token then later on other tokens. It is not possible to calculate pubkey based on an ERC20/ethereum address that never spent nor signed a message. Using the message (or transaction) signed, we can derive the pubkey. Given current Ethereum fees, one solution discussed is to create a web3 webpage asking to sign a transaction (or message), don't broadcast it on Ethereum mainet network then retrieve it offchain and verify the signature offchain. A CC adapted can be useful (or a CC "node" as discussed with Alright).
-Why 1MT? 1MT uses cases are similar to PANGEA's and CHIPS'ones (poker, gambling, online casinos). Team sizes are similar but Chips Team is more orientated on tech side while 1MT team focus on marketing. 1MT is not searching to partnership with CHIPS now (but no official discussion happened, projects'team don't know each other). But if we give some tech support to 1MT (integration into AtomicDEX exchange, airdrop test using 1MT hodlers list, web3 tests on BSC using 1MT, faucet), maybe partnerships will be possible with CHIPS. Chips Team is doing a great job but the marketing skills of 1MT Team are above Chips Team. The discord presence of 1MT is important. But about tech, we can give support and help 1MT to get stronger. I think that at the end, both communities can become stronger united.
-[MESSAGE UNDER REVIEW]
+- I discussed on discord and slack how to **airdrop a smartchain/token to all hodlers of an ERC20 (or BEP20)** ? I'd like to do the experiment on 1MT token then later on other tokens. It is not possible to calculate the pubkey based on an ERC20/ethereum address that never sent funds nor signed a message. Using the message (or transaction) signed, we can derive the pubkey. Given current Ethereum fees, one solution discussed is to create a web3 webpage asking to sign a transaction (or message), don't broadcast it on Ethereum mainet network, then retrieve it offchain and verify the signature offchain. A CC adapted can be useful (or a CC "node" as discussed with Alright).
+
+Why 1MT? 1MT use cases are similar to PANGEA's and CHIPS' ones (poker, gambling, online casinos). Team sizes are similar, but Chips Team is more orientated on tech side, while 1MT team is focused on marketing. 1MT is not searching to partner with CHIPS now (as no official discussion happened, projects' teams don't know each other). But if we give some tech support to 1MT (integration into AtomicDEX exchange, airdrop test using 1MT hodlers list, web3 tests on BSC using 1MT, faucet), maybe partnerships will be possible with CHIPS. Chips Team is doing a great job but the marketing skills of 1MT Team are above Chips Team. The discord presence of 1MT is important. But about tech, we can give support and help 1MT to get stronger. I think that at the end, both communities can become stronger united.
+
+https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 
 ### Komodo enhancements/developments
+
 - [TESTS ONGOING] **-ac_aur=** this runtime parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in kmdlabs. i will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
-TODO: Add link
-- [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
+TODO: Add link + printscreen
+https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
+
+- [TESTS ONGOING] New rpc call
 
 ## 2020-2021 Projects/milestones
 - **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
@@ -45,6 +56,11 @@ TODO: Add links + printscreens
 - Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
 TODO: Update code, Add links
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
+TODO: Add printscreens
+- [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
+TODO: Add link
+- Discuss about notarization and Komodo outside of Komodo discord
+https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 TODO: Add printscreens
 
 ### TO FINISH !!!
