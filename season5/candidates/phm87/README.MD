@@ -2,7 +2,9 @@
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
 
-I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my current projects and launch/support new projects !
+I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** !
+
+Please review and comment the past and future projects listed here below.
 
 ## Who am I ?
 
@@ -18,8 +20,17 @@ I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017
 </table>
 I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
 
+During the 2020-2021 season, my performances were lower than during the 2019-2020 season, I tested [PR 201](https://github.com/KomodoPlatform/dPoW/pull/201) during a too long time, I had a swap configuration issue and a hardware issue. If I am elected for the 2021-2022 season, I won't test any code change on my Notary Node (whatever it is agreed by community) except if KMD team asks to test the official dev branch. If I want to test any iguana/dPoW change, I'll ask a DEV NN operator to test my code.
+
+Thank you to Komodo Team to have merged my pull requests to githubs of komodo and dPoW/iguana despite the additional workload. I am very happy to be part of Komodo community and Notary Nodes, I had many interesting open-minded discussions about KMD tech and other projects. Learning how consensus code works and different protocol is a long learning curve but I'm happy to do it with KMD community.
+
+Big thank you to the whole Komodo community and ecosystem. Specials thanks to jl777, metaphilibert, Ludom, SHossain, blakjok3r, Alright and ca333.
+
+
+phm87
+
 # Server requirements:
-Servers specifications will be fine tuned according to requirements for season 2020-2021:
+Servers specifications will be fine tuned according to requirements for season 2021-2022:
 - Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz
 - 128GB ECC
 - NVMe 1.2 To RAID
@@ -147,8 +158,6 @@ Adding suport for SCRT will require more work since SCRT blockchain is a based o
 
 [Add AtomicDEX support into yiimp](https://github.com/tpruvot/yiimp/compare/next...phm87:AtomicDEX)
 
-- About **integration of LN submarive swaps into AtomicDEX**, except the BTC node on my main Notary Node, I don't have any BTC node anymore. I will run a testnet LN node and testnet BTC node to be able to work on this development. Komodo Team doesn't support LN, I don't think that a pull request will be accepted. But users'demand and network effect may be worth the work in addition to LN low fees.
-
 ### CHIPS
 - The **chips-qt** needs to be fixed and enhanced (TODO: check that it is still to be done)
 - Support of chips in the discord faucet (using AtomicDEX-API in the back-end)
@@ -168,18 +177,6 @@ My interest in ARM platforms and HSM modules is increasing. I discussed about ad
 https://gist.github.com/phm87/cdee681423030898f05ba2544d84831e
 
 In order to let coin communities run dPoW notaries and having AtomicDEX-API + Desktop + local full nodes and minimize costs, I think that running dPoW 2.0 on Raspberry Pi can help for decentralization. The current dPoW 1.0 won't work properly on Raspberry Pi due to additional calculation delays.
-
-TO FINISH
-
-I tested many things on my phm87_SH node during the 2019-2020 season: my notarization performances were sometimes in the top 3 and sometimes very low. Whatever many notary nodes were impressed by these performances, my node was not re-elected.
-
-KMD Team was very kind and created recently a phm87 branch for my contirbutions to Komodo. I was very pleased to have open-mindid discussions with jl777 about Lightning Network, Komodo and some technical aspects of crypto. I was very happy to give additional support to KMDLabs, Chips, WLC21 and other projects.
-
-Big thank you to the whole Komodo community and ecosystem. Specials thanks to jl777, blakjok3r, Alright and ca333.
-
-
-phm87
-
 
 
 ## 2019-2020 Projects/milestones
