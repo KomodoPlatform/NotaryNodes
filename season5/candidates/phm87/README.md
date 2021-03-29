@@ -2,11 +2,17 @@
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
 
-I'm candidate to be Notary Node during the 2021-2022 season in order to continue ongoing projects and launch/support new projects !
+I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my current ongoing projects and launch/support new projects !
 
 ## Who am I ?
 
+I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
+
+I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana, chips and ecosystem.
+
 ## 2021-2022 Projects/ideas
+
+Most of these projects are ongoing. The NN earnings will be helpful to support these projects.
 
 ### AtomicDEX
 - I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
@@ -22,6 +28,7 @@ https://gist.github.com/phm87/e62ad935e5d55be1ec1fe9732fdf3be2
 https://github.com/KomodoPlatform/coins/compare/master...phm87:patch-1
 
 https://github.com/KomodoPlatform/atomicDEX-Desktop/compare/dev...phm87:patch-1
+TODO: Add cipi remarks
 
 - **Integration and support of coins into AtomicDEX**: When a coin is added on my mining pool, I'd like to run an electrumx for it then add it on AtomicDEX and on the discord faucet. we can't rely on KMD Team to run electrumx for many coins. This additional infrastructure will be paid with NN earnings.
 Adding suport for SCRT will require more work since SCRT blockchain is a based on cosmos (and cosmos not yet supported on AtomicDEX).
@@ -48,32 +55,33 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 TODO: Add link + printscreen
 https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 
-- [TESTS ONGOING] New rpc call
+- [TESTS ONGOING] New RPC call **validateaddressgeneric** to verify an address belonging to any coin. This rpc call is not specific to Komodo, it can be added into AtomicDEX-API but since the aim was to try to run it on the mining pool using yiimp architecture, a coin daemon is more suitable. As discussed with Alright, many other RPC calls unrelated to Komodo were added to Komodo. Maybe I'll pull request this RPC call into phm87 branch.
+
+https://github.com/KomodoPlatform/komodo/compare/master...phm87:patch-23
 
 ## 2020-2021 Projects/milestones
-- **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
+- [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 TODO: Add links + printscreens
-- Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
+- [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
 TODO: Update code, Add links
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
 TODO: Add printscreens
+- [DEV FINISHED] **-ac_aur=** Beginning of development of -ac_aur (see details here above)
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 TODO: Add link
 - Discuss about notarization and Komodo outside of Komodo discord
 https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 TODO: Add printscreens
+- iguana contributions & tests
+TODO: Add links + update PRs
 
 ### TO FINISH !!!
 
-to contribute to support CHIPS, contribute to iguana/dPoW, komodo and ecosystem projects, 
-contribute to AtomicDEX/mm2 (integration into yiimp still ongoing, Lightning Network submarine swaps integration) and maybe launch and support other projects 
-(run komodo on ARM hardware, HSM integration for iguana & yiimp). I am planning to use the Notary Node earnings to support these projects. About testing my iguana changes, I may ask to have a 3P Dev node in addition (in order to avoid to alter my official mainet stats).
+run komodo on ARM hardware, HSM integration for iguana & yiimp
 
 I tested many things on my phm87_SH node during the 2019-2020 season: my notarization performances were sometimes in the top 3 and sometimes very low. Whatever many notary nodes were impressed by these performances, my node was not re-elected.
 
 KMD Team was very kind and created recently a phm87 branch for my contirbutions to Komodo. I was very pleased to have open-mindid discussions with jl777 about Lightning Network, Komodo and some technical aspects of crypto. I was very happy to give additional support to KMDLabs, Chips, WLC21 and other projects.
-
-During 2019-2020 season, I gave 20% of my KMD mined to Chips and 20% to KMDLabs (so I gave 40% in total). If I am elected, I will give some of my KMD earnings to some projects but less than 40%.
 
 Big thank you to the whole Komodo community and ecosystem. Specials thanks to jl777, blakjok3r, Alright and ca333.
 
