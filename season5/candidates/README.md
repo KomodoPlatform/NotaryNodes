@@ -10,11 +10,11 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
-|[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|[zatJUM](zatjum/README.md)	|[decker](decker/README.md)	|
+|[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|[zatjum](zatjum/README.md)	|[decker](decker/README.md)	|
 |[alien](alien/README.md)	|[alien](alien/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
 |[tonyl](tonyl/README.md)	|[greer](greer/README.md)	|	[nutellalicka](nutellalicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
 |[smdmitry](smdmitry/README.md)	|[dragonhound](dragonhound/README.md)	|[darkolisio](darkolisio/README.md)	|[smdmitry](smdmitry/README.md)	|
 |[slyris](slyris/README.md)	|	|[gcharang](gcharang/README.md)	|[ocean](ocean/README.md)	|
-|[DappVader](dapp_vader/README.md)	|	|[workax](workax/README.md)	|[nutellalicka](nutellalicka/README.md)	|
+|[dappvader](dappvader/README.md)	|	|[workax](workax/README.md)	|[nutellalicka](nutellalicka/README.md)	|
 |	|	|	|[kulim](kulim/README.md)	|
 |	|	|	|[paro](paro/README.md)	|
