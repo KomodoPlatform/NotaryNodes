@@ -7,26 +7,35 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 ## Who am I ?
 
 <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200" style="float: right;" />
+
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
 
 I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
 
+# Server requirements:
+Servers specifications will be fine tuned according to requirements for season 2020-2021:
+- Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz
+- 128GB ECC
+- NVMe 1.2 To RAID
 
+I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
 
 ## 2020-2021 Projects/milestones
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 https://github.com/KomodoPlatform/komodo/pull/380
 Thank you to the whole KMDLabs Team and special thanks to daemonfox !
-<img src="KMDLabs_notarizations_fixed.png" alt="drawing" />
+<img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" style="width: 80%; height: 80%" />
 
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 https://github.com/chips-blockchain/chips/pull/2
 https://github.com/chips-blockchain/chips/pull/3
 https://github.com/chips-blockchain/chips/pull/4
 https://github.com/KomodoPlatform/dPoW/pull/193
-TODO: Add links + printscreens
+<img src="chips_apow_HF.png" alt="drawing" style="width: 80%; height: 80%" />
 
-- [DEV FINISHED] **-ac_aur=** Beginning of development of -ac_aur (see details here above)
+- [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in kmdlabs. i will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
+
+Beginning of development of -ac_aur (see details here above)
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 TODO: Add link
 - [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
@@ -71,6 +80,7 @@ TODO: Add cipi remarks
 Adding suport for SCRT will require more work since SCRT blockchain is a based on cosmos (and cosmos not yet supported on AtomicDEX).
 
 - About **integration of AtomicDEX into yiimp**, since most of the code is ready, I'm planning to perform more tests, document it properly, add helpers about how to use and configure. A pull request can be done when more testing will be done.
+[Add AtomicDEX support into yiimp](https://github.com/tpruvot/yiimp/compare/next...phm87:AtomicDEX)
 
 - About **integration of LN submarive swaps into AtomicDEX**, except the BTC node on my main Notary Node, I don't have any BTC node anymore. I will run a testnet LN node and testnet BTC node to be able to work on this development. Komodo Team doesn't support LN, I don't think that a pull request will be accepted. But users'demand and network effect may be worth the work in addition to LN low fees.
 
@@ -88,7 +98,7 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 
 ### Komodo enhancements/developments
 
-- [TESTS ONGOING] **-ac_aur=** this runtime parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in kmdlabs. i will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
+- [PUBLIC TESTS ONGOING] **-ac_aur=** 
 TODO: Add link + printscreen
 https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 https://discord.com/channels/412898016371015680/497080413387489291/780873228838895626
@@ -111,18 +121,9 @@ Big thank you to the whole Komodo community and ecosystem. Specials thanks to jl
 
 phm87
 
-# Server requirements:
-Servers specifications will be fine tuned according to requirements for season 2020-2021:
-- Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz
-- 128GB ECC
-- NVMe 1.2 To RAID
 
-# Contact details :
-Slack : @phm87
-Discord : phm87#7395
-Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
 
-# Past contributions and ongoing work:
+## 2019-2020 Projects/milestones
 Here is a part of my past contributions.
 
 - [Fix/enhance stopcoin & pausecoin into iguana/dPoW](https://github.com/jl777/SuperNET/pull/1113)
@@ -133,8 +134,6 @@ Here is a part of my past contributions.
 - Contributions to 2019 NN testnet repository
 - Small fixes to Komodo (dpowconf, 
 
-## Ongoing:
-- [Add AtomicDEX support into yiimp](https://github.com/tpruvot/yiimp/compare/next...phm87:AtomicDEX): Orderbooks, manual trading, get prices ... The support of AtomicDEX will add all mm2/AtomixDEX coins into the database of each yiimp pool that merges this future PR. ca333 was very kind and he gave me some RICK and MORTY, I'm planning to let anonymous visitors use the yiimp interface to perform RICK/MORTY trades.
 - Add dpowlistunspent and cleanwallettransactions to each 3P coin (Hush, VRSC, EMC2, GAME, Chips, Bitcoin), no PR yet because some issues still remain.
 - https://github.com/blackjok3rtt/komodo/compare/FSM...phm87:force-rescan
 - Continuation of PR 1113/1114: https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:patch-10
@@ -142,6 +141,11 @@ Here is a part of my past contributions.
 - https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:ktnn
 - https://github.com/jl777/SuperNET/compare/blackjok3r...phm87:phm87
 
-## Discussions:
+Discussions:
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash -> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
+
+# Contact details :
+Slack : @phm87
+Discord : phm87#7395
+Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
