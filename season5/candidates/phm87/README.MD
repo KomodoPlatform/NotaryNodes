@@ -6,7 +6,7 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 
 ## Who am I ?
 
-<img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200"/>
+<img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200" style="float: right;" />
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
 
 I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
@@ -16,13 +16,16 @@ I've been Notary Node operator of phm87_SH and Community Contributor since 2019,
 ## 2020-2021 Projects/milestones
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 https://github.com/KomodoPlatform/komodo/pull/380
-Thank you for daemonfox for your support !
-TODO: Add printscreen
+Thank you to the whole KMDLabs Team and special thanks to daemonfox !
+<img src="KMDLabs_notarizations_fixed.png" alt="drawing" />
 
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
-
+https://github.com/chips-blockchain/chips/pull/2
+https://github.com/chips-blockchain/chips/pull/3
+https://github.com/chips-blockchain/chips/pull/4
 https://github.com/KomodoPlatform/dPoW/pull/193
 TODO: Add links + printscreens
+
 - [DEV FINISHED] **-ac_aur=** Beginning of development of -ac_aur (see details here above)
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 TODO: Add link
