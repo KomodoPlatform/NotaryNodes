@@ -40,7 +40,15 @@ https://github.com/KomodoPlatform/dPoW/pull/193
 
 <img src="chips_apow_HF.png" alt="drawing" width="60%" height="60%" />
 
+<img src="https://user-images.githubusercontent.com/31578435/88123868-14be3c80-cbcc-11ea-8a74-73252f918359.png" alt="drawing" width="60%" height="60%" />
+
+<img src="https://user-images.githubusercontent.com/31578435/88123895-21429500-cbcc-11ea-8a13-bccbf05050b0.png" alt="drawing" width="60%" height="60%" />
+
 - [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in KMDLabs. I will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
+
+Please feel free to review https://github.com/KomodoPlatform/komodo/compare/master...phm87:ac_aur
+
+TODO: Add image
 
 https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 
@@ -71,6 +79,8 @@ https://github.com/KomodoPlatform/komodo/pull/383
 ## 2021-2022 Projects/ideas
 
 Most of these projects are ongoing. The NN earnings will be helpful to support these projects.
+
+please vote for me if you want to support these projects !
 
 ### AtomicDEX
 - I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
@@ -119,9 +129,15 @@ TODO: Add link + printscreen
 https://github.com/KomodoPlatform/komodo/compare/master...phm87:patch-23
 
 
-### TO FINISH !!!
+### ARM platforms / HSM modules
 
-run komodo on ARM hardware, HSM integration for iguana & yiimp
+My interest in ARM platforms and HSM modules is increasing. I discussed about adding Komodo to a plastic card HSM (Belgian company). During my tests, I ran AtomicDEX-API, bitcoin, LN node and komodo on a Raspberry Pi. I'd like to help and support webworker01 work on ARM platforms.
+
+https://gist.github.com/phm87/cdee681423030898f05ba2544d84831e
+
+In order to let coin communities run dPoW notaries and having AtomicDEX-API + Desktop + local full nodes and minimize costs, I think that running dPoW 2.0 on Raspberry Pi can help for decentralization. The current dPoW 1.0 won't work properly on Raspberry Pi due to additional calculation delays.
+
+TO FINISH
 
 I tested many things on my phm87_SH node during the 2019-2020 season: my notarization performances were sometimes in the top 3 and sometimes very low. Whatever many notary nodes were impressed by these performances, my node was not re-elected.
 
@@ -157,6 +173,9 @@ Discussions:
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
 
 # Contact details :
+
 Slack : @phm87
+
 Discord : phm87#7395
+
 Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
