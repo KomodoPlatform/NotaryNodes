@@ -27,6 +27,7 @@ Servers specifications will be fine tuned according to requirements for season 2
 I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
 
 ## 2020-2021 Projects/milestones
+### Fix KMDLabs Notarization Network
 - [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
 
 https://github.com/KomodoPlatform/komodo/pull/380
@@ -34,6 +35,7 @@ https://github.com/KomodoPlatform/komodo/pull/380
 Thank you to the whole KMDLabs Team and special thanks to daemonfox !
 <img src="KMDLabs_notarizations_fixed.png" alt="KMDLabs_nota_success" width="60%" height="60%" />
 
+### Integration of aPoW into CHIPS
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 
 https://github.com/chips-blockchain/chips/pull/2
@@ -50,6 +52,7 @@ https://github.com/KomodoPlatform/dPoW/pull/193
 
 <img src="https://user-images.githubusercontent.com/31578435/88123895-21429500-cbcc-11ea-8a13-bccbf05050b0.png" alt="drawing" width="90%" height="90%" />
 
+### -ac_aur : new parameter for smartchains !
 - [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in KMDLabs. I will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
 
 Please feel free to review https://github.com/KomodoPlatform/komodo/compare/master...phm87:ac_aur
@@ -60,9 +63,11 @@ https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 
 https://discord.com/channels/412898016371015680/497080413387489291/780873228838895626
 
+### -ac_naur
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 TODO: Add link
 
+### Multicurrency faucet (with AtomicDEX-API in the back-end)
 - [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
 TODO: Update code, Add links + printscreens
 
