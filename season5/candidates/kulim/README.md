@@ -2,7 +2,7 @@
 
 ## Region and Voting Address
 
-- Region: `AR`
+- Region: `NA`
 - Address: `RLEeYUDycBbmKvN1irX5jZohskrynntFcH`
 - Pubkey: 020c3d33ddac956a0ce5ec0d307351f748db81845efcd863f30168ce85af93b511
 ## Who am I?
