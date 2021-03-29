@@ -60,6 +60,10 @@ https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 https://github.com/KomodoPlatform/komodo/compare/master...phm87:patch-23
 
 ## 2020-2021 Projects/milestones
+- [SUCCESS] **Fix KMDLabs Notarization Network** by adding back dpowlistunspent RPC call to komodo source code (using blackjok3r implementation): 
+https://github.com/KomodoPlatform/komodo/pull/380
+Thank you for daemonfox for your support !
+TDO: Add printscreen
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 TODO: Add links + printscreens
 - [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
