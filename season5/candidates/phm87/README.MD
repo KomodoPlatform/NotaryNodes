@@ -6,10 +6,10 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
 
 ## Who am I ?
 
-<table>
+<table style="border: 0px;">
   <tr>
     <td>
-      <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" width="200" style="float: right;" />
+      <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" style="float: right;" />
     </td>
     <td>
 I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
