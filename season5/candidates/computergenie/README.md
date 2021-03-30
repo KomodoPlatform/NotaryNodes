@@ -1,4 +1,4 @@
-# ComputerGenie Notary Node Proposal 2020
+# ComputerGenie Notary Node Proposal 2021
 
 <img src="https://github.com/TheComputerGenie/NotaryNodes/blob/master/season4/candidates/computergenie/genie.jpg" width="248">
 

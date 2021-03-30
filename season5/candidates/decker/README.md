@@ -15,6 +15,13 @@ He is one of the Komodo-Qt wallet devs - the world's first GUI wallet for a zero
 
 Decker has demonstrated knowledge and passion for blockchain, cryptography, programming languages and system administration. He is among the most active Komodo members. 
 
+## Vote4Decker with QR ##
+
+| AR | EU |
+| :---: | :---: |
+| ![RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7](./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg) | ![RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf](./RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf.svg) |
+| `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `RAE43rkzYV3YQ5QcR3twTtNxEkQb8RNrBf` |
+
 ## Projects / Milestones (2020-2021) ###
 
 - [KomodoOcean](https://github.com/DeckerSU/KomodoOcean) - last year Komodo-Qt wallet obtained several highly wanted dev and user features, such as possibility of cross-compilation build for MacOS X from Linux, get rid of using `gcc` as default builder on native Darwin platform with using of default `clang` compiler instead, new .dmg package installer for MacOS ... See *What's new?* section of every build on [releases](https://github.com/DeckerSU/KomodoOcean/releases) page for all changes. Also it has become more fast (in some places even faster than original `komodod`), fail-safe and easy-to-use.
@@ -78,68 +85,37 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
  - KeyBase: [https://keybase.io/deckersu](https://keybase.io/deckersu)
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v2
+Version: OpenPGP.js v4.10.8
+Comment: https://openpgpjs.org
 
-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
-IIyLyBKVZC5++P2IYLuNGNT+aJX5k3pwtXqt
-=T2a+
+xsBNBFx8LNsBCACcHGgP8u1KiM0dv1pynpl1o0JJCpA6ZUQHqSBs4FQlN2re
+w2c+2THpf2Npt66KN4kp1tu7z7KHNn6SLyGxwRioVYFVXZeICe5GRPzlSBtU
+sPtIJo2Dym8DWKxGsSc28sxwjuQTlvkw07U8a95lzow8ixw2qFI0HQtTsS6m
+vdneoueldK7WZwU88awSk5wuhvTfw/XYehj9aK++D4ebt7daxNeBjqLmCnmH
+y4xYNVSLV2Z57CYinZeFoE/0OsnMsNrPuhMrEmv/tuEfBdm+HBxEwsZ0ZyQf
+77sAUq9ePX4iqIiEBqRLv4k9qr7vbNts8dRFKxkH9GipvrGkeqO2yXhBABEB
+AAHNMyJkZWNrZXJzdUBwcm90b25tYWlsLmNvbSIgPGRlY2tlcnN1QHByb3Rv
+bm1haWwuY29tPsLAdQQQAQgAHwUCXHws2wYLCQcIAwIEFQgKAgMWAgECGQEC
+GwMCHgEACgkQtxi0bf9tdP0QcAf9HMez8SfbYf/Aej0J4o99/Ql+VEY69x+O
+hRzIV7XcWAiXNEFALI7b5VqL3CCb15u14xLxGmXSA0iaZltXe454vvUVqEts
+QCSxLX2GAFCf47U4BA6FoON+DgxuLKT3mB/nA0QJhy4U1Cqh77j7e+L1dgXH
+VEI4calKu7n00yxHo9uUhc7agmfYBkP+iHOXaHAqwm+hE7DNGQsTlrcnteZt
+Z6gxzmr4CUYhNA0BtpHZCPKZ72+9X/J4cWpfLM46N0suyX/3h6NbvYUG2Sqc
+zMGySjdF2VnPvBvXWbsk4uMWthik5JyW5FzgF+cD8JuSqQvTnHFjGYUt40ck
+FB1ij4PMh87ATQRcfCzbAQgAlbqWCUHF7P+XYXchIi2Pingnmi23CP0CrhJD
+INcJKRC6Ct5rH5DOxs9LiW5qxEj8DX3FlV156eEplL979cOINI/N0YhKDayJ
+vPMggiYWsQM4PMVYtrsr0nqzkbKV2HCTgj7/clbeZ4QYrnslOyukvFclGv+L
+t4kRfzhnwpx/yBfNruFeupHhcOm+qqi7PZ+0A87O345rS51LW1OpO4JiT2TA
+zEeIEwef+KmrW0YEn3n/rfulRLdT8Ch90qY6Xr17EFslwJuGPoUvGz4LDt7A
+WbMiTks22gWKrRWAwpNh/hl2+EbyJA6Y/f7NiXAq21YJvJLIoujnytw8Wuqk
+P1WqzQARAQABwsBfBBgBCAAJBQJcfCzbAhsMAAoJELcYtG3/bXT9qFgH/09d
+7/Wb1/hQMCVF0HsugwWgGcUPeAHg4U0F66PSgzQUtgJJOhmNK4y2GJ7owcBz
+9b3bJ/orNFxPwRtpvcz6Lq/PIjfRisexHh8yXdnqi23gS27kTtDDRF8YN0a4
+icrEqtTuRDbYRtYKTnAW7YmjD4+cl86SJRt9/Dk+ZSwWZA9KydzfOostSX8d
+yvLqO7LfCS5Wc7Qvz4SOj1xSta/q4tlOjDpn4jsTdE6oDt2zrbgJ2xRpK2Wh
+vNbcLKg1iTA5c36i1ym7p7sBATZ6pvYiC1YVq61SvMrw3gcKq1E1ZC2pLlay
+mMvXPP7+Eb3CKcknFDGv7lKzG61Z+xGobLD2Pfc=
+=bBfV
 -----END PGP PUBLIC KEY BLOCK-----
 ```
  

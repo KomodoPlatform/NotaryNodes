@@ -3,7 +3,7 @@
 ## Voting address:
 
 ```json
-Region EU: RNWUrfBmdRmKogYq8ss73UCrP3ipmT54A8
+Region AR: RNWUrfBmdRmKogYq8ss73UCrP3ipmT54A8
 ```
 
 ## About me:
