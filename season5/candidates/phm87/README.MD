@@ -38,9 +38,6 @@ Servers specifications will be fine tuned according to requirements for season 2
 I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
 
 ## 2020-2021 Projects/milestones
-### Multicurrency faucet (with AtomicDEX-API in the back-end)
-- [DEV ONGOING] Beginning on the creation of a **multicurrency faucet** using AtomicDEX-API in the back-end
-TODO: Update code, Add links + printscreens
 
 ### Integration of aPoW into CHIPS
 - [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
@@ -59,7 +56,7 @@ https://github.com/KomodoPlatform/dPoW/pull/193
 
 <img src="https://user-images.githubusercontent.com/31578435/88123895-21429500-cbcc-11ea-8a13-bccbf05050b0.png" alt="drawing" width="90%" height="90%" />
 
-### -ac_aur : new parameter for smartchains !
+### -ac_aur : new parameter to enable active user rewards for smartchains !
 - [DEV FINISHED] **-ac_aur=** this new parameter allows to have **active user rewards enabled for smartchains**: the code of Komodo's active user rewards is used, I added conditions to allow it for smartchains. I tested it locally then TAUR testchain was launched in KMDLabs. I will contact TonyL to ask help to run pytests of KMD to avoid regression then I'll pull request this change to komodo source.
 
 Please feel free to review https://github.com/KomodoPlatform/komodo/compare/master...phm87:ac_aur
@@ -106,13 +103,12 @@ https://github.com/KomodoPlatform/komodo/pull/383
 ### Raise awareness about dPoW and KMD tech (outside of KMD Discord)
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
 
-TODO: Add printscreens
-
 - Discuss about notarization and Komodo outside of Komodo discord
 
 https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 
-TODO: Add printscreens
+
+
 
 - Discuss on discord about features of KMD tech
 
@@ -137,11 +133,13 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 The withdraw function of AtomicDEX-API is used in the current implementation but we can use batch transactions to send coins to faucet users to lower fees (sendmany equivalent), I began to work to adapt AtomicDEX-API to have a new rpc call similar to sendmany but I'm very new to rust.
 This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. The demand for disord faucets & tipbots is increasing due to the Bubble.
 
+https://github.com/phm87/discord-faucet-adex
+
 - **Add and test ERC20 (and BEP20) into AtomicDEX**: I'd like to add and test some ERC20 (and BEP20 when possible) on AtomicDEX-API: 1MT and WSCRT, two ERC20 so I won't need to run any electrumx since it relies on Ethereum (or Binance Smart Chain) blockchain. 
 
 Why 1MT ? See explanations here below (cross-chain development).
 
-Why SCRT and WSCRT ? WSCRT is SCRT wrapped on ethereum. I know IRL a SCRT Team member so we need to integrate more our ecosystems. SCRT allows to execute private smart contracts using special hardware and HSM, their system is very interesting technologically. Maybe it can be interesting to create a bridge between SCRT and ARRR. Will we see a future bARRR/bSCRT LP farm on pancakeswap in the future ? i won't describe all SCRT features in this proposal but I think that many bridges are possible between our communities.
+Why SCRT and WSCRT ? WSCRT is SCRT wrapped on ethereum. I know IRL a SCRT Team member so we need to integrate more our ecosystems. SCRT allows to execute private smart contracts using special hardware and HSM, their system is very interesting technologically. Maybe it can be interesting to create a bridge between SCRT and ARRR. Will we see a future bARRR/bSCRT LP farm on pancakeswap in the future ? I won't describe all SCRT features in this proposal but I think that many bridges are possible between our communities.
 
 https://gist.github.com/phm87/e62ad935e5d55be1ec1fe9732fdf3be2
 
