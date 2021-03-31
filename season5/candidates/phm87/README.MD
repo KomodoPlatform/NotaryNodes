@@ -132,7 +132,7 @@ Why 1MT? 1MT use cases are similar to PANGEA's and CHIPS' ones (poker, gambling,
 https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 
 ### AtomicDEX
-- I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
+- [TESTS ONGOING] I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
 
 The withdraw function of AtomicDEX-API is used in the current implementation but we can use batch transactions to send coins to faucet users to lower fees (sendmany equivalent), I began to work to adapt AtomicDEX-API to have a new rpc call similar to sendmany but I'm very new to rust.
 This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. The demand for disord faucets & tipbots is increasing due to the Bubble.
@@ -145,7 +145,9 @@ https://github.com/phm87/discord-faucet-adex
 
 I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement about inviting the faucet
 
+<img src="TestBot1904.png" alt="drawing" width="90%" height="90%" />
 
+I'll use some NN earnings to fund the faucet in KMD, VRSC and Tokel.
 
 - **Add and test ERC20 (and BEP20) into AtomicDEX**: I'd like to add and test some ERC20 (and BEP20 when possible) on AtomicDEX-API: 1MT and WSCRT, two ERC20 so I won't need to run any electrumx since it relies on Ethereum (or Binance Smart Chain) blockchain. 
 
