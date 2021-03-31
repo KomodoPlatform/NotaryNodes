@@ -32,15 +32,15 @@ phm87
 # Server requirements:
 Servers specifications will be fine tuned according to requirements for season 2021-2022:
 - Intel Xeon E3-1245v5 - 4c/8t - 3.5 GHz/3.9 GHz
-- 128GB ECC
+- 96GB or 128GB ECC
 - NVMe 1.2 To RAID
 
-I'm sick of my current 64GB server, if I am elected, I'll use 128GB server.
+I'm sick of my current 64GB server, if I am elected, I'll use a server with 96GB or 128GB RAM.
 
 ## 2020-2021 Projects/milestones
 
 ### Integration of aPoW into CHIPS
-- [SUCCESS] **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
+- <span style="color:green">[SUCCESS]</span> **Integration of aPoW into CHIPS**: Final cleanup and testing of the code (thank you SHossain for the help with your ASIC), successfull network hard-fork ! This integration was supported by a bounty and I received personal donations but my Notary Node was helpful to test my new CHIPS code when notarizing on the Notary Node.
 
 https://github.com/chips-blockchain/chips/pull/2
 
@@ -69,6 +69,8 @@ https://discord.com/channels/412898016371015680/497080413387489291/7808732288388
 
 ### -ac_naur
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
+
+<img src="TNAUR_test.png" alt="drawing" width="90%" height="90%" />
 
 https://github.com/phm87/komodo/tree/ac_naur
 
@@ -103,16 +105,16 @@ https://github.com/KomodoPlatform/komodo/pull/383
 ### Raise awareness about dPoW and KMD tech (outside of KMD Discord)
 - Support of Komodo ecosystem on the **mining pool** (SPACE, WSB, SOULJA added)
 
-- Discuss about notarization and Komodo outside of Komodo discord
+- Discuss about notarization outside of Komodo discord
 
 https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 
-
-
-
 - Discuss on discord about features of KMD tech
 
-TODO: Add printscreens
+<img src="KMD_love_outside_of_KMD_discord.png" alt="drawing" width="90%" height="90%" />
+
+<img src="KMD_tech.png" alt="drawing" width="90%" height="90%" />
+
 
 ## 2021-2022 Projects/ideas
 
@@ -133,7 +135,13 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 The withdraw function of AtomicDEX-API is used in the current implementation but we can use batch transactions to send coins to faucet users to lower fees (sendmany equivalent), I began to work to adapt AtomicDEX-API to have a new rpc call similar to sendmany but I'm very new to rust.
 This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. The demand for disord faucets & tipbots is increasing due to the Bubble.
 
+I'm afraid about hodling balances of individuals without a proper legal structure, I'll discuss with PTYX about creating a structure in Panama. Then, the discord faucet can be turned into a **discord faucet & tip bot**.
+
 https://github.com/phm87/discord-faucet-adex
+
+<img src="OUTLAWSYS_discord.png" alt="drawing" width="90%" height="90%" />
+
+I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement about inviting the faucet
 
 - **Add and test ERC20 (and BEP20) into AtomicDEX**: I'd like to add and test some ERC20 (and BEP20 when possible) on AtomicDEX-API: 1MT and WSCRT, two ERC20 so I won't need to run any electrumx since it relies on Ethereum (or Binance Smart Chain) blockchain. 
 
@@ -146,7 +154,8 @@ https://gist.github.com/phm87/e62ad935e5d55be1ec1fe9732fdf3be2
 https://github.com/KomodoPlatform/coins/compare/master...phm87:patch-1
 
 https://github.com/KomodoPlatform/atomicDEX-Desktop/compare/dev...phm87:patch-1
-TODO: Add cipi remarks
+
+I will add cipi remarks (contract address must be in mixed case), thank you for the support.
 
 - **Integration and support of coins into AtomicDEX**: When a coin is added on my mining pool, I'd like to run an electrumx for it then add it on AtomicDEX and on the discord faucet. we can't rely on KMD Team to run electrumx for many coins. This additional infrastructure will be paid with NN earnings.
 
@@ -157,13 +166,13 @@ Adding suport for SCRT will require more work since SCRT blockchain is a based o
 [Add AtomicDEX support into yiimp](https://github.com/tpruvot/yiimp/compare/next...phm87:AtomicDEX)
 
 ### CHIPS
-- The **chips-qt** needs to be fixed and enhanced (TODO: check that it is still to be done)
 - Support of chips in the discord faucet (using AtomicDEX-API in the back-end)
 - I'd like to **enhance some rpc calls** about cpu mining (details to be discussed with chips team)
+- Possible discussion with 1MT Team that may lead to mutual help, who knows. I had a dream of a poker game using Chips tech in the back-end and 1MT Discord GUI.
 
 ### Komodo enhancements/developments
 - [PUBLIC TESTS ONGOING] **-ac_aur=** 
-TODO: Add link + printscreen
+I'd like to execute regression tests (in python) then do a pull request to komodo repository.
 
 - [TESTS ONGOING] New RPC call **validateaddressgeneric** to verify an address belonging to any coin. This rpc call is not specific to Komodo, it can be added into AtomicDEX-API but since the aim was to try to run it on the mining pool using yiimp architecture, a coin daemon is more suitable. As discussed with Alright, many other RPC calls unrelated to Komodo were added to Komodo. Maybe I'll pull request this RPC call into phm87 branch.
 
@@ -199,6 +208,11 @@ Discussions:
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:checkfork_compare-last_notahash -> https://github.com/webworker01/komodotools/commit/4fb896399f67433547161c98d9b3984237d28291
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
 
+# Relations and agreement :
+No agreement and no official relation with any entity. I'm close friend with d4v who run UniMining.net with me.
+
+I have a friendly relationship with crackers of zpool, metaphilibert and ludom.
+
 # Contact details :
 
 Slack : @phm87
@@ -206,3 +220,13 @@ Slack : @phm87
 Discord : phm87#7395
 
 Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
+
+# VOTE2021 Address (xx region):
+
+Compared to previous seasons, I'm involved in more projects, inside komodo source code but also outside of komodo discord promoting komodo technologies and proposing to do experiments. Since 2 years, I saw komodo price below 1$ most of the time so this demand for a second node considers that bullmarket won't continue forever. Experiments cost money, infrastructure is not cheap (and I'd like to run electrumx) and I'm not sure that one notary node can be sufficient (if KMD price decreases).
+
+The discord faucet can cost a lot in the long term but it can raise awareness about komodo and AtomicDEX.
+
+**Please vote for the SH Address first** at the top of this proposal. If the SH address have enough votes to be elected, please vote for this second voting address.
+
+**Address & region to be communicated later**
