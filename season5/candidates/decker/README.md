@@ -80,7 +80,7 @@ Decker has demonstrated knowledge and passion for blockchain, cryptography, prog
 
 ## Contact information ##
 
- - Komodo Discord: [Decker#3767](https://komodoplatform.com/discord)
+ - [Komodo Discord](https://komodoplatform.com/discord): [Decker#3767](https://discordapp.com/users/345544724167524352/)
  - E-Mail: deckersu@protonmail.com
  - KeyBase: [https://keybase.io/deckersu](https://keybase.io/deckersu)
 ```

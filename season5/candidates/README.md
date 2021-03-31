@@ -11,10 +11,11 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |   EU	|   NA	|   SH	|   AR	|
 |---	|---	|---	|---	|
 |[decker](decker/README.md)	|[computergenie](computergenie/README.md)	|[zatjum](zatjum/README.md)	|[decker](decker/README.md)	|
-|[alien](alien/README.md)	|[alien](alien/README.md)	|[smdmitry](smdmitry/README.md)	|[alien](alien/README.md)	|
+|[alien](alien/README.md)	|[alien](alien/README.md)	|[titomane](titomane/README.md)	|[alien](alien/README.md)	|
 |[tonyl](tonyl/README.md)	|[greer](greer/README.md)	|	[nutellalicka](nutellalicka/README.md)|[dudezmobi](dudezmobi/README.md)	|
-|[smdmitry](smdmitry/README.md)	|[dragonhound](dragonhound/README.md)	|[darkolisio](darkolisio/README.md)	|[smdmitry](smdmitry/README.md)	|
-|[slyris](slyris/README.md)	|	|[gcharang](gcharang/README.md)	|[ocean](ocean/README.md)	|
-|[dappvader](dappvader/README.md)	|	|[workax](workax/README.md)	|[nutellalicka](nutellalicka/README.md)	|
-|	|	|	|[kulim](kulim/README.md)	|
-|	|	|	|[paro](paro/README.md)	|
+|[smdmitry](smdmitry/README.md)	|[dragonhound](dragonhound/README.md)	|[darkolisio](darkolisio/README.md)	|[titomane](titomane/README.md)	|
+|[slyris](slyris/README.md)	|[kulim](kulim/README.md)	|[gcharang](gcharang/README.md)	|[ocean](ocean/README.md)	|
+|[dappvader](dappvader/README.md)	|[ptyx](ptyx/README.md)	|[workax](workax/README.md)	|[nutellalicka](nutellalicka/README.md)	|
+|[donromero](donromero/README.md)	|	|	|[paro](paro/README.md)	|
+|[titomane](titomane/README.md)	|	|	|[fediakash](fediakash/README.md)	|
+|[mihailo](mihailo/README.md)	|	|	|[byozgunn](byozgunn/README.md)	|
