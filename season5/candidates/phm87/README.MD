@@ -70,7 +70,7 @@ https://discord.com/channels/412898016371015680/497080413387489291/7808732288388
 ### -ac_naur
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 
-<img src="TNAUR_test.png" alt="drawing" width="90%" height="90%" />
+<img src="TNAUR_test.png" alt="drawing" width="60%" height="60%" />
 
 https://github.com/phm87/komodo/tree/ac_naur
 
@@ -109,9 +109,9 @@ https://github.com/KomodoPlatform/komodo/pull/383
 
 https://gist.github.com/phm87/58ed4498f8cbb77aa3771d0cc7863528
 
-- Discuss on discord about features of KMD tech
+<img src="KMD_love_outside_of_KMD_discord.png" alt="drawing" width="60%" height="60%" />
 
-<img src="KMD_love_outside_of_KMD_discord.png" alt="drawing" width="90%" height="90%" />
+- Discuss on discord about features of KMD tech
 
 <img src="KMD_tech.png" alt="drawing" width="90%" height="90%" />
 
