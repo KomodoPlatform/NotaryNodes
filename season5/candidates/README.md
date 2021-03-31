@@ -19,3 +19,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |	|	|	|[paro](paro/README.md)	|
 |	|	|	|[fediakash](fediakash/README.md)	|
 |	|	|	|[byozgunn](byozgunn/README.md)	|
+|	|	|	|[pangz](pangz/README.md)	|
