@@ -137,13 +137,15 @@ https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 The withdraw function of AtomicDEX-API is used in the current implementation but we can use batch transactions to send coins to faucet users to lower fees (sendmany equivalent), I began to work to adapt AtomicDEX-API to have a new rpc call similar to sendmany but I'm very new to rust.
 This **discord faucet** can be a good introduction of AtomicDEX to coins'teams. The demand for disord faucets & tipbots is increasing due to the Bubble.
 
-I'm afraid about hodling balances of individuals without a proper legal structure, I'll discuss with PTYX about creating a structure in Panama. Then, the discord faucet can be turned into a **discord faucet & tip bot**.
+I'm afraid about hodling balances of individuals without a proper legal structure, I'll discuss with PTYX and community about creating a structure. Then, the discord faucet can be turned into a **discord faucet & tip bot**.
 
 https://github.com/phm87/discord-faucet-adex
 
 <img src="OUTLAWSYS_discord.png" alt="drawing" width="90%" height="90%" />
 
 I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement about inviting the faucet
+
+
 
 - **Add and test ERC20 (and BEP20) into AtomicDEX**: I'd like to add and test some ERC20 (and BEP20 when possible) on AtomicDEX-API: 1MT and WSCRT, two ERC20 so I won't need to run any electrumx since it relies on Ethereum (or Binance Smart Chain) blockchain. 
 
