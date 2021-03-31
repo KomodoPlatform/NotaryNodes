@@ -189,7 +189,7 @@ My interest in ARM platforms and HSM modules is increasing. I discussed about ad
 
 https://gist.github.com/phm87/cdee681423030898f05ba2544d84831e
 
-In order to let coin communities run dPoW notaries and having AtomicDEX-API + Desktop + local full nodes and minimize costs, I think that running dPoW 2.0 on Raspberry Pi can help for decentralization. The current dPoW 1.0 won't work properly on Raspberry Pi due to additional calculation delays.
+In order to let coin communities run their own Notary/dPoW network but also possibility to run AtomicDEX-API + Desktop + local full nodes and minimize costs, I think that running dPoW 2.0 on Raspberry Pi can help for decentralization. The current dPoW 1.0 won't work properly on Raspberry Pi due to additional calculation delays. Some other Notary Node operators also had ideas about using Raspberry Pi.
 
 
 ## 2019-2020 Projects/milestones
@@ -215,7 +215,7 @@ Discussions:
 - https://github.com/KomodoPlatform/komodotools/compare/master...phm87:cronsplit-estimatesmartfee
 
 # Relations and agreement :
-No agreement and no official relation with any entity. I'm close friend with d4v who run UniMining.net with me.
+No agreement and no official relation with any entity. I'm friend with d4v who runs UniMining.net with me.
 
 I have a friendly relationship with crackers of zpool, metaphilibert and ludom.
 
