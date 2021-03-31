@@ -143,7 +143,7 @@ https://github.com/phm87/discord-faucet-adex
 
 <img src="OUTLAWSYS_discord.png" alt="drawing" width="90%" height="90%" />
 
-I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement about inviting the faucet
+I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement yet about inviting the faucet.
 
 <img src="TestBot1904.png" alt="drawing" width="90%" height="90%" />
 
@@ -229,7 +229,7 @@ Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
 
 # VOTE2021 Address (xx region):
 
-Compared to previous seasons, I'm involved in more projects, inside komodo source code but also outside of komodo discord promoting komodo technologies and proposing to do experiments. Since 2 years, I saw komodo price below 1$ most of the time so this demand for a second node considers that bullmarket won't continue forever. Experiments cost money, infrastructure is not cheap (and I'd like to run electrumx) and I'm not sure that one notary node can be sufficient (if KMD price decreases).
+Compared to previous seasons, I'm involved in more projects, inside komodo source code but also outside of komodo discord promoting komodo technologies and proposing to do experiments. Since 2 years, I saw komodo price below 1$ most of the time so this demand for a second node considers that bullmarket won't continue forever. Experiments cost money, infrastructure is not cheap (and I'd like to run electrumx).
 
 The discord faucet can cost a lot in the long term but it can raise awareness about komodo and AtomicDEX.
 
