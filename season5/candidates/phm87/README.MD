@@ -143,7 +143,7 @@ https://github.com/phm87/discord-faucet-adex
 
 <img src="OUTLAWSYS_discord.png" alt="drawing" width="90%" height="90%" />
 
-I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement yet about inviting the faucet.
+I'm also in good terms with "Wolves of Alt Street" discord server (3000 members, discord created 3 months ago) but no agreement yet about inviting the faucet. It can be invited to other friendly discord servers but ideally, the bot should be invited on discord server of each coin listed on AtomicDEX. The infrastructure to run the tip.cc bot (2000 000 users, bot present on 17 000 servers) is not cheap, NN earnings will help to have enough servers and redundancy.
 
 <img src="TestBot1904.png" alt="drawing" width="90%" height="90%" />
 
