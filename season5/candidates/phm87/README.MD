@@ -67,6 +67,8 @@ https://gist.github.com/phm87/fc75d5820d232376a8256874726673b4
 
 https://discord.com/channels/412898016371015680/497080413387489291/780873228838895626
 
+<img src="TAUR_getinfo.png" alt="drawing" width="60%" height="60%" />
+
 ### -ac_naur
 - [DEV STOPPED] **-ac_naur=** this runtime parameter allows to have **negative active user rewards enabled for smartchains**: my code doesn't work and community demand for negative rates is low so I stopped this development until some demand exists.
 
