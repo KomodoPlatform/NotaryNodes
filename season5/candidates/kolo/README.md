@@ -7,7 +7,9 @@
 Region: **AR**
 Address: **RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx**
 
+
 Node will be delpoyed on a high end eqippment based in AR region. Eqippment is already in place and ready to serve.
+
 My next season roadmap includes deploying a cloud-based Notary Node using anycast and multiple locations. This requires current NN software to be wrapped in proper scripts and Dockerized.
 
 ## Why me? (again)
@@ -22,4 +24,5 @@ My next season roadmap includes deploying a cloud-based Notary Node using anycas
 ## Contacts ##
 
 Discord: **kolo#1111**
+
 Telegram: **@kolobus**
