@@ -4,10 +4,8 @@
 
 ## Voting and node information
 
-Region: **AR**
-
-Address: **RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx**
-
+Region: **AR**  
+Address: **RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx**  
 
 Node will be delpoyed on a high end eqippment based in AR region. Eqippment is already in place and ready to serve.
 
@@ -24,6 +22,5 @@ My next season roadmap includes deploying a cloud-based Notary Node using anycas
 
 ## Contacts ##
 
-Discord: **kolo#1111**
-
+Discord: **kolo#1111**  
 Telegram: **@kolobus**
