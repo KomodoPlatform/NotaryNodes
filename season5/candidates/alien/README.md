@@ -31,6 +31,7 @@ Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node
 	5. [Compile and Play Rogue Blockchain Based Game](https://gist.github.com/himu007/93e77004490f4716a523d2a0daaf0d37) 
 - Tested barterDEX and wrote the first full barterDEX API doc.
 - Help out other Notary Operators as needed.
+- Ported Insight Explorer for CHIPS blockchain [ChipsSight](https://github.com/techloverhd/chipssight/) and serving and instance [here](https://chipssight.techloverhd.com/).
 - Monitoring the network constantly with a dedicated computer and monitor 24/7.
 - Helped VRSC notarization to continue with Season 2 keys for months until they hardforked to use Season 3 keys.
 - One of the first to update my Notary nodes as updates becomes available.
