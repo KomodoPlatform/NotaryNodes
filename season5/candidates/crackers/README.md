@@ -7,7 +7,7 @@ R9WxJtF2JjVZriaN2FRf6592HUFZSuqvnn
 ```
 ## Why Vote `crackers`???
 - Long term Komodo supporter and hodler since the days of BitcoinDark.
-- Operated one of the first $BCD pools when first launched.
+- Operated one of the first $BTCD pools when first launched.
 - Perviously operated nodes in S1 and S2.
 - NN hosted on zpool's (https://zpool.ca) custom secure cloud infratructure aka zCloud
 - Provide assistance Notary Operators.
