@@ -18,9 +18,10 @@ My next season roadmap includes deploying a cloud-based Notary Node using anycas
  - Running development nodes and other infrastructure in seasons 2 and 3.
  - Served as a team member and Notary Nodes Network advisor since creation and until season 4.
  - Long time Komodo believer. Dedicated to builing brighter future with Komodo Ecosystem.
- - To make some people angry with no reaaon.
+ - To make some people angry with no reason.
 
 ## Contacts ##
 
-Discord: **kolo#1111**  
+Discord handle: **kolo#1111**  
 Telegram: **@kolobus**
+Keybase and PGP: https://keybase.io/kolo
