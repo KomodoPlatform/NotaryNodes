@@ -23,3 +23,8 @@ I have been around in SuperNET / Komodo since 2014, and I still remember the NXT
 I am donating 33% of the NN income to the TOKEL project, every first day of the month.
 
 With the rest of the funds I can work towards freeing more time to be more involved in the Tokel project, as well as other projects.
+
+## Contacts:
+
+- my username is jorian#4555 in the Komodo Discord
+- my email is hey@jorian.dev
