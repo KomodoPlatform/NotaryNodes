@@ -2,7 +2,7 @@
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
 
-I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** !
+I'm candidate to be Notary Node operator during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** !
 
 Please review and comment the past and future projects listed here below.
 
