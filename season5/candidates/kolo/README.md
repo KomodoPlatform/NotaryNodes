@@ -23,5 +23,5 @@ My next season roadmap includes deploying a cloud-based Notary Node using anycas
 ## Contacts ##
 
 Discord handle: **kolo#1111**  
-Telegram: **@kolobus**
+Telegram: **@kolobus**  
 Keybase and PGP: https://keybase.io/kolo
