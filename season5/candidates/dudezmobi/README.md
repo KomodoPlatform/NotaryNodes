@@ -2,10 +2,9 @@
 
 # DudezMobi.vrsc NOTARY NODES ELECTION 2021 for AR REGION
 ## :heavy_minus_sign: SOLAR POWERED NOTARY NODE
-### :heavy_minus_sign: Voting Address: RQ7tJz8E12s1esbRvuSSFTduWnT4E4D15B
+### :heavy_minus_sign: Voting Address: RA7VoAW811sZS6CPaM3CwS4VyNyLzmNcKy
 
-### :heavy_minus_sign: **Main Pubkey:** 027ecd974ff2a27a37ee69956cd2e6bb31a608116206f3e31ef186823420182450<br>
-### :heavy_minus_sign: **3rd Party Pubkey:** 033c121d3f8d450174674a73f3b7f140b2717a7d51ea19ee597e2e8e8f9d5ed87f<br>
+### :heavy_minus_sign: **Main Pubkey:** 02fd1ba4b69751b0eb22cde792bd1680e6032da0fe498241794b5b31fe1ba52849<br>
 ### :heavy_minus_sign: **Discord contact:** dudezmobi#1945<br>
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
