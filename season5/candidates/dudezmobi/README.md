@@ -30,6 +30,7 @@ I have been a notarynode operator from season 4 and have 99% uptime(i always upd
 my NN leader in case of downtime), 100% compliance to Rules and Responsibilities, 
 Update my nodes in less than 12 hours after announcement from komodo team.  
 I have participated in testing of atomic-dex and submitted more than 50 issues.
+My node would also be located in the Philippines.
 
 ## REQUIREMENTS
 
@@ -48,7 +49,7 @@ my operational costs**. It is a **sustainable model** for a NN support infrastru
 | CPU           | RAM           | Disk  |
 |------------- |---------------|-------|
 |Ryzen Threadripper 3970x|128 GB|2 TB SSD NVme RAID 0|
-|Ryzen 5950x|128 GB memory|1TB GB SSD NVme RAID 0|
+|Ryzen 5950x|128 GB|1TB SSD NVme RAID 0|
 
 
 ## S4 PERFORMANCE
