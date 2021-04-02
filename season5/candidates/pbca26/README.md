@@ -10,6 +10,8 @@ RSTe7FGtdqTksYLKt3iBfSkrGFZkcGW3x6
 
 <br/>
 
+Hello! This season I'd like to participate in the election for a node in the Southern Hemisphere region. Below you will find more about me and the projects I've been working on. As always, thank you so much for your time and continued support!
+
 ## About Me
 A dedicated and blockchain-driven team member of Komodo Platform since 2016. An experienced JavaScript developer with an honest and transparent approach in everything I do. When I got inspired by a challenge, I leverage all my knowledge and leave no stone unturned to transform complex issues into working solutions. Interested in emerging blockchain technologies such as NFT. Top ranking Notary Node operator in NA region for Season 4.
 
@@ -73,8 +75,6 @@ Developed the first KMD rewards claim capable and dPoW enabled mobile wallet. It
     </td>
   </tr>
 </table>
-
-<b>Thank you for your time and support! </b>
 
 ---
 
