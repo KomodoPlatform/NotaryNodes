@@ -4,8 +4,8 @@ Send your VOTE2021 tokens to:
 
 | EU region |
 | ------ |
-| [<img src="https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season5/candidates/smdmitry/RHgYsYz5fssr2A7RruF2NB7rPLFcGUVJV9.png" width="290"/>](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season5/candidates/smdmitry/RHgYsYz5fssr2A7RruF2NB7rPLFcGUVJV9.png) |
-| ```RHgYsYz5fssr2A7RruF2NB7rPLFcGUVJV9``` |
+| [<img src="https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season5/candidates/smdmitry/RSMDmitryCzhPJkKCZVAJi2XyudqP4Tfzq.png" width="290"/>](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season5/candidates/smdmitry/RSMDmitryCzhPJkKCZVAJi2XyudqP4Tfzq.png) |
+| ```RSMDmitryCzhPJkKCZVAJi2XyudqP4Tfzq``` |
 
 ## Candidate info
 
