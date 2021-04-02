@@ -12,7 +12,7 @@ R9WxJtF2JjVZriaN2FRf6592HUFZSuqvnn
 - NN hosted on zpool's (https://zpool.ca) custom secure cloud infrastructure aka zCloud
 - Provide assistance Notary Operators.
 - Operating zpool.ca multipool for 6+ years and was the first yiimp based pool to offer equihash mining.
-- Offers KMD as a guraenteed payout currency on zpool.ca
+- Offers KMD as a guaranteed payout currency on zpool.ca
 - Recently launched a centralized exchange, CexZ, under the Z brand: https://www.cexz.ca
 - If elected for a seat in S5, I will open KMD markets for existing currencies. Currently providing only KMD/LTC and KMD/BTC.
 - Will evaluate the feasibility of integrating AtomicDEX into zpool as a supported exchange.
