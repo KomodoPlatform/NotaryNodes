@@ -10,7 +10,7 @@
 
 - CPU:  Intel Xeon 2x E5-2450
 - RAM:  128GB DDR4
-- SSD:  1 TB SSD
+- SSD:  2 TB SSD
 
 
 ## 3P Server Information
