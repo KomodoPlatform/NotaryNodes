@@ -18,6 +18,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [dappvader](dappvader/README.md)   | [ptyx](ptyx/README.md)                   | [workax](workax/README.md)             | [nutellalicka](nutellalicka/README.md) |
 | [donromero](donromero/README.md)   | [theerbeen](theerbeen/README.md)         | [phm87](phm87/README.md)               | [paro](paro/README.md)                 |
 | [titomane](titomane/README.md)     | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [byozgunn](byozgunn/README.md)         |
+| [mihailo](mihailo/README.md)       | [rustytwilight](rustytwilight/README.md) | [pbca26](pbca26/README.md)             | [fediakash](fediakash/README.md)       |
 | [jorian](jorian/README.md)         | [nodeone](nodeone/README.md)             |                                        | [pangz](pangz/README.md)               |
 | [mx222](mx222/README.md)           |                                          |                                        | [kolo](kolo/README.md)                 |
 | [fairbanksy](fairbanksy/README.md) |                                          |                                        | [daria](daria/README.md)               |
