@@ -20,3 +20,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [titomane](titomane/README.md)   | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [byozgunn](byozgunn/README.md)         |
 | [jorian](jorian/README.md)       |                                          |                                        | [pangz](pangz/README.md)               |
 | [mx222](mx222/README.md)         |                                          |                                        | [kolo](kolo/README.md)                 |
+|                                  |                                          |                                        | [daria](daria/README.md)    
