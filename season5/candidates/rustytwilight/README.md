@@ -21,3 +21,5 @@ To keep it short, this is my first time participating in a NN election, I am cur
 ## Contributions
 - I will promise to fulfill my duties as a NN operator, keeping my nodes highly available as much as possible.
 - I will also donate 100 KMD each month to the TOKEL project .
+## Contact
+You can reach out to me through my Discord's contact `rustytwilight#5920`
