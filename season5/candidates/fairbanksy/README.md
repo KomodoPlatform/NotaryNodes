@@ -1,6 +1,6 @@
 # "Being Ben Fairbank"
 
-<img src="https://ibb.co/mywQ3Cd">
+![ben_fairbank](https://user-images.githubusercontent.com/81842807/113479651-04d95500-94dc-11eb-90c3-9baf00e86277.png)
 
 
 ## The Ben Fairbank Project (BFP)
