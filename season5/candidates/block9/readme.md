@@ -1,4 +1,3 @@
-![Alt text](block9-logo.png?raw=true "Block9 Logo")
 <p align="center">
   <img src="block9-logo.png" width="350" title="Block9 Logo">
 </p>
