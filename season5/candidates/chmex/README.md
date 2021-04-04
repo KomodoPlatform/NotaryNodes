@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season5/candidates/chmex/qrcode.png">
 
 ## TLDR
-Vote for me if you want to see the ecosystem thrive. So far 100% of the funds mined stay in the ecosystem. see below for list.
+Vote for me if you want to see the ecosystem thrive. So far 100% of the funds stay in the ecosystem. see below for list.
 
 ## About me 
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
