@@ -41,6 +41,7 @@ NN Operations need to spend BTC funds given by KMD to notarize. My nodes split t
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a>. 
 * LABS Node Operator
+* Running THC and some others Electrum Server
 * Dexstats.info is now in the Top 400k Websites in the World that is a better Ranking than a lot of Crypto Websites. (https://www.alexa.com/siteinfo/dexstats.info)
 
 ## Use of Funds:
@@ -92,7 +93,6 @@ The yearly cost for those servers including Notary Node are about 12000 USD I ca
 
 <img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season5/candidates/chmex/qrcode.png">
 
-<br><br>
 
 ## PGP Public Key
 ```
