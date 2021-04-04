@@ -5,6 +5,7 @@ This year InfoTech-Al and Ryan Herbison are teaming up to manage and maintain a 
 
 ## Region Running: Europe
 Vote Address: RSmMfwnBZJtjqBjnEYF2dyCquXJvk1bK2Q
+
 ![Alt text](qr-code.png?raw=true "Vote QR Code")
 
 # Team Details
