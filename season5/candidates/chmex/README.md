@@ -17,6 +17,7 @@
 
 ```RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y```
 
+<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season5/candidates/chmex/qrcode.png">
 <br>
 ## TLDR
 Vote for me if you want to see the ecosystem thrive. So far 100% of the funds mined stay in the ecosystem. see below for list.
@@ -88,6 +89,9 @@ The yearly cost for those servers including Notary Node are about 12000 USD I ca
 
 **Region: SH**
 ```RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y```
+
+<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season5/candidates/chmex/qrcode.png">
+
 <br><br>
 
 ## PGP Public Key
