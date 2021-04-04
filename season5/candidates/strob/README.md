@@ -63,7 +63,7 @@ I did this animated logo for the Pirate ARRR that you can see on their Discord C
 ![Pirate Discord logo by Strob](https://www.strob.net/kmdNN2020/PIRATE_discordLogo_v002_1.gif "Pirate gif by Strob")
 
 
-I also created this `3 minutes` video for pirate ARRR, including idea, directing, 3D, voice over and sound. Thanks to a ARRR suporter to contribute approx 1000$ to this project. 
+I also created this `3 minutes` video for pirate ARRR, including idea, directing, 3D, voice over and sound. Thanks to a ARRR supporter to contribute approx 1000$ to this project. 
 <a href="https://getwrightonit.com/how-much-does-3d-animation-cost/2/">To have an idea about how much this is worth please see here (hint: approx 10k$/minute).</a>
 
 `Pirate $ARRR`: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
