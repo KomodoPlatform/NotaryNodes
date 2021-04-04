@@ -23,14 +23,11 @@ Vote Address: RSmMfwnBZJtjqBjnEYF2dyCquXJvk1bK2Q
 
 ## Contact Us
 ### InfoTech-AL
-Discord: @infotech_al
-
-Keybase: https://keybase.io/infotech_al
+- Discord: @infotech_al
+- Keybase: https://keybase.io/infotech_al
 
 ### Ryan Herbison
-Discord: @herbison
-
-E-Mail: ryan@actualproductions.com
-
-Keybase: https://keybase.io/herbison
+- Discord: @herbison
+- E-Mail: ryan@actualproductions.com
+- Keybase: https://keybase.io/herbison
 
