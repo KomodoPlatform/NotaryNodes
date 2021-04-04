@@ -1,4 +1,4 @@
-![Alt text](relative/block9-logo.png?raw=true "Block9 Logo")
+![Alt text](block9-logo.png?raw=true "Block9 Logo")
 # Notary Proposal: Block9
 
 This year InfoTech-Al and Ryan Herbison are teaming up to manage and maintain a notary node. We are dedicated to the success of Komodo as a platform and like working with the excellent global team behind it. We both have experience running notary nodes in multiple previous seasons and were excited to working with everyone in the notary community once again this year.
