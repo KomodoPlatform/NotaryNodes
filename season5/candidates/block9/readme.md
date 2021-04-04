@@ -22,7 +22,7 @@ Vote Address: RSmMfwnBZJtjqBjnEYF2dyCquXJvk1bK2Q
 - Operated notary for Seasons 2 and 3.
 
 ## Ryan Herbison
--  25 year background in IT, Networking, Communications, and Internet Infrastructure
+-  25 Year background in IT, Networking, Communications, and Internet Infrastructure
 - Twelve years providing High-Speed Wireless Internet in North-East British Columbia.
 - Experienced in all aspects of Linux server administration and network security.
 - Operated a NA region notary for Seasons 1 thru 3 with the GaltMines team.
