@@ -1,5 +1,8 @@
 # Komodo Notary Node Candidacy from byozgunn
 
+![](https://i.ibb.co/5RkY5s0/image.png)
+
+
 ## Region and Voting Address
 
 - Region: `AR`
@@ -35,5 +38,6 @@ Being a part of such a work will make me extremely happy. Even the thought of ha
 
 ## Contact details
 
+- Name: Özgün Özakyıldız 
 - Discord handle: `byozgunn#4572`
 - Username on most platforms online: `byozgunn`
