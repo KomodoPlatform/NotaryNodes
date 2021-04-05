@@ -6,14 +6,10 @@ my SH has been performing very well. I have also been very good at saving team f
 
 I present myself as a candidates for the 
 
-SH region. Voting address
-RKPfsdqTYXLPpW2XXbx5kExoT7JUs2pijG
 
 AR region. Voting address
 RLYYNmQcmC3vGYtGhyCt6HUXQL2kn7vQAa
 
-EU region. Voting address
-RT6ftBsPBPCwErGSti35hLJuzWLEyH3RK4
 
 I'm a very capable unix operator as this is part of my day job. In my free time also run Komodo and ARRR nodes.
 
