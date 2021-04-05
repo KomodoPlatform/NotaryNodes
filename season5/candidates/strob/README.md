@@ -16,8 +16,6 @@
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR200.png)  | Europe (EU)  |
-| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR200.png)  |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR200.png)  | North America (NA)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR200.png)  |
 
@@ -116,8 +114,6 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  | Europe (EU)  |
-| Asian region (AR)  | ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR.png)  |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
 | South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  |
 
