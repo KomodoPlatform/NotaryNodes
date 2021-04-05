@@ -35,6 +35,8 @@ Projects for Komodo funded by notary node income.
 
 [decoderfox](https://github.com/webworker01/decoderfox) - Analysis of RedFox token migration snapshot to ERC-20
 
+[nns4stats](https://github.com/webworker01/nns4stats) - Analyze final Season 4 scoring data
+
 ### For PirateChain
 
 [piratepool.io](https://piratepool.io) - the first and largest pool for ARRR running on the knomp software
