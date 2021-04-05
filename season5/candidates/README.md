@@ -22,7 +22,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [jorian](jorian/README.md)         | [nodeone](nodeone/README.md)             | [shin-ra77](shin-ra77/README.md)       | [pangz](pangz/README.md)               |
 | [mx222](mx222/README.md)           | [chmex](chmex/README.md)                 | [chmex](chmex/README.md)               | [kolo](kolo/README.md)                 |
 | [fairbanksy](fairbanksy/README.md) | [strob](strob/README.md)                 | [strob](strob/README.md)               | [daria](daria/README.md)               |
-| [chmex](chmex/README.md)           | [madmax](madmax/README.md)               |                                        | [chmex](chmex/README.md)               |
+| [chmex](chmex/README.md)           | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [chmex](chmex/README.md)               |
 | [block9](block9/README.md)         |                                          |                                        | [strob](strob/README.md)               |
 | [strob](strob/README.md)           |                                          |                                        |                                        |
 | [madmax](madmax/README.md)         |                                          |                                        |                                        |

@@ -1,8 +1,8 @@
-Name:     Sheeba		
+Name:     Sheeba
 
-VOTE21:   RR7CECKj4aT7BC7Exq6a5AteVoPRyHEFyx	
+VOTE21:   RR7CECKj4aT7BC7Exq6a5AteVoPRyHEFyx
 
-Region:   SH	
+Region:   SH
 
 Contact:  hotalbo1@gmail.com
 
