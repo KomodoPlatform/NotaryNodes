@@ -1,4 +1,4 @@
-![](RackMultipart20210405-4-13kdh8a_html_a792ae5eff4da77f.jpg)
+![](logo.jpg)
 
 Hi!
 
