@@ -9,10 +9,6 @@
 
 ```RAeX5HQCa6rhYZsm6PKX4ZTQ9MiMHffavJ```
 
-**Region: EU**
-
-```RBJGGzKhP7YWoPBoi5AKPm2VJEGy4oodQy```
-
 **Region: SH**
 
 ```RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y```
@@ -24,7 +20,7 @@ Vote for me if you want to see the ecosystem thrive. So far 100% of the funds st
 
 ## About me 
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
-I would like to get elected for Notary Node Election 2021 to operate 1 Node in the `AR Region`, 1 Node in the `NA Region`, 1 Node in the `SH Region` and if possible another one in `EU Region`.
+I would like to get elected for Notary Node Election 2021 to operate 1 Node in the `AR Region`, 1 Node in the `NA Region`, 1 Node in the `SH Region`.
 NN Operations need to spend BTC funds given by KMD to notarize. My nodes split those funds in a very economical way so ICO funds last longer. Details: <a href="https://www.dexstats.info/notarysplit.php" target="_new">www.dexstats.info/notarysplit.php</a>
 
 ## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
