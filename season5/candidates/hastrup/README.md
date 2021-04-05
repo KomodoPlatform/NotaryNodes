@@ -1,4 +1,8 @@
-![](logo.jpg)
+
+<p align="center">
+  <img src="logo.jpg" alt="Hastrup's" width="15%"/>
+</p>
+
 
 Hi!
 
