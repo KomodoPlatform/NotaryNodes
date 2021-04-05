@@ -16,14 +16,14 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [smdmitry](smdmitry/README.md)     | [dragonhound](dragonhound/README.md)     | [darkolisio](darkolisio/README.md)     | [titomane](titomane/README.md)         |
 | [slyris](slyris/README.md)         | [kulim](kulim/README.md)                 | [gcharang](gcharang/README.md)         | [ocean](ocean/README.md)               |
 | [dappvader](dappvader/README.md)   | [ptyx](ptyx/README.md)                   | [workax](workax/README.md)             | [nutellalicka](nutellalicka/README.md) |
-| [donromero](donromero/README.md)   | [theerbeen](theerbeen/README.md)         | [phm87](phm87/README.md)               | [paro](paro/README.md)                 |
-| [titomane](titomane/README.md)     | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [byozgunn](byozgunn/README.md)         |
-| [mihailo](mihailo/README.md)       | [rustytwilight](rustytwilight/README.md) | [pbca26](pbca26/README.md)             | [fediakash](fediakash/README.md)       |
-| [jorian](jorian/README.md)         | [nodeone](nodeone/README.md)             | [shin-ra77](shin-ra77/README.md)       | [pangz](pangz/README.md)               |
-| [mx222](mx222/README.md)           | [chmex](chmex/README.md)                 | [chmex](chmex/README.md)               | [kolo](kolo/README.md)                 |
-| [fairbanksy](fairbanksy/README.md) | [strob](strob/README.md)                 | [strob](strob/README.md)               | [daria](daria/README.md)               |
-| [chmex](chmex/README.md)           | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [chmex](chmex/README.md)               |
-| [block9](block9/README.md)         | [webworker01](webworker01/README.md)     |                                        | [strob](strob/README.md)               |
+| [donromero](donromero/README.md)   | [theerbeen](theerbeen/README.md)         | [phm87](phm87/README.md)               | [byozgunn](byozgunn/README.md)         |
+| [titomane](titomane/README.md)     | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [fediakash](fediakash/README.md)       |
+| [mihailo](mihailo/README.md)       | [rustytwilight](rustytwilight/README.md) | [pbca26](pbca26/README.md)             | [pangz](pangz/README.md)               |
+| [jorian](jorian/README.md)         | [nodeone](nodeone/README.md)             | [shin-ra77](shin-ra77/README.md)       | [kolo](kolo/README.md)                 |
+| [mx222](mx222/README.md)           | [chmex](chmex/README.md)                 | [chmex](chmex/README.md)               | [daria](daria/README.md)               |
+| [fairbanksy](fairbanksy/README.md) | [strob](strob/README.md)                 | [strob](strob/README.md)               | [chmex](chmex/README.md)               |
+| [chmex](chmex/README.md)           | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [strob](strob/README.md)               |
+| [block9](block9/README.md)         | [webworker01](webworker01/README.md)     |                                        |                                        |
 | [strob](strob/README.md)           |                                          |                                        |                                        |
 | [madmax](madmax/README.md)         |                                          |                                        |                                        |
 
