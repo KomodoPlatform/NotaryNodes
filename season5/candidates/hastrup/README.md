@@ -39,3 +39,10 @@ We are thankful for your consideration and looking forward to hopefully becoming
 VOTE 2021 NN Address:
 
 **RR5ML3KMuvMZXkNDeB32DLWvVkkpQyuT32**
+
+
+<p align="center">
+  <img src="qr.png" alt="Hastrup's" width="15%"/>
+</p>
+qr
+
