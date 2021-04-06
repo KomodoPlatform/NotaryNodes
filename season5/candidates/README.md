@@ -25,5 +25,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [block9](block9/README.md)         | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [strob](strob/README.md)               |
 | [strob](strob/README.md)           | [webworker01](webworker01/README.md)     |                                        | [mcrypt](mcrypt/README.md)             |
 | [madmax](madmax/README.md)         |                                          |                                        |                                        |
-|                                    |                                          |                                        |                                        |
+| [hastrup](hastrup/README.md)       |                                          |                                        |                                        |
 
