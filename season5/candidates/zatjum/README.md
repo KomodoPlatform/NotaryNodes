@@ -13,7 +13,45 @@ Pubkeys:
 
 ## Why you should vote for me ##
 
-___Soon here you'll find why!___
+During this season (number 4), I've operated a node in SH region, like I had in season 3.
+
+I've mainly participated in atomicDEX this year, reporting many bugs and suggestions, and swapping a lot during unforgetable stress tests 😉
+
+I could promise a lot of things for this new season, like... [auto censored words 😅], but I won't.
+
+I just promise to be reliable, like I've been during these 2 seasons.
+
+I've finished on the rank 4 (or 5, not officially announced yet) in SH region this season (I was 5th last year), having notarised and mined regularly from the first day to the last one, and applying updates within a few hours each time we had to.
+
+You can see I'm better this year than the one before, so let me try to be better again on season 5!
+
+For the hardware matter, I'll use the same hardware than I've been using this year.
+I know how it works, no need to change those good performing servers!
+
+If you care for the security of the Komodo network (and of atomicDEX as a consequence), please consider my candidacy for this new season.
+
+```diff
++++ Vote for a reliable Notary Node operator, vote for zatJUM! +++
+```
+
+***Stats for my node:***
+http://stats.kmd.io/notary_profile/zatjum_SH/
+or
+https://dpow.io/node/zatjum_SH
+
+![](https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season5/candidates/zatjum/banner.png)
+```fake
+^^^ Flash this QR to find the address where you have to send your VOTE2021 tokens to
+(it's RJUM5a3vnajE9fZ5piDGcxvDyryUAHxhKj, in case you just want to copy/paste 😉)
+```
+
+## Additional node ##
+
+In addition, as I've finished in top 5 of SH region, if you think I'm usefull enough for the Komodo network, you can vote for me to allow me to run a second node (in SH region too), by sending some more VOTE2021 tokens to this second address: `RGrUUMUTJmRU63xUH8sTHQ8qAkwyiyZATR`.
+```diff
+--- Please don't do this if the first address (for the first node) doesn't have enough votes to win! ---
+--- Thanks a lot ---
+```
 
 ## Disclosure ##
 

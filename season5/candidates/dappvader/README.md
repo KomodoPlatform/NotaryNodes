@@ -11,25 +11,13 @@ RV6TYQ94Sfv1jcapxDJ11n23nNouutn7wn
 ```
 
 ## About me ##
-- <b>Top 3</b> Notary Node operator in Southern Hemisphere
-region
-- 5+ years of experience in server maintenance and
-operational support
-- Blockchain enthusiast, made my very first Bitcoin on Radeon
-GPU within a couple of months after learning about the
-technology in late 2013
-- Komodo platform admirer and supporter through transferring
-a portion of my rewards to the CHIPS fund
+- <b>Top 3</b> Notary Node operator in Southern Hemisphere region
+- 5+ years of experience in server maintenance and operational support
+- Blockchain enthusiast, made my very first Bitcoin on Radeon GPU within a couple of months after learning about the technology in late 2013
+- Komodo platform admirer and supporter through transferring a portion of my rewards to the CHIPS fund
 - Huge fan of Star Wars franchise
 
-After joining the Notary Node network in Season 4 my interest in
-the community and blockchain technology has been rapidly
-growing. I definitely expanded my knowledge to become a reliable
-operator. My main goal is to efficiently maintain a node whilst
-keeping a high level of productivity and security.
-With a proven track record of successful node administration, I
-would be grateful for the opportunity to participate in the
-upcoming season.
+After joining the Notary Node network in Season 4 my interest in the community and blockchain technology has been rapidly growing. I definitely expanded my knowledge to become a reliable operator. My main goal is to efficiently maintain a node whilst keeping a high level of productivity and security. With a proven track record of successful node administration, I would be grateful for the opportunity to participate in the upcoming season.
 
 ## Mined funds will be used to ##
 - Cover hardware costs
@@ -37,7 +25,7 @@ upcoming season.
 - Support ecosystem projects where applicable
 
 ## Season 4 CHIPS fund donations ##
-To date I have already donated <b>817.22 KMD</b> to CHIPS developement fund as promissed in my last year's proposal.
+To date I have already donated <b>817.22 KMD</b> to the CHIPS development fund as was promised in my last year's proposal.
 
 ### Q1 ###
 281.48 KMD
@@ -56,7 +44,7 @@ http://kmd.explorer.dexstats.info/tx/27280b878966adc97935a2ddc26399c03a166c6756e
 
 ## Pledges ##
 
-**`10%` quarterly to CHIPS development fund from both EU and SH nodes.**
+**`10%` quarterly to the CHIPS development fund from both EU and SH nodes.**
 
 ## Server specs ##
 - CPU: AMD Ryzen Threadripper 2950X
