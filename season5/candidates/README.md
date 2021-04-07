@@ -26,4 +26,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [strob](strob/README.md)           | [webworker01](webworker01/README.md)     | [d4v](d4v/README.md)                   | [mcrypt](mcrypt/README.md)             |
 | [madmax](madmax/README.md)         | [captainsparrow](captainsparrow/README.md)|                                        |                                        |
 | [hastrup](hastrup/README.md)       |                                          |                                        |                                        |
-
+| [yurii-khi](yurii-khi/README.md)   |                                          |                                        |                                        |
