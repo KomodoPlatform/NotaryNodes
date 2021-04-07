@@ -47,5 +47,5 @@ Its in EU zone atm, but I'm already on the task of securing 2 servers according 
 
 #End  
 Good luck to every candidate in this election and I just hope you didn't find me too tedious in my introductory message which was written just to provide you with some alternative to what you can read on NNOP candidacy and maybe a bit of laughter :D  
-***vote 1.12345 if it did, it will make me a bit happier xD***  
+***vote 1.12345 if it did make you laugh, it will make me a bit happier xD***  
 ***gl*** and dont forget to chill and ***hf***  
