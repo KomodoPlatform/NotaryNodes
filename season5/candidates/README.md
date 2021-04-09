@@ -23,10 +23,10 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [mx222](mx222/README.md)           | [nodeone](nodeone/README.md)             | [shin-ra77](shin-ra77/README.md)       | [kolo](kolo/README.md)                 |
 | [fairbanksy](fairbanksy/README.md) | [chmex](chmex/README.md)                 | [chmex](chmex/README.md)               | [daria](daria/README.md)               |
 | [block9](block9/README.md)         | [strob](strob/README.md)                 | [strob](strob/README.md)               | [chmex](chmex/README.md)               |
-| [strob](strob/README.md)           | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [strob](strob/README.md)               |
-| [madmax](madmax/README.md)         | [webworker01](webworker01/README.md)     | [d4v](d4v/README.md)                   | [mcrypt](mcrypt/README.md)             |
-| [hastrup](hastrup/README.md)       | [captainsparrow](captainsparrow/README.md)|  [mylo](mylo/README.md)               | [mrlynch](mrlynch/README.md)           |
-| [yurii-khi](yurii-khi/README.md)   | [pirate](pirate/README.md)               | [kmdude](kmdude/README.md)             | [dathbezumniy](dathbezumniy/README.md) |
-| [pirate](pirate/README.md)         |                                          |                                        | [goldenman](goldenman/README.md)       |
-|                                    |                                          |                                        | [starfleet](starfleet/README.md)       |
+| [strob](strob/README.md)           | [madmax](madmax/README.md)               | [sheeba](sheeba/README.md)             | [mcrypt](mcrypt/README.md)             |
+| [madmax](madmax/README.md)         | [webworker01](webworker01/README.md)     | [d4v](d4v/README.md)                   | [mrlynch](mrlynch/README.md)           |
+| [hastrup](hastrup/README.md)       | [captainsparrow](captainsparrow/README.md)|  [mylo](mylo/README.md)               | [dathbezumniy](dathbezumniy/README.md) |
+| [yurii-khi](yurii-khi/README.md)   | [pirate](pirate/README.md)               | [kmdude](kmdude/README.md)             | [goldenman](goldenman/README.md)       |
+| [pirate](pirate/README.md)         |                                          |                                        | [starfleet](starfleet/README.md)       |
 |                                    |                                          |                                        | [tonyl](tonyl/README.md)               |
+|                                    |                                          |                                        |                                        |
