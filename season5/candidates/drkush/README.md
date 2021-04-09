@@ -37,6 +37,8 @@ If I am elected as a Notary Node it would allow me to free myself a little time 
 
 I'm really a fan of the komdo universe and its open-source mindset that is accessible to everyone. I also follow Arrr !
 
+  - https://github.com/xdrkush/tuto-kapp-vue-node (in progress)
+
 ## Server Specifications (Main)
 - CPU: Intel Xeon E3-1230v6 - 4c / 8t - 3.5 GHz / 3.9 GHz
 - RAM: 64GB DDR4
