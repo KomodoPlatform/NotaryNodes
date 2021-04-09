@@ -63,6 +63,7 @@ I participated in the notarynode testnet which is very interesting, and I would 
 ```
 
 ![DrKush Address QR](./wallet-vote-nn-2021-final.png);
+
 ``` 
 Send KMD to my Qr code or my public adress above
 ```
