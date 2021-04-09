@@ -1,1 +1,0 @@
-https://kashifali007.github.io/kashifali.github.io/jekyll/update/2018/02/08/welcome-to-jekyll.html
