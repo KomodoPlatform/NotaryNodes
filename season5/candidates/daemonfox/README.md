@@ -10,7 +10,7 @@ tldr: short explainer below
 - New servers on deck at vendor for assembly when ready for Season 5 (OEM channel partnership)
 - Created VOTE2021 CMDlet for Windows users. Works with Verus-Desktop binaries and komodo binaries.
 - https://github.com/daemonfox/Daemonfox-Mining-Tools
-- Actively testing CryptoNote notarizationof BLUR to KMD with @biz for most of Season 4
+- Actively testing CryptoNote notarization of BLUR to KMD with @biz for most of Season 4
 - Sent rewards to help update LABS to season 4 KMD compatibility
 
 Discord: daemonfox#6136
