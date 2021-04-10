@@ -4,7 +4,7 @@ Notary Node Proposal 2021
 
 ## Vote 2021 Address ##
 ```
-RNovLScJjfY7VkhHbLPo15Z6g4MekGEz2e
+RHkNZ2G8TwKRd5wmUXryKfykfeSWhVuRNY
 ```
 
 -- Region: NA
