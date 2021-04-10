@@ -1,4 +1,4 @@
-![mojojojo400](https://ibb.co/fGHqNY2)
+![](https://i.ibb.co/1JT7XfL/mojo.png)
 
 Notary Node Proposal 2021
 
