@@ -8,6 +8,10 @@ tldr: short explainer below
 - Season 5 will be new Microsoft Azure/Hyper-V Server 2019 Hybrid in new DC
 - Season 4 hardware will be used as backup and dev/test
 - New servers on deck at vendor for assembly when ready for Season 5 (OEM channel partnership)
+- Created VOTE2021 CMDlet for Windows users. Works with Verus-Desktop binaries and komodo binaries.
+- https://github.com/daemonfox/Daemonfox-Mining-Tools
+- Actively testing CryptoNote notarizationof BLUR to KMD with @biz for most of Season 4
+- Sent rewards to help update LABS to season 4 KMD compatibility
 
 Discord: daemonfox#6136
 
@@ -51,7 +55,7 @@ All mining and Notary proceeds will go towards this goal, to maintain daemoncoin
   - 2016-2018 began building my own VMs and structuring a new GPU and ASIC mine. Dedicated Komodo mining and research began
     - Partnered with friends, we built out a server rack of dense GPU miners and some ASICs to participate in Komodo and other projects for the next several years
     - Joined many Komodo projects and volunteered time and testing
-    - Current participant in KMD, VRSC, LABS, DP, ZEXO, RFOX and am a SUPERNET holder, along with several other assets
+    - Current participant in KMD, VRSC, LABS, DP,and am a SUPERNET holder, along with several other assets
     - I was awarded a handful of bounties to date for different contests and testing done throughout the platform
 	    - Was 1 of 3 top pize winners during jl777 developing the POS64 solution, won by proving I could multi-daemon stake and gain an edge, leading to a patch
 	    - Won KMDLABS POS64 contests a few times as the alpha chains were tested. Ended as 1 of the top 5 total LABS holders day of final snapshot for production launch
