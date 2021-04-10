@@ -29,5 +29,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 16. | [pirate](pirate/README.md)         | [pirate](pirate/README.md)               | [kmdude](kmdude/README.md)             | [goldenman](goldenman/README.md)       |
 | 17. | [ca333](ca333/README.md)           | [daemonfox](daemonfox/README.md)         | [hyperstaking](hyperstaking/README.md) | [starfleet](starfleet/README.md)       |
 | 18. | [cipi](cipi/README.md)             | [cipi](cipi/README.md)                   | [drkush](drkush/README.md)             | [tonyl](tonyl/README.md)               |
-| 19. | [van](van/README.md)               |                                          |                                        | [cipi](cipi/README.md)                 |
+| 19. | [van](van/README.md)               | [mojojojo400](mojojojo400/README.md)     |                                        | [cipi](cipi/README.md)                 |
 
