@@ -49,6 +49,10 @@ I'm really a fan of the komdo universe and its open-source mindset that is acces
 I participated in the notarynode testnet which is very interesting, and I would really like to participate in the real NN now, you can see the testnet stats on this url (my name is hsukrd -> RA93....vVJR):
   - https://2021.notarytestnet.lordofthechains.com/past-three-days
 
+## Promise:
+
+Know that if I am elected as a NotaryNode it will change my life in part, and I promise you that this money left will be used to pay for a house for my family and I promise you that I will do my best for Komodo-asset-chain ! Komodo <3
+
 ## Contact:
 
   - Discord: Dr Kush (hsukrd) <3 $ARRR#3853 
