@@ -1,4 +1,4 @@
-![](https://ibb.co/fGHqNY2)
+https://ibb.co/fGHqNY2
 
 Notary Node Proposal 2021
 
