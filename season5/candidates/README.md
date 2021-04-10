@@ -27,6 +27,6 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | [madmax](madmax/README.md)         | [webworker01](webworker01/README.md)     | [d4v](d4v/README.md)                   | [mrlynch](mrlynch/README.md)           |
 | [hastrup](hastrup/README.md)       | [captainsparrow](captainsparrow/README.md)| [mylo](mylo/README.md)                | [dathbezumniy](dathbezumniy/README.md) |
 | [yurii-khi](yurii-khi/README.md)   | [pirate](pirate/README.md)               | [kmdude](kmdude/README.md)             | [goldenman](goldenman/README.md)       |
-| [pirate](pirate/README.md)         |                                          | [hyperstaking](hyperstaking/README.md) | [starfleet](starfleet/README.md)       |
+| [pirate](pirate/README.md)         | [daemonfox](daemonfox/README.md)         | [hyperstaking](hyperstaking/README.md) | [starfleet](starfleet/README.md)       |
 | [ca333](ca333/README.md)           |                                          | [drkush](drkush/README.md)             | [tonyl](tonyl/README.md)               |
 |                                    |                                          |                                        |                                        |
