@@ -1,22 +1,21 @@
 # CHMEX Notary Node Proposal 2021
 
 ## Voting Address ##
-**Region: AR**
 
+**Region: AR**
 ```RYcS41es6jQtd9Pnv1bpMZmLmFAaMojjbX```
 
 **Region: NA**
-
 ```RAeX5HQCa6rhYZsm6PKX4ZTQ9MiMHffavJ```
 
 **Region: SH**
-
 ```RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y```
 
 <img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season5/candidates/chmex/qrcode.png">
 
 ## TLDR
 Vote for me if you want to see the ecosystem thrive. So far 100% of the funds stay in the ecosystem. see below for list.
+<br>`The SH Node - if elected will donate at least 60% to KMD Projects`.
 
 ## About me 
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
@@ -80,9 +79,6 @@ The yearly cost for those servers including Notary Node are about 12000 USD I ca
 
 **Region: NA**
 ```RAeX5HQCa6rhYZsm6PKX4ZTQ9MiMHffavJ```
-
-**Region: EU**
-```RBJGGzKhP7YWoPBoi5AKPm2VJEGy4oodQy```
 
 **Region: SH**
 ```RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y```
