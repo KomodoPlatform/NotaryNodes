@@ -13,7 +13,7 @@ I would like to run my node in Singapore in order to decentralize the network as
 
 ## Reasons to vote for me
 
-- I will donate part of the reward to the community projects. 
+- I will donate 10% of the reward to the community projects.
 - I will bring diversity in the NN representation.
 - Years of backend development and experience with server administration and automation.
 - I am always around in case anyone needs to contact me or there are updates which need to be applied.
@@ -22,7 +22,7 @@ I would like to run my node in Singapore in order to decentralize the network as
 
 I am a fullstack developer and designer and I have been involved with crypto for the past 4 years. In Komodo world I work on two community projects - CHIPS and TOKEL. You might have read some of my CHIPS udpates which we ship once a week on Friday. In case you havent highly advice to check it out as sometimes they are quite fun :) 
 
-I like the way Komodo is evolving and its community. Everyone seems to be welcoming and always keen to answer questions no matter how many and what they are :D This is one of the reasons I would like to apply for a Notary Node position. I would like to support Komodo in all possible ways. 
+I like the way Komodo is evolving and its community. Everyone seems to be welcoming and always keen to answer questions no matter how many and what they are :D This is one of the reasons I would like to apply for a Notary Node position. I would like to support Komodo in all possible ways. Running a notary node will be also be a great opportunity to understand Komodo and blockchain technology on a deeper level.
 
 I believe Komodo has future and I would love to be a part of it.
 
@@ -51,7 +51,7 @@ Couple of months ago I also started working on TOKEL. It seems to be getting a l
 
 I will make sure the node I am running is secure, reliable and always up to date with network changes. 
 
-I will donate part of my NN rewards towards CHIPS and TOKEL.
+I will donate 10% of my NN rewards towards CHIPS and TOKEL.
 
 I will be always readily available for updates and changes.
 
