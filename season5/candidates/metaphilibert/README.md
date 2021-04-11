@@ -85,8 +85,8 @@ Location: Datacenter in Sydney, Australia
 ## Contact:
 
 - discord: `metaphilibert#0926`<br>
-- keybase: `https://keybase.io/metaphilibert`<br>
-- twitter: `https://twitter.com/MetaPhilibert`<br>
+- keybase: https://keybase.io/metaphilibert<br>
+- twitter: https://twitter.com/MetaPhilibert<br>
 - pgp: `7A43 BE0B EC6F 385A 75E0 C990 0AC3 2EF0 9EF6 553C`
 
 ## PGP Public Key
