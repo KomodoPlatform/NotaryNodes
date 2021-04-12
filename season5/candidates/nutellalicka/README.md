@@ -1,6 +1,6 @@
 # NutellaLicka
 
-#### Regions: Southern Hemisphere & Asia/Russia
+#### Regions: Southern Hemisphere
 
 ### **SH** region VOTE2021 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
