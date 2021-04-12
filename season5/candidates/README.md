@@ -16,7 +16,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 |  3. | [smdmitry](smdmitry/README.md)     | [greer](greer/README.md)                 | [nutellalicka](nutellalicka/README.md) | [dudezmobi](dudezmobi/README.md)       |
 |  4. | [slyris](slyris/README.md)         | [dragonhound](dragonhound/README.md)     | [darkolisio](darkolisio/README.md)     | [titomane](titomane/README.md)         |
 |  5. | [dappvader](dappvader/README.md)   | [kulim](kulim/README.md)                 | [gcharang](gcharang/README.md)         | [ocean](ocean/README.md)               |
-|  6. | [donromero](donromero/README.md)   | [ptyx](ptyx/README.md)                   | [workax](workax/README.md)             | [nutellalicka](nutellalicka/README.md) |
+|  6. | [donromero](donromero/README.md)   | [ptyx](ptyx/README.md)                   | [workax](workax/README.md)             | [tokel_node](tokel_node/README.md) |
 |  7. | [titomane](titomane/README.md)     | [theerbeen](theerbeen/README.md)         | [phm87](phm87/README.md)               | [byozgunn](byozgunn/README.md)         |
 |  8. | [mihailo](mihailo/README.md)       | [crackers](crackers/README.md)           | [foxminner](foxminner/README.md)       | [fediakash](fediakash/README.md)       |
 |  9. | [jorian](jorian/README.md)         | [rustytwilight](rustytwilight/README.md) | [pbca26](pbca26/README.md)             | [pangz](pangz/README.md)               |
@@ -31,4 +31,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 18. | [cipi](cipi/README.md)             | [cipi](cipi/README.md)                   | [drkush](drkush/README.md)             | [tonyl](tonyl/README.md)               |
 | 19. | [van](van/README.md)               | [mojojojo400](mojojojo400/README.md)     | [metaphilibert](metaphilibert/README.md)| [cipi](cipi/README.md)                |
 | 20. | [node-9](node-9/README.md)         | [node-9](node-9/README.md)               |                                        | [metaphilibert](metaphilibert/README.md)|
-| 21. | [syl](syl/README.md)               |                                          |                                        |                                        |
+| 21. | [syl](syl/README.md)               | [chips_node](chips_node/README.md)        |                                        |                                        |
