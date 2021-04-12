@@ -31,7 +31,7 @@ I, NutellaLicka, will be the sysadmin of the Tokel notary node. I have been a no
 - [Komodo Discord](https://komodoplatform.com/discord)
 - [Tokel Discord](https://discord.gg/DZvuAR6QzX) 
 - [CHIPS Discord](https://discord.gg/SQCSa2X)
-- 
+
 ### :email: Email
 NutellaLicka@protonmail.com
 
@@ -41,5 +41,7 @@ NutellaLicka@protonmail.com
 The list of Notary Nodes below will dedicate a portion of their Notary node rewards towards the Tokel project, or have been a significant help getting the project to where it is, thus far. If you have the votes, would you please consider voting for them also.
 
 [Jorian - 33% to Tokel](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/jorian/README.md)
+
 [Daria - 10% to CHIPS & Tokel](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/daria/README.md)
+
 [CHMEX - Tokel Initial Adopter](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/chmex/README.md)
