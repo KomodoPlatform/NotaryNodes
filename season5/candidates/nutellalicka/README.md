@@ -63,6 +63,6 @@ I will be providing the Southern Hemisphere with nodes (main & 3rd party) locate
 - [Komodo Discord](https://komodoplatform.com/discord)
 - [Tokel Discord](https://discord.gg/DZvuAR6QzX) 
 - [CHIPS Discord](https://discord.gg/SQCSa2X)
-- 
+
 ### :email: Email
 NutellaLicka@protonmail.com
