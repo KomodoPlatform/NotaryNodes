@@ -20,7 +20,7 @@ This node will be located in North America and meet all the specification requir
 
 ## :pushpin: Server Admin
 
-I, NutellaLicka, will be the sysadmin of the CHIPS notary node. I have been a notary node for the previous 2 seasons, and am currently running again for a single node (for myself) in this election. Please check out my proposal to learn more
+I, NutellaLicka, will be the sysadmin of the CHIPS notary node. I have been a notary node for the previous 2 seasons, and am currently running again for a single node (for myself) in this election. Please check out my proposal to learn more.
 
 [https://github.com/NutellaLicka/NotaryNodes/blob/master/season5/candidates/nutellalicka/README.md](https://github.com/NutellaLicka/NotaryNodes/blob/master/season5/candidates/nutellalicka/README.md)
 
