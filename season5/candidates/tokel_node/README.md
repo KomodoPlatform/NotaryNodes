@@ -13,7 +13,7 @@ If you'd like to learn more, please checkout the [website - https://tokel.io/](h
 
 ## :pushpin: Tokel Node Donations
 
-50% of the mining rewards from this node will be donated to the Tokel project.
+**50%** of the mining rewards from this node will be donated to the Tokel project.
 
 ## :pushpin: Server Specifications
 
