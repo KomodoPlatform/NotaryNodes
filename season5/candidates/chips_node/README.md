@@ -29,7 +29,7 @@ I, NutellaLicka, will be the sysadmin of the CHIPS notary node. I have been a no
 - [Komodo Discord](https://komodoplatform.com/discord)
 - [Tokel Discord](https://discord.gg/DZvuAR6QzX) 
 - [CHIPS Discord](https://discord.gg/SQCSa2X)
-- 
+
 ### :email: Email
 NutellaLicka@protonmail.com
 
@@ -39,8 +39,13 @@ NutellaLicka@protonmail.com
 The list of Notary Nodes below will dedicate a portion of their Notary node rewards towards the CHIPS project, or have been a significant help getting the project to where it is, thus far. If you have the votes, would you please consider voting for them also.
 
 [Daria - 10% to CHIPS & Tokel](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/daria/README.md)
+
 [MrLynch/Pirate - 5% to CHIPS, 10% to Pirate](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/mrlynch/README.md)
+
 [dappvader - 10% to CHIPS](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/dappvader/README.md)
+
 [Alien - Significant CHIPS contributor](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/alien/README.md)
+
 [Jorian - Significant CHIPS contributor & donating to the Tokel project](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/jorian/README.md)
+
 [CHMEX - Donates to ecosystem projects](https://github.com/KomodoPlatform/NotaryNodes/blob/master/season5/candidates/chmex/README.md)
