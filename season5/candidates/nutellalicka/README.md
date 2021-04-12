@@ -66,3 +66,10 @@ I will be providing the Southern Hemisphere with nodes (main & 3rd party) locate
 
 ### :email: Email
 NutellaLicka@protonmail.com
+
+
+### Other nodes
+
+Please consider voting for the nodes listed below as they will be donating a significant portion of their rewards to community projects. I will be the sysadmin for the nodes listed below.
+[Tokel Node](https://github.com/NutellaLicka/NotaryNodes/blob/master/season5/candidates/tokel_node/README.md)
+[CHIPS Node](https://github.com/NutellaLicka/NotaryNodes/blob/master/season5/candidates/chips_node/README.md)
