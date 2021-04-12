@@ -12,7 +12,7 @@ The project aims to create truly decentralized, trustless, peer-to-peer, and sec
 
 ## :pushpin: CHIPS Node Donations
 
-50% of the mining rewards from this node will be donated to the CHIPS project.
+**50%** of the mining rewards from this node will be donated to the CHIPS project.
 
 ## :pushpin: Server Specifications
 
