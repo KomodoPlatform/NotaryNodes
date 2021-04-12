@@ -32,3 +32,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 19. | [van](van/README.md)               | [mojojojo400](mojojojo400/README.md)     | [metaphilibert](metaphilibert/README.md)| [cipi](cipi/README.md)                |
 | 20. | [node-9](node-9/README.md)         | [node-9](node-9/README.md)               |                                        | [metaphilibert](metaphilibert/README.md)|
 | 21. | [syl](syl/README.md)               |                                          |                                        |                                        |
+| 22. | [arnomad](arnomad/README.md)       |                                          |                                        |                                        |
+
