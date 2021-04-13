@@ -4,7 +4,7 @@
 :1st_place_medal: #1 best Notary Node Operator Score in North America for S3.
  </p>
 <p align="center">
-:1st_place_medal: #1 best Notary Node Operator Score in South America for S4.
+:1st_place_medal: #1 best Notary Node Operator Score in South Hemisphere for S4.
 </p>
 <p align="center">
 :2nd_place_medal: #2 best Notary Node Operator Score in North America for S4.
