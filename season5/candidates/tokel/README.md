@@ -21,9 +21,7 @@ If you'd like to learn more, please checkout the [website - https://tokel.io/](h
 
 This node will be located in either Singapore, or Japan. This will further enhance the decentralisation of the nodes in Asia/Russia
 
-## :pushpin: Server Admin
-
-### :email: Email
+### :email: Contact
 dirtymoe@protonmail.com
 
 ## Tokel Contributors
