@@ -1,6 +1,17 @@
-![n9 Header](https://github.com/Cris-F/node-9/blob/master/n-9_banner_blanc.png)
-
+![n9 Header](https://github.com/Cris-F/node-9/blob/master/n9_banner.png "node-9")
 # CrisF   node-9 
+    Discord:      CrisF#3405 (412482228359266328)
+
+    Email:        CrisFell@pm.me
+
+    Website:      https://node9.xyz
+    
+    Mainnet:      029ffa793b5c3248f8ea3da47fa3cf1810dada5af032ecd0e37bab5b92dd63b34e
+    3rd Party:    0392e4c9400e69f28c6b9e89d586da69d5a6af7702f1045eaa6ebc1996f0496e1f
+    
+   PGP Key:      [See page bottom](#pgp-key)
+
+
 
 ### KMD Notary Node Proposal 2020
 
@@ -8,7 +19,7 @@
 
 Thank you for checking out my Notary Node Proposal. Your votes would be greatly appreciated!
 
-Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**
+Please send them here:  **RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo**        --> ![n9 Address QR](https://raw.githubusercontent.com/Cris-F/node-9/master/n9_address_QR.png)
 
 ### Region:       EU
 ### Vote address: RCKC2LrT18hymTjajK1BaqxGKV76NnfHTo

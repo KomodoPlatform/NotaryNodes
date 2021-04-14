@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/VotePirate.jpg)
+![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/VotePirate.jpg)
 
 ### [EU - Europe] ###
 
@@ -16,28 +16,17 @@ RHs4FTLEYn7CcbLdRBNDbm6iNTUwxpj8ML
 RTQZhmZn1YaBBGpKBxDy9aaHTipFCDCTUJ
 ```
 
-### [AR - Asia-Russia] ###
-
-- VOTE address
-
-```
-RC2pD9ietgA27QMhgv8nn5pFo2v7HfmesF
-```
-
-
-
 ## Commitment ##
 
-#### Our commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
+#### My commitment is to the KMD Ecosystem and Pirate (ARRR) therefore almost all the reward will support that ####
 
-![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/nn_accounts.png)
+```
+PIRATE dev fund - 10% *
+PIRATE Arrrmada - 5% *
+CHIPS dev fund - 5% *
+```
 
-
-#### For ALL interest blocks larger than 100 KMD: ####
-* 50% of reward will go towards the Pirate Development fund
-* 50% of reward will go towards the node operators
-
-Disclaimer: Node server costs are in FIAT, therefore all distributions will be made after the costs are covered (300 KMD server cost is based on past 3 months KMD / USD rates)
+* Donations will be made after operational costs are covered.
 
 
 ### Server specs ###
@@ -51,6 +40,8 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 	| Storage  |SoftRaid 2x1.92 TB NVMe				|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - London, UK 			|
+	| MAIN Pubkey |0231c0f50a06655c3d2edf8d7e722d290195d49c78d50de7786b9d196e8820c848|
+	| 3P Pubkey |0240011b95cde819f298fe0f507b2260c9fecdab784924076d4d1e54c522103cb1|
 
 - [NA]
 
@@ -61,36 +52,11 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 	| Storage  |SoftRaid 2x1.92 TB NVMe	|
     | Network  |1 Gbps up/down  |
 	| Location |Datacenter - Beauharnois, Canada		|
-
-- [AR]
-
-	| Spec     | Detail             |
-	|----------|--------------------|
-	| CPU      |Intel  Xeon-D 1541 - 8c/16t - 2.1GHz / 2.7GHz |
-	| RAM      |64GB DDR4 ECC 2133 MHz			|
-	| Storage  |Hybrid SoftRaid 2x2 TB + 2x480 GB SSD	|
-    | Network  |250 Mbps up/down  |
-	| Location |Datacenter - Singapore		|
+	| MAIN Pubkey |02207f27a13625a0b8caef6a7bb9de613ff16e4a5f232da8d7c235c7c5bad72ffe|
+	| 3P Pubkey |02ad7ef25d2dd461e361120cd3efe7cbce5e9512c361e9185aac33dd303d758613|
 
 
 ## Pirate Notary Crew ##
-
-### Fishy Guts ###
-```PirateChain Team role: Project management, Consultant, Community liaison, Zcommerce promoter, Onboarding```
-
-- 1 year active Community Contributor in KMD Ecosystem - Ran many Community raffles to promote dICOs
-- Provided the KMD Tip Bot and Wordpress Payment portal to the Community
-- Commited [DigitalPrice.io](https://digitalprice.io) to add KMD as a base trading pair
-- Working with radix42 to create a dedicated full node port of KMD to Nodl.it which will support all asset chains
-- Pushed Z Address integration and adoption - something even JL777 was skeptical about
-- 20+ years experience in Mortgage Finance and Sales including compliance and regulatory procedures
-
-##### Contact Details #####
-
-- Discord: [@FishyGuts#5085](https://pirate.black/discord)
-- Twitter: [@PirateChain](https://twitter.com/PirateChain)
-- E-mail: marketing@pirate.black
-- Website: [https://notary.pirate.black](https://notary.pirate.black)
 
 ### Mr Lynch ###
 ```PirateChain Team role: Technical contact, Node operations & security, Zcommerce enabler```
@@ -108,10 +74,8 @@ Disclaimer: Node server costs are in FIAT, therefore all distributions will be m
 ##### Contact Details #####
 
 - Discord: [@mrlynch#5735](https://pirate.black/discord)
-- Notary Website: [http://notary.privatebay.io](http://notary.privatebay.io)
 - Github: [@mrmlynch](https://github.com/MrMLynch)
 - E-mail: mrlynch@protonmail.ch
-- Website: [https://notary.pirate.black](https://notary.pirate.black)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -149,8 +113,4 @@ Yz1g2h5NaiXYRvS8WR6gU/cfbzfHkIjso2TvYOsYrj9O6eLPTcvxFLBaiA==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-![](https://raw.githubusercontent.com/mrmlynch/NotaryNodes/master/notarynodes/pirate/welcome_pirates.jpg)
-
-## Disclosure ##
-
-- We are running for election for the first time
+![](https://raw.githubusercontent.com/MrMLynch/NotaryNodes/master/season3/notarynodes/pirate/welcome_pirates.jpg)

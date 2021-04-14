@@ -222,6 +222,86 @@ In the following table, 1st column, the addresses voters sent their VOTE2019 tok
 >[2020-02-18] Voters
 ([txid](http://komodod.com/t/4a20b6b6cc354c19a5f878922f1222d70b2d7720fb72f408079b715d69b1a258))
 
+### [#14] Payment (see first payment for allocation details)
+
+>[2020-03-06] @mrlynch#5735
+([txid](https://komodod.com/t/ecb294274c78e639ad1c08cb1018137b57c744f11a5bea7c755e7d22819ad169))
+
+>[2020-03-06] Voters
+([txid](http://komodod.com/t/0eef62b42bd7aa20247ba221988ba470a90721e94c45a9bbaeae96487045eb8b))
+
+### [#15] Payment (see first payment for allocation details)
+
+>[2020-03-26] @mrlynch#5735
+([txid](https://komodod.com/t/c7ab306f29f0489104579655f96c0e41e291cd33e29d80670ab4b1f56288de8d))
+
+>[2020-03-26] Voters
+([txid](http://komodod.com/t/4a02abf4dc4506792c26673e47325cf94433f21ff8955cf5e801317f37fe4c0d))
+
+### [#16] Payment (see first payment for allocation details)
+
+>[2020-04-14] @mrlynch#5735
+([txid](https://komodod.com/t/15fe35310256cad72a08d2da3f47240d5b0f19deef8409251509982126e18cf6))
+
+>[2020-04-14] Voters
+([txid](http://komodod.com/t/c1bee07047b2a888e83e4ff591426e4c646b5156e1816a24b1e15eb741d1ec31))
+
+### [#17] Payment (see first payment for allocation details)
+
+>[2020-04-21] @mrlynch#5735
+([txid](https://komodod.com/t/99b045bb1835349ccd818b459ac109cfb55cc7a549a2a513b715ec8e43365ec2))
+
+>[2020-04-21] Voters
+([txid](http://komodod.com/t/29b980fd306053e5a8fc61fade2fa28e0199b47709052d5a40d9b49805116b29))
+
+### [#18] Payment (see first payment for allocation details)
+
+>[2020-05-10] @mrlynch#5735
+([txid](https://komodod.com/t/ff2ec3de776bd60b68aed46770e8567309bbe0bdf5ac49add491725018935843))
+
+>[2020-05-10] Voters
+([txid](http://komodod.com/t/25a58e69319d7ded8710f58ce64d77bf7e808a1bc34f42ddbb928760c90e50f6))
+
+### [#19] Payment (see first payment for allocation details)
+
+>[2020-05-30] @mrlynch#5735
+([txid](https://komodod.com/t/ca9a3547ce021260e022f0382a485b5245bc0749ceb2e6374e88ea47158d117b))
+
+>[2020-05-30] Voters
+([txid](http://komodod.com/t/84414fc44b8e0cb8bbe733681cd07bdb091cc0dbe93f943ccfed373799b7038b))
+
+### [#20] Last payment
+
+>[2020-06-15] @mrlynch#5735
+([txid](https://komodod.com/t/29606e75efe1d95e5aaae90b16e401bca56bdfd6fdf96bf08636546af506942a))
+
+>[2020-06-15] Voters
+([txid](http://komodod.com/t/c1d591156f391c014f39d52c33322422cd610e488e2a063eb81fa8321af6356d))
+
+>
+| Rewards sent to                    | Reward amount |
+|------------------------------------|---------------|
+| RBpEnyzuQNj1hNdAG1pKLALpAWEUS67PBj |    71.847 KMD |
+| RNLCzh2nG6a8EvSSK3NFiJo6qGrZwZmJgT |     2.042 KMD |
+| RM8KWtnw8ZNTwYjYAbGCSw7b9ydrDDtt5D |     1.924 KMD |
+| R9kBAWwCeUQoXYoP7PdRXpjtgqoCuZvZ9U |     1.176 KMD |
+| RF2oMgg1xvgHSqsBDdfz65UL314Ji51suD |     0.951 KMD |
+| RMkyqNwXxuBQD81VVG2rvvEe9JWMXdJQnB |     0.559 KMD |
+| REEtSLDAEXNkqRcbKbobBs3auVQHqqcMEh |     0.274 KMD |
+| RJwGCBmdnsNJ9Ux7Mp7FUQs2FKsUGJhm65 |     0.206 KMD |
+| RC6t3NGvo47whEavzcaVixPgJTGJCEQS8B |     0.180 KMD |
+| RLcvGZNcr9HrLKdVz55ucVd4YfgXiAkbU3 |     0.095 KMD |
+| RPZFWKwbMxF2fHZ1Qx2FawXyxefFrin1wM |     0.089 KMD |
+| RJLmfR4vqzLEVP3wQMJQ3yWkNmUWmffZx4 |     0.068 KMD |
+| RRvkANPCDZpid5y1ozTMNXaS5TC8rgx8LZ |     0.030 KMD |
+| RSdBZp9rbaKbGrxaxYNMNxVHBiacsfMZey |     0.025 KMD |
+| RDR3mgoFX3HxHj4C7egNYbeNN6vHJQ8o7z |     0.015 KMD |
+| RRbEEfxkqAKTUNsf5hchmjBDEcwSNxZAbG |     0.014 KMD |
+| RXzB73rzwWRrRzGFHWtDwwyvy7GLhryDn3 |     0.003 KMD |
+| RMcGui5DFJaDTyG5aX5iknrnG51ss4evqJ |     0.001 KMD |
+| RBhZkVrEfN8Px7tPBuuhQNJAqN5o1C7Ubz |     0.001 KMD |
+|                             TOTAL  |    79.500 KMD |
+
 ## Contact details ##
 
 Feel free to contact me on:
