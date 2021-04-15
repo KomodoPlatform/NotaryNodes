@@ -1,18 +1,18 @@
 <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/44530858">
 
-# Marmara Chain Notary Node Candidacy for AR Region 
+# Marmara Chain Notary Node Candidacy for EU Region 
 <b>Marmara Credit Loops (MCL), the First and Only DeFi System of the World Designed to Run in Real Economy.</b> 
 
 Marmara Credit Loops (MCL) is the first and the only Decentralized Finance (DeFi) system in the World designed to run in real economy. The system rewards buyers and sellers when shopping with credit loops instead of cash. It works as an independent smart chain with a 25% mineable and 75% stakeable coin integrated with two DeFi protocols. The system uses UTXO based Turing Complete Smart Contracting system powered by Komodo Platform.
 
 ## Region and Voting Address
 
-- Region: `AR`
+- Region: `EU`
 - Address: `RG2eBcaSFUkjukBCZBr8XgpzfYBHb3v72M`
 
 ## Komodo Notary Node (NN) Proposal
 
-- We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. We are planning to manage Notary position in or nearby a Technopark either Marmara University or Komodo Office in Technopark Istanbul which is the greatest of technoparks in Turkey.
+- We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage Notary position in EU Region.
 - We intend to spread end-to-end solutions of Komodo technologies to a very large audience and make Marmara Region a blockchain hub not only in Turkey but also in the middle-east region.
 - Our adventure with Komodo started more than 3 years ago when we started seeking the best technology to solve the complex problems in post-dated cheques and promissory notes which currently work as analog blockchain existing on papers in Turkish economy. This problem is known as non-redemption.
 They both do not only comprise nearly the half of GDP in Turkey but also in economies such as India, Middle East, etc where trust is a common culture in the society. The history and more staff may be found in (https://marmara.io/history)
@@ -31,12 +31,12 @@ After so many tests we started the mainnet for Marmara Credit Loops Version 1 on
 - We strongly believe that Marmara community should and will be competent and strong to get involved in many potential projects in the near future by having talented people in Crypto Conditions, Smart Contracts by Komodo.
 - We want to establish a center for teaching Komodo way of developing smart contracts by using CC Technologies for this purpose. Notarization is one of the key services for Komodo. Therefore, we feel that our community should be involved in this technology so that we can provide benefits of dPoW to other projects in region.
 - Of course, all these will be possible if we can get enough votes from Komodo community. We believe that we will get support as before since otherwise would not be possible for us to initate a huge project named Marmara Credit Loops (MCL) which has a potential of trillion USD economy in the World.
-- This year we like to involve more of universities and technoparks which we could not benefit last year due to pandemic limitations.
+- This year we like to involve more of universities and technoparks which we could not benefit last year due to pandemic restrictions.
 
 
 ## Server Specifications 
 
-- CPU:  Intel  Xeon E3-1245v5 - 4c/8t - 3.5GHz /3.9GHz
+- CPU:  Intel  Xeon E3 - 8c/16t 
 - RAM:  64GB DDR4
 - SSD:  SoftRaid 2x450GB SSD NVMe
 
