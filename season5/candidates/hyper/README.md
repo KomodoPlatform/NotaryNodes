@@ -1,4 +1,4 @@
-I am creating this proposal to be able to help fund ecosystem projects. 
+I am creating this proposal to be able to help fund ecosystem projects and all funds outside costs/sys admin will be directed to this cause.
 
 #### Regions: North America
 
