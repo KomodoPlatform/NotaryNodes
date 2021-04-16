@@ -1,3 +1,5 @@
+![Top_Banner](https://i.imgur.com/hSsvWcJ.png)
+
 # Support Komodo Pioneers
 
 33 % PROFIT SHARE TO SUPPORT KOMODO COMMUNITY
@@ -6,11 +8,16 @@
 
 Thank you!
 
+---
+![1_Image](https://i.imgur.com/DAoyqRb.jpg)
+---
 
-## EU Region Candidate 2019
+## EU Region Candidate 2021
 We are a candidate for the EU region.
 
-We have been actively organizing and supporting community meetups in the past. You can [read more about that from our annual report](http://bit.ly/KPNN2019). Take your time to flick through it and see how we have represented Komodo and what we are up to.
+We have been actively organizing and supporting community meetups since 2017 and we can't wait to grow our community again! 
+
+PLEASE VOTE: RLDs9ZTtzAQy8Y7eoMht7oMFuciECiqCEi
 
 ## We Reinvest Back Into Komodo Ecosystem
 
@@ -38,5 +45,6 @@ See you there!
 
 - Some of our team are Komodo Platform team members or related (audo, barv).
 - Some of our team are CoinCollect team members (bartwr, barv).
+- Barv is Open Food Chain founding team member.
 - We have pledged a portion of our mining rewards towards Komodo eco-system growth thru subsidizing meetups and producing presentations & content for sharing
 - Despite the bear market and no spot last year pioneers have been active promoting Komodo through meetups.
