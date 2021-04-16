@@ -27,19 +27,19 @@ Funds gained from this opportunity I will keep them within the Komodo community 
 
 ## Server Specifications
 
-| Hardware     | **Primary Server** |
-    |----------|---------------------|
-    | CPU      | 4x Intel Xeon E7-4870 10-Core (40 Cores)|
-    | RAM      | 512GB ECC RAM|
-    | Storage  | 4TB RAID Storage|
-    |PSU       |4x 1100 Watt (Hot-Swap)|
+ Hardware     | Primary Server |
+----------|---------------------|
+ CPU      | 4x Intel Xeon E7-4870 10-Core (40 Cores)|
+ RAM      | 512GB ECC RAM|
+ Storage  | 4TB RAID Storage|
+PSU       |4x 1100 Watt (Hot-Swap)|
 
-| Hardware     | **Secondary Server** |
-    |----------|---------------------|
-    | CPU      | AMD Ryzen 9 3950X 16-Core|
-    | RAM      | 64GB RAM|
-    | Storage  | 2TB RAID Storage|
-    |PSU       |2x 700 Watt (Hot-Swap)|
+ Hardware     | Secondary Server |
+----------|---------------------|
+ CPU      | AMD Ryzen 9 3950X 16-Core|
+ RAM      | 64GB RAM|
+ Storage  | 2TB RAID Storage|
+PSU       |2x 700 Watt (Hot-Swap)|
 
 ##  Contact Details
 ###  Media
