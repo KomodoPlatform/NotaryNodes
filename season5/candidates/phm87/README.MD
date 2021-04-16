@@ -47,6 +47,7 @@ Support Blur, TOKEL, CHIPS and open-food-chain projects with:
 - allocation of 3% of KMD block rewards to TOKEL project
 - allocation of 3% of KMD block rewards to CHIPS project
 - allocation of 3% of KMD block rewards to open-food-chain project
+
 If KMDUSD price falls below $0.5 the allocation will be calculated after servers costs deduced (main Notary Node server and Secondary 3P server) for the period when KMD is below $0.5. This rule will decrease risk of payment issues of mandatory servers if price crashes. During season 3, when price was low, Notary Node was not profitable with the huge direct donation.
 
 ## 2020-2021 Projects/milestones
