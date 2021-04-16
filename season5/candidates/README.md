@@ -33,7 +33,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 20. | [node-9](node-9/README.md)         | [node-9](node-9/README.md)               | [kidcrypto81](kidcrypto81/README.md)   | [metaphilibert](metaphilibert/README.md)|
 | 21. | [syl](syl/README.md)               | [who-biz](who-biz/README.md)             | [collider](collider/README.md)         | [tokel](tokel/README.md)               |
 | 22. | [arnomad](arnomad/README.md)       | [chicagodan](chicagodan/README.md)       |                                        | [etszombi](etszombi/README.md)         |
-| 23. | [komodopioneers](komodopioneers/README.md)|                                   |                                        |                                        |
+| 23. | [komodopioneers](komodopioneers/README.md)|                                   |                                        | [artem.pikulin](artem.pikulin/README.md)|
 | 24. | [etszombi](etszombi/README.md)     |                                          |                                        |                                        |
 | 25. | [jusoaresf](jusoaresf/README.md)   |                                          |                                        |                                        |
 | 26. | [marmarachain](marmarachain/README.md)|                                       |                                        |                                        |
