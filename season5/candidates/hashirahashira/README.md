@@ -9,7 +9,7 @@ AR (Asia Region)
 ## NN pubkeys & addresses
 
 | Main pubkey | 028099f5601ec703be7636fbd51edc2e1e978b908751d98d238a0230b314e3e4c7 |
-
+|-------------|--------------------------------------------------------------------|
 | Main addr.  | RLAnv4sG7xhbPXCuQyHf473gsj43cFiFan |
 
 | 3rd  pubkey | 0272f3e7d12799a73ac96f778f4b33c9b99a640766f8ccb039a322730d95442e74 |
