@@ -4,10 +4,7 @@
 
 ## Voting Addresses
 
-| Region | VOTE2021 Addresses                   |
-|:-----: | :----------------------------------: |
-| **NA** | `RCLzVr8QRgofP3HN4Ab54fu3iQaiVu8C4p` |
-| **SH** | `RVYNaE9Zd5fmT8DetSupf1oVrYCMrMwDXd` |
+NA: RCLzVr8QRgofP3HN4Ab54fu3iQaiVu8C4p
 
 ## About Me
 
