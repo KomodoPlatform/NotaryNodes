@@ -10,3 +10,5 @@ Before my work in crypto, I worked in an IT company that was engaged in various 
 My motivation for participation in komodo notarisation project is willingness to help our great team to secure our network and get better acquainted with our technologies in practice. 
 
 My region is EU, voting address: RUFcSvgSTtsosC3MQogmnitteFPykiMTer
+
+contact: dimxy@komodoplatform.com
