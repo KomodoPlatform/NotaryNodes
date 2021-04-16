@@ -3,11 +3,11 @@
 
 ## Voting address
 #### REgzn9okKi6hsyr5UwjYr8GNq7TpLn63t9
----
+
 ## 🌏 Which region I'm running for
 AR (Asia Region)
-more specifically, I will be running my servers in a South-East Asia country
----
+##### More specifically, I will be running my servers in a South-East Asia country
+
 ## 🏣 My NN pubkeys & addresses
 | Main pubkey | 028099f5601ec703be7636fbd51edc2e1e978b908751d98d238a0230b314e3e4c7 |
 |-------------|--------------------------------------------------------------------|
