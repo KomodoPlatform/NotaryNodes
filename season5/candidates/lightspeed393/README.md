@@ -11,35 +11,35 @@
 
 ## About Me
 
-- Founder of Spacecoin (SPACE). A project using Komodo's smartchain technology - [spacecoin.network](https://spacecoin.network)
+Founder of Spacecoin (SPACE). A project using Komodo's smartchain technology - [spacecoin.network](https://spacecoin.network)
 
-    This involves experience with administering servers for nodes, explorers, electrumx servers, a mining pool, and atomicDEX nodes for liquidity.
+  - This involves experience with administering servers for nodes, explorers, electrumx servers, a mining pool, and atomicDEX nodes for liquidity.
 
-- Contributing to WallStreetBets (WSB) - [wsbcoin.cash](https://wsbcoin.cash)
+Contributing to WallStreetBets (WSB) - [wsbcoin.cash](https://wsbcoin.cash)
 
-    This involves maintaining the site, a mining pool, and helping users with support questions.
+  - This involves maintaining the site, a mining pool, and helping users with support questions.
 
-- Creating guides for atomicDEX - [guides.spaceworks.co](https:/guides.spaceworks.co)
+Creating guides for atomicDEX - [guides.spaceworks.co](https:/guides.spaceworks.co)
 
-    - [Setup AtomicDEX-Desktop](https://guides.spaceworks.co/Setup-AtomicDEX-Desktop.html)
-    - [Use AtomicDEX-Desktop As A Wallet](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-As-A-Wallet.html)
-    - [Use AtomicDEX-Desktop For Trading](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-For-Trading.html)
-    - [Use AtomicDEX-Desktop To Provide Liquidity](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-To-Provide-Liquidity.html)
+  - [Setup AtomicDEX-Desktop](https://guides.spaceworks.co/Setup-AtomicDEX-Desktop.html)
+  - [Use AtomicDEX-Desktop As A Wallet](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-As-A-Wallet.html)
+  - [Use AtomicDEX-Desktop For Trading](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-For-Trading.html)
+  - [Use AtomicDEX-Desktop To Provide Liquidity](https://guides.spaceworks.co/Use-AtomicDEX-Desktop-To-Provide-Liquidity.html)
 
-    - [Build MM2 On Ubuntu](https://guides.spaceworks.co/Build-MM2-On-Ubuntu.html)
-    - [Download MM2 Binary](https://guides.spaceworks.co/Download-MM2-Binary.html)
-    - [Setup MM2](https://guides.spaceworks.co/Setup-MM2.html)
-    - [Run MM2](https://guides.spaceworks.co/Run-MM2.html)
-    - [Use MM2](https://guides.spaceworks.co/Use-MM2.html)
+  - [Build MM2 On Ubuntu](https://guides.spaceworks.co/Build-MM2-On-Ubuntu.html)
+  - [Download MM2 Binary](https://guides.spaceworks.co/Download-MM2-Binary.html)
+  - [Setup MM2](https://guides.spaceworks.co/Setup-MM2.html)
+  - [Run MM2](https://guides.spaceworks.co/Run-MM2.html)
+  - [Use MM2](https://guides.spaceworks.co/Use-MM2.html)
 
-    - [Use MMTools](https://guides.spaceworks.co/Use-MMTools.html)
-    - [Use MPM](https://guides.spaceworks.co/Use-MPM.html)
+  - [Use MMTools](https://guides.spaceworks.co/Use-MMTools.html)
+  - [Use MPM](https://guides.spaceworks.co/Use-MPM.html)
 
-    - [Add A Coin To AtomicDEX](https://guides.spaceworks.co/Add-A-Coin-To-AtomicDEX.html)
+  - [Add A Coin To AtomicDEX](https://guides.spaceworks.co/Add-A-Coin-To-AtomicDEX.html)
 
-- Helping with Komodo users support questions on Komodo Discord whenever possible.
+Helping with Komodo users support questions on Komodo Discord whenever possible.
 
-- Testing new AtomiCDEX-Desktop versions and reporting bugs and feature requests when necessary. [AtomicDEX-Desktop/issues](https://github.com/KomodoPlatform/atomicDEX-Desktop/issues?q=is%3Aissue+author%3Alightspeed393)
+Testing new AtomicDEX-Desktop versions and reporting bugs and feature requests when necessary. [AtomicDEX-Desktop/issues](https://github.com/KomodoPlatform/atomicDEX-Desktop/issues?q=is%3Aissue+author%3Alightspeed393)
 
 ## Plans for NN Funds
 
