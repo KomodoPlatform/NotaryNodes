@@ -37,3 +37,4 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 24. | [etszombi](etszombi/README.md)     |                                          |                                        | [hashira](hashira/README.md)           |
 | 25. | [jusoaresf](jusoaresf/README.md)   |                                          |                                        |                                        |
 | 26. | [marmarachain](marmarachain/README.md)|                                       |                                        |                                        |
+| 27. | [dimxy](dimxy/README.md)           |                                          |                                        |                                        |
