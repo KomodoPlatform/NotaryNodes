@@ -36,5 +36,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 23. | [komodopioneers](komodopioneers/README.md)| [karasugoi](karasugoi/README.md)  |                                        | [artem.pikulin](artem.pikulin/README.md)|
 | 24. | [etszombi](etszombi/README.md)     | [hyper](hyper/README.md)                 |                                        | [hashira](hashira/README.md)           |
 | 25. | [jusoaresf](jusoaresf/README.md)   | [uer2](uer2/README.md)                   |                                        |                                        |
-| 26. | [marmarachain](marmarachain/README.md)|                                       |                                        |                                        |
+| 26. | [marmarachain](marmarachain/README.md)| [lightspeed393](lightspeed393/README.md)|                                        |                                        |
 | 27. | [dimxy](dimxy/README.md)           |                                          |                                        |                                        |
