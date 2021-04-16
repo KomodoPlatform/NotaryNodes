@@ -20,9 +20,9 @@ AR (Asia Region)
 ## ❓ Who am I & what I am capable of
 First of all thank you for reading my proposal, I prefer to stay anonymous due to several reasons, through my entire career I have experiences & knowledge with multiple subjects & domain, including blockchain, cryptocurrencies & IT, that's why I think I could be suitable for the NN operator job & apply for the election this year. I have acquired AWS certificates for Assoiate Solution Architect, Developper & SysOps Administrator. 
 
-https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashirahashira/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png
-https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashirahashira/AWS%20Certified%20Developer%20-%20Associate%20certificate.png
-https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashirahashira/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.png
+https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashira/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.png
+https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashira/AWS%20Certified%20Developer%20-%20Associate%20certificate.png
+https://github.com/hashirahashira/NotaryNodes/blob/master/season5/candidates/hashira/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.png
 
 ## ✔️ Pledges & promises
 - First & for most with my SysOps admin skillset, I guarantee to minimize any possible downtime of my servers & follow any update of the network.
