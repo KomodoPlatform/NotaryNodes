@@ -2,7 +2,7 @@
 
 
 ### Voting address
-#####`REgzn9okKi6hsyr5UwjYr8GNq7TpLn63t9`
+#### REgzn9okKi6hsyr5UwjYr8GNq7TpLn63t9
 ---
 ## Region
 AR (Asia Region)
