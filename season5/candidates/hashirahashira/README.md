@@ -1,8 +1,8 @@
 # hashirahashira's proposal for the 2021 Notary Node election
 
 
-## Voting address
-`REgzn9okKi6hsyr5UwjYr8GNq7TpLn63t9`
+### Voting address
+#####`REgzn9okKi6hsyr5UwjYr8GNq7TpLn63t9`
 ---
 ## Region
 AR (Asia Region)
