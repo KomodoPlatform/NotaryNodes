@@ -36,6 +36,7 @@ The main reason for wanting to run a Notary Node for me is time and investment, 
 - A passion to combat the public image problem that privacy and decentralised problems now face.
 - I am currently investigating launching a branded DEX to a third party community. I've seen ptyx sucessfully do so with Dodgecoin, and I'd like to scope out and contribute to building one myself.
 - Code bounties to improve the quality of the tooling to make it more accessible.
+- An effort to help the ![BPSAA](https://twitter.com/bpsaa_official?s=21) 
 
 
 ## Why not vote majora31?
