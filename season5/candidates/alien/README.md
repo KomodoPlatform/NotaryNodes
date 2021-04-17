@@ -3,10 +3,6 @@
 # NN Season 5 Proposal for *`alien`* (SHossain)
 
 ## Addresses to send VOTE2021
-### AR Region Address
-```
-RKa337W7C7K8si4KzUrKYaCRoTw3yVLUJB
-```
 ### EU Region Address
 ```
 REUke3f6vVQiy6FjStpfRt4HUR9jmGxqED
