@@ -38,3 +38,5 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 25. | [jusoaresf](jusoaresf/README.md)   | [uer2](uer2/README.md)                   |                                        |                                        |
 | 26. | [marmarachain](marmarachain/README.md)| [lightspeed393](lightspeed393/README.md)|                                      |                                        |
 | 27. | [dimxy](dimxy/README.md)           |                                          |                                        |                                        |
+| 28. | [512yottabytes](512yottabytes/README.md) |                                    |                                        |                                        |
+
