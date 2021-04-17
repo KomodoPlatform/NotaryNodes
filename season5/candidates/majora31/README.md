@@ -11,6 +11,8 @@ RDutv1iTgHEHRcZKEVWQo9BFhNkTGAYxyj
 ![](data:image/gif;base64,R0lGODlhhACEAJEAAAAAAP///wAAAAAAACH5BAEAAAIALAAAAACEAIQAAAL/jI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8chQNf2jedIDkC8zQAehIaf8Uc5Km873UMZrDVp0yV0YrVWiY2rggvOeiPiMc93jFKHUnYZiW1bwmvHecFNyiv5515fF9D35UQYCNhzMdj1Fxe4uNVYJElGiXbohylBl2hXmACZ2clnibdnVjqpWbm6yHmnOno5irpaheFK+foZakib5iZraiuqJhwbiXPr+Gu07EkMfSyoewqMzJzMFKyN2EutzB0MCz5trM3ZzfxNvhuOvWntLB77rS6dPs6bCioPB1/Onr5oAf2hM5ht4DaAz8qdU3jPocJ88R5dk+irYcN2//sszmNYbCLCjPT6eVxY8ORBlQnrdZxG0WQzlBxP1jQ3DKe0WTHfvMNIiqDGlox+uisztKJOmbj43Vy5JCmrpVJn8RyZEmlJRN589sT6laVLr0JFvtkINq3YrF67kp2Jdm3YmW/LjiUbF27JuVDFyLg7BmrVvyDa5nxK+IRhX4gTl1gss3Hio4L3qo0akuRdrhDN6gV4lNxDzVk5b/acN2/gnKNLE70pee5q0qr5DVaaGrXnXB+ZEm0q1x/si5VpZ87AVzfgT8V9496QfLlN4sqdB6V5ObRT26wPc8d3OeJs66Yjfy+KPbhR6safMz5vLLpr6UsFtp9/XapsrBFvk//v7B5QuZ0GEoH/7eSdXUDx9hl+DDJYXn/HQWjZeq0wt9VxEiolX21rRZggShzEVs10H/4Won1TdVhhelR1B95PI76kn3D8ofiejNBtp2CNvYFIn4r+CZkhfcDBlMWRVilS4j/5pYhhgK0ByRZ8RVap4xw2/igKO0kCiKWITJro5FUE+QUmmhpolyV6XmqR5pdrbllmlzxiZqCaK0a5YHZ0xveSaFeaKSZofpIJqIV1Frhnm/INd2Fv4xFpJIx9Igpmc5NaaeCA6BEak6ehrtPkkHdKJuqNHJY6aKuVMvoop/h5OiWUJxqq3ourcpmjkySedSWl5vE6rK807nbsfW7/LVospA1CRuGccMZorKJ9JXvgp3Y6emqgTVL2wZvMiutsonTJWmuv0brpbaQuCptus6xSC26vG7ZArk/mPiingCPkC6y63/YLL47yTnswkgH7KwLAWgnsrp7C1lIow2HyWxe2y9abrZ7XvuXfvn9a+rHCGVera8L3YjzuyZKiG+68U5m7JKOErVtzsTkXbALOGmZqKc+PyZzzvbSOebKPLmp6KLOg6hssthR76PS2eEVtbXX7Efv0wixTHSvCVO7MnoN3Fh1zjy0KmufZP3swMZ1fu2pxyEgrWZ14biPYsNyqztCt17Ky2SAJDks8uN+3An5mXXaTNrVigT9c94QXom2dsrOYP34pylQvyzSmNgd9edOgaz3y6JCXnquKmptON9hNexwioUqXF3mQZRsdp7u4s37uwjRbfftrwJfMts7EY5154o1HzGfXzzqfsqnQtyn90VIarHTy2beIt5bPm+y91SzuejWsRCPLNcmkgsx8vBmPbT7U6vtuK54zIz1//O7r3j5lOWaABCygAQ+IwAQqcIEMbKADHwjBCEpwggooAAA7)
 
 
+
+
 ## About me
 ### Who Am I?
 I'm a relatively average girl with a passion for freedom of information, privacy, security and decentralisation. 
@@ -19,12 +21,12 @@ For work, I'm currently CTO of a company based in Scotland, I’m a software eng
 
 
 ### Some background
-I’ve been paying attention to Komodo since mid-2017, I attended the Komodo Team meetup in Wales in 2018 (when some of you might have known me as Elliott)  [DJI Mavic 2 Pro 4K] Komodo Team Meetup 2018 - Wales, UK - YouTube, and I’ve been paying attention since, but not seeing opportunities that I felt I could contribute my time effectively for.
+I’ve been paying attention to Komodo since mid-2017, I attended the Komodo Team meetup in Wales in 2018 (when some of you might have known me as Elliott)  ![Komodo Team Meetup 2018](https://www.youtube.com/watch?v=ytkDRF8h6Nk), and I’ve been paying attention since, but not seeing opportunities that I felt I could contribute my time effectively for.
 
-The idea of running a Notary node a few years ago for me was out of the question, working in offices full time it was not realistic of me to be able to guarantee a quick response to any potential issues or downtime. Moving to 100% remote working in the last year with COVID has completely changed that situation. I now have hours of additional free time every day and my working hours are whatever I like.
+The idea of running a Notary Node a few years ago for me was out of the question, working in offices full time it was not realistic of me to be able to guarantee a quick response to any potential issues or downtime. Moving to 100% remote working in the last year with COVID has completely changed that situation. I now have hours of additional free time every day and my working hours are whatever I like.
 
 ### My interest in notary nodes
-The main reason for wanting to run a notary node for me is time and investment, and I don’t mean in the monetary sense. I’m old enough to remember the days when the internet was mostly aliased, private, and quite heavily decentralised. Where games had master servers, chat protocols were open and not everything was trying to track you or mine your data. I want to provide code bounties to get the community building higher quality tools. Or incentivise influencers on standard platforms to use/test out decentralised alternatives. I want the world to be interested not just in Komodo, but in crypto and privacy as a whole, because if the average person wants to use our platforms, we all benefit.
+The main reason for wanting to run a Notary Node for me is time and investment, and I don’t mean in the monetary sense. I’m old enough to remember the days when the internet was mostly aliased, private, and quite heavily decentralised. Where games had master servers, chat protocols were open and not everything was trying to track you or mine your data. I want to provide code bounties to get the community building higher quality tools. Or incentivise influencers on standard platforms to use/test out decentralised alternatives. I want the world to be interested not just in Komodo, but in crypto and privacy as a whole, because if the average person wants to use our platforms, we all benefit.
 
 
 
