@@ -21,7 +21,7 @@ For work, I'm currently CTO of a company based in Scotland, I’m a software eng
 
 
 ### Some background
-I’ve been paying attention to Komodo since mid-2017, I attended the Komodo Team meetup in Wales in 2018 (when some of you might have known me as Elliott)  ![Komodo Team Meetup 2018](https://www.youtube.com/watch?v=ytkDRF8h6Nk), and I’ve been paying attention since, but not seeing opportunities that I felt I could contribute my time effectively for.
+I’ve been paying attention to Komodo since mid-2017, I attended the Komodo Team meetup in Wales in 2018 (when some of you might have known me as Elliott)  [Komodo Team Meetup 2018](https://www.youtube.com/watch?v=ytkDRF8h6Nk), and I’ve been paying attention since, but not seeing opportunities that I felt I could contribute my time effectively for.
 
 The idea of running a Notary Node a few years ago for me was out of the question, working in offices full time it was not realistic of me to be able to guarantee a quick response to any potential issues or downtime. Moving to 100% remote working in the last year with COVID has completely changed that situation. I now have hours of additional free time every day and my working hours are whatever I like.
 
@@ -36,7 +36,7 @@ The main reason for wanting to run a Notary Node for me is time and investment, 
 - A passion to combat the public image problem that privacy and decentralised problems now face.
 - I am currently investigating launching a branded DEX to a third party community. I've seen ptyx sucessfully do so with Dodgecoin, and I'd like to scope out and contribute to building one myself.
 - Code bounties to improve the quality of the tooling to make it more accessible.
-- An effort to help the ![BPSAA](https://twitter.com/bpsaa_official?s=21) 
+- An effort to help the [BPSAA](https://twitter.com/bpsaa_official?s=21) 
 
 
 ## Why not vote majora31?
