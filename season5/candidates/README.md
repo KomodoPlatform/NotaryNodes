@@ -32,7 +32,7 @@ Check out the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPo
 | 19. | [van](van/README.md)               | [mojojojo400](mojojojo400/README.md)     | [metaphilibert](metaphilibert/README.md)| [cipi](cipi/README.md)                |
 | 20. | [node-9](node-9/README.md)         | [node-9](node-9/README.md)               | [kidcrypto81](kidcrypto81/README.md)   | [metaphilibert](metaphilibert/README.md)|
 | 21. | [syl](syl/README.md)               | [who-biz](who-biz/README.md)             | [collider](collider/README.md)         | [tokel](tokel/README.md)               |
-| 22. | [arnomad](arnomad/README.md)       | [chicagodan](chicagodan/README.md)       |                                        | [etszombi](etszombi/README.md)         |
+| 22. | [arnomad](arnomad/README.md)       | [chicagodan](chicagodan/README.md)       | [majora31](majora31/README.md)         | [etszombi](etszombi/README.md)         |
 | 23. | [komodopioneers](komodopioneers/README.md)| [karasugoi](karasugoi/README.md)  |                                        | [artem.pikulin](artem.pikulin/README.md)|
 | 24. | [etszombi](etszombi/README.md)     | [hyper](hyper/README.md)                 |                                        | [hashira](hashira/README.md)           |
 | 25. | [jusoaresf](jusoaresf/README.md)   | [uer2](uer2/README.md)                   |                                        |                                        |
