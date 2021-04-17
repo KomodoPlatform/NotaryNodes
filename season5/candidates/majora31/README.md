@@ -25,7 +25,7 @@ I’ve been paying attention to Komodo since mid-2017, I attended the Komodo Tea
 
 The idea of running a Notary Node a few years ago for me was out of the question, working in offices full time it was not realistic of me to be able to guarantee a quick response to any potential issues or downtime. Moving to 100% remote working in the last year with COVID has completely changed that situation. I now have hours of additional free time every day and my working hours are whatever I like.
 
-### My interest in notary nodes
+### My interest in Notary Nodes
 The main reason for wanting to run a Notary Node for me is time and investment, and I don’t mean in the monetary sense. I’m old enough to remember the days when the internet was mostly aliased, private, and quite heavily decentralised. Where games had master servers, chat protocols were open and not everything was trying to track you or mine your data. I want to provide code bounties to get the community building higher quality tools. Or incentivise influencers on standard platforms to use/test out decentralised alternatives. I want the world to be interested not just in Komodo, but in crypto and privacy as a whole, because if the average person wants to use our platforms, we all benefit.
 
 
