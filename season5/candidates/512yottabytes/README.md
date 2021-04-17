@@ -8,7 +8,9 @@
 ## About me:
 
 I am a DevOps and have 14 years experience in various fields: server administration, managing networks, resolving technical problems, scripting in different languages, ensuring server security and developing new system structures when necessary.
+
 I take part in various crypto-projects for 10 years.
+
 All my free time I spend searching and creating new opportunities to wide my knowledge’s and creating new methods of work.
 For me it's a great possibity to become a part of a global project and make a contribution in the Komodo Notary Nodes development which is a new breakthrough security mechanism. 
 I truly believe that it could turn the world upside down to a new security system and I do want be part of this.
