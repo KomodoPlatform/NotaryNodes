@@ -1,4 +1,4 @@
-![Photo](https://imgbb.com/"><img src="https://i.ibb.co/njv8G3c/PHOTO.png)
+![Photo](https://i.ibb.co/njv8G3c/PHOTO.png)
 
 # My proposal for Notary Node 2021 elections  
 | Region | Voting address |
