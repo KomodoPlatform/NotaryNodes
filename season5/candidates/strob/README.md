@@ -29,7 +29,7 @@
 
 <br>
 
-![KMD double coin by Strob](https://www.strob.net/kmdNN2021/kmdDoubleCoin.jpg)
+![KMD double coin by Strob](https://www.strob.net/kmdNN2021/kmdDoubleCoin.png)
 
 *3D KMD coin by Strob.*
 
