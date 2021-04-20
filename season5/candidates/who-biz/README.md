@@ -1,3 +1,4 @@
+
 <img src="https://avatars.githubusercontent.com/u/37732338?v=4" width="250" height="250"/><img src="./REyFgygqWpDtYjKhz214CkA6hrA27d6cxX.jpg" width="250" height="250"/>
 
 Region | VOTE2021 Address 
@@ -65,6 +66,20 @@ With Blur being integrated with DPoW, much of my time will be focused on interfa
 4. **Passion for problem solving, and building new solutions**
 
 I plan on building more bridges like the `blur-dpow` referenced above.  I'll also be active in helping KMD increase its compatibility with 3rd party blockchains.
+
+## KMD Ecosystem Contributions
+
+A total of **18%** of Notary Node Rewards (in excess of server costs) will be donated back into KMD ecosystem projects.
+
+- **12%** of KMD earned through notary node operations will be donated to a multsig wallet for `blur-dpow` development (in cooperation with LABS) 
+    - Current plan is a 3/3 multisig
+    - Myself, [daemonfox](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season5/candidates/daemonfox), and [phm87](https://github.com/KomodoPlatform/NotaryNodes/tree/master/season5/candidates/phm87) will be signers on KMD donation wallet
+- **3%** to Chips development
+- **3%** to Tokel development
+
+Calculations will be made at the beginning of each month, for the month prior.  Server costs will be covered first, and remaining rewards will be dispersed according to schedule above.
+
+Thanks to phm87 for the notes in his proposal, as the above was aided by his contribution structure.
 
 ## Server Specs
 
