@@ -42,13 +42,15 @@ Having better stats by:
 - migrating to a better datacenter and server
 - automate more (at least send a warning if a problem happens, try to fix the problem if it can be fixed automatically)
 
-Support Blur, TOKEL, CHIPS and open-food-chain projects with:
+After servers payment, a total of **17%** of Notary Node mining rewards will be donated as support to KMD ecosystem projects:
 - allocation of 8% of KMD block rewards to Blur dPoW project
 - allocation of 3% of KMD block rewards to TOKEL project
 - allocation of 3% of KMD block rewards to CHIPS project
-- allocation of 3% of KMD block rewards to open-food-chain project
+- allocation of 3% of KMD block rewards to open-food-chain project's fanclub
 
-If KMDUSD price falls below $0.5 the allocation will be calculated after servers costs deduced (main Notary Node server and Secondary 3P server) for the period when KMD is below $0.5. This rule will decrease risk of payment issues of mandatory servers if price crashes. During season 3, when price was low, Notary Node was not profitable with the huge direct donation.
+Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first, and remaining rewards will be sent according to allocations defined here above.
+
+Thanks to Biz for the notes in his proposal, used to simplify mine.
 
 ## 2020-2021 Projects/milestones
 
