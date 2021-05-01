@@ -90,5 +90,16 @@ Github - https://github.com/pbca26
 - 2 x 960GB NVME
 - 2 Gbps port
 
+### S5 pubkeys
+#### NA node
+Main 0332543ff1287604afd67f63af0aa0b263aef14fe1850b85db16b81462eed834fd
+
+3P   03e8485883eba6d4f2902338ab6aac87654a4b98d3bc01f89638aaf9c37db66ccf
+
+### SH node
+Main 02c62877e96fc414f2444edf0601abff9d5d2f9078e49fa867ba5305f3c5b3beb0
+
+3P   021b39173b2b966ab277799a1f148a1d9e6cf26020f5f7eb9708f020ee0461e9c0
+
 ### Disclosure
 I am a part of the Komodo team
