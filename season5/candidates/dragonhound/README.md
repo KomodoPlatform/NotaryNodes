@@ -48,3 +48,10 @@ Discord handle: smk#7640
 
 Keybase: https://keybase.io/smk762
 
+# Season 5 Pubkeys for dragonhound_NA #
+
+Main: 02e650819f4d1cabeaad6bc5ec8c0722a89e63059a10f8b5e97c983c321608329b (RDRaGoN9vkRfzd9nP6VbTUrAoo3jgib2ec)
+
+3P: 0366a87a476a09e05560c5aae0e44d2ab9ba56e69701cee24307871ddd37c86258 (RHound1gvLqhSfvpS1DAPkKp3Y1D4TRxKZ)
+
+
