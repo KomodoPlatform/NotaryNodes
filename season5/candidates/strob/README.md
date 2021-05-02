@@ -12,22 +12,44 @@
 
 ![StrobFX banner](https://www.strob.net/kmdNN2019/cropped-strobFXheader2000_0011.jpg)
 
-## STROB VOTING ADDRESSES
+# strob_NA
+### Main
+```
+KMD: RD47yEoA4VGriqjeiLdMVKnuE7x7xqFy9r
+Pubkey: 02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405
+```
+### 3rd Party
+```
+KMD: RQdadEVEct74NgxFb5QDbpSbMmpVpTwXYw
+Pubkey: 02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3
+```
 
-| Address+QR code  | Region |
-| ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR200.png)  | North America (NA)  |
-| South Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR200.png)  |
 
-<p align="center">
-:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2021 tokens</a> before April 23rd 2021, 12pm UTC to the above KMD addresses.:point_up:
-</p>
+# strob_SH
+### Main
+```
+KMD: RX8h2pcnA6QtwLSSDA6Tp1wJt9FrtxXYAa
+Pubkey: 025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a
+```
+### 3rd Party
+```
+KMD: RFqkrQaY2NGtVUCHt42JpSw1Q9pQHtBmVf
+Pubkey: 0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6
+```
 
-<p align="center">
-:point_up:You can scan the QR codes with your smartphone wallet!:point_up:
-</p>
 
-<br>
+
+# strobnidan_SH
+### Main
+```
+KMD: RXcHfewhStVFTFb3ebWb1rThGfE4MrAjiK
+Pubkey: 02b967fde3686d45056343e488997d4c53f25cd7ad38548cd12b136010a09295ae
+```
+### 3rd Party
+```
+KMD: RNUuzDRqK9b4PtTYTY9hcZL4tj59p2Bug1
+Pubkey: 033e33ef18effb979437cd202bb87dc32385e16ebd52d6f762d8a3b308d6f89c52
+```
 
 ![KMD double coin by Strob](https://www.strob.net/kmdNN2021/kmdDoubleCoin.jpg)
 
