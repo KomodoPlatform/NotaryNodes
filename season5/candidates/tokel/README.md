@@ -22,7 +22,7 @@ If you'd like to learn more, please checkout the [website - https://tokel.io/](h
 This node will be located in either Singapore, or Japan. This will further enhance the decentralisation of the nodes in Asia/Russia
 
 ### :email: Contact
-dirtymoe@protonmail.com
+dirtyymoe@protonmail.com
 
 ## Tokel Contributors
 
