@@ -76,11 +76,13 @@ Location: Datacenter in Sydney, Australia
 -CPU: Intel Xeon-E 2136 (6x  3.3GHz/ 4.5GHz)<br>
 -RAM: 128 GB DDR4 ECC Reg<br>
 -SSD: 2x 1 TB SSD NVMe
+-pubkey: 0284af1a5ef01503e6316a2ca4abf8423a794e9fc17ac6846f042b6f4adedc3309
 
 ##### Secondary server #####
 -CPU: Intel Xeon E3-1230v6 (4x 3.5GHz/ 3.9GHz)<br>
 -RAM: 64 GB DDR4 ECC Reg<br>
 -SSD: 2x 1.92 TB SSD NVMe
+-pubkey: 03b21ff042bf1730b28bde43f44c064578b41996117ac7634b567c3773089e3be3
 
 ## Contact:
 
