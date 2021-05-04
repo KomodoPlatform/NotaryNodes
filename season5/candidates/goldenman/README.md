@@ -1,5 +1,16 @@
 # Notary Node proposal
 
+## PUBKey
+
+# Server 1 (Main)
+* Compressed PubKey: ```0345b888e5de9c11871c080212ccaebf8a3d77b05fe3d535336efc5c7df334bbc7```
+* Compressed Address: ```RL9srwE4yafTRammxmGhzG8tVp6VkbKGg8```
+
+# Server 2 (3rd party)
+* Compressed PubKey: ```03d745bc6921104b73734e6d9615671bc70b9e11e26c9b0c9abf0d2f9babd01a4d```
+* Compressed Address: ```RKkgfTV4XcvnvCnWT9P2t2sKKR2xTZweDC```
+
+
 ## Candidate info
 * Region : ```AR```
 * Address : ```RL9srwE4yafTRammxmGhzG8tVp6VkbKGg8```
