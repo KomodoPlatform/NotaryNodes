@@ -37,3 +37,9 @@ Thank you for reading that. Wish you a productive day/night! <3
 
 # AR 3rd party pubkey
 `02e2d9ecdc9f462a4767f7dfe8ed243c98fcccc1511989a60e3f859dc6fda42d16`
+
+# DEV main pubkey
+`02342ec82b31a016b71cd1eb2f482a74f63172e1029ba2fb18f0def3bd4fc0668a`
+
+# DEV 3rd party pubkey
+`0399c4f8c5b604cda64c1ccb8fdbd7a89730131519f87491a79b0811e619102d8f`
