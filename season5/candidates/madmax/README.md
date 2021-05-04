@@ -1,3 +1,16 @@
+# MadMaX - S5 Notarynode Pubkeys
+
+| Region | Pubkey |
+| ------ | ------ |
+| AR (Main) | 02f729b8df4dacdc8d811416eb32e98a5cc37023b42c81b77d1c00881de879a99a |
+| AR (3p) | 02ddb23f18e61ea792ae0f28be5a52859e7963bf7f1d2c4f19eec18ac6497cfa2a |
+| EU (Main) | 028d04f7ccae0d9d57bfa801c4f1e32c707c17589b3c08a0ce08d44eab637eb66b |
+| EU (3p) | 02e7e5306f159df252ecfded9bab6297050d12640b908b456ea553f90872f8a160 |
+| NA (Main) | 03898aec46014e8619e2369cc85073048dad05d3c5bf696d8b524db78a39ae5beb |
+| NA (3p) | 0378e47061572e4a406bbad1522c03c3331d0a6c820fde1248ccf2cbc72fec47c2 |
+
+
+
 # MadMaX - Notary node Proposal (2021)
 
 I am madmax, long term komodo supporter and notary node operator since 2018. some useful sites that i created for komodo community are [komodod.com](https://komodod.com), [dexplorer.io](https://dexplorer.io), [dpow.io](https://dpow.io) & [vote2021](https://vote2021.komodod.com) etc. 
