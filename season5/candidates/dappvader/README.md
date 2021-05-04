@@ -59,6 +59,18 @@ http://kmd.explorer.dexstats.info/tx/27280b878966adc97935a2ddc26399c03a166c6756e
 
 Thank you for your support and trust, good luck to all candidates!
 
+## Notary node keys ##
+**Main node pubkey:** 02bffea7911e09ad9a7df54af0c225516478d3ba138e65061aa8d4b9756bb4c8f4
+
+**Main node Komodo address:** RTHCt64FiFsexnMhK1KbYt8v2hMA5rbQ14
+
+**Main node Litecoin address:** LdDy4nUoC6K99agf1yKmjNsUUeFqXAtTrk
+
+**3rd party node pubkey:** 02684e2e7425ffa36d331f7a2f9c4542b61e88370dc6b4313a5025643f82ee17fa
+
+**3rd party node Komodo address:** RYNgBpiqDozYFg3GYzZe62w4ijS9v4szSV
+
+
 <p align="center">
   <img height="600" src="./dapp_side.png">
 </p>
