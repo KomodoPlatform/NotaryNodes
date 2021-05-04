@@ -29,3 +29,13 @@ Region AR: RSUvJ1FaunWLRGyBKm7YeKzh9mFeCK1wTu
 * Discord: `artem.pikulin#0794`
 * Email: artemp@komodoplatform.com
 * KeyBase: artemii235
+
+## NN pubkeys AR
+
+* Main `026a8ed1e4eeeb023cfb8e003e1c1de6a2b771f37e112745ffb8b6e375a9cbfdec`
+* 3P `03a45c4ad7f279cbc50acb48d81fc0eb63c4c5f556e3a4393fb3d6414df09c6e4c`
+
+## NN pubkeys DEV
+
+* Main `036b9848396ddcdb9bb58ddab2c24b710b8e4e9b0ee084a00518505ecd9e9fe174`
+* 3P `025ee88d1c12f546c1c8942d7a3e0678f10bc27cc566e27bf4a2d2178e018d18c6`
