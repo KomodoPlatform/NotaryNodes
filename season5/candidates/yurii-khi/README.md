@@ -35,3 +35,8 @@ Always trying my best to make user interactions with Komodo products smooth, fla
  - Email: `yuriikhiznichenko@gmail.com`
  - Discord: `yurii-khi#7301`
  - Instagram: `@yurii.khiznichenko`
+
+ ## Public keys (dev)
+
+  - Main: `03e57c7341d2c8a3be62e1caaa28978d76a8277dea7bb484fdd8c55dc05e4e4e93`
+  - 3P: `0243977da0533c7c1a37f0f6e30175225c9012d9f3f426180ff6e5710f5a50e32b`
