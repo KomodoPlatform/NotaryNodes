@@ -1,3 +1,9 @@
+## Season 5 Pubkeys
+
+Notary Node: 03bd0022a55a2ead52fd65b317186743374ad320f3704d459f41797e264d1ec854
+3P: 033a1b62de10c3802f359da7767b033eac3837b58530722f3ddd2f359a2cd0a8f9
+
+
 ## Introduction
 
 Crypto Collider is a long running project focused on innovative cross-chain gaming and educational tools for the Crypto industry, especially featuring its flagship game the 'Collider Trading Arena' that has been providing fun games since 2014.
