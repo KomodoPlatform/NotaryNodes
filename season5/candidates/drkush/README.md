@@ -1,5 +1,17 @@
 # DrKush (hsukrd) - Notary Node for 2021
 
+# Main
+``` 
+pubkey: 030b31cc9528566422e25f3e9b96541ab3626c0dea0e7aa3c0b0bd96039eae2f5a
+KMD: RVyEjzgN7szbEWHJM8vr667gee2AMtggpV
+```
+
+# 3rd Party
+``` 
+pubkey: 0210320b03f00f10f16313eb6e8929b5be7e66a034a4e9b7d11f2d87aa92708c6c
+KMD: RHCyCFpFczJi63szUKXVDpz9Bq7nRjHEdz
+```
+
 ## Region and Voting Address
 
 ```diff
