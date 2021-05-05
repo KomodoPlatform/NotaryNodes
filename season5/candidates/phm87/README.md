@@ -1,3 +1,15 @@
+# 2021 NN keys and NN handle
+
+NN handle: phit_SH
+
+Main NN address: RRay7N4rknsCgZ84Qj66AZz7pGt5phitsH
+
+Main NN pubkey: 02a9cef2141fb2af24349c1eea20f5fa8f5dba2835723778d19b23353ddcd877b1
+
+3P NN address: RUm3USN3vMxmP5e7dsENC3ProrZYPhitSH
+
+3P NN pubkey: 021b893b7978284e3d73701a623f23104fcce27e70fb49427c215f9a7481f652da
+
 # VOTE2021 Address (SH region):
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
