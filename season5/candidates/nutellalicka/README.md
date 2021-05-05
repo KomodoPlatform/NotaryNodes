@@ -4,6 +4,13 @@
 
 ### **SH** region VOTE2021 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
+
+#### S5 Main address: R9iBY1oyt4AMocyMbScxqzC1JtWa1XNN5K
+#### S5 Main pubkey: 03a495962a9e9eca06ee3b8ab4cd94e6ea0d87dd39d334ad85a524c4fece1a3db7
+
+#### S5 3rdparty address: RCaSVwp6okegmH6YRtsandgorSp4uVNDCz
+#### S5 3rdparty pubkey: 03ca46ea9a32de632823419948188088069f5820023920d810da6076624adb9901
+
 ## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
 - :telephone_receiver: [Always Contactable](https://komodoplatform.com/discord)
