@@ -1,10 +1,13 @@
 # webworker01 - North American Notary Node
 
-## Vote Season 5
-NA REGION
-```
-RLqnbAwfucQEcSzcBXEXAavLTtL1FrWxqJ
-```
+## Season 5
+Main Server:
+Address: RLqnbAwfucQEcSzcBXEXAavLTtL1FrWxqJ
+Pubkey: 0376558d13c31cf9c664a1b5e58f4fff7153777069bef7a66ed8c8526b99787a9e
+
+3p Server:
+Address: RW6cfSA4vE29ag7Z1xGqchXraXvAPDgD7f
+Pubkey: 03d6c76aabe24fde7ce7cc37cff0899d50a20d4147ac0b2db812e2a1edcf0d5232
 
 ## About
 

@@ -33,6 +33,18 @@ Since July 2019, I have made more than `4116` contributions for different komodo
 
 `RXQYUDdVM2tf4bSE8Z2Duw6sfF8JDyVcKx`
 
+## Node keys
+
+### Main Node
+
+Address: `RKF8wUfBoJYPa1znzBG8JBr8DTfcnwoaZr0`
+Pubkey: `021cb6365c13cb35aad4b70aa18b63a75d1d4b9797a0754d3d0142d6fedc83b24e`
+
+### Third node
+
+Address: `RV1UYrCxLmPz4E2yRuWeVHpvkeZSy9DsoJ`
+Pubkey: `02a0705ec221a94a6a5b3ea2e763ba0350f8213c73e8dad49a708fb1e87acdc5f8`
+
 ## Hardware Informations
 
 2 Computer:

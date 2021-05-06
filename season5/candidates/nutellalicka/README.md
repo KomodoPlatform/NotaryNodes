@@ -1,10 +1,15 @@
 # NutellaLicka
 
-#### Regions: Southern Hemisphere & Asia/Russia
+#### Regions: Southern Hemisphere
 
 ### **SH** region VOTE2021 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
-### **AR** region VOTE2021 address : `RRXLDNAmvSC848d6VqRGmNEugrsHx7mfS9`
+
+#### S5 Main address: R9iBY1oyt4AMocyMbScxqzC1JtWa1XNN5K
+#### S5 Main pubkey: 03a495962a9e9eca06ee3b8ab4cd94e6ea0d87dd39d334ad85a524c4fece1a3db7
+
+#### S5 3rdparty address: RCaSVwp6okegmH6YRtsandgorSp4uVNDCz
+#### S5 3rdparty pubkey: 03ca46ea9a32de632823419948188088069f5820023920d810da6076624adb9901
 
 ## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
@@ -54,9 +59,7 @@ If anyone has requests or suggestions for fund allocations, shoot me a message, 
 
 ## :pushpin: Server Specifications
 
-I will be providing the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Melbourne. As I stand for in every election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
-
-If elected for the AR region, I will also prioritise decentralising the node location [(away from the cluster near Europe)](https://komodostats.com/map). I am currently in the process of organising a suitable server provider.
+I will be providing a node in the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Melbourne, Australia. As I stand for in every election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
 
 ## :pushpin: Contact Details
 

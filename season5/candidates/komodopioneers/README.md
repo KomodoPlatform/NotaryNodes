@@ -1,3 +1,5 @@
+![Top_Banner](https://i.imgur.com/hSsvWcJ.png)
+
 # Support Komodo Pioneers
 
 33 % PROFIT SHARE TO SUPPORT KOMODO COMMUNITY
@@ -6,6 +8,9 @@
 
 Thank you!
 
+---
+![1_Image](https://i.imgur.com/DAoyqRb.jpg)
+---
 
 ## EU Region Candidate 2021
 We are a candidate for the EU region.

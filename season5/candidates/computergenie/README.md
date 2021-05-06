@@ -41,12 +41,18 @@ I freely and openly welcome any resonable questions about my performance as a Se
 
 ## Notary Addresses
 ```diff
+Main:
 +                                KMD:                                +
 -                 RCGxNA1xHinKkcC6gf7BpxAt3wLeqcpch4                 -
-+                                BTC:                                +
--                 13zmHe8fgtykgbpuDV84jRqgHft46FPqbd                 -
++                                LTC:                                +
+-                 LNDiYrSVmZDowQX4Pd7N1SuSVtFLGCqeyP                 -
 +                              PubKey:                               +
 - 03a78ae070a5e9e935112cf7ea8293f18950f1011694ea0260799e8762c8a6f0a4 -
+3P:
++                                KMD:                                +
+-                 RCGxNA2xV6jaq4h7mbzZswKUtpeKmchvhw                 -
++                              PubKey:                               +
+- 02f945d87b7cd6e9f2173a110399d36b369edb1f10bdf5a4ba6fd4923e2986e137 -
 ```
 
 ## Disclaimer
