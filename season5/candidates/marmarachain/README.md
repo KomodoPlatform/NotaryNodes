@@ -70,3 +70,9 @@ P. S. This year Marmara Chain founder, Dr. Çetiner will be involved directly in
 - Discord handle: `B. Gültekin Çetiner#0626` (id: `396753788150611968`)
 - Username on most platforms online: `B. Gültekin Çetiner`
 - `Aklix#4684` and `ryilmaz#4060`  
+
+## Season 5 Pubkeys for marmarachain_EU
+
+Main: 023a858bbc3f0c6df5b74243315028e968c2f299d84ea8ecc0b28b5f0e2ad24c3c (RG2eBcaSFUkjukBCZBr8XgpzfYBHb3v72M)
+
+3P: 027029380f49b0c3cc1b814976f1a83f0c25d84020ad0a27454e55ebdb2ccc83d7 (RPrZFjD4FpZPmp3Y6xVKfcX8TZD6X1RuJr)
