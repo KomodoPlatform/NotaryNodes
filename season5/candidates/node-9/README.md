@@ -1,7 +1,31 @@
 ![n9 Header](https://raw.githubusercontent.com/node-prime/node-9/master/n9_banner_2021_2.png)
 # node-9 
 
-### KMD Notary Node Proposal 2021 - Season 
+## Season 5 Notary Node keys
+
+### node9_EU
+
+**Main** 
+Address:  RMJ94af6WXmGTPNdpfvvJEkh8k4RPc1woz
+Pubkey:   03c375924aac39d0c49de6690199e4d08d10fed6725988dcf5d2486661b5e3a656
+
+**3rd Party**
+Address:  RQhGxzw1YHmBS6HYfN8jXxYgEHtdxPXxSA
+Pubkey:   029401e427cffa29bb2bd7664110e160d525fac6f1518ac7b59343b16de301e0ac
+
+### node9_NA
+
+**Main** 
+Address:  RU5BX3jDGNJu5afjZKoMHtXg7fDNYXXhTc
+Pubkey:   02f697eed99fd21f2f0eaad81d13543a75c576f669bfddbcbeef0f7625fea2e9d5
+
+**3rd Party**
+Address:  RY3vfx85jvdGmS3d6VXbGu2YUALGpvDAtj
+Pubkey:   03fac1468a949244dd4c563062459d46e966479fe23748382fc2e3e8d05218023e
+
+
+
+### KMD Notary Node Proposal 2021 - Season 5
 
 Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo Notary Node Operator, Node-9 is eligible and running for EU and NA in the the Season 5 2021 elections.  Your votes would be greatly appreciated!
 
