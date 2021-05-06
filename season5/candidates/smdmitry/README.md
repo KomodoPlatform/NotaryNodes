@@ -21,11 +21,11 @@ I'm using top-notch servers located in several Datacentres and at home to provid
 
 ## Keys for S5
 
-smdmitry_AR Main: `022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac`
-smdmitry_AR 3P: `0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a`
+smdmitry_AR Main: `022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac`<br>
+smdmitry_AR 3P: `0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a`<br>
 
-smdmitry_EU Main: `02eb3aad81778f8d6f7e5295c44ca224e5c812f5e43fc1e9ce4ebafc23324183c9`
-smdmitry_EU 3P: `0338f30ca34d0aca0d79b69abde447036aaaa75f482b6c75801fd382e984337d01`
+smdmitry_EU Main: `02eb3aad81778f8d6f7e5295c44ca224e5c812f5e43fc1e9ce4ebafc23324183c9`<br>
+smdmitry_EU 3P: `0338f30ca34d0aca0d79b69abde447036aaaa75f482b6c75801fd382e984337d01`<br>
 
 ## Contact:
 :iphone: Discord: `smdmitry#6362`<br>
