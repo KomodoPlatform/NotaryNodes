@@ -25,14 +25,20 @@ We pledge 33% of our notary node profits towards activities that support Komodo 
 
 The pledged funding is calculated monthly. 
 
+## Keys for S5
+
+komodopioneers_EU Main: 
+- `0351f7f2a6ecce863e4e774bfafe2e59e151c08bf8f350286763a6b8ed97274b82`
+
+komodopioneers_EU 3P:
+- `02fb31b130babe79ac780a6118702555a8c66875835f35c2232a6cb8b1438fe71d`
+
 ## Contact details
 The Komodo Pioneers team is active in the Komodo discord.
-
 
 - @barv
 - @Audo
 - @bartwr
-
 
 You can reach out on #komodo-pioneers channel in Komodo's discord. We also have a [Discord](http://bit.ly/KPdiscord) channel of our own.
 
