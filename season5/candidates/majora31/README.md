@@ -66,3 +66,7 @@ These will be hosted on different providers for redundancy and decentralisation.
 :e-mail: Email: `ellie.parkinson@tutanota.com`<br>
 :key: PGP: `052 1C43 8A6B C762 3F92 A98D 9184 D54A 60CC 6B86`<br>
 :key: KeyBase: [https://keybase.io/ellieparkinson](https://keybase.io/ellieparkinson)
+
+##NN pubkeys SH
+ - Main: 033bf21f039a1c832effad208d564e02e968f11e3a3aa41c42e3b748a232fb33f3
+ - 3p: 03bc75c112ac7c6a99d6eb3fe5582feef4fd1b43f11c08ad887e21c4c3bc4e9104
