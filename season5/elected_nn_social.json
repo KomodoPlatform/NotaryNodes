@@ -263,15 +263,15 @@
     "kolo": {
         "discord": "458262320775430155",
         "email": "",
-        "github": "",
-        "icon": "",
-        "keybase": "",
+        "github": "https://github.com/kolobus/",
+        "icon": "https://kolo.keybase.pub/mojo/460.jpg",
+        "keybase": "https://keybase.io/kolo",
         "regions": [
             "AR"
         ],
-        "telegram": "",
-        "twitter": "",
-        "website": "",
+        "telegram": "https://t.me/kolobus",
+        "twitter": "https://twitter.com/2mf",
+        "website": "https://kolo.keybase.pub",
         "youtube": ""
     },
     "komodopioneers": {
