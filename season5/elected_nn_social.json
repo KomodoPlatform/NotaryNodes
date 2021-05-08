@@ -1,24 +1,651 @@
 {
-  "alien": {
-    "discord": "412323938782150658",
-    "icon": "",
-    "github": "https://github.com/himu007/",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "https://techloverhd.com",
-    "youtube": "",
-    "regions": ["NA", "AR", "EU", "SH"]
-  },
-  "smdmitry": {
-    "discord": "486144655369437184",
-    "icon": "https://i.imgur.com/3Lej07i.jpg",
-    "github": "",
-    "keybase": "",
-    "telegram": "",
-    "twitter": "",
-    "website": "",
-    "youtube": "",
-    "regions": ["AR", "EU"]
-  }
+    "alien": {
+        "discord": "412323938782150658",
+        "email": "",
+        "github": "https://github.com/himu007/",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/alien_AR.png",
+        "keybase": "",
+        "regions": [
+            "NA",
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "https://techloverhd.com",
+        "youtube": ""
+    },
+    "alienx": {
+        "discord": "412323938782150658",
+        "email": "",
+        "github": "https://github.com/himu007/",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/alien_AR.png",
+        "keybase": "",
+        "regions": [
+            "NA",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "https://techloverhd.com",
+        "youtube": ""
+    },
+    "alrighttt": {
+        "discord": "405011811511828481",
+        "email": "",
+        "github": "",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/alright_DEV.png",
+        "keybase": "",
+        "regions": [
+            "DEV"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "artem": {
+        "discord": "457121878465708043",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "DEV"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "artempikulin": {
+        "discord": "457121878465708043",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "ca333": {
+        "discord": "375074477756645386",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "DEV",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "chmex": {
+        "discord": "420119978138664961",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH",
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "http://dexstats.info",
+        "youtube": ""
+    },
+    "cipi": {
+        "discord": "419964976397156352",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "NA",
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "cipi2": {
+        "discord": "419964976397156352",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "collider": {
+        "discord": "558329313490108416",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "computergenie": {
+        "discord": "474206298427097099",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "dappvader": {
+        "discord": "686210447266807838",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "dragonhound": {
+        "discord": "448777271701143562",
+        "email": "",
+        "github": "",
+        "icon": "https://i.imgur.com/WQKfaEj.png",
+        "keybase": "",
+        "regions": [
+            "DEV",
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "drkush": {
+        "discord": "525478463981748239",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "gcharang": {
+        "discord": "423176312354635779",
+        "email": "",
+        "github": "https://github.com/gcharang/",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/gcharang_SH.png",
+        "keybase": "https://keybase.io/gcharang",
+        "regions": [
+            "DEV"
+        ],
+        "telegram": "https://t.me/gcharang",
+        "twitter": "https://twitter.com/gcharang",
+        "website": "",
+        "youtube": ""
+    },
+    "goldenman": {
+        "discord": "412907089992613888",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "hyper": {
+        "discord": "459844460625526824",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "karasugoi": {
+        "discord": "426823107865608192",
+        "email": "",
+        "github": "",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/karasugoi_NA.png",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "kolo": {
+        "discord": "458262320775430155",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "komodopioneers": {
+        "discord": "375949808772579339",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "madmax": {
+        "discord": "380786853558747139",
+        "email": "",
+        "github": "",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/madmax_AR.png",
+        "keybase": "",
+        "regions": [
+            "NA",
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "https://komodod.com/",
+        "youtube": ""
+    },
+    "majora31": {
+        "discord": "712206161356521563",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "marmarachain": {
+        "discord": "409990217047474176",
+        "email": "",
+        "github": "https://github.com/marmarachain",
+        "icon": "https://raw.githubusercontent.com/marmarachain/MarmaraChain/master/img/loooo.png",
+        "keybase": "",
+        "regions": [
+            "EU"
+        ],
+        "telegram": "https://t.me/MarmaraCreditLoop",
+        "twitter": "https://twitter.com/marmarachain",
+        "website": "http://marmara.io/",
+        "youtube": "https://www.youtube.com/channel/UCTtJzqwJVEEk7JlNZgO31ug"
+    },
+    "mcrypt": {
+        "discord": "458507065178980353",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH",
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "metaphilibert": {
+        "discord": "368864295397752833",
+        "email": "",
+        "github": "https://github.com/metaphilibert",
+        "icon": "https://keybase.pub/metaphilibert/logo2.png",
+        "keybase": "https://keybase.io/metaphilibert",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "https://twitter.com/MetaPhilibert",
+        "website": "",
+        "youtube": ""
+    },
+    "mrlynch": {
+        "discord": "504735704543395853",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "mylo": {
+        "discord": "371114647052615681",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "node-9": {
+        "discord": "412482228359266328",
+        "email": "",
+        "github": "https://github.com/Cris-F",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/node9_EU.png",
+        "keybase": "https://keybase.io/crisf",
+        "regions": [
+            "NA",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "https://node9.xyz",
+        "youtube": ""
+    },
+    "nodeone": {
+        "discord": "",
+        "email": "nodeone1@protonmail.com",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "nutellaLicka": {
+        "discord": "202999072519356416",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "ocean": {
+        "discord": "461724153326600206",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "pbca26": {
+        "discord": "403229823834521616",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH",
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "phit": {
+        "discord": "352577127494713345",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "ptyx": {
+        "discord": "303794669945618442",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "shadowbit": {
+        "discord": "",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "DEV",
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "sheeba": {
+        "discord": "288941564263268353",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "slyris": {
+        "discord": "206445134122844170",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "smdmitry": {
+        "discord": "486144655369437184",
+        "email": "",
+        "github": "",
+        "icon": "https://i.imgur.com/3Lej07i.jpg",
+        "keybase": "",
+        "regions": [
+            "AR",
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "strob": {
+        "discord": "278565047113089025",
+        "email": "",
+        "github": "https://github.com/StrobFX",
+        "icon": "https://strob.net/avatar/strobOni_100px.jpg",
+        "keybase": "",
+        "regions": [
+            "SH",
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "http://twitter.com/strobFX",
+        "website": "https://strobfx.com/",
+        "youtube": "http://www.youtube.com/user/STROBdotNET"
+    },
+    "strobnidan": {
+        "discord": "278565047113089025",
+        "email": "",
+        "github": "https://github.com/StrobFX",
+        "icon": "https://strob.net/avatar/strobOni_100px.jpg",
+        "keybase": "",
+        "regions": [
+            "SH"
+        ],
+        "telegram": "",
+        "twitter": "http://twitter.com/strobFX",
+        "website": "https://strobfx.com/",
+        "youtube": "http://www.youtube.com/user/STROBdotNET"
+    },
+    "tokel": {
+        "discord": "",
+        "email": "dirtyymoe@protonmail.com",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "tonyl": {
+        "discord": "272003866906722306",
+        "email": "",
+        "github": "",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/tonyl_AR.png",
+        "keybase": "",
+        "regions": [
+            "DEV",
+            "AR"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "van": {
+        "discord": "",
+        "email": "van.crypto21@gmail.com",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "EU"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    },
+    "webworker01": {
+        "discord": "300741339279130624",
+        "email": "",
+        "github": "",
+        "icon": "http://stats.kmd.io/static/img/notary/icon/webworker01_NA.png",
+        "keybase": "",
+        "regions": [
+            "NA"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "https://komodostats.com/",
+        "youtube": ""
+    },
+    "yurii": {
+        "discord": "668742126992883714",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": [
+            "DEV"
+        ],
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    }
 }
