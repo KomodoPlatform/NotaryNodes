@@ -162,13 +162,13 @@
         "youtube": ""
     },
     "KMD": {
-        "discord": "",
-        "github": "",
+        "discord": "https://komodoplatform.com/discord",
+        "github": "https://www.github.com/KomodoPlatform",
         "keybase": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
+        "telegram": "https://t.me/KomodoPlatform_Official",
+        "twitter": "https://twitter.com/KomodoPlatform/",
+        "website": "https://komodoplatform.com/",
+        "youtube": "https://www.youtube.com/channel/UCtp7YrrEnZbW97sgPldyvKg"
     },
     "KOIN": {
         "discord": "",
