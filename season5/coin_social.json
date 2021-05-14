@@ -157,7 +157,7 @@
         "youtube": "https://www.youtube.com/channel/UCtp7YrrEnZbW97sgPldyvKg",
         "email":"hello@komodoplatform.com",
         "linkedin":"",
-        "mining_pools:[],
+        "mining_pools":[],
         "reddit":"https://www.reddit.com/r/komodoplatform/"
     },
     "KOIN": {
