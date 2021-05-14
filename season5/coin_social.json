@@ -54,13 +54,17 @@
         "youtube": ""
     },
     "CHIPS": {
-        "discord": "",
-        "github": "",
+        "discord": "https://discord.gg/SQCSa2X",
+        "github": "https://github.com/chips-blockchain",
+        "email":"contact@chips.cash",
         "keybase": "",
         "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
+        "twitter": "https://twitter.com/pangea_chips",
+        "website": "https://chips.cash",
+        "youtube": "",
+        "linkedin":"",
+        "mining_pools:[],
+        "reddit":"",
     },
     "COQUICASH": {
         "discord": "",
@@ -144,13 +148,17 @@
         "youtube": ""
     },
     "KMD": {
-        "discord": "",
-        "github": "",
+        "discord": "https://komodoplatform.com/discord",
+        "github": "https://www.github.com/KomodoPlatform",
         "keybase": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
+        "telegram": "https://t.me/KomodoPlatform_Official",
+        "twitter": "https://twitter.com/KomodoPlatform/",
+        "website": "https://komodoplatform.com/",
+        "youtube": "https://www.youtube.com/channel/UCtp7YrrEnZbW97sgPldyvKg"
+        "email":"hello@komodoplatform.com",
+        "linkedin":"",
+        "mining_pools:[],
+        "reddit":"https://www.reddit.com/r/komodoplatform/"
     },
     "KOIN": {
         "discord": "",
