@@ -415,6 +415,23 @@
         "website": "",
         "youtube": ""
     },
+    "TKL": {
+        "discord": "http://discord.tokel.io/",
+        "email": "marketing@tokel.io",
+        "explorers":  ["https://explorer.tokel.io/"],
+        "github": "https://github.com/TokelPlatform/",
+        "linkedin": "https://www.linkedin.com/company/tokel/",
+        "mining_pools": [
+                         "http://tokel.daemoncoins.com/",
+                         "http://chickenpool.com/",
+                         "https://tokel.nordpool.host/"
+                        ],
+        "reddit": "https://www.reddit.com/r/tokel/",
+        "telegram": "https://t.me/TokelPlatformChat",
+        "twitter": "https://twitter.com/TokelPlatform",
+        "website": "https://tokel.io/",
+        "youtube": "https://www.youtube.com/channel/UCW9C_EuW54yOFArqJjRMJmQ"
+    },
     "THC": {
         "discord":"https://discord.gg/kAhpdAQ",
         "email":"adam@hempcoin.org",
