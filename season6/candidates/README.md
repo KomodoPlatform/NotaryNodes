@@ -4,7 +4,7 @@ See below for an overview of the currently active proposals for the 2022 Notary 
 To participate in the elections:
 
 1. Upload your proposal before the 11th of May (12pm UTC) into this repository using a folder with your operator name containing a `README.md` file. Check the other proposals and ones from previous elections for an example.
-2. Don't make any changes tp this file in it in your PRs - the repo maintainers will update it once your proposal is accepted.
+2. Don't make any changes to this file in it in your PRs - the repo maintainers will update it once your proposal is accepted.
 
 Make sure to read the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) for more information about election rules and notary node duties.
 
