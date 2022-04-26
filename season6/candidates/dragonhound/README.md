@@ -1,4 +1,4 @@
-# NN Season 5 Proposal for *`Dragonhound`* (smkhound)
+# NN Season 6 Proposal for *`Dragonhound`* (smkhound)
 
 ### NA Region VOTE2022 Address
 ```
