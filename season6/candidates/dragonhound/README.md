@@ -1,6 +1,6 @@
 # NN Season 5 Proposal for *`Dragonhound`* (smkhound)
 
-### NA Region VOTE2021 Address
+### NA Region VOTE2022 Address
 ```
 RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h
 ```
@@ -50,7 +50,7 @@ Discord handle: smk#7640
 
 Keybase: https://keybase.io/smk762
 
-# Season 5 Pubkeys for dragonhound_NA #
+# Season 6 Pubkeys for dragonhound_NA #
 
 Main: 02e650819f4d1cabeaad6bc5ec8c0722a89e63059a10f8b5e97c983c321608329b (RDRaGoN9vkRfzd9nP6VbTUrAoo3jgib2ec)
 
