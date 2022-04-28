@@ -22,7 +22,7 @@ Optional, but recommended:
 
 |  #  | EU                                 | NA                                       | SH                                     | AR                                     |
 | --- | ---------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------- |
-|  1. |                                    | [dragounhound](dragonhound/README.md)    |                                        |                                        |
-|  2. |                                    | [computergenie](computergenie/README.md)    |                                        |                                        |
+|  1. |                                    | [dragounhound](dragonhound/README.md)    |                                        | [dudezmobi](dudezmobiREADME.md)  |
+|  2. |                                    | [computergenie](computergenie/README.md) |                                        |                                        |
 
 
