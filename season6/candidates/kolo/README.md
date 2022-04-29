@@ -6,7 +6,7 @@ Hi! I'm Kolo and I want you to vote for me in the Notary Nodes season 6 election
 
 ## Efficiency
 
-There is no better proof than actual stats. Node kolo_AR is in the top 3 and participated in 44% of all notarizations done in the past season. This means that almost half of the notarizations during the season were signed by this node, totaling half-million notarizations. In other words - each second KMD blockchain notarization.
+There is no better proof than actual stats. Node **kolo_AR** is in the top 3 and participated in 44% of all notarizations done in the past season. This means that almost half of the notarizations during the season were signed by this node, totaling half-million notarizations. In other words - each second KMD blockchain notarization.
 
 During the season 5 node had zero actual downtime (99.999% uptime) with updates and restarts taking no longer than a couple of minutes. When choosing the node operator - stability and efficiency is the main metric you should consider.
 
