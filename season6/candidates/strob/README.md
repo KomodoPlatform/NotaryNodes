@@ -77,7 +77,7 @@ I created these coin 3D models for Komodo and Pirate Chain ARRR. The goal was to
 <br>
 
 ## STROB PROPOSAL
-In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates in 2022.
+In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 6.
 
 I would also like to continue promoting the `Komodo ecosystem` by using my skills to create art such as what you see above.
 
