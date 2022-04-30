@@ -20,9 +20,12 @@ Optional, but recommended:
 - Details of any funding allocations to projects your node will support if elected.
 
 
-|  #  | EU                                 | NA                                       | SH                                     | AR                                     |
-| --- | ---------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------- |
-|  1. |                                    | [dragounhound](dragonhound/README.md)    |                                        | [dudezmobi](dudezmobi/README.md)       |
-|  2. |                                    | [computergenie](computergenie/README.md) |                                        | [kolo](kolo/README.md)                 |
+|  #  | EU                             | NA                                       | SH                               | AR                               |
+| --- | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
+|  1. |                                | [dragounhound](dragonhound/README.md)    |                                  | [dudezmobi](dudezmobi/README.md) |
+|  2. |                                | [computergenie](computergenie/README.md) |                                  | [kolo](kolo/README.md)           |
+|  3. |                                | [webworker01](webworker01/README.md)     |                                  |                                  |
+
+
 
 
