@@ -1,16 +1,21 @@
 # NutellaLicka
 
-#### Regions: Southern Hemisphere & Asia/Russia
+#### Regions: Southern Hemisphere
 
 ### **SH** region VOTE2021 address : `RUjxoAzgnSrsiiup2ucmfJRrXxTHzNnhFE`
 
-### **AR** region VOTE2021 address : `RRXLDNAmvSC848d6VqRGmNEugrsHx7mfS9`
+
+#### S5 Main address: R9iBY1oyt4AMocyMbScxqzC1JtWa1XNN5K
+#### S5 Main pubkey: 03a495962a9e9eca06ee3b8ab4cd94e6ea0d87dd39d334ad85a524c4fece1a3db7
+
+#### S5 3rdparty address: RCaSVwp6okegmH6YRtsandgorSp4uVNDCz
+#### S5 3rdparty pubkey: 03ca46ea9a32de632823419948188088069f5820023920d810da6076624adb9901
 
 ## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
 - :telephone_receiver: [Always Contactable](https://komodoplatform.com/discord)
 - :trophy: Proven reliability over 2 seasons
-- :speech_balloon: Always contributing time and effort to bettering the ecosystem
+- :speech_balloon: Always contributing time and effort to bettering the ecosystem (KMD/CHIPS/Tokel/Pirate)
 - :milky_way: Decentralised NN servers
 
 ## :pushpin: About Me
@@ -19,17 +24,21 @@ I have been a Southern Hemisphere KMD Notary Node operator and community contrib
 
 I have been interested and invested in cryptocurrency for about three and a half years now. After seeing the technological advancements that Komodo was making, and seeing how the community came together to create, test and evaluate projects, I knew I wanted to be a part of this community. My first Komodo experience came through mining and trading. I purchased, built and ran multiple miners whilst I researched and learnt more about the code behind blockchain technology. I was introduced to the world of blockchain technology testing through the Proof Of Stake64 Test in 2018. I have to thank @Alright for walking me through how to install and run a full Komodo node for the first time, whilst also providing me an excellent opportunity to learn all things blockchain related. Since the POSTEST64 test event, I have provided time and effort towards a few different test events and projects. 
 
-Most of my effort has gone towards Pirate, as well as the CHIPS project. I provided feedback and mining nodes on the initial startup of Pirate, I participated in the RKT z address sapling upgrade test net, which directly led to identifying critical bugs that were fixed prior to mainnet introduction. I have previously run a Komodo, Pirate and assetchain mining pool, but had to close this due to lack of usage. I have given my time and effort towards the CHIPS project throughout the last year. In my 2019 NN proposal, I stated that I would donate a portion of my NN rewards towards the development of the CHIPS GUI. As you can see on my [KMD-NN repo](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md), I have fulfilled this promise and continue to do so. I have also participated in the project, assisting in any way I can. I have reorganised the CHIPS discord and correlated all known CHIPS githubs in the [single organisation](https://github.com/chips-blockchain). I have also helped write copy for the website, assisted with testing and evaluation in the early stages of GUI production, and continue to give my time to help develop and guide the project.
+### CHIPS/Pirate
+Most of my effort in the past has gone towards Pirate, as well as the CHIPS project. I provided feedback and mining nodes on the initial startup of Pirate, I participated in the RKT z address sapling upgrade test net, which directly led to identifying critical bugs that were fixed prior to mainnet introduction. I have previously run a Komodo, Pirate and assetchain mining pool, but had to close this due to lack of usage. I have given my time and effort towards the CHIPS project throughout the last year. In my 2019 NN proposal, I stated that I would donate a portion of my NN rewards towards the development of the CHIPS GUI. As you can see on my [KMD-NN repo](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md), I have fulfilled this promise and continue to do so. I have also participated in the project, assisting in any way I can. I have reorganised the CHIPS discord and correlated all known CHIPS githubs in the [single organisation](https://github.com/chips-blockchain). I have also helped write copy for the website, assisted with testing and evaluation in the early stages of GUI production, and continue to give my time to help develop and guide the project.
 
-Recently I have founded the project [Tokel](https://tokel.io). Tokel aims to be the easiest to use Token platform on the market. Tokel will use existing Komodo technologies to create a Token platform within the KMD ecosystem. We will develop on KMD technology and open source all of our developments for anyone to use. I will continue working with CHIPS and Tokel as my main priorities throughout this next season. 
+### Tokel
+Recently I have founded the project [Tokel](https://tokel.io). Tokel aims to be the easiest to use Token platform on the market. Tokel will use existing Komodo technologies to create a Token platform within the KMD ecosystem. We will develop on KMD technology and open source all of our developments for anyone to use. We have launched the test chain and are working close with the KMD team on improving on the current version of TokensV2 & AssetsV2 Cryptoconditions. We are making preparations for the Tokel main chain launch, coupled with the Initial Release of our all-in-one GUI application. This application will provide users with a Tokel coin wallet, multi-token wallet, token explorer, tokenDEX, NFT marketplace and finally a simple to use token creation page. I will continue working with CHIPS and Tokel as my main priorities throughout this next season. 
 
 In summary, I have been an active member in the KMD community over the last few years, assisting in multiple projects around the ecosystem. I will continue to donate my KMD NN rewards, my time and my effort to KMD community projects, building and educating people on what is already a fantastic stack of technology to use.
 
-### Season 4 Main Node Address:
-RNa3GKy8RiVyxwQ9SSpzFY1fs4YFCD1Vzs
+### Previous season data
 
-### Season 3 Main Node Address:
-RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh
+#### Season 4 Main Node Address:
+RNa3GKy8RiVyxwQ9SSpzFY1fs4YFCD1Vzs(do not send votes to this address)
+
+#### Season 3 Main Node Address:
+RFzhf56gWgfmG7VSHxJwZYenWKxYdHhxUh(do not send votes to this address)
 
 ## :pushpin: My Notary Node Goal
 
@@ -50,16 +59,15 @@ If anyone has requests or suggestions for fund allocations, shoot me a message, 
 
 ## :pushpin: Server Specifications
 
-I will be providing the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Melbourne. As I stand for in every election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
-
-If elected for the AR region, I will also prioritise decentralising the node location [(away from the cluster near Europe)](https://komodostats.com/map). I am currently in the process of organising a suitable server provider.
+I will be providing a node in the Southern Hemisphere with nodes (main & 3rd party) located in a data centre in Melbourne, Australia. As I stand for in every election, I believe this aids in the decentralisation and reduces the reliability on the main stream server hosting providers, by providing another critical SH node that isn't located in the same data centre as others. This decision has hurt my nodes connectivity to other Notary Nodes, and in turn hurt my Notary Node score. I still standby the need for decentralised distribution of the NN servers.
 
 ## :pushpin: Contact Details
 
 ### :computer: Discord
 @NutellaLicka#4241 
 - [Komodo Discord](https://komodoplatform.com/discord)
-- [Tokel Discord](https://discord.gg/DZvuAR6QzX)
-
+- [Tokel Discord](https://discord.gg/DZvuAR6QzX) 
+- [CHIPS Discord](https://discord.gg/SQCSa2X)
+- 
 ### :email: Email
 NutellaLicka@protonmail.com
