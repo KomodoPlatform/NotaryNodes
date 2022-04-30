@@ -11,14 +11,15 @@
 
 <br>
 
-## STROB VOTE2022 ADDRESS
+## STROB VOTE2022 ADDRESSES
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
+![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
 
 <p align="center">
-:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2021 tokens</a> before April 23rd 2021, 12pm UTC to the above KMD addresses.:point_up:
+:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
 </p>
 
 <p align="center">
@@ -48,6 +49,7 @@ I reached those scores by using the best hardware, solid maintenance schedule, m
 
 If having `dedicated`, `reliable`, `serious`, `honest` and `respectful` NN operators is a :heavy_plus_sign: for you, vote for me, you won't be disappointed.
 
+In my previous seasons as a NN I donated time or KMD worth many thousands of $ to projects such as CHIPS and Pirate Chain ARRR and I will continue to so for projects I deem important in the Komodo ecosystem.
 
 I created some 3D animations and assets for the Komodo ecosystem:
 I did this animated logo for the Pirate ARRR that you can see on their Discord Channel. I also did some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website.
@@ -62,23 +64,27 @@ I also created this `3 minutes` video for pirate ARRR, including idea, directing
 
 [![Pirate ARRR privacy video](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
-I created this 3D model of a Komodo Season 5 2021 Commemorative Coin. The goal was to give some more visibility to Komodo on all the most important stock medias websites (Turbosquid, Sketchfab, Shutterstock, Pixabay and even the NFT marketplace OpenSea). There were many BTC and ETH coins for sale but no KMD and I made this one FREE for every media and anyone to use and it's also ready for 3D printing by anyone who wishes to. I made it to act as a business card for Komodo with all the most important keywords about AtomicDex and dPoW that makes Komodo unique. I hope to create more coins like this for the whole Komodo ecosystem. When I sell a single stock model like this one on these marketplaces I can earn approx 10k$ &+ over my life if it sells good, I am making this one available for free to promote Komodo.
+I created these coin 3D models for Komodo and Pirate Chain ARRR. The goal was to give some more visibility to Komodo and ecosystem on all the most important stock medias websites (Turbosquid, Sketchfab, Shutterstock, Pixabay and even the NFT marketplace OpenSea). I made these FREE for every media and anyone to use and it's also ready for 3D printing by anyone who wishes to.
 
 [![3D Komodo Coin](https://www.strob.net/kmdNN2021/KomodoCoin_A.jpg)](https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77)
  
-`See it interactively here:`: <a href="https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77">Komodo 3D coin on Sketchfab.</a>
+`See it interactively here:`: <a href="https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77">ARRR 3D coin on Sketchfab.</a>
+
+[![3D Pirate](https://www.strob.net/kmdNN2022/ARRRcoin.jpg)](https://www.turbosquid.com/3d-models/3d-pirate-chain-coin-arrr-model-1876405)
+ 
+`See it interactively here:`: <a href="https://sketchfab.com/3d-models/pirate-chain-coin-arrr-68c3ce58eb4649fbae9a52ac803fb884">ARRR 3D coin on Sketchfab.</a>
 
 <br>
 
 ## STROB PROPOSAL
-In 2019 I was the top NA NN operator. In 2020 I was the top in SH and second in NA. I promise tu run all my nodes with the same commitment and fast updates in 2021.
+In past season I always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates in 2022.
 
-I would also like to continue promoting the `Komodo ecosystem` by doing other videos or 3D illustrations and 3D coin designs and, why not, NFTs.
+I would also like to continue promoting the `Komodo ecosystem` by using my skills to create art such as what you see above.
 
 <br>
 
 ## STROB HARDWARE
-I use the best hardware for the task no matter the price. I have many servers ready in NA at home (with UPS and 2 different 1GBPS connections) and in many different data centers. In SH I have accounts in many different data centers too. So I am always ready for a plan B if any problem happen I will have almost no downtime.
+I use the best hardware for the task no matter the price. I have many servers ready in NA at home (with UPS and 2 different 1GBPS connections) and in many different data centers. In SH I have accounts in many different data centers too. So I am always ready for a plan B if any problem happen I will have no downtime.
 
  
  
@@ -104,14 +110,15 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 
 <br>
 
-## STROB VOTING ADDRESSES
+## STROB VOTE2022 ADDRESSES
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
+![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
 
 <p align="center">
-:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2021 tokens</a> before April 23rd 2021, 12pm UTC to the above KMD addresses.:point_up:
+:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
 </p>
 
 <p align="center">
