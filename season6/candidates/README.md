@@ -24,7 +24,7 @@ Optional, but recommended:
 | --- | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
 |  1. |                                | [dragounhound](dragonhound/README.md)    |                                  | [dudezmobi](dudezmobi/README.md) |
 |  2. |                                | [computergenie](computergenie/README.md) |                                  | [kolo](kolo/README.md)           |
-|  3. |                                | [webworker01](webworker01/README.md)     |                                  |                                  |
+|  3. |                                | [webworker01](webworker01/README.md)     |                                  | [decker](decker/README.md)       |
 |  4. |                                | [strob](strob/README.md)                 |                                  |                                  |
 
 
