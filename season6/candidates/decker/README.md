@@ -16,10 +16,9 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `035b0502c05d5c6d9ae82e18e278f9e0c7db5eaaa9d2499532d04d51f10d705929` | **AR**     |
 
-| AR |
-| :---: |
-| ![RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7](./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg) |
-
+<p align="center">
+<img src="./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg" width="30%" height="30%">
+</p>
 
 ## Contact information ##
 
