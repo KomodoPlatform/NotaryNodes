@@ -22,7 +22,7 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 
 ## Contact information ##
 
- - [vote4decker.com](http://vote4decker.com/)
+ - [vote4decker.com](http://vote4decker.com/) (website also contains a **100 KMD** cryptopuzzle for geeks)
  - [Komodo Discord](https://komodoplatform.com/discord): [Decker#3767](https://discordapp.com/users/345544724167524352/)
  - E-Mail: deckersu@protonmail.com
  - KeyBase: [https://keybase.io/deckersu](https://keybase.io/deckersu)
