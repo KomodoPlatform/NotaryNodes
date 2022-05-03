@@ -23,7 +23,7 @@ Optional, but recommended:
 |  #  | EU                             | NA                                       | SH                               | AR                               |
 | --- | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
 |  1. | [smdmitry](smdmitry/README.md) | [dragounhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md) |
-|  2. |                                | [computergenie](computergenie/README.md) |                                  | [kolo](kolo/README.md)           |
+|  2. |                                | [computergenie](computergenie/README.md) | [dapp_vader](dapp_vader/README.md)                                 | [kolo](kolo/README.md)           |
 |  3. |                                | [webworker01](webworker01/README.md)     |                                  | [decker](decker/README.md)       |
 |  4. |                                | [strob](strob/README.md)                 |                                  |                                  |
 
