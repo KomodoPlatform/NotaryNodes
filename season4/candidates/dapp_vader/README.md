@@ -45,6 +45,12 @@ In Q3 my SH node mined 3770.45 KMD starting from block 2180301 until block 23057
 
 http://kmd.explorer.dexstats.info/tx/27280b878966adc97935a2ddc26399c03a166c6756ea0ee0cdd367e18219c922
 
+## Q4 CHIPS fund donation. ##
+
+In Q4 my SH node mined 4643.23 KMD starting from block 2305786 until block 2436816. Server expenses for 3 months are $350 x 3 = $1050 at current KMD price $1.15 is 913.04 KMD. Total mined funds after expenses 4643.23 - 913.04 = 3730.19. 10% of this amount is 374 KMD.
+
+http://kmd.explorer.dexstats.info/tx/18d90fca294e2071e31f22ffc05a18497286737e5169833738f13a58c645fa9e
+
 ## Server specs ##
 - CPU: AMD Ryzen Threadripper 2950X
 - RAM: DDR4 128GB
