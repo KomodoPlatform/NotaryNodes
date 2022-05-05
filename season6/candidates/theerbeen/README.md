@@ -22,5 +22,11 @@ Region: NA
 RXbwWvgd3RoMVmxwvHqBMDPTt33CxN6nzP
 ```
 
+## Pubkeys ##
+```
+MainNet PubKey: 02babec4a94f45e9027ee90e038cd42f910275dbd7fa1dbe224bf4b46366907e6a
+3rd Party PubKey: 024bac4fd262cf1ca1f39cdb4bb34e91ee13613c224e3d74b158724caed4dfee4a
+```
+
 ## Contact information ##
  - Discord: ```theerbeen#8339```
