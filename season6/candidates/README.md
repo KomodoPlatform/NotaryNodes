@@ -24,8 +24,8 @@ Optional, but recommended:
 | - | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
 | 1 | [smdmitry](smdmitry/README.md) | [dragounhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md) |
 | 2 | [bitbybit](bitbybit/README.md) | [computergenie](computergenie/README.md) | [dappvader](dappvader/README.md) | [kolo](kolo/README.md)           |
-| 3 |                                | [webworker01](webworker01/README.md)     |                                  | [decker](decker/README.md)       |
-| 4 |                                | [strob](strob/README.md)                 |                                  |                                  |
+| 3 | [vanbogan](van/readme.md)      | [webworker01](webworker01/README.md)     | [NutellaLicka](NutellaLicka/README.md) | [decker](decker/README.md) |
+| 4 |                                | [strob](strob/README.md)                 |                                  | [goldenman](goldenman/README.md) |
 | 5 |                                | [theerbeen](theerbeen/README.md)         |                                  |                                  |
 | 6 |                                | [nodeone](nodeone/README.md)             |                                  |                                  |
 
