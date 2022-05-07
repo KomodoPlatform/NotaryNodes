@@ -2,7 +2,7 @@
 
 ## Candidate info
 * Region : ```AR```
-* Address : ```RL9srwE4yafTRammxmGhzG8tVp6VkbKGg8```
+* Address : ```RJ4mmFUuzvzvWAuJKZE22zg1T5VJwMZfQF```
 
 ## HW spec
 * CPU: Intel i7-7700K - 4c/8t - 4.2 GHz/4.5 GHz
