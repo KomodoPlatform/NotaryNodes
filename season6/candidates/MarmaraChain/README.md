@@ -5,6 +5,11 @@ Marmara Chain team is currently operating one Notary Node in the EU region by th
 
 ## Vote information ##
 
+<p align="center">
+<img src="./RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD.png" width="30%" height="30%">
+</p>
+
+
 | VOTE2022 Addresses                 | Pubkey                                                             | Region |
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD` | `0234e40800500370d43979586ee2cec2e777a0368d10c682e78bca30fd1630c18d` | **EU**     |
