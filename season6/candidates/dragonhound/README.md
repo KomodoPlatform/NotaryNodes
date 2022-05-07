@@ -1,15 +1,12 @@
 # NN Season 6 Proposal for *`Dragonhound`* (smkhound)
 
-### NA Region VOTE2022 Address
-```
-RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h
-```
+
 
 ## Who am I?
 I'm a bloke with two dogs, and I've been part of the Komodo Community since early 2018, spending my spare hours learning, building and testing.
-Most of this work was self-directed until I was honored with a place within the team as a dApp dev, support agent and QA tech.
-Most recently the main focus of my work has been QA/Dev on the AtomicDEX desktop app, testing new AtomicDEX API features, writing / reviewing support guides, and 
-creating a series of APIs, bots and dashboards (e.g. [stats.kmd.io](http://stats.kmd.io)).
+Most of this work was self-directed until I was honored with a place within the team as a dApp dev, support agent and QA tech, which is a great role to [absorb](/#3) information about Komodo's technologies.
+
+Most recently the main focus of my work has been QA/Dev on the AtomicDEX desktop app, testing new AtomicDEX API features, writing / reviewing support guides, and creating a series of APIs, bots and dashboards (e.g. [stats.kmd.io](http://stats.kmd.io)).
 
 In my spare time, I work on things like the [PytomicDEX Makerbot](https://github.com/smk762/pytomicDEX_makerbot) and chase my dogs around the yard.
 I've been a Notary Node Operator for the last 3 seasons, and for the last 2 seasons have been responsible for distribution of notarisation funds to all the other Notary Nodes.
@@ -17,12 +14,17 @@ I've been a Notary Node Operator for the last 3 seasons, and for the last 2 seas
 ## Why Vote `Dragonhound`?
 - Long term Komodo supporter and hodler. 
 - Active Notary Notary operator since Season 3, contributing a variety of works to assist with smoother running.
-- Always quick to update my Notary nodes when updates are announced.
+- Always quick to update my Notary nodes when updates are announced, and offer [advice](/#4) to those who ask.
 - Assist with testing out misc updates for dPow, the Komodo daemon and AtomicDEX before release.
 - Contributing code to the AtomicDEX desktop wallet, support via Discord, and guides via youtube & [https://developers.komodoplatform.com/](https://developers.komodoplatform.com/)
 - Ongoing implementation of improved metrics and auditing of Notary Node related operations.
 - Creating miscellaneous scripts, tools, bots and APIs to assist with Notary Node management and monitoring.
+ 
+[![Solve the puzzle...](https://user-images.githubusercontent.com/35845239/167267424-601ea28a-3cdf-4de6-893c-a27826125783.png)](https://kmdexplorer.io/address/RPK9zYq7JJmQbDpJifi19Ai5VYnEBsNvBY "Solve the puzzle...")
 
+```
+NA Region VOTE2022 Address: RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h
+```
 
 ## What's in it for the community? ##
 Collaboration and content. I have more ideas than time, and know there is talent within the community worth rewarding. If you have the time and talent to help, I'd like to tip you with tokens so we can build something awesome.
@@ -43,7 +45,7 @@ Location: USA
 ```
 _I am a Komodo Team member, and currently operating one Notary Node in the NA region_
 
-### Thanks for your consideration and support!
+### Thanks [again](/#11) for your consideration and support!
 
 # Contact details
 Discord handle: smk#7640
