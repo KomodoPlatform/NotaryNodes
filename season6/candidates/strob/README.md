@@ -15,8 +15,8 @@
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
-![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
@@ -86,7 +86,7 @@ I would also like to continue promoting the `Komodo ecosystem` by using my skill
 ## STROB HARDWARE
 I use the best hardware for the task no matter the price. I have many servers ready in NA at home (with UPS and 2 different 1GBPS connections) and in many different data centers. In SH I have accounts in many different data centers too. So I am always ready for a plan B if any problem happen I will have no downtime.
 
- 
+Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB total)
  
 <br>
 
@@ -114,8 +114,8 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
-![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
