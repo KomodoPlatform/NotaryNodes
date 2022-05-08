@@ -45,7 +45,7 @@ For my second year, I was #1 and #2 in NA.
 
 For my third year, I was #1 and #2 in SH.
 
-I reached those scores by using the best hardware, solid maintenance schedule, monitoring 24/24, 7/7, 365/365, updating fast and having a plan B in case of problem: having quick turnaround solutions ready like spare servers, spare parts, redundant internet connections, UPS and DC accounts everywhere. I'm also always on Discord.
+I reached those scores by using the best hardware, solid maintenance schedule, monitoring 24/24, 7/7, 365/365, updating fast and having a plan B in case of problem: having quick turnaround solutions ready like redundant internet connections and DC accounts everywhere. I'm also always on Discord.
 
 If having `dedicated`, `reliable`, `serious`, `honest` and `respectful` NN operators is a :heavy_plus_sign: for you, vote for me, you won't be disappointed.
 
@@ -84,7 +84,7 @@ I would also like to continue promoting the `Komodo ecosystem` by using my skill
 <br>
 
 ## STROB HARDWARE
-I use the best hardware for the task no matter the price. I have many servers ready in NA at home (with UPS and 2 different 1GBPS connections) and in many different data centers. In SH I have accounts in many different data centers too. So I am always ready for a plan B if any problem happen I will have no downtime.
+I use the best hardware for the task no matter the price. I am always ready with accounts in dozens of data centers in my nodes regions ready to go if needed. So I am always ready for a plan B if any problem happen I will have no downtime.
 
 Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB total)
  
