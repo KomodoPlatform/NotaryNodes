@@ -11,7 +11,7 @@
 **Region: SH**
 ```RQxfyScivdSERChE2vYT9oFA7dWQzzPR4K```
 
-<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcode.png">
+<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcodes.png">
 
 ## TLDR
 Vote for me if you want to see the ecosystem thrive. So far 100% of the funds stay in the ecosystem. See below for list.
@@ -84,7 +84,7 @@ The yearly cost for those servers including Notary Node are about 16'000 USD I c
 **Region: SH**
 ```RQxfyScivdSERChE2vYT9oFA7dWQzzPR4K```
 
-<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcode.png">
+<img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcodes.png">
 
 
 ## PGP Public Key
