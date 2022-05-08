@@ -27,7 +27,7 @@ Optional, but recommended:
 | 3 | [vanbogan](van/readme.md)      | [webworker01](webworker01/README.md)     | [NutellaLicka](NutellaLicka/README.md) | [decker](decker/README.md) |
 | 4 | [strob](strob/README.md)       | [strob](strob/README.md)                 | [drkush](drkush/README.md)       | [goldenman](goldenman/README.md) |
 | 5 | [chmex](chmex/README.md)       | [theerbeen](theerbeen/README.md)         | [chmex](chmex/README.md)         | [chmex](chmex/README.md)         |
-| 6 | [mx222](mx222/README.md)       | [nodeone](nodeone/README.md)             | [sheeba](sheeba/readme.md)       |                                  |
+| 6 | [mx222](mx222/README.md)       | [nodeone](nodeone/README.md)             | [sheeba](sheeba/readme.md)       | [fediakash](fediakash/README.md) |
 | 7 |                                |                                          |                                  |                                  |
 | 8 |                                |                                          |                                  |                                  |
 
