@@ -20,12 +20,13 @@ Vote for me if you want to see the ecosystem thrive. So far 100% of the funds st
 ## About me 
 I'm CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
 I would like to get elected for Notary Node Election 2022 to operate 1 Node in the `AR Region`, 1 Node in the `EU Region`, 1 Node in the `SH Region`. 
-Funds are mainly used to pay existing Servers and new ones if it's needed for a probejct or a task.
+Funds are mainly used to pay existing Servers and new ones if it's needed for a projects or a task.
 
 ## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
 
 ### ICO Contributor, Active Community Member since 2017. ###
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
+* Helping out for Cyberkomodo, in the TOKEL IDO and DOGE DEX Competition
 * Gas Station to Convert KMD to BNB FTM MATIC ONE AVAX KCS ETH <a href="https://dexstats.info/gas.php" target="_blank">https://dexstats.info/gas.php</a><br>
 * Un-Official voting List in realtime at <a href="https://vote.dexstats.info" target="_blank">https://vote.dexstats.info</a><br>
 * Running several Fullnodes access the data and to help the network for all Notarized and known Assetchains<br>
@@ -35,7 +36,7 @@ Funds are mainly used to pay existing Servers and new ones if it's needed for a 
 * Helped out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT to KMD Assets saved. Trustee in OTC Transactions.
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
-* Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a>. 
+* Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/">Referral System</a> (Phased out now). 
 * LABS Node Operator
 * Running THC, TOKEL and some others Electrum Server
 * Dexstats.info is now in the Top 400k Websites in the World that is a better Ranking than a lot of Crypto Websites. https://www.alexa.com/siteinfo/dexstats.info (Alexa was retired May 1st 2022)
