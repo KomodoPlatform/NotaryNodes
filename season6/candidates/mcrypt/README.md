@@ -8,13 +8,19 @@ I update my nodes in time which is <=24 hours after announcement
 
 I present myself as a candidates for the 
 
-SH Region Voting address
+
+
+
+**SH** Region Voting address
 
 **RUFm7G6fnUdZ6sT3qkNYo62SPfgmK7xs6Y**
 
-AR Region Voting address
+**AR** Region Voting address
 
 **RLYYNmQcmC3vGYtGhyCt6HUXQL2kn7vQAa**
+
+
+
 
 Server Specs:
 
