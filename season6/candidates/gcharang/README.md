@@ -22,7 +22,7 @@ Some of them are:
 - created two npm packages for accessing `komodod`'s RPC using browser and nodejs. https://github.com/gcharang/komodo-rpc-js , https://github.com/gcharang/node-komodo-rpc
 - a bot that auto bans impersonators of people with roles in our Discord server; it also has some commands to ban mass joining bots
 - a bridge between the newly launched Community Portal and our Discord server https://pipedream.com/@gcharang?tab=workflows
-- a website to display notary testnet's stats: https://2022.notarytestnet.lordofthechains.com/ (Source repo: https://github.com/gcharang/notary-testnet-stats-ui). Will be launched after testnet is announced/launched
+- a website to display notary testnet's stats: https://2022.notarytestnet.lordofthechains.com/ (Source repo: https://github.com/gcharang/notary-testnet-stats-ui)
 - the script used to collect and save the notary testnet stats: https://github.com/gcharang/notary-stats-server
 
 I was elected as a Notary Node for KMD for the first time in S4
