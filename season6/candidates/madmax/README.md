@@ -46,7 +46,7 @@ Please send your Votes to:
 | NA | EU | AR |
 | :---: | :---: | :---: |
 | RSjgbcDFEXv5Lc198MX5wBECj6U7YagtzE | RGaUZVeoTw5qdbNGiZNyUy1F1DunjVg2QQ | RRLnxMuSFXpowBbSGxMxEnNny7FBaJMqyf |
-![](https://komodod.com/static/img/notary/qr-na.png) |![](https://komodod.com/static/img/notary/qr-eu.png) ![](https://komodod.com/static/img/notary/qr-ar.png) |
+![](https://komodod.com/static/img/notary/qr-na.png) |![](https://komodod.com/static/img/notary/qr-eu.png) |![](https://komodod.com/static/img/notary/qr-ar.png) |
 
 
 ### links
