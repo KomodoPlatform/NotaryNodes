@@ -21,17 +21,20 @@ I am madmax, long term komodo supporter and notary node operator since 2018. som
 - Orderbook Viewer with Recent trades history
 - Coins ranking,volume,price,markets related info
 - Atomicdex daily stats & charts
-- Rick & Morty Faucet.
+- Rick & Morty Faucet
+
 ![](https://komodod.com/static/img/notary/dexplorer_notary.jpg)
 
 ##### :arrow_right: [Komodod.com](https://komodod.com) - Komodo Blockchain explorer
 - Other explorers: [KMD](https://komodod.com), [PIRATE](https://pirate.komodod.com), [GLEEC](https://gleec.komodod.com), [VOTE2022](https://vote2021.komodod.com), [DEX](https://dex.komodod.com), [RICK](https://rick.komodod.com),[MORTY](https://morty.komodod.com)
 - Feature rich komodo & smartchain block explorer with richlist, rewards view, mining stats etc
+
 ![](https://komodod.com/static/img/notary/komodod-notary.jpg)
 
 ##### :arrow_right: [dpow.io](https://dpow.io) - Komodo dPoW stats
 - [Season 4 Status](https://dpow.io/)
 - Komodo delayed proof of work notarization data for each coins, charts, notary nodes rankings etc
+
 ![](https://komodod.com/static/img/notary/dpow_notary.jpg)
 
 ##### :arrow_right: [vote2022.Komodod.com](https://vote2022.Komodod.com) - Notary node Election status & explorer
