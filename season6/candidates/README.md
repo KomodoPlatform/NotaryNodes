@@ -22,7 +22,7 @@ Optional, but recommended:
 
 | # | EU                             | NA                                       | SH                               | AR                               |
 | - | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
-| 1 | [smdmitry](smdmitry/README.md) | [dragounhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md) |
+| 1 | [smdmitry](smdmitry/README.md) | [dragonhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md) |
 | 2 | [bitbybit](bitbybit/README.md) | [computergenie](computergenie/README.md) | [dappvader](dappvader/README.md) | [kolo](kolo/README.md)           |
 | 3 | [vanbogan](van/readme.md)      | [webworker01](webworker01/README.md)     | [NutellaLicka](NutellaLicka/README.md) | [decker](decker/README.md) |
 | 4 | [strob](strob/README.md)       | [strob](strob/README.md)                 | [drkush](drkush/README.md)       | [goldenman](goldenman/README.md) |
@@ -30,7 +30,7 @@ Optional, but recommended:
 | 6 | [mx222](mx222/README.md)       | [nodeone](nodeone/README.md)             | [sheeba](sheeba/readme.md)       | [fediakash](fediakash/README.md) |
 | 7 | [Marmara](MarmaraChain/README.md)| [madmax](madmax/README.md)             | [alien](alien/README.md)      | [NutellaLicka](NutellaLicka/README.md)|
 | 8 | [powerwolf](powerwolf/README.md)| [dennis](dennis/readme.md)              | [mcrypt](mcrypt/README.md)       | [xen](xen/readme.md)             |
-| 9 | [madmax](madmax/README.md)      |                                       | [dragounhound](dragonhound/README.md)| [mcrypt](mcrypt/README.md)     |
+| 9 | [madmax](madmax/README.md)      |                                       | [dragonhound](dragonhound/README.md)| [mcrypt](mcrypt/README.md)     |
 | 10|                                 |                                         |                                  | [madmax](madmax/README.md)       |
 | 11|                                 |                                         |                                  |                                  |
 | 12|                                 |                                         |                                  |                                  |
