@@ -208,17 +208,17 @@
         "youtube": ""
     },
     "MCL": {
-        "discord": "",
-        "email": "",
-        "explorers": [],
-        "github": "",
+        "discord": "https://marmara.io/discord",
+        "email": "admin@marmara.io",
+        "explorers": ["https://explorer.marmara.io","https://explorer2.marmara.io","https://explorer3.marmara.io"],
+        "github": "https://github.com/marmarachain",
         "linkedin": "",
-        "mining_pools": [],
+        "mining_pools": ["https://zpool.ca/algo/equihash"],
         "reddit": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
+        "telegram": "https://t.me/MarmaraChain",
+        "twitter": "https://twitter.com/marmarachain",
+        "website": "https://marmara.io",
+        "youtube": "https://www.youtube.com/c/MarmaraCreditLoops"
     },
     "MESH": {
         "discord": "",
