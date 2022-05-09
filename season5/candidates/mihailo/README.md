@@ -12,9 +12,9 @@ I have joined Komodo on October 2018. Since then I have been working as Core C++
 In personal life my passion is car racing, and I'm competing in several championships in Europe. 
 
 ## Season 5 plan
-As I'm no longer a team member of Komodo I still plan to continue to support Komodo, and support decentralization of notary nodes for safer network. 
+As I'm no longer a team member of Komodo I am still a Komodo veteran with ~200 commits to the code base and this will be my 2nd NN season. My plan is to continue to support Komodo on per-need basis and I want to support decentralization of notary nodes for safer network. 
 
-If you (individual or group of individuals) have some good idea to build a project on Komodo tech, I could allocate some funds from NN earnings.
+If you (individual or group of individuals) have some good idea to build a project on Komodo tech and it will benefit the Komodo community, I can allocate some funds from NN earnings.
 
 ## Voting
 

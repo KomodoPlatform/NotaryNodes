@@ -1,3 +1,15 @@
+# 2021 NN keys and NN handle
+
+NN handle: phit_SH
+
+Main NN address: RRay7N4rknsCgZ84Qj66AZz7pGt5phitsH
+
+Main NN pubkey: 02a9cef2141fb2af24349c1eea20f5fa8f5dba2835723778d19b23353ddcd877b1
+
+3P NN address: RUm3USN3vMxmP5e7dsENC3ProrZYPhitSH
+
+3P NN pubkey: 021b893b7978284e3d73701a623f23104fcce27e70fb49427c215f9a7481f652da
+
 # VOTE2021 Address (SH region):
 
 RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
@@ -36,6 +48,21 @@ Servers specifications will be fine tuned according to requirements for season 2
 - NVMe 1.2 To RAID
 
 I'm sick of my current 64GB server, if I am elected, I'll use a server with 96GB or 128GB RAM.
+
+# Pledges for season 5
+Having better stats by:
+- migrating to a better datacenter and server
+- automate more (at least send a warning if a problem happens, try to fix the problem if it can be fixed automatically)
+
+After servers payment, a total of **17%** of Notary Node mining rewards will be donated as support to KMD ecosystem projects:
+- allocation of 8% of KMD block rewards to Blur dPoW project
+- allocation of 3% of KMD block rewards to TOKEL project
+- allocation of 3% of KMD block rewards to CHIPS project
+- allocation of 3% of KMD block rewards to open-food-chain project's fanclub
+
+Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first, and remaining rewards will be sent according to allocations defined here above.
+
+Thanks to Biz for the notes in his proposal, used to simplify mine.
 
 ## 2020-2021 Projects/milestones
 
@@ -131,6 +158,18 @@ Why 1MT? 1MT use cases are similar to PANGEA's and CHIPS' ones (poker, gambling,
 
 https://gist.github.com/phm87/e05912920dabbfb64f943b6a6a047d58
 
+- Since the ``PancakeSwap: KMD-BUSD`` constract exists on Binance Smart Chain (BSC) but integration into PancakeSwap main staking contract requires a cost and it may benefit mostly CAKE in the long term, why not create a smartchain that has permissioned mining based on having an LP token on the BSC side ? It will allow to **farm KMD-BUSD** without integration into PancakeSwap main staking contract. As discussed with PTYX on discord, it would be a major task but not impossible.
+
+A first implementation could rely on tweaked -ac_staked or -ac_easymining and use data of explorers'API. If community likes the concept, a stronger implementation that would require Notary Nodes to run the smartchain and a BSC node can be developed.
+
+https://bscscan.com/token/0x24b9b6c7b3b2c1a9c1f783228edf7d241091384a
+
+https://bscscan.com/address/0x24b9b6c7b3b2c1a9c1f783228edf7d241091384a
+
+Remark: -ac_easymining is an ongoing developement of mine similar to -ac_aur to allow smartchains to be mined by a defined set of pubkeys, similar to Notary Nodes easy mining.
+
+https://github.com/KomodoPlatform/komodo/compare/master...phm87:patch-19
+
 ### AtomicDEX
 - [TESTS ONGOING] I began to work on a multicurrency **discord faucet** using AtomicDEX-API in the back-end. The lightwallet features are used but not (yet) the DEX features. Public testing will begin soon.
 
@@ -219,6 +258,8 @@ No agreement and no official relation with any entity. I'm friend with d4v who r
 
 I have a friendly relationship with crackers of zpool, metaphilibert and ludom.
 
+I am not part of KMD Team but I am iguana/dPoW & komodo contributor.
+
 # Contact details :
 
 Slack : @phm87
@@ -227,12 +268,3 @@ Discord : phm87#7395
 
 Bitcointalk : https://bitcointalk.org/index.php?action=profile;u=1117726
 
-# VOTE2021 Address (xx region):
-
-Compared to previous seasons, I'm involved in more projects, inside komodo source code but also outside of komodo discord promoting komodo technologies and proposing to do experiments. Since 2 years, I saw komodo price below 1$ most of the time so this demand for a second node considers that bullmarket won't continue forever. Experiments cost money, infrastructure is not cheap (and I'd like to run electrumx).
-
-The discord faucet can cost a lot in the long term but it can raise awareness about komodo and AtomicDEX.
-
-**Please vote for the SH Address first** at the top of this proposal. If the SH address have enough votes to be elected, please vote for this second voting address.
-
-**Address & region to be communicated later**

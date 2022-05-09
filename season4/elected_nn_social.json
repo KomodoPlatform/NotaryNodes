@@ -1,7 +1,7 @@
 {
   "alien": {
     "discord": "412323938782150658",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/alien_AR.png",
     "github": "https://github.com/himu007/",
     "keybase": "",
     "telegram": "",
@@ -12,7 +12,7 @@
   },
   "alright": {
     "discord": "405011811511828481",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/alright_DEV.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -23,7 +23,7 @@
   },
   "artemii235": {
     "discord": "457121878465708043",
-    "icon": "",
+    "icon": "https://s3.amazonaws.com/keybase_processed_uploads/dba1eb8d2a3881a310e19022fc7a4e05_360_360.jpg",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -56,7 +56,7 @@
   },
   "chmex": {
     "discord": "420119978138664961",
-    "icon": "",
+    "icon": "https://i.imgur.com/gxAmypG.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -67,7 +67,7 @@
   },
   "cipi": {
     "discord": "419964976397156352",
-    "icon": "",
+    "icon": "https://i.imgur.com/q1Wsj13.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -89,7 +89,7 @@
   },
   "dappvader": {
     "discord": "686210447266807838",
-    "icon": "",
+    "icon": "https://i.imgur.com/esaT2vf.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -155,7 +155,7 @@
   },
   "gcharang": {
     "discord": "423176312354635779",
-    "icon": "",
+    "icon": "https://i.imgur.com/Y60KFi3.png",
     "github": "https://github.com/gcharang/",
     "keybase": "https://keybase.io/gcharang",
     "telegram": "https://t.me/gcharang",
@@ -188,7 +188,7 @@
   },
   "karasugoi": {
     "discord": "426823107865608192",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/karasugoi_NA.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -199,7 +199,7 @@
   },
   "madmax": {
     "discord": "380786853558747139",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/madmax_AR.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -210,7 +210,7 @@
   },
   "marmarachain": {
     "discord": "150437093879840768",
-    "icon": "https://raw.githubusercontent.com/marmarachain/MarmaraChain/master/img/loooo.png",
+    "icon": "https://raw.githubusercontent.com/KomodoPlatform/coins/master/icons/mcl.png",
     "github": "https://github.com/marmarachain",
     "keybase": "",
     "telegram": "https://t.me/MarmaraCreditLoop",
@@ -221,7 +221,7 @@
   },
   "mcrypt": {
     "discord": "458507065178980353",
-    "icon": "",
+    "icon": "https://i.imgur.com/cKiAYND.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -254,7 +254,7 @@
   },
   "mrlynch": {
     "discord": "504735704543395853",
-    "icon": "",
+    "icon": "https://i.imgur.com/HFVcIac.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -265,8 +265,8 @@
   },
   "mylo": {
     "discord": "371114647052615681",
-    "icon": "",
-    "github": "",
+    "icon": "https://i.imgur.com/FkWjZ8R.png",
+    "github": "https://github.com/imylomylo",
     "keybase": "",
     "telegram": "",
     "twitter": "",
@@ -276,7 +276,7 @@
   },
   "node9": {
     "discord": "412482228359266328",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/node9_EU.png",
     "github": "https://github.com/Cris-F",
     "keybase": "https://keybase.io/crisf",
     "telegram": "",
@@ -287,7 +287,7 @@
   },
   "nodeone": {
     "discord": "474206298427097099",
-    "icon": "",
+    "icon": "https://i.imgur.com/DguJpsM.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -298,7 +298,7 @@
   },
   "nutellalicka": {
     "discord": "202999072519356416",
-    "icon": "",
+    "icon": "https://i.imgur.com/BHNslUu.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -331,7 +331,7 @@
   },
   "pbca26": {
     "discord": "403229823834521616",
-    "icon": "",
+    "icon": "https://i.imgur.com/UiZwdXk.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -364,7 +364,7 @@
   },
   "phm87": {
     "discord": "352577127494713345",
-    "icon": "",
+    "icon": "https://i.imgur.com/3LyfSTB.png",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -397,7 +397,7 @@
   },
   "smdmitry": {
     "discord": "486144655369437184",
-    "icon": "",
+    "icon": "https://i.imgur.com/3Lej07i.jpg",
     "github": "",
     "keybase": "",
     "telegram": "",
@@ -419,7 +419,7 @@
   },
   "strob": {
     "discord": "278565047113089025",
-    "icon": "https://strob.net/avatar/strobOni.jpg",
+    "icon": "https://strob.net/avatar/strobOni_100px.jpg",
     "github": "https://github.com/StrobFX",
     "keybase": "",
     "telegram": "",
@@ -452,8 +452,8 @@
   },
   "tonyl": {
     "discord": "272003866906722306",
-    "icon": "",
-    "github": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/tonyl_AR.png",
+    "github": "https://github.com/tonymorony",
     "keybase": "",
     "telegram": "",
     "twitter": "",
@@ -463,7 +463,7 @@
   },
   "webworker01": {
     "discord": "300741339279130624",
-    "icon": "",
+    "icon": "http://stats.kmd.io/static/img/notary/icon/webworker01_NA.png",
     "github": "",
     "keybase": "",
     "telegram": "",

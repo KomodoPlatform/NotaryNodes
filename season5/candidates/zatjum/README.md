@@ -21,7 +21,7 @@ I could promise a lot of things for this new season, like... [auto censored word
 
 I just promise to be reliable, like I've been during these 2 seasons.
 
-I will probably finish on the rank 4 (out of 15) in SH region this season (I was 5th last year), having notarised and mined regularly from the first day to the last one, and applying updates within a few hours each time we had to.
+I've finished on the rank 4 (or 5, not officially announced yet) in SH region this season (I was 5th last year), having notarised and mined regularly from the first day to the last one, and applying updates within a few hours each time we had to.
 
 You can see I'm better this year than the one before, so let me try to be better again on season 5!
 
@@ -43,6 +43,14 @@ https://dpow.io/node/zatjum_SH
 ```fake
 ^^^ Flash this QR to find the address where you have to send your VOTE2021 tokens to
 (it's RJUM5a3vnajE9fZ5piDGcxvDyryUAHxhKj, in case you just want to copy/paste 😉)
+```
+
+## Additional node ##
+
+In addition, as I've finished in top 5 of SH region, if you think I'm usefull enough for the Komodo network, you can vote for me to allow me to run a second node (in SH region too), by sending some more VOTE2021 tokens to this second address: `RGrUUMUTJmRU63xUH8sTHQ8qAkwyiyZATR`.
+```diff
+--- Please don't do this if the first address (for the first node) doesn't have enough votes to win! ---
+--- Thanks a lot ---
 ```
 
 ## Disclosure ##

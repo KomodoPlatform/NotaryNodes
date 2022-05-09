@@ -1,5 +1,8 @@
 # Komodo Notary Node Candidacy from byozgunn
 
+![](https://i.ibb.co/5RkY5s0/image.png)
+
+
 ## Region and Voting Address
 
 - Region: `AR`
@@ -10,7 +13,7 @@
 
 - CPU:  Intel Xeon 2x E5-2450
 - RAM:  128GB DDR4
-- SSD:  1 TB SSD
+- SSD:  2 TB SSD
 
 
 ## 3P Server Information
@@ -35,5 +38,6 @@ Being a part of such a work will make me extremely happy. Even the thought of ha
 
 ## Contact details
 
+- Name: Özgün Özakyıldız 
 - Discord handle: `byozgunn#4572`
 - Username on most platforms online: `byozgunn`
