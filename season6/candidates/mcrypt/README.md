@@ -26,7 +26,7 @@ Server Specs:
 
 Processor: Xeon Silver
 
-RAM: 32-96 GB / Main / 3P
+RAM: 32-96 GB / 3P/ Main
 
 Disk: 1TB NVME
 
