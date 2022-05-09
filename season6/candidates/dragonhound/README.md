@@ -20,10 +20,12 @@ I've been a Notary Node Operator for the last 3 seasons, and for the last 2 seas
 - Ongoing implementation of improved metrics and auditing of Notary Node related operations.
 - Creating miscellaneous scripts, tools, bots and APIs to assist with Notary Node management and monitoring.
  
-[![Solve the puzzle...](https://user-images.githubusercontent.com/35845239/167267424-601ea28a-3cdf-4de6-893c-a27826125783.png)](https://kmdexplorer.io/address/RPK9zYq7JJmQbDpJifi19Ai5VYnEBsNvBY "Solve the puzzle...")
+[![Solve the puzzle...](https://user-images.githubusercontent.com/35845239/167500402-f2813120-e2bc-4f32-a4e1-2c065dd9c5d6.png)](https://kmdexplorer.io/address/RPK9zYq7JJmQbDpJifi19Ai5VYnEBsNvBY "Solve the puzzle...")
+
 
 ```
 NA Region VOTE2022 Address: RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h
+SH Region VOTE2022 Address: RT3PBi6wBLvUySxtykehejsVTLKgCEwbzu
 ```
 
 ## What's in it for the community? ##
@@ -52,10 +54,14 @@ Discord handle: smk#7640
 
 Keybase: https://keybase.io/smk762
 
-# Season 6 Pubkeys for dragonhound_NA #
+# Season 6 Pubkeys for dragonhound #
 
-Main: 02e650819f4d1cabeaad6bc5ec8c0722a89e63059a10f8b5e97c983c321608329b (RDRaGoN9vkRfzd9nP6VbTUrAoo3jgib2ec)
+NA Main: 02e650819f4d1cabeaad6bc5ec8c0722a89e63059a10f8b5e97c983c321608329b (RDRaGoN9vkRfzd9nP6VbTUrAoo3jgib2ec)
 
-3P: 0366a87a476a09e05560c5aae0e44d2ab9ba56e69701cee24307871ddd37c86258 (RHound1gvLqhSfvpS1DAPkKp3Y1D4TRxKZ)
+NA 3P: 0366a87a476a09e05560c5aae0e44d2ab9ba56e69701cee24307871ddd37c86258 (RHound1gvLqhSfvpS1DAPkKp3Y1D4TRxKZ)
+
+SH Main: 036b2037575502d2d44d21f5aac13b486c69c0bafeac66c3212d7fabf9d4077e4a (RT3PBi6wBLvUySxtykehejsVTLKgCEwbzu)
+
+SH 3P: 02583525b58460675491291b12ccaffc80f0a0c3ac1075ea881e80cb68bc19ca12 (RATweFLewnfYmrR7BJUNAYZPbNCDbzDech)
 
 
