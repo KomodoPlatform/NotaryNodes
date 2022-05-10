@@ -59,3 +59,12 @@ I was also a KMDLabs Notary Node operator and participated in Documenting most o
 
 - Discord handle: `gcharang#6833` (id: `423176312354635779`)
 - Username on most platforms online: `gcharang`
+
+## Season 6 Pubkeys for gcharang_SH
+
+- Region: `SH`
+
+### Pubkeys
+
+- main: `033b82b5791c65477dd11095cf33332013df6d2bcb7aa06a6dae5f7b22b6959b0b`
+- 3P: `03a3878af1152f648e6084fd3fbe697a26b1c2e92d407dd96c375f45f7d3ca13bf`
