@@ -29,7 +29,7 @@ Optional, but recommended:
 | 5 | [chmex](chmex/README.md)       | [theerbeen](theerbeen/README.md)         | [chmex](chmex/README.md)         | [chmex](chmex/README.md)         |
 | 6 | [mx222](mx222/README.md)       | [nodeone](nodeone/README.md)             | [sheeba](sheeba/readme.md)       | [fediakash](fediakash/README.md) |
 | 7 | [Marmara](MarmaraChain/README.md)|                                        |                               | [NutellaLicka](NutellaLicka/README.md)|
-| 8 |                                |                                          |                                  |[gcharang](gcharang/README.md)    |                             |
+| 8 |                                |                                          |                                  |                                  |
 
 
 
