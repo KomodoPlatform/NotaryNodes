@@ -126,3 +126,17 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 </p>
 
 <br>
+
+## STROB S6 PUBKEYS
+
+strob_NA main: `02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405`
+<br>
+strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3`
+
+<br>
+
+strob_EU main: `037deaf5d6b6e23c78fdacb43a26c6f61b64f4ec30e9fffcb933949464a0352f95`
+<br>
+strob_EU 3rd: `022de9750aa85b8f964622cf0601eb1b64593adce43b8d0d71f5428fe7565427ee`
+
+<br>
