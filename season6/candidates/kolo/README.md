@@ -36,7 +36,11 @@ If I get another spot I will also lease a white Tesla Model 3, so by voting for 
 
 Address for your vote tokens:
 
+If you trust me vote here (kolo1_AR):
 > RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx
+
+If you trust me and think I can manage two nodes, please sometimes vote also here (kolo2_AR):
+> RPFUCG4nE5EfR41P4rcYmMbKgxmu9Ex8kX
 
 Contacts:
 
