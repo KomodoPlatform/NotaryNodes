@@ -17,6 +17,7 @@ If voted in, my server will be in the North America region with these specs:
 |||
 |---|---|
 |**NA Vote address:** | `RHeNSUPXzbLGuKszaZMnwBYTRvE8D6ikn5` |
-|**Pubkey:** | `02e83883f32a23677509056aac50ae9d50403318b9dd1e571231c28c6b004d08aa` |
+|**Main Pubkey:** | `02e83883f32a23677509056aac50ae9d50403318b9dd1e571231c28c6b004d08aa` |
+|**3P Pubkey:** | `032c43a6d5c1dbbfec96f32a5ca411245fef44203019a3df079311cea2a67254ad` |
 |**Contact:** | fatswallop#7850 |
 |**Email:** | fatswallop@protonmail.com |
