@@ -1,7 +1,7 @@
 
 # 2022 phm87 Proposal for PHIT (SH & EU regions):
 
-Building silently the future of transactions and communications mixing old tech with komodo tech. During season 5, I worked on building more connections with crypto people, investors, lawyers, accountants, reading the laws, discussing NDA and incorporating phit_SH Notary Node into my company. Despite having done mainly open-source devlopement in s3 and s4, I focused on writing closed-source code using komodo tech (and old tech) during season 5. Please vote for me if you want to support komodo adoption !
+Building silently the future of transactions and communications mixing old tech with Komodo tech. During season 5, I worked on building more connections with crypto people, investors, lawyers, accountants, reading the laws, discussing NDA and incorporating phit_SH Notary Node into my company. Despite having done mainly opensource development in seasons 3 and 4, I focused on analysing and writing closed-source code using komodo tech (and old tech) during season 5. Please vote for me if you want to support Komodo adoption !
 
 I'm candidate to be Notary Node during the 2022-2023 season in order to continue to notarize and support projects using Komodo tech !
 
@@ -33,9 +33,9 @@ I'm running UniMining.net mining pool since September 2017 with friends. We cont
     </td>
   </tr>
 </table>
-I've been Notary Node operator of phm87_SH and phit_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
+I've been Notary Node operator since 2019-2020 season (phm87_SH and phit_SH) and Community Contributor, I contributed to iguana/dPoW, Chips and Komodo ecosystem.
 
-Thank you to Komodo Team to have merged my pull requests to githubs of komodo and dPoW/iguana despite the additional workload. I am very happy to be part of Komodo community and Notary Nodes, I had many interesting open-minded discussions about KMD tech and other projects. Learning how consensus code works and different protocol is a long learning curve but I'm happy to do it with KMD community.
+Thank you to Komodo Team for open-minded discussions, sharing knowledges about Komodo tech and other projects.
 
 Big thank you to the whole Komodo community and ecosystem. Specials thanks to jl777, metaphilibert, Ludom, SHossain, blakjok3r, Alright and ca333.
 
@@ -52,14 +52,14 @@ phm87
 After servers payment (and taxes over donations, if any), a total of **14%** of Notary Node mining rewards will be donated as support to projects:
 - 8% to non-profit russian-ukrainian association
 - 3% to CHIPS
-- 3% to Biz for past and future projects
+- 3% to Biz for past and future projects (if Biz is not elected as Notary Node)
 Donations are calculated after servers expenses and taxes over donations (if any).
 
-Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first, and remaining rewards will be sent according to allocations defined here above.
+Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first (and taxes over donations, if any) and remaining rewards will be sent according to allocations defined here above.
 
 ## 2021-2022 Projects/milestones
 
-Under NDA for now, sorry but I hope that projects will be public soon.
+Under NDA for now, sorry. I hope that projects will be public soon.
 
 
 ## 2020-2021 Projects/milestones
