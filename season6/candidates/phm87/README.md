@@ -1,15 +1,25 @@
 
-# VOTE2022 Address (SH & EU regions):
+# 2022 phm87 Proposal for PHIT (SH & EU regions):
 
-RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
-
-Primary Vote: SH region VOTE2022 address : RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S
-AR region VOTE2022 address : yyy
-xxx
-
-Building silently the future of transactions and communications mixing old tech with komodo tech. During season 5, I worked on building more connections with crypto people, investors, lawyers, accountants, reading the laws, discussing NDA and incorporating phit_SH Notary Node into my company. Despite having done mainly open-source devlopement in s3 and s4, I focused on writing closed-source code using komodo tech during s5. Please vote for me if you want to support komodo adoption !
+Building silently the future of transactions and communications mixing old tech with komodo tech. During season 5, I worked on building more connections with crypto people, investors, lawyers, accountants, reading the laws, discussing NDA and incorporating phit_SH Notary Node into my company. Despite having done mainly open-source devlopement in s3 and s4, I focused on writing closed-source code using komodo tech (and old tech) during season 5. Please vote for me if you want to support komodo adoption !
 
 I'm candidate to be Notary Node during the 2022-2023 season in order to continue to notarize and support projects using Komodo tech !
+
+## Voting Addresses ##
+
+
+
+| SH region |   |   |   | EU region |
+| --- | --- | --- | --- | --- |
+| ```RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S``` |    |   |   | ```RYBMXPrMQGw21bdc3MHNh2ZBwmBiPhitsh``` |
+
+```diff
+- Please vote preferentially for the SH node -
+- If the SH node seems to have enough votes to be elected and you still want to vote for me - 
+- then don't hesitate to vote for the EU node -
+
+- Thank you -
+```
 
 ## Who am I ?
 
@@ -39,10 +49,10 @@ phm87
 
 # Pledges for season 6
 
-After servers payment (and taxes over donations, if any), a total of **16%** of Notary Node mining rewards will be donated as support to projects:
-- 6% to non-profit russian-ukrainian association
-- 5% to CHIPS
-- 5% to Biz for past and future projects
+After servers payment (and taxes over donations, if any), a total of **14%** of Notary Node mining rewards will be donated as support to projects:
+- 8% to non-profit russian-ukrainian association
+- 3% to CHIPS
+- 3% to Biz for past and future projects
 Donations are calculated after servers expenses and taxes over donations (if any).
 
 Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first, and remaining rewards will be sent according to allocations defined here above.
