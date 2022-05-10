@@ -11,7 +11,7 @@ I'm candidate to be Notary Node during the 2022-2023 season in order to continue
 
 | SH region |   |   |   | EU region |
 | --- | --- | --- | --- | --- |
-| ```RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S``` |    |   |   | ```RYBMXPrMQGw21bdc3MHNh2ZBwmBiPhitsh``` |
+| ```RYBMXPrMQGw21bdc3MHNh2ZBwmBiPhitsh``` |    |   |   | ```RFmvveVYVRPo8v85J5u3Yd3PgrzSrHZP4S``` |
 
 ```diff
 - Please vote preferentially for the SH node -
