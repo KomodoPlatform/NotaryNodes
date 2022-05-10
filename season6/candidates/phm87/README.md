@@ -53,13 +53,14 @@ After servers payment (and taxes over donations, if any), a total of **14%** of 
 - 8% to non-profit russian-ukrainian association
 - 3% to CHIPS
 - 3% to Biz for past and future projects (if Biz is not elected as Notary Node)
-Donations are calculated after servers expenses and taxes over donations (if any).
 
 Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first (and taxes over donations, if any) and remaining rewards will be sent according to allocations defined here above.
 
 ## 2021-2022 Projects/milestones
 
 Under NDA for now, sorry. I hope that projects will be public soon.
+
+Ongoing preparation of presentations (and meetup) of Bitcoin and cryptocurrencies (using Komodo technologies).
 
 
 ## 2020-2021 Projects/milestones
