@@ -9,7 +9,7 @@ xxx
 
 Building silently the future of transactions and communications mixing old tech with komodo tech. During season 5, I worked on building more connections with crypto people, investors, lawyers, accountants, reading the laws, discussing NDA and incorporating phit_SH Notary Node into my company. Despite having done mainly open-source devlopement in s3 and s4, I focused on writing closed-source code using komodo tech during s5. Please vote for me if you want to support komodo adoption !
 
-I'm candidate to be Notary Node during the 2021-2022 season in order to continue to notarize, move to a better server and provider, continue to develop my **current projects** and launch/support **new projects** !
+I'm candidate to be Notary Node during the 2022-2023 season in order to continue to notarize and support projects using Komodo tech !
 
 ## Who am I ?
 
@@ -19,13 +19,11 @@ I'm candidate to be Notary Node during the 2021-2022 season in order to continue
       <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" style="float: right;" />
     </td>
     <td>
-I'm running UniMining.net mining pool with 30 - 40 altcoins since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
+I'm running UniMining.net mining pool since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
     </td>
   </tr>
 </table>
-I've been Notary Node operator of phm87_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
-
-During the 2020-2021 season, my performances were lower than during the 2019-2020 season, I tested [PR 201](https://github.com/KomodoPlatform/dPoW/pull/201) during a too long time, I had a swap configuration issue and a hardware issue. If I am elected for the 2021-2022 season, I won't test any code change on my Notary Node (whatever it is agreed by community) except if KMD team asks to test the official dev branch. If I want to test any iguana/dPoW change, I'll ask a DEV NN operator to test my code.
+I've been Notary Node operator of phm87_SH and phit_SH and Community Contributor since 2019, I contributed to iguana/dPoW, chips and Komodo ecosystem.
 
 Thank you to Komodo Team to have merged my pull requests to githubs of komodo and dPoW/iguana despite the additional workload. I am very happy to be part of Komodo community and Notary Nodes, I had many interesting open-minded discussions about KMD tech and other projects. Learning how consensus code works and different protocol is a long learning curve but I'm happy to do it with KMD community.
 
