@@ -17,6 +17,7 @@
 | ------------- | ------------- |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
 | Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR.png)  | Asian Region (AR)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
@@ -116,6 +117,7 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 | ------------- | ------------- |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
 | Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR.png)  | Asian Region (AR)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
@@ -138,5 +140,11 @@ strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a
 strob_EU main: `037deaf5d6b6e23c78fdacb43a26c6f61b64f4ec30e9fffcb933949464a0352f95`
 <br>
 strob_EU 3rd: `022de9750aa85b8f964622cf0601eb1b64593adce43b8d0d71f5428fe7565427ee`
+
+<br>
+
+strob_AR main: `02f3b19a1ec6733e6a50ff105c381e9892813d0c9ce218182ea3631eeee5af449c`
+<br>
+strob_AR 3rd: `02a39801b35e3950b5019a4c4e93106d6440aedec49e62d5bffef94e36bf000147`
 
 <br>
