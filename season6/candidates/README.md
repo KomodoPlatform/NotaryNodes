@@ -35,8 +35,10 @@ Optional, but recommended:
 | 11| [cipi](cipi/README.md)          | [ptyx](ptyx/README.md)                  | [pbca26](pbca26/README.md)       | [dimxy](dimxy/README.md)         |
 | 12| [cipi2](cipi/README.md)         | [cipi2](cipi/README.md)                 | [workhax0](workhax0/README.md)   | [cipi2](cipi/README.md)          |
 | 13| [darkolisio](darkolisio/README.md)|                                       |                                  | [artist](artist/README.md)      |
-| 13| [yurii-khi](yurii-khi/README.md)|                                       |                                  |                                  |
-| 13|                                 |                                       |                                  |                                  |
+| 14| [yurii-khi](yurii-khi/README.md)|                                         |                                  | [artem.pikulin](artem.pikulin/README.md)  |
+| 15|                                 |                                         |                                  |                                  |
+| 16|                                 |                                         |                                  |                                  |
+
 
 
 
