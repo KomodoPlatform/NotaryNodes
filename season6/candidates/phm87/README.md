@@ -29,7 +29,7 @@ I'm candidate to be Notary Node during the 2022-2023 season in order to continue
       <img src="https://unimining.net/images/logo_unimining.png" alt="drawing" style="float: right;" />
     </td>
     <td>
-I'm running UniMining.net mining pool since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry) and I entered the world of cryptocurrencies in april 2017.
+I'm running UniMining.net mining pool since September 2017 with friends. We contributed to yiimp opensource project and we helped some coin developers. I'm working in IT since 10 years (including payment card industry, insurances and logistics) and I entered the world of cryptocurrencies in april 2017.
     </td>
   </tr>
 </table>
@@ -58,9 +58,9 @@ Donations will be performed at the beginning of each month, for the month prior.
 
 ## 2021-2022 Projects/milestones
 
-Under NDA for now, sorry. I hope that projects will be public soon.
-
 Ongoing preparation of presentations (and meetup) of Bitcoin and cryptocurrencies (using Komodo technologies).
+
+Projects under NDA for now, sorry. I hope public exposure soon.
 
 
 ## 2020-2021 Projects/milestones
