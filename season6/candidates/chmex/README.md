@@ -11,6 +11,10 @@
 **Region: SH**
 ```RQxfyScivdSERChE2vYT9oFA7dWQzzPR4K```
 
+**Region: NA**
+```RMKfy7zjSvvKgC7tQReYrRSFfEFFGkZkFc``` 
+(NA is a placeholder just in case)
+
 <img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcodes.png">
 
 ## TLDR
@@ -154,5 +158,8 @@ chmex_SH3P: 03e09c8ee6ae20cde64857d116c4bb5d50db6de2887ac39ea3ccf6434b1abf8698
 <br><br>
 chmex1_SH: 02d27ed1cddfbaff9e47865e7df0165457e8f075f70bbea8c0498598ccf494555d<br>
 chmex1_SH3P: 02d59db293de6c7da6673beeb373ebce62fd6d3522f715ea1356b5a2624fbd11a2
+<br><br>
+chmex_NA: 030c2528c29d5328243c910277e3d74aa77c9b4e145308007d2b11550731591dbe<br>
+chmex_NA3P: 024e88a36d729352a391e07d1821dbfda1fca6409320cf9c2869b6fb99f05fbddd
 
 
