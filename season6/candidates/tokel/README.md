@@ -29,6 +29,9 @@ If you'd like to learn more, please checkout the [website - https://tokel.io/](h
 
 This node will be located in North America; the exact location is to be determined shortly.
 
+Main NA pubkey: `02b472713e87fb2560569857051ea0811c65d668a6fe73df165afe152417f774a0`  
+3rd party NA pubkey: `0315d866c09e15709e2036a05faec6aaf28e0ecf67329b2adb922b746f22e694bc`
+
 ### :email: Contact
 jorian#4555  
 contact@tokel.io
