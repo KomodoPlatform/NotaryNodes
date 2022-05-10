@@ -15,4 +15,18 @@ My proposal to choose me for the vote is that I am a very valid person, with gre
 EU Candidate
 Address RFhn6Hfk4LX4i36hxTLFKZ3RUydz5kf1qh
 
+Main Server
+AMD epyc 7401p
+128Gb RAM
+1.9 Tb NVMe
+1 Gbit connection
+
+Secondary
+
+Intel 6700k
+32 Gb RAM
+500 GB SSD
+1 Gbit connection
+
 Discord darkolisio#1494
+darkolisio@protonmail.com
