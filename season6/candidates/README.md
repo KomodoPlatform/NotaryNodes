@@ -22,7 +22,7 @@ Optional, but recommended:
 
 | # | EU                             | NA                                       | SH                               | AR                               |
 | - | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
-| 1 | [smdmitry](smdmitry/README.md) | [dragonhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md) |
+| 1 | [smdmitry](smdmitry/README.md) | [dragonhound](dragonhound/README.md)    | [smdmitry](smdmitry/README.md)   | [dudezmobi](dudezmobi/README.md)  |
 | 2 | [bitbybit](bitbybit/README.md) | [computergenie](computergenie/README.md) | [dappvader](dappvader/README.md) | [kolo](kolo/README.md)           |
 | 3 | [vanbogan](van/readme.md)      | [webworker01](webworker01/README.md)     | [NutellaLicka](NutellaLicka/README.md) | [decker](decker/README.md) |
 | 4 | [strob](strob/README.md)       | [strob](strob/README.md)                 | [drkush](drkush/README.md)       | [goldenman](goldenman/README.md) |
@@ -30,14 +30,14 @@ Optional, but recommended:
 | 6 | [mx222](mx222/README.md)       | [nodeone](nodeone/README.md)             | [sheeba](sheeba/readme.md)       | [fediakash](fediakash/README.md) |
 | 7 | [Marmara](MarmaraChain/README.md)| [madmax](madmax/README.md)             | [alien](alien/README.md)      | [NutellaLicka](NutellaLicka/README.md)|
 | 8 | [powerwolf](powerwolf/README.md)| [dennis](dennis/readme.md)              | [mcrypt](mcrypt/README.md)       | [xen](xen/readme.md)             |
-| 9 | [madmax](madmax/README.md)      | [pbca26](pbca26/README.md)              | [dragonhound](dragonhound/README.md)| [mcrypt](mcrypt/README.md)     |
+| 9 | [madmax](madmax/README.md)      | [pbca26](pbca26/README.md)              | [dragonhound](dragonhound/README.md)| [mcrypt](mcrypt/README.md)    |
 | 10| [webworker01](webworker01/README.md)| [fatswallop](fatswallop/README.md)  | [gcharang](gcharang/README.md)   | [madmax](madmax/README.md)       |
 | 11| [cipi](cipi/README.md)          | [ptyx](ptyx/README.md)                  | [pbca26](pbca26/README.md)       | [dimxy](dimxy/README.md)         |
 | 12| [cipi2](cipi/README.md)         | [cipi2](cipi/README.md)                 | [workhax0](workhax0/README.md)   | [cipi2](cipi/README.md)          |
-| 13| [darkolisio](darkolisio/README.md)| [tokel](tokel/README.md)              | [kmdude](kmdude/README.md)       | [artist](artist/README.md)      |
+| 13| [darkolisio](darkolisio/README.md)| [tokel](tokel/README.md)              | [kmdude](kmdude/README.md)       | [artist](artist/README.md)       |
 | 14| [yurii-khi](yurii-khi/README.md)| [who-biz](who-biz/README.md)            | [mylo](mylo/README.md)     | [artem.pikulin](artem.pikulin/README.md) |
-| 15| [computergenie](computergenie/README.md) |  [phit](phm87/README.md)       |                                  | [strob](strob/README.md)         |
-| 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  |                                  | [kolo2](kolo/README.md)           |
+| 15| [computergenie](computergenie/README.md) |  [phit](phm87/README.md)       | [metaphilibert](metaphilibert/README.md)| [strob](strob/README.md)  |
+| 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  |                                  | [kolo2](kolo/README.md)          |
 | 17| [ca333](ca333/README.md)        | [chmex](chmex/README.md)                |                                  |                                  |
 | 18| [komodopioneers](komomopioneers/README.md) |                              |                                  |                                  |
 | 19| [node-9](node-9/README.md)      |                                         |                                  |                                  |
