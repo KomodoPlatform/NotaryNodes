@@ -4,19 +4,11 @@
 
 
 
-| SH region |   |   |   | AR region |
-| --- | --- | --- | --- | --- |
-| ```RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e``` |    |   |   | ```RMetaARvKiEj16LNdqG8QmxzankfCb9p2w``` |
-<img src="https://raw.githubusercontent.com/metaphilibert/NotaryNodes/master/season5/candidates/metaphilibert/RMetaSH.png"> |   |   |   | <img src="https://raw.githubusercontent.com/metaphilibert/NotaryNodes/master/season5/candidates/metaphilibert/RMetaAR.png"> |
+| SH region |
+| --- | --- |
+| ```RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e``` |
+<img src="https://raw.githubusercontent.com/metaphilibert/NotaryNodes/master/season6/candidates/metaphilibert/RMetaSH.png"> 
 
-
-```diff
-- Please vote preferentially for the SH node -
-- If the SH node seems to have enough votes to be elected and you still want to vote for me - 
-- then don't hesitate to vote for the AR node -
-
-- Thank you -
-```
 
 ## Who am I
 
