@@ -1,12 +1,8 @@
 # Metaphilibert Notary Node Proposal 2021
 
-## Voting Addresses ##
+## Voting Addresses for SH region
 
-
-
- SH region
-
- ```RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e```
+## RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e
 <img src=https://github.com/Metaphilibert/NotaryNodes/blob/master/season6/candidates/metaphilibert/RMetaSH.png> 
 
 
@@ -14,7 +10,7 @@
 
 ## Who am I
 
-Early SuperNET follower, i'm 44 years old, father of 3, in IT for 25 years, crypto enthusiast for 8 years and Notary Node Operator for 4 seasons.
+Early SuperNET follower, i'm 45 years old, father of 3, in IT for 25 years, crypto enthusiast for 8 years and Notary Node Operator for 5 seasons.
 
 disclosure:<br>
 I am not a member of the Komodo team.<br>
