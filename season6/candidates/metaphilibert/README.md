@@ -4,10 +4,11 @@
 
 
 
-| SH region |
-| --- | --- |
-| ```RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e``` |
-<img src="https://raw.githubusercontent.com/metaphilibert/NotaryNodes/master/season6/candidates/metaphilibert/RMetaSH.png"> 
+ SH region
+
+ ```RMetaSHqEPvuAC1K1TWFx5WwNcMiqPFm8e```
+<img src=https://github.com/Metaphilibert/NotaryNodes/blob/master/season6/candidates/metaphilibert/RMetaSH.png> 
+
 
 
 
@@ -17,9 +18,8 @@ Early SuperNET follower, i'm 44 years old, father of 3, in IT for 25 years, cryp
 
 disclosure:<br>
 I am not a member of the Komodo team.<br>
-I currently manage 2 Notary Nodes in SH and AR region:<br>
+I currently manage 1 Notary Node in SH
 -metaphilibert_SH, pubkey "0284af1a5ef01503e6316a2ca4abf8423a794e9fc17ac6846f042b6f4adedc3309"<br>
--metaphilibert_AR, pubkey "02adad675fae12b25fdd0f57250b0caf7f795c43f346153a31fe3e72e7db1d6ac6"
 
 
 
@@ -28,39 +28,9 @@ I currently manage 2 Notary Nodes in SH and AR region:<br>
 - At each election I am pleased to run a testnet node.
 - First to prove I still can handle it technically :p but mainly to meet the new candidates.
 - I try to do my best to help candidates who may need it to be on the right track.
-- This year again there seems to be new candidates with very good potential, and I would be glad to notarize with them next season.
-- Also, for the current testnet I am quite excited about trying to help at the integration of Blur to dPoW.
-
-
-## Pledges ##
-
-- Having better stats (especially in AR) by:<br>
--migrating to a better datacenter in Russia<br>
--upgrading all servers
-
-
-- Support Pirate, TOKEL and CHIPS projects with:<br> 
--allocation of 8% of KMD block rewards to TOKEL project<br>
--allocation of 8% of KMD block rewards to Pirate project<br>
--donation of 100k CHIPS to help boost the CHIPS ecosystem 
-
 
 
 ## Server Specs:
-
-#### AR region ####
-Location: Datacenter in St. Petersburg, Russia
-
-##### Main server #####
--CPU: Intel E5-1650v4 (6 x 3.6 GHz HT)<br>
--RAM: 128 GB DDR4 ECC Reg<br>
--SSD: 1920 GB SSD NVMe
-
-##### Secondary server #####
--CPU: Intel Xeon W-2133 (6 x 3.6 GHz)<br>
--RAM: 64 GB DDR4 ECC Reg<br>
--SSD: 2 x 960 GB SSD
-
 
 #### SH region ####
 Location: Datacenter in Sydney, Australia
