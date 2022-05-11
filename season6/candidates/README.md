@@ -37,7 +37,7 @@ Optional, but recommended:
 | 13| [darkolisio](darkolisio/README.md)| [tokel](tokel/README.md)              | [kmdude](kmdude/README.md)       | [artist](artist/README.md)       |
 | 14| [yurii-khi](yurii-khi/README.md)| [who-biz](who-biz/README.md)            | [mylo](mylo/README.md)     | [artem.pikulin](artem.pikulin/README.md) |
 | 15| [computergenie](computergenie/README.md) |  [phit](phm87/README.md)       | [metaphilibert](metaphilibert/README.md)| [strob](strob/README.md)  |
-| 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  |                                  | [kolo2](kolo/README.md)          |
+| 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  | [arnomad](arnomad/README.md)     | [kolo2](kolo/README.md)          |
 | 17| [ca333](ca333/README.md)        | [chmex](chmex/README.md)                |                                  |                                  |
 | 18| [komodopioneers](komomopioneers/README.md) |                              |                                  |                                  |
 | 19| [node-9](node-9/README.md)      |                                         |                                  |                                  |
