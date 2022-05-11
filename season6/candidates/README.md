@@ -35,11 +35,11 @@ Optional, but recommended:
 | 11| [cipi](cipi/README.md)          | [ptyx](ptyx/README.md)                  | [pbca26](pbca26/README.md)       | [dimxy](dimxy/README.md)         |
 | 12| [cipi2](cipi/README.md)         | [cipi2](cipi/README.md)                 | [workhax0](workhax0/README.md)   | [cipi2](cipi/README.md)          |
 | 13| [darkolisio](darkolisio/README.md)| [tokel](tokel/README.md)              | [kmdude](kmdude/README.md)       | [artist](artist/README.md)      |
-| 14| [yurii-khi](yurii-khi/README.md)| [who-biz](who-biz/README.md)            |                            | [artem.pikulin](artem.pikulin/README.md) |
+| 14| [yurii-khi](yurii-khi/README.md)| [who-biz](who-biz/README.md)            | [mylo](mylo/README.md)     | [artem.pikulin](artem.pikulin/README.md) |
 | 15| [computergenie](computergenie/README.md) |  [phit](phm87/README.md)       |                                  | [strob](strob/README.md)         |
-| 16| [phit](phm87/README.md)         |                                         |                                  |                                  |
-
-
+| 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  |                                  | [kolo2](kolo/README.md)           |
+| 17| [ca333](ca333/README.md)        | [chmex](chmex/README.md)                |                                  |                                  |
+| 18|          |                                         |                                  |                                  |
 
 
 
