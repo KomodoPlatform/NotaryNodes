@@ -2,7 +2,9 @@
 
 ## Season 6
 
-Vote: `RW6cfSA4vE29ag7Z1xGqchXraXvAPDgD7f`
+Vote `NA` : `RW6cfSA4vE29ag7Z1xGqchXraXvAPDgD7f`
+
+Vote `EU` : `RPNAXCs2FCq2Fnrt1RNPoAAbTTscjB7Hg5`
 
 ## About
 

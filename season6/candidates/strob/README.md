@@ -15,8 +15,9 @@
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
-![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR.png)  | Asian Region (AR)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
@@ -45,7 +46,7 @@ For my second year, I was #1 and #2 in NA.
 
 For my third year, I was #1 and #2 in SH.
 
-I reached those scores by using the best hardware, solid maintenance schedule, monitoring 24/24, 7/7, 365/365, updating fast and having a plan B in case of problem: having quick turnaround solutions ready like spare servers, spare parts, redundant internet connections, UPS and DC accounts everywhere. I'm also always on Discord.
+I reached those scores by using the best hardware, solid maintenance schedule, monitoring 24/24, 7/7, 365/365, updating fast and having a plan B in case of problem: having quick turnaround solutions ready like redundant internet connections and DC accounts everywhere. I'm also always on Discord.
 
 If having `dedicated`, `reliable`, `serious`, `honest` and `respectful` NN operators is a :heavy_plus_sign: for you, vote for me, you won't be disappointed.
 
@@ -84,9 +85,9 @@ I would also like to continue promoting the `Komodo ecosystem` by using my skill
 <br>
 
 ## STROB HARDWARE
-I use the best hardware for the task no matter the price. I have many servers ready in NA at home (with UPS and 2 different 1GBPS connections) and in many different data centers. In SH I have accounts in many different data centers too. So I am always ready for a plan B if any problem happen I will have no downtime.
+I use the best hardware for the task no matter the price. I am always ready with accounts in dozens of data centers in my nodes regions ready to go if needed. So I am always ready for a plan B if any problem happen I will have no downtime.
 
- 
+Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB total)
  
 <br>
 
@@ -114,8 +115,9 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```
-![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| Europe (EU)  | ```RStrobEUa7sHUamRfaWyX8DN2bpKiq9YPZ```![QR code](https://www.strob.net/kmdNN2021/StrobEU_QR.png)  |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```![QR code](https://www.strob.net/kmdNN2021/StrobAR_QR.png)  | Asian Region (AR)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/s5/doc/bible.md#the-notary-node-election-process">KMD VOTE2022 tokens</a> before 25th May 2022, 0000hrs GMT to the above KMD addresses.:point_up:
@@ -124,5 +126,25 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 <p align="center">
 :point_up:You can scan the QR codes with your smartphone wallet!:point_up:
 </p>
+
+<br>
+
+## STROB S6 PUBKEYS
+
+strob_NA main: `02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405`
+<br>
+strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3`
+
+<br>
+
+strob_EU main: `037deaf5d6b6e23c78fdacb43a26c6f61b64f4ec30e9fffcb933949464a0352f95`
+<br>
+strob_EU 3rd: `022de9750aa85b8f964622cf0601eb1b64593adce43b8d0d71f5428fe7565427ee`
+
+<br>
+
+strob_AR main: `02f3b19a1ec6733e6a50ff105c381e9892813d0c9ce218182ea3631eeee5af449c`
+<br>
+strob_AR 3rd: `02a39801b35e3950b5019a4c4e93106d6440aedec49e62d5bffef94e36bf000147`
 
 <br>

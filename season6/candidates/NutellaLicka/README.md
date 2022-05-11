@@ -1,8 +1,10 @@
 # NutellaLicka
 
-#### Region: Southern Hemisphere
+#### Regions: Southern Hemisphere (SH) & Asia/Russia(AR)!
 
-### **SH** region VOTE2022 address : `RY7wLN2xkmaHyM82RACc7LXXrWpa6H8Tha`
+### Primary Vote: **SH** region VOTE2022 address : `RY7wLN2xkmaHyM82RACc7LXXrWpa6H8Tha`
+
+### **AR** region VOTE2022 address : `RSyzXm2A8Tkmob523i34FGiS37e6TUsTgt`
 
 ## :pushpin: 5 Reasons to vote for NutellaLicka (in case you don't read any further)
 - :gift: [Community Development Donations](https://github.com/NutellaLicka/KMD-NN/blob/master/nutellalicka.md)
@@ -13,7 +15,7 @@
 
 ## :pushpin: About Me
 
-I have been a Southern Hemisphere KMD Notary Node operator and community contributor for the last 3 seasons!
+I have been a Southern Hemisphere KMD Notary Node operator and community contributor for the last 3 seasons and would like to continue doing that whilst also going for an Asia/Russia server.
 
 I have been interested and invested in cryptocurrency for about three and a half years now. After seeing the technological advancements that Komodo was making, and seeing how the community came together to create, test and evaluate projects, I knew I wanted to be a part of this community. My first Komodo experience came through mining and trading. I purchased, built and ran multiple miners whilst I researched and learnt more about the code behind blockchain technology. I was introduced to the world of blockchain technology testing through the Proof Of Stake64 Test in 2018. I have to thank @Alright for walking me through how to install and run a full Komodo node for the first time, whilst also providing me an excellent opportunity to learn all things blockchain related. Since the POSTEST64 test event, I have provided time and effort towards a few different test events and projects. 
 
@@ -40,7 +42,7 @@ I believe I have successfully carried out my goal over the last three years as a
 
 ## :pushpin: Community Development Funds
 
-#### Total donated to date: 5,616.04‬ KMD
+#### Total Donated to Date: 6,551.71 KMD
 You can find donation verification over at my KMD-NN repo. I put all of my important NN information there for transparency purposes and keep updates going throughout the season whenever I do the transactions.
 [https://github.com/NutellaLicka/KMD-NN](https://github.com/NutellaLicka/KMD-NN)
 
