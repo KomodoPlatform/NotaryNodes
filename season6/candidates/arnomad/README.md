@@ -3,7 +3,7 @@
 # Arnomad's proposal for Notary Node 2022 elections  
 | Region | Voting address |
 | --- | --- |
-| EU | ```RArnomd78pGmGXKuMVZzZ5hxcRzZHBimf6``` |
+| NA | ```RArnomd78pGmGXKuMVZzZ5hxcRzZHBimf6``` |
 
 ## Reasons to vote for me
 
