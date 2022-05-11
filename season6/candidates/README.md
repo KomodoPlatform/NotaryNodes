@@ -39,7 +39,8 @@ Optional, but recommended:
 | 15| [computergenie](computergenie/README.md) |  [phit](phm87/README.md)       |                                  | [strob](strob/README.md)         |
 | 16| [phit](phm87/README.md)         | [mylo](mylo/README.md)                  |                                  | [kolo2](kolo/README.md)           |
 | 17| [ca333](ca333/README.md)        | [chmex](chmex/README.md)                |                                  |                                  |
-| 18|          |                                         |                                  |                                  |
+| 18| [komodopioneers](komomopioneers/README.md) |                              |                                  |                                  |
+| 19| [node-9](node-9/README.md)      |                                         |                                  |                                  |
 
 
 
