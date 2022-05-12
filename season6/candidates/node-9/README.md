@@ -23,14 +23,12 @@ Thank you for checking out my Notary Node Proposal. As a proven reliable Komodo 
 > **```I'll be there, I'll do the work and I'll push limits.```**
 
 
-**EU** VOTE2021 address:  **RY6wvkZG1HnjdG7kevqVRH4wkiUYj6EUsP**
-
- *If you would like to vote for only one of the Node-9 addresses, please send VOTE2021 to the Node-9* **EU node. RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**
+**EU** VOTE2022 address:  **RY6wvkZG1HnjdG7kevqVRH4wkiUYj6EUsP**
 
 ---
 ### Region:       EU
 
-Please send VOTE2021 here:  **RCQNDzwPtPyrnNR4ENgZQneDXST1GM4oKt**        --> ![n9 Address QR](https://raw.githubusercontent.com/node-prime/node-9/master/n9_EU_address_QRcode_2021.png)
+Please send VOTE2022 here:  **RY6wvkZG1HnjdG7kevqVRH4wkiUYj6EUsP**  
 
 ---
 
@@ -54,7 +52,6 @@ As a Komodo Notary Node operator I will focus on notarizing.  I will also suppor
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
    
-PGP Key:  [See page bottom](#pgp-key)
     
 ### PGP Key
 
