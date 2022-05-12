@@ -52,7 +52,6 @@ As a Komodo Notary Node operator I will focus on notarizing.  I will also suppor
     Discord:  CrisF#3405
     Email:    CrisFell@pm.me
    
-PGP Key:  [See page bottom](#pgp-key)
     
 ### PGP Key
 
