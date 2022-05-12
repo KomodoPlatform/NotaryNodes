@@ -1,4 +1,4 @@
-# Metaphilibert Notary Node Proposal 2021
+# Metaphilibert Notary Node Proposal 2022
 
 ## Voting Addresses for SH region
 
