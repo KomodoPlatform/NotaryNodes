@@ -6,12 +6,16 @@ I have 10+ years experience as a IT professional. I'm a full stack developer mai
 
 I'd like the opportunity to become a notary node operator as I'm a true believer in the platform and have convinced countless number of users to purchase and mine KMD. I’ve joined the crypto scene almost a year ago and quickly adapted to KMD, have been mining and purchasing ever since. Regardless of voting outcome I will still continue to express the value that the KMD platform brings to crypto.
 
-
-
+AMD Ryzen 5800X 8/16
+2x 960Gb NVME
+DDR4 64Gb
+250Mbit/s
 
 SH Region
 RVCdjMqQfNnFfwZckdCcbpQwPzzhwombAt
 
 Discord Roadrunner#7651
+roadrunner16161616@gmail.com
+
 
 Thanks for your votes
