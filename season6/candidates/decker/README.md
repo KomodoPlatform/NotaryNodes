@@ -20,6 +20,21 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 <img src="./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg" width="30%" height="30%">
 </p>
 
+## Keys for Season 6 ##
+
+```cpp
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"blackice_AR", "02909c79a198179c193fb85bbd4ba09b875a5a9bd481fec284658188b96ed43519"},
+        {"blackice_EU", "02668f5f723584f97f5e6f9196fc31018f36a6cf824c60328ad0c097a785df4745"},
+        {"blackice_DEV", "02ca882f153e715091a2dbc5409096f8c109d9fe6506ca7a918056dd37162b6f6e"},
+    },
+// ...    
+}
+```
+
 ## Contact information ##
 
  - [vote4decker.com](http://vote4decker.com/) (website also contains a **100 KMD** cryptopuzzle for geeks)
