@@ -12,7 +12,7 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 
 ## Vote information ##
 
-| VOTE2021 Addresses                 | Pubkey                                                             | Region |
+| VOTE2022 Addresses                 | Pubkey                                                             | Region |
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `035b0502c05d5c6d9ae82e18e278f9e0c7db5eaaa9d2499532d04d51f10d705929` | **AR**     |
 
