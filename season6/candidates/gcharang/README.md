@@ -60,11 +60,37 @@ I was also a KMDLabs Notary Node operator and participated in Documenting most o
 - Discord handle: `gcharang#6833` (id: `423176312354635779`)
 - Username on most platforms online: `gcharang`
 
-## Season 6 Pubkeys for gcharang_SH
+## Keys for Season 6
 
-- Region: `SH`
+```cpp
+// mainnet
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"gcharang_SH", "02cb445948bf0d89f8d61102e12a5ee6e98be61ac7c2cb9ba435219ea9db967117"}, // RGcGxTnVbaVUBVoh5yxDqscLFWgfdeWALS
+        {"gcharang_DEV", "033b82b5791c65477dd11095cf33332013df6d2bcb7aa06a6dae5f7b22b6959b0b"}, // RGcG4Ei5mPCHaGYvHfmqXLg9wBk7PFb8Co
+    },
+// ...    
+}
+// 3p
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"gcharang_SH", "0321868e0eb39271330fa2c3a9f4e542275d9719f8b87773c5432448ab10d6943d"}, // RGcGe9dxpc4m6DqXge9wQr7sqVoyAs1Vho
+        {"gcharang_DEV", "03a3878af1152f648e6084fd3fbe697a26b1c2e92d407dd96c375f45f7d3ca13bf"}, // RGcG9DNHKWVbjXm2GPMKMU9hkYvJWwweFo
+    },
+// ...    
+```
 
-### Pubkeys
+## Proof of Ownership
 
-- main: `033b82b5791c65477dd11095cf33332013df6d2bcb7aa06a6dae5f7b22b6959b0b`
-- 3P: `03a3878af1152f648e6084fd3fbe697a26b1c2e92d407dd96c375f45f7d3ca13bf`
+Message: `gcharang`
+
+Signatures:
+
+- `H47OfqU+GcpCwJ1miLX6SHCZYSFeCk1X27c9R44iM3oIBydDIuOVCwwiDVNkVt9C6nGKMgguDd23BLftsmsvqQw=` (gcharang_SH - main)
+- `IBUZgnrmNNMGmrMmEMWQgMtqAQN75uG6ULpMtAXSaA+VE/hBCrbgYM699j/GZDeqbWQ+FzIyE3YdpWO5+chX7D8=` (gcharang_SH - 3P)
+- `H6wWQDZWeBbINzGwsk1Qvp8tassAF03j3zr0NXfDLzCOQL1kCBu97M6dlk1+LaYSkJWIa/D5GDH76cVQEc38oMI=` (gcharang_DEV - main)
+- `HxoPlbhgAuTTCsPxK/2vcYy8YAJi7uSZAuWgcsvxb2cedEOL5t73KHcS1Aeyj1uPsZF4UfA6IPNMf7T2X/Kp77k=` (gcharang_DEV - 3P)
