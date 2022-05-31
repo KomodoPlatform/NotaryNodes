@@ -1,5 +1,11 @@
 # Kolo Notary Node season 6 proposal
 
+Update: thanks everyone for supporting me on this elections, I appreciate that! I'll do my best in your honor.
+
+Pubkeys at the end of this proposal were updated accordingly.
+
+## Proposal
+
 Hi! I'm Kolo and I want you to vote for me in the Notary Nodes season 6 elections. Here is why:
 
 ![why](https://user-images.githubusercontent.com/2559459/165963726-f03cd219-671b-4962-be87-42150ea16f8d.jpg)
@@ -43,10 +49,12 @@ If you trust me and think I can manage two nodes, please vote also here (EU - Eu
 > RPFUCG4nE5EfR41P4rcYmMbKgxmu9Ex8kX
 
 Pubkeys:
-  - AR main: 03fd1956cc0c62389cab49e305166f8aaad3cfdf4faf123cd25a0e42a8a0067253
-  - AR 3party: 03d8e649ada27c46a789a7144e391a1072cae231d5743af960775cf45c3c67ef83
-  - EU main: 03814b03918f2b3ca4d466206f46de355d50240226ad12b954854c8969881c5af7
-  - EU 3party: 03693756df360ff91278da9a9352e80d0c631b39a0c96ac1242b15f81db9329800
+  - kolo_AR main: 028431645f923a9e383a4e37cbb7168fa34988da23d43097124fe882bdac6d175f
+  - kolo_AR third-party: 032c2a6aeaf8176f9630abe2e1bbea5e481da23ab1f9a5b10f220a9b2bc9607bd6
+  - kolox_AR main: 0289f5f64f4bb18d014c4e9f4c888f4da2b6518e88fd5b7768728c38177b66d305
+  - kolox_AR third-party: 038010e24e6d53f26871d31287f446f407fa87596d946bcd1f7b7b8458e34ad73f
+  - kolo_EU main: 03e1287d4c14ad73ce9ddd31361a7de8df4eeeefe9460a1ff9a6b2a1242ad3b7c2
+  - kolo_EU third-party: 03b21717e84c0a6cf22b557b198daba4f78980048211b9139b4517fa08f9f17359
 
 Contacts:
 
