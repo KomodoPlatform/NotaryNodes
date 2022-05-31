@@ -27,13 +27,22 @@ static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
 {
 // ...
     {
-        {"blackice_AR", "02909c79a198179c193fb85bbd4ba09b875a5a9bd481fec284658188b96ed43519"},
-        {"blackice_EU", "02668f5f723584f97f5e6f9196fc31018f36a6cf824c60328ad0c097a785df4745"},
-        {"blackice_DEV", "02ca882f153e715091a2dbc5409096f8c109d9fe6506ca7a918056dd37162b6f6e"},
+        {"blackice_AR", "02909c79a198179c193fb85bbd4ba09b875a5a9bd481fec284658188b96ed43519"}, // R9QfbhMxnSsFwM7DwW6fDh4GU9wUnQkwJk
+        {"blackice_EU", "02668f5f723584f97f5e6f9196fc31018f36a6cf824c60328ad0c097a785df4745"}, // RTm4RWXHAT5xUAKYFRzEwhXYhiMjerWZpX
+        {"blackice_DEV", "02ca882f153e715091a2dbc5409096f8c109d9fe6506ca7a918056dd37162b6f6e"}, // RW5wUWWiBmYaXJHNLvMUmvTw5hWcNCxK7a
     },
 // ...    
 }
 ```
+### Own proof: ###
+
+Message: `decker`
+
+Signatures: 
+
+- `HyEjoa0/Zb+KFB886U3Jpfm/V20WkaP1ydwSN24HQNt6VCVsKTwyVxKNF5q4Dac67KzItTD7wUfiDfevo7sKVe4=` (blackice_AR)
+- `H1RfR2bPy/2JKSuVAIhCix5JXepTeW4b7aMCmwfx8EfbXGVtDXmusy0PKye3z3dKWWuSUwboBkOsdfpxKbO5nAk=` (blackice_EU)
+- `H6fkNkoA4nB++mPvomYTBUZW0HVoed8tsLk4zBNSUQIcZ5Zkm91oQNbMKrI0XJKmRy2xW5v+ElA57FH01ASDmO8=` (blackice_DEV)
 
 ## Contact information ##
 
