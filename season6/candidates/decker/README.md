@@ -23,6 +23,7 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 ## Keys for Season 6 ##
 
 ```cpp
+// mainnet
 static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
 {
 // ...
@@ -33,8 +34,19 @@ static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
     },
 // ...    
 }
+// 3p
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"blackice_AR", "03949b06c2773b4573aeb0b52e70ccc2d98dc5794a47e24eeb902c9d28e0e8d28b"}, // R9dmdJ8aEmWdtZWa1Cen1oxrsFCfyQbNwq
+        {"blackice_EU", "025f8de3a6181270ceb5c31654e6a6e95d0339bc14b46b5e3050e8a69861c91baa"}, // RBUZrKRGjNgj4ecsNqmfY3Z2APBc5pQsHF
+        {"blackice_DEV", "03e2de3418c88be0cfe2fa0dcfdaea001b5a36ad86e6833ad284d79021ae7e2b94"}, // RFMXrHTWS5HDqAyVCKKX6cC9tmqASc9j5k
+    },
+// ...    
+
 ```
-### Own proof: ###
+### Own proof (mainnet): ###
 
 Message: `decker`
 
