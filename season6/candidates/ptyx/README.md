@@ -61,13 +61,11 @@ On the May 25th 2022 you will receive an airdrop of VOTE tokens. If you have 1 K
  
  
  ## ChainZilla's Public Key ##
-Main Address: RVUbBALnhgeCShvEtHQ3FznNNrmwNxu4Ha
+ChainZilla1 main server: RD3XPkBLH5AsSUpALGcKFvXGJ3tCRbUe4L - pubkey: 0395640e81359526ecbc140716ddd5c9a1ce2a697fb547ca896e17cad3c65e78db
+Chainzilla1 3p server: RUwXhVFqHgQqqreaEDc31bwxgPTZEH2BdZ - pubkey: 025d72ef0f1c5103de306d536360bcf3c5b6129c2046334b21cec8202e9bfc4baf
 
-Main pubkey: 02cbda9c43a794f2134a11815fe86dca017990269accb139e962d764c011c9a4d7
-
-Third address: RGrkxBxG8p9f5ds625sUtjQiwo6KQ5PWR2
-
-Third pubkey: 028267c92db3c48a99dfb8d88e9cdab60d8a1525913ab3978b1b629667b12b1ee2
+ChainZilla2 main server: RFg4SanfcFP9TPU8Qo1awJFvU4L1ow6pVR - pubkey: 0225ff37e49e443065018736fbcad175ab5993b51b99b846e8de0b8b9abbed2ef2
+ChainZilla2 3p server: REimXbev9Nyh1j6EiVWAUbryNhaDcPTpQw - pubkey: 02913b3af6f67453eaff2318f3eed0fa0ea60eb2b37c8da64c575fec972f178d9b
  
  ```-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.0.77
