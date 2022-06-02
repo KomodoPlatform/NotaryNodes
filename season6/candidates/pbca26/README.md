@@ -92,5 +92,64 @@ Github - https://github.com/pbca26
 - 2 x 960GB NVME
 - 2 Gbps port
 
+### S6 pubkeys
+<table>
+  <tr>
+    <th>Node</th>
+    <th>Pubkey</th>
+  </tr>
+  <tr>
+    <td>NA main</td>
+    <td>03d8b25536da157d931b159a72c0eeaedb1bf7bb3eb2d02647fa41b2422a2b064e</td>
+  </tr>
+  <tr>
+    <td>NA 3p</td>
+    <td>030b6515e80aaa489215875e2aa6f2a15fa36cb3342580e885275f8c636252cbc8</td>
+  </tr>
+  <tr>
+    <td>SH main</td>
+    <td>039a55787b742c3725323f0bd81c90a484fbdbf276a16317883bb03eedd9d6aa7c</td>
+  </tr>
+  <tr>
+    <td>SH 3p</td>
+    <td>02d17840724692a9d5e72d61d001c31eb5ddc4d2f0f104b760e6854bf144e63fb8</td>
+  </tr>
+</table>
+
+### Ownership proof
+
+<table>
+  <tr>
+    <th>Node</th>
+    <th>Address</th>
+    <th>Message</th>
+    <th>Signature</th>
+  </tr>
+  <tr>
+    <td>NA main</td>
+    <td>RRQC4QCqmkNZevhYNqPiwxNMkMzkpqnwo5</td>
+    <td>pbca26</td>
+    <td>IGiGc4zVpsnP2jqdotG5cPkr4PTtpY/G7Efr6UCmZpK+ItuUvony5TsjIfwN3pZPJcLZem3K2VTuiSp8NXVSvwg=</td>
+  </tr>
+  <tr>
+    <td>NA 3p</td>
+    <td>RSwDmn938yKatbvr9vVEGbietqzaBwxNKX</td>
+    <td>pbca26</td>
+    <td>IHEasI9lPNggL+i0eovXSiL+wHh4hXCl7d37mbW4u418HRFSbvc1afFaiM4uBP/TtWaZarGXrdU562lJaRj6gBM=</td>
+  </tr>
+  <tr>
+    <td>SH main</td>
+    <td>RQabokWPyG2yzGgmjWPSPhGMn8FSKZ17SY</td>
+    <td>pbca26</td>
+    <td>H27vLCXY4qEuIGO0NNculjARGQDVibGRW/NxmQVEys9lUb6beDPF9+O49umSCMBnjKoWjuA2oMVW9lsXK6/FAKo=</td>
+  </tr>
+  <tr>
+    <td>SH 3p</td>
+    <td>RWLsz8o3g8qkyQyR5Qv9R6dLEPFDD4Ko56</td>
+    <td>pbca26</td>
+    <td>H/r/+zHtxIfTSvfDXlLrIdYhiaaMm1g9U7zIl9GTbVQ8A3IxX+Oufv0QUWbVjU0ZSv8jjvJieb//fUxmFyb1DqI=</td>
+  </tr>
+</table>
+
 ### Disclosure
 I am a part of the Komodo team.
