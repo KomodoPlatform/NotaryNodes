@@ -35,7 +35,7 @@ static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
 ```
 ### Address Ownership proof (mainnet): ###
 
-Message: `SHossain`
+Message: `shossain`
 
 Signatures: 
 
