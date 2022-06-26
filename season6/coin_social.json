@@ -121,11 +121,11 @@
         "email":"info@gleec.com",
         "explorers": [],
         "github": "",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/company/gleec/",
         "mining_pools": [],
         "reddit": "",
         "telegram": "",
-        "twitter": "",
+        "twitter": "https://twitter.com/GleecOfficial",
         "website":"https://gleec.com/",
         "youtube": ""
     },
@@ -219,19 +219,6 @@
         "twitter": "https://twitter.com/marmarachain",
         "website": "https://marmara.io",
         "youtube": "https://www.youtube.com/c/MarmaraCreditLoops"
-    },
-    "MESH": {
-        "discord": "",
-        "email": "",
-        "explorers": [],
-        "github": "",
-        "linkedin": "",
-        "mining_pools": [],
-        "reddit": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
     },
     "MGW": {
         "discord": "",
@@ -389,19 +376,6 @@
         "website":"https://hempcoin.org",
         "youtube": ""
     },
-    "VOTE2022": {
-        "discord": "",
-        "email": "",
-        "explorers": [],
-        "github": "",
-        "linkedin": "",
-        "mining_pools": [],
-        "reddit": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
-    },
     "VRSC": {
         "discord":"https://discord.gg/VRKMP2S",
         "email": "",
@@ -424,18 +398,5 @@
         "twitter":"https://twitter.com/veruscoin",
         "website":"https://verus.io/",
         "youtube":"https://www.youtube.com/channel/UC_-KCHBxaDwSgNMdE3LMThg"
-    },
-    "ZILLA": {
-        "discord": "",
-        "email": "",
-        "explorers": [],
-        "github": "",
-        "linkedin": "",
-        "mining_pools": [],
-        "reddit": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
     }
 }
