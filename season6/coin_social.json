@@ -375,6 +375,22 @@
         "twitter":"https://twitter.com/thehempcoin",
         "website":"https://hempcoin.org",
         "youtube": ""
+    },,
+    "TKL": {
+        "discord":"https://discord.gg/tokel",
+        "email":"",
+        "explorers": ["https://tokel.explorer.dexstats.info/"],
+        "github":"https://github.com/TokelPlatform/",
+        "linkedin":"",
+        "mining_pools": [],
+        "reddit":"https://www.reddit.com/r/tokel/",
+        "telegram":"https://t.me/TokelPlatformchat",
+        "twitter":"https://twitter.com/TokelPlatform",
+        "facebook": "https://www.facebook.com/TokelPlatform/",
+        "instagram": "https://www.instagram.com/TokelPlatform/",
+        "medium": "https://medium.com/@tokel-platform",
+        "website":"https://tokel.io/",
+        "youtube": "https://www.youtube.com/channel/UCW9C_EuW54yOFArqJjRMJmQ"
     },
     "VRSC": {
         "discord":"https://discord.gg/VRKMP2S",
