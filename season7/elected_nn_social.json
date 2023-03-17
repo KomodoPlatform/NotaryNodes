@@ -1,0 +1,48 @@
+{
+    "example": {
+        "discord": "",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "regions": {
+            "EU": {
+                "Main": {
+                    "KMD_address": "",
+                    "LTC_address": "",
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "KMD_address": "",
+                    "pubkey": ""
+                }
+            },
+            "NA": {
+                "Main": {
+                    "KMD_address": "",
+                    "LTC_address": "",
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "KMD_address": "",
+                    "pubkey": ""
+                }
+            },
+            "SH": {
+                "Main": {
+                    "KMD_address": "",
+                    "LTC_address": "",
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "KMD_address": "",
+                    "pubkey": ""
+                }
+            }
+        },
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
+    }
+}
