@@ -20,3 +20,9 @@ Optional, but recommended:
 - Details of any funding allocations to projects your node will support if elected.
 
 Proposals missing the required info will not be merged until it is added, and may be rejected if not fixed prior to the deadline.
+
+
+
+| # | EU                             | NA                                       | SH                               | AR                               |
+| - | ------------------------------ | ---------------------------------------- | -------------------------------- | -------------------------------- |
+| 1 | [decker](decker/README.md) | [decker](decker/README.md) |  | [decker](decker/README.md) |
