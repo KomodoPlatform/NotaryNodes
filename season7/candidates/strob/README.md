@@ -16,12 +16,13 @@
 :2nd_place_medal: #2 best Notary Node Operator Score in South America for S5.
 </p>
 <p align="center">
-***PENDING :3rd_place_medal: #3 best Notary Node Operator Score in South America for S5. PENDING***
+***PENDING :3rd_place_medal: #3 best Notary Node Operator Score in South America for S6. PENDING***
 </p>
 
-![StrobFX banner](https://strob.net/WP/wp-content/uploads/2022/07/Strob_banner_001-scaled.jpg)
+![StrobFX banner](https://strob.net/WP/wp-content/uploads/2022/07/Strob_signature_002.jpg)
 
 <br>
+
 
 ## STROB VOTE2023 ADDRESSES
 
@@ -47,21 +48,27 @@
 
 <br>
 
+
 ## STROB ACHIEVEMENTS
 
 I am a professional CG artist doing `3D animations` and `visual effects` since more than `25 years`. I am also passionate about crypto since 2014 and Komodo holder since 2018.
 
 At my first year as NN in 2019 I was able to rank #1 on the NA score board.
 
-For my second year, I was #1 and #2 in NA.
+For my second year in 2020, I was #1 and #2 in NA.
 
-For my third year, I was #1 and #2 in SH.
+For my third year in 2021, I was #1 and #2 in SH.
+
+At my fouth year in 2022, I will higly probably finish #3 in SH (results still pending).
 
 I reached those scores by using the best hardware, solid maintenance schedule, monitoring 24/24, 7/7, 365/365, updating fast and having a plan B in case of problem: having quick turnaround solutions ready like redundant internet connections and DC accounts everywhere. I'm also always on Discord.
 
 If having `dedicated`, `reliable`, `serious`, `honest` and `respectful` NN operators is a :heavy_plus_sign: for you, vote for me, you won't be disappointed.
 
-In my previous seasons as a NN I donated time or KMD worth many thousands of $ to projects such as CHIPS and Pirate Chain ARRR and I will continue to so for projects I deem important in the Komodo ecosystem.
+In my previous seasons as a NN I donated time or KMD worth many thousands of $ to projects such as CHIPS and Pirate Chain ARRR and I will continue to support projects I deem important in the Komodo ecosystem.
+
+
+### 3D ANIMATIONS
 
 I created some 3D animations and assets for the Komodo ecosystem:
 I did this animated logo for the Pirate ARRR that you can see on their Discord Channel. I also did some animated logos for ARRR Twitch and Pirate OS. I also helped translate the Pirate.black website.
@@ -76,6 +83,9 @@ I also created this `3 minutes` video for pirate ARRR, including idea, directing
 
 [![Pirate ARRR privacy video](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
+
+### 3D PRINTABLE COINS
+
 I created these coin 3D models for Komodo and Pirate Chain ARRR. The goal was to give some more visibility to Komodo and ecosystem on all the most important stock medias websites (Turbosquid, Sketchfab, Shutterstock, Pixabay and even the NFT marketplace OpenSea). I made these FREE for every media and anyone to use and it's also ready for 3D printing by anyone who wishes to.
 
 [![3D Komodo Coin](https://www.strob.net/kmdNN2021/KomodoCoin_A.jpg)](https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77)
@@ -86,7 +96,17 @@ I created these coin 3D models for Komodo and Pirate Chain ARRR. The goal was to
  
 `See it interactively here:`: <a href="https://sketchfab.com/3d-models/pirate-chain-coin-arrr-68c3ce58eb4649fbae9a52ac803fb884">ARRR 3D coin on Sketchfab.</a>
 
+
+### NFT
+
+I also created this NFT collection on TOKEL to promote Komodo. Eye of the Komodo is a collection of 64 unique NFTs on Tokel blockchain. Each Komodo dragon eye represents one of the 64 servers securing over 30 production blockchains via delayed Proof of Work (dPoW), representing several hundred million dollars in value. See https://strob.net/ for more info.
+
 <br>
+
+[![Tokel NFT](https://strob.net/WP/wp-content/uploads/2022/06/komodoTokelNFT.jpg)](https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1)
+
+`See the collection on the beautiful TOKEL NFT gallery:`: <a href="https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1">NFT gallery on exploretokel.com.</a>
+
 
 ## STROB PROPOSAL
 In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 6.
