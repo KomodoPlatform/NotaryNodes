@@ -115,7 +115,7 @@ Other Komodo themed NFTs I created:
 
 
 ## STROB PROPOSAL
-In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 6.
+In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 7.
 
 I would also like to continue promoting the `Komodo ecosystem` by using my skills to create art such as what you see above.
 
