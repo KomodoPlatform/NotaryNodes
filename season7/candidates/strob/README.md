@@ -107,6 +107,12 @@ I also created this NFT collection on TOKEL to promote Komodo. Eye of the Komodo
 
 `See the collection on the beautiful TOKEL NFT gallery:`: <a href="https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1">NFT gallery on exploretokel.com.</a>
 
+Other Komodo themed NFT:
+
+[![Komodo themed NFT](https://bafybeidi5oxhljz3z3q7pp6nzrxpxkz745kvmi6wntn5juulmaoov5v2vi.ipfs.dweb.link/Komodo_S6_NFT_001.png)](https://exploretokel.com/tokens/2bd1b44f37091b8ab5b6ffd34d0f8d5b2e85a5a54a9fec8675a97a40af8add40)
+
+[![Komodo themed NFT](https://bafybeig3irxayu46lc2lc5wjtuxifowzphi7hinkgygck5fy3wrsiwqqpq.ipfs.dweb.link/)](https://exploretokel.com/tokens/f6c4d056dfc4470083d72a0af191106700b1cb9a9632d82252e6e074f48f42b6)
+
 
 ## STROB PROPOSAL
 In past seasons I was always at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 6.
