@@ -107,7 +107,7 @@ I also created this NFT collection on TOKEL to promote Komodo. Eye of the Komodo
 
 `See the collection on the beautiful TOKEL NFT gallery:`: <a href="https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1">NFT gallery on exploretokel.com.</a>
 
-Other Komodo themed NFT:
+Other Komodo themed NFTs I created:
 
 [![Komodo themed NFT](https://bafybeidi5oxhljz3z3q7pp6nzrxpxkz745kvmi6wntn5juulmaoov5v2vi.ipfs.dweb.link/Komodo_S6_NFT_001.png)](https://exploretokel.com/tokens/2bd1b44f37091b8ab5b6ffd34d0f8d5b2e85a5a54a9fec8675a97a40af8add40)
 
