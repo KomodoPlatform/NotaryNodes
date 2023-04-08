@@ -29,7 +29,7 @@
 | Address+QR code  | Region |
 | ------------- | ------------- |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
-| Southern Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  |
+| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  | Southern Hemisphere (SH)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2023 tokens</a> before first notarized block (inclusive) after April 30, 2023, 23:59:59 UTC to the above KMD addresses.:point_up:
@@ -153,7 +153,7 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 | Address+QR code  | Region |
 | ------------- | ------------- |
 | ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
-| Southern Hemisphere (SH)  | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  |
+| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  | Southern Hemisphere (SH)  |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2023 tokens</a> before first notarized block (inclusive) after April 30, 2023, 23:59:59 UTC to the above KMD addresses.:point_up:
