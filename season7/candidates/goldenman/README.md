@@ -1,4 +1,4 @@
-# Gdoldenman - Notary Node proposal (Season 7)
+# Goldenman - Notary Node proposal (Season 7)
 
 ## Candidate info
 * Region : ```AR```
