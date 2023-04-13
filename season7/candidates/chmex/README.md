@@ -167,4 +167,4 @@ chmex_NA: 030c2528c29d5328243c910277e3d74aa77c9b4e145308007d2b11550731591dbe<br>
 chmex_NA3P: 024e88a36d729352a391e07d1821dbfda1fca6409320cf9c2869b6fb99f05fbddd
 
 
-'*' Veteran bBnus: Notary Node veterans who have served in at least two prior seasons are eligible to apply for an additional node (veteran benefit).
+'*' Veteran Bonus: Notary Node veterans who have served in at least two prior seasons are eligible to apply for an additional node (veteran benefit).
