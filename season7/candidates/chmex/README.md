@@ -25,8 +25,6 @@ Vote for me if you want to see the ecosystem thrive. So far 100% of the funds st
 
 ## About me 
 I'm CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Bootstraps`, `Richlist & Lookup`, `Address Converter` and `PIRATE Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
-I would like to get elected for Notary Node Election 2022 to operate 1 Node in the `AR Region`, 1 Node in the `EU Region`, 1 Node in the `SH Region`. 
-Funds are mainly used to pay existing Servers and new ones if it's needed for a projects or a task.
 
 ## Why Vote for CHMEX - <a href="https://www.dexstats.info" target="_new">www.dexstats.info</a>
 
@@ -169,4 +167,4 @@ chmex_NA: 030c2528c29d5328243c910277e3d74aa77c9b4e145308007d2b11550731591dbe<br>
 chmex_NA3P: 024e88a36d729352a391e07d1821dbfda1fca6409320cf9c2869b6fb99f05fbddd
 
 
-* Veteran bBnus: Notary Node veterans who have served in at least two prior seasons are eligible to apply for an additional node (veteran benefit).
+'*' Veteran bBnus: Notary Node veterans who have served in at least two prior seasons are eligible to apply for an additional node (veteran benefit).
