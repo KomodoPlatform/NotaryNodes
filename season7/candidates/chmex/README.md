@@ -93,6 +93,7 @@ The yearly cost for those servers including Notary Node are about 16'000 USD I c
 ```RMKfy7zjSvvKgC7tQReYrRSFfEFFGkZkFc``` 
 
 **Region: SH** *Veteran Bonus*
+```RYJV8pCtv4wtsvwFhLm1tn7hW3KDv9gcjR``` 
 
 <img src="https://raw.githubusercontent.com/CHMEX/NotaryNodes/master/season6/candidates/chmex/qrcodes.png">
 
