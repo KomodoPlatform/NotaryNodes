@@ -9,8 +9,8 @@ I'm the former CTO of Magnum Wallet. Worked on supporting hardware wallets (Ledg
 ## Support me
 
 | NA region | AR region | EU region |
-| smdmitry_NA | smdmitry2_AR | smdmitry2_EU |
 | ------ | ------ | ------ |
+| smdmitry_NA | smdmitry2_AR | smdmitry2_EU |
 | <img src="./RSMDNAqCKFZKyVAbr1Bm3qh3mcB13E6rzU.png" width="300"/> | <img src="./RSMDSHtX6f26fsi9dPY4WdCoF9zJygYLoE.png" width="300"/> | <img src="./RSMDNNEUvCRii6ebwJJRt2D1zucW4Sf5M9.png" width="300"/> |
 | ```RSMDNAqCKFZKyVAbr1Bm3qh3mcB13E6rzU``` | ```RSMDSHtX6f26fsi9dPY4WdCoF9zJygYLoE``` | ```RSMDNNEUvCRii6ebwJJRt2D1zucW4Sf5M9```
 
