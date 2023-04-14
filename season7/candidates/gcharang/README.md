@@ -11,8 +11,8 @@
 <table>
 <tr ><td align="center"><strong>SH</strong></td><td align="center"><strong>AR</strong></tr>
 <tr>
-    <td align="center"><img src="../../qr_codes/RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB.png" width="50%" height="50%"></td>
-    <td align="center"><img src="../../qr_codes/RUbzhiGcGNeY2Nffi3NfH4pfjcjmhRcAiv.png" width="50%" height="50%"></td>
+    <td align="center"><img src="../../qr_codes/gcharang_SH.png" width="50%" height="50%"></td>
+    <td align="center"><img src="../../qr_codes/gcharang_AR.png" width="50%" height="50%"></td>
 </tr>
 </table>
 </p>
