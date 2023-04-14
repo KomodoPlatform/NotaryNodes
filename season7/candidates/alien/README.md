@@ -46,7 +46,7 @@ alien server - a server with latest and greatest tech exceeding the minimum requ
 Same as season 6. The keys will be added on this page after election.
 
 ### Thank you very much for voting for me and trusting me with securing the Komodo Notary Node network reliably.
-
+---
 # Contact details
 Discord handle: @SHossain#0007  
 Keybase: https://keybase.io/shossain  
