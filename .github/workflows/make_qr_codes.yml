@@ -6,13 +6,31 @@ on:
       - master
 
 jobs:
-  check_readme:
+  gen_qr_codes:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+
       - name: Generate QR Codes
         run: |
           pip3 install pypng==0.20220715.0
           pip3 install PyQRCode==1.2.1
           utils/generate_qr_codes.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: update coins json file
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          branch: update-qr-codes
+          delete-branch: true
+          title: '[BOT] Update QR codes'
+          body: |
+            - Auto-generated qr codes on merge to master
+          labels: |
+            qr-update
+          reviewers: smk762
+          draft: false
