@@ -12,4 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate QR Codes
-        run: utils/generate_qr_codes.py
+        run: |
+          pip3 install pypng==0.20220715.0
+          pip3 install PyQRCode==1.2.1
+          utils/generate_qr_codes.py
