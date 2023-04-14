@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  gen_qr_codes:
+  generate_qr_codes:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
