@@ -1,0 +1,15 @@
+name: Update QR codes
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  check_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Generate QR Codes
+        run: utils/generate_qr_codes.py
