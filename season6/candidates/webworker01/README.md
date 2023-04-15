@@ -2,7 +2,29 @@
 
 ## Season 6
 
-Vote: `RW6cfSA4vE29ag7Z1xGqchXraXvAPDgD7f`
+NA Main Server:
+
+Address: `RMiPhr6mSkHG4nVY7QAUMLAsyKtAi4V6De`
+
+Pubkey: `0287883ddd8da366401893ebcc1ff7e52d2ad3736984120a0ab01603e02c21dc98`
+
+NA 3P Server:
+
+Address: `RFTuK4kRuK1PSPFaquvnSAtoY8Q8F2DLAy`
+
+Pubkey: `03bde0df98de0ff9697b7d5ecea225fd7267f55c061caa2c43a47b313e35c9b6c6`
+
+EU Main Server:
+
+Address: `RPNAXCs2FCq2Fnrt1RNPoAAbTTscjB7Hg5`
+
+Pubkey: `0321d523645caffd8e762764ba56f7874a61b9bf534837a2cb6e7da219fab15eef`
+
+EU 3P Server:
+
+Address: `RAhpBPKsXy1qoFqnV1t4BvqvEcXLtozzMF`
+
+Pubkey: `0390ba250f20b5849b9d37ad2bcb58d3d9a3a0385937e652c26511ba9f445f5db1`
 
 ## About
 

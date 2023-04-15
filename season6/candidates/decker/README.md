@@ -12,13 +12,49 @@ In the [Sixth Annual Notary Node Election](https://komodoplatform.com/en/blog/si
 
 ## Vote information ##
 
-| VOTE2021 Addresses                 | Pubkey                                                             | Region |
+| VOTE2022 Addresses                 | Pubkey                                                             | Region |
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
 | `RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7` | `035b0502c05d5c6d9ae82e18e278f9e0c7db5eaaa9d2499532d04d51f10d705929` | **AR**     |
 
 <p align="center">
 <img src="./RHeRFNk2jih5oFedJpgFXx8wPANv5iiFg7.svg" width="30%" height="30%">
 </p>
+
+## Keys for Season 6 ##
+
+```cpp
+// mainnet
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"blackice_AR", "02909c79a198179c193fb85bbd4ba09b875a5a9bd481fec284658188b96ed43519"}, // R9QfbhMxnSsFwM7DwW6fDh4GU9wUnQkwJk
+        {"blackice_EU", "02668f5f723584f97f5e6f9196fc31018f36a6cf824c60328ad0c097a785df4745"}, // RTm4RWXHAT5xUAKYFRzEwhXYhiMjerWZpX
+        {"blackice_DEV", "02ca882f153e715091a2dbc5409096f8c109d9fe6506ca7a918056dd37162b6f6e"}, // RW5wUWWiBmYaXJHNLvMUmvTw5hWcNCxK7a
+    },
+// ...    
+}
+// 3p
+static const char *notaries_elected[NUM_KMD_SEASONS][NUM_KMD_NOTARIES][2] =
+{
+// ...
+    {
+        {"blackice_AR", "03949b06c2773b4573aeb0b52e70ccc2d98dc5794a47e24eeb902c9d28e0e8d28b"}, // R9dmdJ8aEmWdtZWa1Cen1oxrsFCfyQbNwq
+        {"blackice_EU", "025f8de3a6181270ceb5c31654e6a6e95d0339bc14b46b5e3050e8a69861c91baa"}, // RBUZrKRGjNgj4ecsNqmfY3Z2APBc5pQsHF
+        {"blackice_DEV", "03e2de3418c88be0cfe2fa0dcfdaea001b5a36ad86e6833ad284d79021ae7e2b94"}, // RFMXrHTWS5HDqAyVCKKX6cC9tmqASc9j5k
+    },
+// ...    
+
+```
+### Own proof (mainnet): ###
+
+Message: `decker`
+
+Signatures: 
+
+- `HyEjoa0/Zb+KFB886U3Jpfm/V20WkaP1ydwSN24HQNt6VCVsKTwyVxKNF5q4Dac67KzItTD7wUfiDfevo7sKVe4=` (blackice_AR)
+- `H1RfR2bPy/2JKSuVAIhCix5JXepTeW4b7aMCmwfx8EfbXGVtDXmusy0PKye3z3dKWWuSUwboBkOsdfpxKbO5nAk=` (blackice_EU)
+- `H6fkNkoA4nB++mPvomYTBUZW0HVoed8tsLk4zBNSUQIcZ5Zkm91oQNbMKrI0XJKmRy2xW5v+ElA57FH01ASDmO8=` (blackice_DEV)
 
 ## Contact information ##
 

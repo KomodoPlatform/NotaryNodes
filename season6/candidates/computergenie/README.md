@@ -6,6 +6,9 @@
 ```diff
 +             Region: NA             +
 - RVoteCGxquRNeHWGiHC6vxzpXBodKt3P88 -
+
++             Region: EU             +
+- RVoteCGxK9YbFkMyFGG8gJUi2cusX7Cjpd -
 ```
 
 ## Who ComputerGenie Is
@@ -39,7 +42,7 @@ I freely and openly welcome any resonable questions about my performance as a Se
 
 [My PGP signature](./mygpg.key)
 
-## Notary Addresses
+## NA Notary Addresses
 ```diff
 Main:
 +                                KMD:                                +
@@ -53,8 +56,22 @@ Main:
 -                 RCGxNA2xV6jaq4h7mbzZswKUtpeKmchvhw                 -
 +                              PubKey:                               +
 - 02f945d87b7cd6e9f2173a110399d36b369edb1f10bdf5a4ba6fd4923e2986e137 -
-```
-
+```  
+## EU Notary Addresses
+```diff
+Main:
++                                KMD:                                +
+-                 RCGxEU1xmrKcHyxoKpKqCDBS4EH537gVis                 -
++                                LTC:                                +
+-                 LNDiRASWFgm6UnHm2nL1NhuzWBBkaRHoFE                 -
++                              PubKey:                               +
+- 03a8c071036228e0900e0171f616ce1a58f0a761193551d68c4c20e70534f2e183 -
+3P:
++                                KMD:                                +
+-                 RCGxEU2xTVT2rahvvcNbAHfotngVweZcan                 -
++                              PubKey:                               +
+- 033a2474a762700b452b96a49730280040a9872070bc51461e3727f6f118ff5358 -
+```  
 ## Disclaimer
 While I am **not** an *official* "member" of any "team", I have deep ties to many other NN ops through friendships and projects of mutual interest (of which they may or may not be "team members").
 
