@@ -21,7 +21,7 @@ jobs:
           add-paths: |
             *.png
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: update coins json file
+          commit-message: Update candidate QR codes
           committer: GitHub <noreply@github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           branch: update-qr-codes
