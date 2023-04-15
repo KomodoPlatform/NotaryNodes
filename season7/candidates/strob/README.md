@@ -16,7 +16,7 @@
 :2nd_place_medal: #2 best Notary Node Operator Score in South America for S5.
 </p>
 <p align="center">
-***PENDING :3rd_place_medal: #3 best Notary Node Operator Score in South America for S6. PENDING***
+:3rd_place_medal: #3 best Notary Node Operator Score in South America for S6.
 </p>
 
 ![StrobFX banner](https://strob.net/WP/wp-content/uploads/2022/07/Strob_signature_002.jpg)
