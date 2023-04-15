@@ -14,9 +14,9 @@ def parse_candidates(season):
             if line.startswith("|") and line.find("--") == -1:
 
                 if len(headers) == 0:
-                    headers = [i.strip() for i in line.split("|")][3:]
+                    headers = [i.strip() for i in line.split("|")][2:]
                 else:
-                    line_data = [i.strip() for i in line.split("|")][3:]
+                    line_data = [i.strip() for i in line.split("|")][2:]
                     for i in range(len(line_data)):
                         if line_data[i].find("]") > -1:
                             info = line_data[i].split("]")[1].replace("(", "").replace(")", "")
