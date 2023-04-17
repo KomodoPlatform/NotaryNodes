@@ -15,11 +15,13 @@ jobs:
           pip3 install pypng==0.20220715.0
           pip3 install PyQRCode==1.2.1
           utils/generate_qr_codes.py
+          utils/generate_candidates_json.py
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           add-paths: |
             *.png
+            *.json
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: Update candidate QR codes
           committer: GitHub <noreply@github.com>
