@@ -12,6 +12,10 @@ My motivation for participation in the komodo notarisation project is also a des
 
 In the last season I was a Notary and was able to satisfy the notarisation process requirements, plus managed to discover and fix several issues in the blockchain code. I'd like to continue to use my experience for improving this technology.
 
+Hardware: I have two dedicated servers, Ubuntu 20.04 in the AR region, for the main and 3P nodes:
+Intel Xeon E3-1270 4 × 3.6ГГц, 64 ГБ DDR4, 2 × 960 ГБ SSD SATA
+Intel Core i7-6700 4 × 3.4ГГц, 32 ГБ DDR4, 2 × 480 ГБ SSD SATA
+
 My region is AR, voting address: RSmGPk9KjoK8rGeAGKPkBxA8XSBQ3RinJ7
 
 Contact: dimxy@komodoplatform.com
