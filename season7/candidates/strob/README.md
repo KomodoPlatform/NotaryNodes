@@ -28,7 +28,7 @@
 
 | Address+QR code  | Region |
 | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```<img src="https://www.strob.net/kmdNN2021/StrobNA_QR.png" width=40% height=40% alt=QR code> | North America (NA)  |
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  | Southern Hemisphere (SH)  |
 
 <p align="center">
