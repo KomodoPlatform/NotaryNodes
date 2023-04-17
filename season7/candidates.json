@@ -47,6 +47,24 @@
             "candidate": "cipi",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/cipi_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/cipi/README.md"
+        },
+        {
+            "address": "RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx",
+            "candidate": "kolo",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/kolo_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/kolo/README.md"
+        },
+        {
+            "address": "RPFUCG4nE5EfR41P4rcYmMbKgxmu9Ex8kX",
+            "candidate": "kolox",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/kolox_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/kolo/README.md"
+        },
+        {
+            "address": "RLpHDdR1Ez3YyLY1QVbsKxuPNn8eeLR47z",
+            "candidate": "tonyl",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/tonyl_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/tonyl/README.md"
         }
     ],
     "EU": [
