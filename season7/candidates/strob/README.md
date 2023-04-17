@@ -26,10 +26,11 @@
 
 ## STROB VOTE2023 ADDRESSES
 
-| Address+QR code  | Region |
-| ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
-| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  | Southern Hemisphere (SH)  |
+| Address+QR code  | Region | Handle |
+| ------------- | ------------- | ------------- |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```<img src="https://www.strob.net/kmdNN2021/StrobNA_QR.png" width=40% height=40% alt=QR code> | North America (NA)  | strob_NA |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```<img src="https://www.strob.net/kmdNN2021/StrobAR_QR.png" width=40% height=40% alt=QR code> | North America (NA)  | strob2_NA |
+| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```<img src="https://www.strob.net/kmdNN2021/StrobSH_QR.png" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob2_SH |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2023 tokens</a> before first notarized block (inclusive) after April 30, 2023, 23:59:59 UTC to the above KMD addresses.:point_up:
@@ -150,10 +151,11 @@ PGP key: https://keybase.io/strobfx/pgp_keys.asc
 
 ## STROB VOTE2023 ADDRESSES
 
-| Address+QR code  | Region |
-| ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```![QR code](https://www.strob.net/kmdNN2021/StrobNA_QR.png)  | North America (NA)  |
-| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```![QR code](https://www.strob.net/kmdNN2021/StrobSH_QR.png)  | Southern Hemisphere (SH)  |
+| Address+QR code  | Region | Handle |
+| ------------- | ------------- | ------------- |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na```<img src="https://www.strob.net/kmdNN2021/StrobNA_QR.png" width=40% height=40% alt=QR code> | North America (NA)  | strob_NA |
+| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB```<img src="https://www.strob.net/kmdNN2021/StrobAR_QR.png" width=40% height=40% alt=QR code> | North America (NA)  | strob2_NA |
+| ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f```<img src="https://www.strob.net/kmdNN2021/StrobSH_QR.png" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob2_SH |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2023 tokens</a> before first notarized block (inclusive) after April 30, 2023, 23:59:59 UTC to the above KMD addresses.:point_up:
@@ -173,8 +175,14 @@ strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a
 
 <br>
 
-strobnidan_SH main: `02b967fde3686d45056343e488997d4c53f25cd7ad38548cd12b136010a09295ae`
+strob2_NA main: `02b92e1bc1e8b64aa63f6e065e27c027c2c8babddb2dac61f59279b7eb51daecde`
 <br>
-strobnidan_SH 3rd: `0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6`
+strob2_NA 3rd: `0376256309bbcc4699ec75089136f8343e926f410888be798043990d107580fe40`
+
+<br>
+
+strob2_SH main: `02b967fde3686d45056343e488997d4c53f25cd7ad38548cd12b136010a09295ae`
+<br>
+strob2_SH 3rd: `0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6`
 
 <br>
