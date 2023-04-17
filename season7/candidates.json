@@ -65,6 +65,12 @@
             "candidate": "tonyl",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/tonyl_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/tonyl/README.md"
+        },
+        {
+            "address": "RSmGPk9KjoK8rGeAGKPkBxA8XSBQ3RinJ7",
+            "candidate": "dimxy",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dimxy_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dimxy/README.md"
         }
     ],
     "EU": [
