@@ -39,6 +39,8 @@ def parse_candidates(season):
                                     base_notary = base_notary[:-1]
                                 if base_notary == "alienx":
                                     base_notary = base_notary[:-1]
+                                if base_notary == "kolox":
+                                    base_notary = base_notary[:-1]
 
                                 data[region].append({
                                     "address": address,
