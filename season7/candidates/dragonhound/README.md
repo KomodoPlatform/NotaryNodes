@@ -23,6 +23,7 @@ I've been a Notary Node Operator for the last 4 seasons, and for the last 3 seas
 - Contributing code to the AtomicDEX desktop wallet, support via Discord, and guides via [youtube](https://www.youtube.com/channel/UCxZha6M0r90kFIGkFvKRvcw) & [https://developers.komodoplatform.com/](https://developers.komodoplatform.com/)
 - Ongoing implementation of improved metrics and auditing of Notary Node related operations.
 - Creating miscellaneous scripts, tools, bots and APIs to assist with Notary Node management/monitoring.
+- Added Discord Faucet Bot to the KomodoPlatform Discord server, to assist with testing of AtomicDEX.
 
 
 ### Vote addresses
