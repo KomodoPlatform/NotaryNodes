@@ -198,9 +198,9 @@
         },
         {
             "address": "RSKESo2oSPgaHwqn6Jt5fEEktRGFbWANKQ",
-            "candidate": "pbca_26",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/pbca_26_NA.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/pbca_26/README.md"
+            "candidate": "pbca26",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/pbca26_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/pbca26/README.md"
         },
         {
             "address": "RNjeQcneBWgkPFk1stynJWN9gnNLpgBzud",
@@ -281,6 +281,12 @@
             "candidate": "shin-ra77",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/shin-ra77_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/shin-ra77/README.md"
+        },
+        {
+            "address": "RR7CECKj4aT7BC7Exq6a5AteVoPRyHEFyx",
+            "candidate": "sheeba",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/sheeba_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/sheeba/README.md"
         }
     ]
 }
