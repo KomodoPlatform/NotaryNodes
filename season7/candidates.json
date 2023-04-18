@@ -145,6 +145,12 @@
             "candidate": "mx222",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/mx222_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/mx222/README.md"
+        },
+        {
+            "address": "RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD",
+            "candidate": "marmara",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/marmara_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/marmara/README.md"
         }
     ],
     "NA": [
@@ -225,6 +231,12 @@
             "candidate": "cipi",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/cipi_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/cipi/README.md"
+        },
+        {
+            "address": "RSP8FSK2fcgmRjEhjRJg7nJ9uaxNwsmWBx",
+            "candidate": "ozkanonur",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/ozkanonur_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/ozkanonur/README.md"
         }
     ],
     "SH": [
