@@ -46,7 +46,7 @@ Marmara Chain team is currently operating one Notary Node in the EU region by th
 </p>
 
 # KOMODO NOTARY NODE PROPOSAL
-We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage Notary position again in **EU Region**.
+We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage two Notary position in **EU Region** and and **AR Region**.
 
 * As Marmara Team, we responded quickly to the update announcements in notarization system. We always kept our server up and running with the daily updates. 
 * As Marmara Community, we have been trying to create awareness of Komodo Technologies at university and community level. It goes back to Barterdex days where we were conducting Atomic Swap tests at Marmara University. 
