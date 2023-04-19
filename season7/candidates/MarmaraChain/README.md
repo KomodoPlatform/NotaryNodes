@@ -1,62 +1,49 @@
-#  MARMARA CHAIN NOTARY NODE CANDIDACY FOR 2023
+## Introduction
+
+As the Marmara Chain team, we are proud of our contributions to the Komodo ecosystem thus far and are excited to embark on a new chapter in our journey. In this proposal, we will outline our unique position, bridging two continents - Europe and Asia - and our commitment to strengthening the Komodo ecosystem.
+
+## Marmara Chain Notary Node Proposal 2023: Bridging Two Continents - Europe and Asia
+
+Dear Komodo community,
+
+This is Prof. Dr. B. Gültekin Çetiner, the founder of Marmara Chain, and I am writing to present our Notary Node proposal for the 2023 elections. **We are applying as a candidate for both the European Union (EU) and Asia Region (AR) notary nodes,** reflecting our unique position at the crossroads of two continents.
+
+Our team has successfully served as a notary node in the EU region for the past two years, and we are eager to expand our contributions to the Komodo ecosystem by also becoming a candidate in the AR region. The Marmara region in Turkey is a unique location, connecting Asia and Europe with three physical bridges and the undersea Marmaray tunnel in Istanbul. We believe that our presence in both EU and AR regions will create a positive impact on the Komodo ecosystem and enhance the dPoW system by contributing from two different geographical locations that are very important for each other.
+
+By participating in both EU and AR notary nodes, we aim to create awareness about the Komodo notarization system in Turkey, where Marmara Chain was initiated. Our **Marmara Incubation System**, empowering innovation and growth within the community, and raising awareness about the Komodo ecosystem in Turkey, will be instrumental in achieving this goal.
+
+As a team, we are dedicated to strengthening the Komodo ecosystem and fostering collaboration between diverse regions. We believe that our **unique position, bridging Europe and Asia,** will help us achieve these goals, and we are excited about the opportunities that lie ahead.
+
+Thank you for considering our proposal, and we look forward to continuing our journey with the Komodo community.
+
+Sincerely,
+
+Prof. Dr. B. Gültekin Çetiner
+
+Founder of Marmara Chain
+
+----------------------
 **Marmara Chain** is the smart chain made with *Komodo Technologies* migrating to blockchain a system that people have used for centuries. Marmara Credit Loops, MCL is the first DeFi that works for the real world items. 
 
 Marmara Chain team is currently operating one Notary Node in the EU region by the team members `Aklix#4684` and `ryilmaz#4060` with the leadership of Marmara Chain founder Prof. Dr. `B. Gültekin Çetiner#0626`.
 
-As Marmara Community, we have been actively involved in Komodo ecosystem. Let us start with the short letter from the ***Marmara Chain founder*** Prof. Dr. `B. Gültekin Çetiner#0626`. 
 
->***Dear Komodo Ecosystem Participants,***
-
->We, at Marmara Chain, are excited to announce our candidacy as a Notary Node in the EU region for the upcoming year. In the past two years, we have been honored to serve as a Notary Node in the EU region, and we are committed to continuing our contributions to the Komodo ecosystem's growth.
->
->***Background:***
->
->Marmara Chain is a fork of the Komodo Platform, launched on January 17, 2020. Our unique smart contract system, Marmara Credit Loops (MCL), is inspired by post-dated checks and promissory notes, bringing real-life financial tools into the world of blockchain. They, together run nearly the half of the GDP in Turkey alone. Marmara Chain has been running with Phase One (version 1) for more than 3 years. Our ultimate aim is to be able to use the system as a universal peer to peer credit creation and circulation system that requires establishment of ***escrows, i.e. communities that ensure the solving non-redemption problem in p2p credits as electronic version of post-dated checks and promissory notes***. Therefore, Marmara Chain is a long term project. As a part of the Komodo ecosystem, we have a strong and dedicated community of exceeding 4,000 members, and our blockchain features a unique staking mechanism well-suited for Phase 1 projects, too. Before going into detail for that, I want mention the work of Marmara Team members as a notary candidate.  
->
->***Our Achievements as a Notary Node:***
->
->Over the past two years, we have actively contributed to the Komodo ecosystem's security and growth as a Notary Node. Some of our key achievements include:
->
->1.  Consistent notarization performance, ensuring the security of the Komodo ecosystem and Marmara Chain.
->2.  Active participation in the development and improvement of the dPoW mechanism.
->3.  Collaboration with other Notary Nodes and the Komodo team to resolve technical issues and enhance the overall network performance.
->4.  Transparent communication with the Komodo community regarding our node operations and updates.
->
->***Our Plans for the Future:***
->
->As a Notary Node candidate for the upcoming year, we have the following plans to further support the Komodo ecosystem:
->
->1. Establish an Incubation Centre to develop projects around Marmara Chain and the Komodo Ecosystem, focusing on fostering startups in the region of Turkey.
->2. Launch the Smart Mahalle project, an innovative framework that will lead to Phase 2 in Marmara Chain, providing escrow points and fostering collaboration within the Komodo ecosystem.
->3. Create a Project Evaluation Committee to assess project proposals and facilitate their integration into the Incubation Centre. We have now over 50 members in the committee with at least 10 professors and more than 10 academics. The other members include business people, representatives of NGOs and representatives from different regions.
->4. Work closely with other projects in the Komodo ecosystem to promote collaboration and integration of startups.
->5. Continue to ensure reliable and secure notarization services, enhancing the security of the Komodo Platform and Marmara Chain.
->6. Actively engage with the Komodo community, sharing our knowledge and experience in blockchain technology and the dPoW mechanism.
->7. Contribute to the development of new tools, features, and solutions for the Komodo ecosystem.
->
->***We humbly ask for your support in the upcoming Notary Node elections. As Marmara Chain, we are dedicated to serving the Komodo ecosystem and furthering its mission to provide secure, innovative, and accessible blockchain solutions.***
->
->Thank you for your consideration.
->
->Best regards,
->
->***Prof. Dr. B. Gültekin Çetiner***
->
->***Marmara Chain Founder***
->
->***18 April 2023***
-
-   
 ## Vote information ##
-
-<p align="center">
-<img src="./RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD.png" width="30%" height="30%">
-</p>
-
 
 | VOTE2023 Addresses                 | Pubkey                                                             | Region |
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
-| `RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD` | `0234e40800500370d43979586ee2cec2e777a0368d10c682e78bca30fd1630c18d` | **EU**     |
+| `RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD` | `0234e40800500370d43979586ee2cec2e777a0368d10c682e78bca30fd1630c18d` | **EU** |
+| `RPZYurYawfnRLdsLqHzf79KJuNicTJVVfV` | `0335ab9e59d602df5580b964b6451d02cd9cc243ddf01b065db84375488df9f53c` | **AR** |
+
+<p align="center">
+<table>
+<tr ><td align="center"><strong>EU</strong></td><td align="center"><strong>AR</strong></td></tr>
+<tr>
+    <td align="center"><img src="./RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD.png" width="50%" height="50%"></td>
+    <td align="center"><img src="./RPZYurYawfnRLdsLqHzf79KJuNicTJVVfV.png" width="50%" height="50%"></td>
+</tr>
+</table>
+</p>
 
 # KOMODO NOTARY NODE PROPOSAL
 We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage Notary position again in **EU Region**.
@@ -91,25 +78,8 @@ The story of Marmara Chain goes back to 2010 when seeking an interest-free and p
 
 The version 1 in Phase 1 works smoothly for more than 2 years with 100% collateralization mode. The initial version shows what is possible and it will be expanding in its popularity when the second version will be released. The second version will be a complete alternative as an interest-free credit creation and circulation while transferring virtually any credits existing on paper such as post-dated checks, promissory notes etc. The project focuses on solving the greatest problems such as non-redemption, fraud, traceability, indivisibility. Solution in Version 2 will be a partial collateralization system assured by the decentralized communities in different regions similar to Komodo Notarization System.
 
-## Server Specifications
-### Main
-
-* CPU: AMD Epyc 7351P – 16c/32t 
-* RAM: 128GB ECC
-* SSD: SoftRaid 2x512GB SSD NVMe
-* Public Bandwidth 1 Gbps outgoing - 10 Gbps incoming
-
-### Third Party
-* CPU: Intel Xeon-D 2141I 8c/16t 
-* RAM: 32GB ECC
-* SSD: SoftRaid 2x512GB SSD NVMe
-* Public Bandwidth 1 Gbps outgoing – 1 Gbps incoming
-
-Server specifications may be increased to higher specifications.
 
 ## Contact information ##
 
  - [Marmara Discord](https://marmara.io/discord): `Aklix#4684`, `ryilmaz#4060` and `B. Gültekin Çetiner#0626`
  - E-Mail: admin@marmara.io
- 
- 
