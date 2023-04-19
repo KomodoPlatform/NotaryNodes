@@ -7,15 +7,16 @@ I update my nodes in time which is <=24 hours after announcement
 I present myself as a candidates for the 
 
 
-**SH** Region Voting address
+**SH** ----> Region Voting address
 
 **RKPfsdqTYXLPpW2XXbx5kExoT7JUs2pijG**
 
-**AR** Region Voting address
+**AR** ------> Region Voting address
 
 **RT6ftBsPBPCwErGSti35hLJuzWLEyH3RK4**
 
 
+no relection passed this season
 
 Server Specs:
 
