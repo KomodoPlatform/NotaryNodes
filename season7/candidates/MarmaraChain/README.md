@@ -39,14 +39,14 @@ Marmara Chain team is currently operating one Notary Node in the EU region by th
 <table>
 <tr ><td align="center"><strong>EU</strong></td><td align="center"><strong>AR</strong></td></tr>
 <tr>
-    <td align="center"><img src="./RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD.png" width="50%" height="50%"></td>
-    <td align="center"><img src="./RPZYurYawfnRLdsLqHzf79KJuNicTJVVfV.png" width="50%" height="50%"></td>
+    <td align="center"><img src="./RYa7pC7dNLejeu5q2Kst7Mef1VBTEoqiMD.png" width="30%" height="30%"></td>
+    <td align="center"><img src="./RPZYurYawfnRLdsLqHzf79KJuNicTJVVfV.png" width="30%" height="30%"></td>
 </tr>
 </table>
 </p>
 
 # KOMODO NOTARY NODE PROPOSAL
-We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage two Notary position in **EU Region** and and **AR Region**.
+We propose our candidacy as Notary Node (NN) on behalf of Marmara Community. This year, we are planning to manage two Notary positions in **EU Region** and and **AR Region**.
 
 * As Marmara Team, we responded quickly to the update announcements in notarization system. We always kept our server up and running with the daily updates. 
 * As Marmara Community, we have been trying to create awareness of Komodo Technologies at university and community level. It goes back to Barterdex days where we were conducting Atomic Swap tests at Marmara University. 
