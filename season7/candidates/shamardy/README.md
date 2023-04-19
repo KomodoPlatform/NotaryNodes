@@ -17,3 +17,4 @@ I believe my experience in blockchain development and my contributions to the Ko
 ## Contact details
 - Email: `shamardy@komodoplatform.com`<br>
 - Discord: `shamardy#8366`<br>
+- github: https://github.com/shamardy
