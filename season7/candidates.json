@@ -83,6 +83,18 @@
             "candidate": "marmara",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/marmara_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/marmara/README.md"
+        },
+        {
+            "address": "RAhjfR4ZThUKfgFf1evmJmTtAZmGfHp2BM",
+            "candidate": "artem.pikulin",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/artem.pikulin_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/artem.pikulin/README.md"
+        },
+        {
+            "address": "RUEYAufF3Di8c5sycJgsVZdsH4BSqhM59u",
+            "candidate": "batman",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/batman_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/batman/README.md"
         }
     ],
     "EU": [
@@ -163,6 +175,18 @@
             "candidate": "marmara",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/marmara_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/marmara/README.md"
+        },
+        {
+            "address": "RVwVrUqgAM863ydJNf479Xvt1RfEthynyh",
+            "candidate": "batman",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/batman_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/batman/README.md"
+        },
+        {
+            "address": "RRWV31MTaEnddDjSzonSLMXVSqEWkPBHX1",
+            "candidate": "colmapol",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/colmapol_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/colmapol/README.md"
         }
     ],
     "NA": [
