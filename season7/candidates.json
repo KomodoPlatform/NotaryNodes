@@ -71,6 +71,18 @@
             "candidate": "dimxy",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dimxy_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dimxy/README.md"
+        },
+        {
+            "address": "RT6ftBsPBPCwErGSti35hLJuzWLEyH3RK4",
+            "candidate": "mcrypt",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/mcrypt_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/mcrypt/README.md"
+        },
+        {
+            "address": "RPZYurYawfnRLdsLqHzf79KJuNicTJVVfV",
+            "candidate": "marmara",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/marmara_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/marmara/README.md"
         }
     ],
     "EU": [
@@ -237,6 +249,12 @@
             "candidate": "ozkanonur",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/ozkanonur_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/ozkanonur/README.md"
+        },
+        {
+            "address": "RGCCcjSkszZNMMfH9fRcY1MHc5CHWbt6gQ",
+            "candidate": "who-biz",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/who-biz_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/who-biz/README.md"
         }
     ],
     "SH": [
@@ -305,6 +323,30 @@
             "candidate": "shamardy",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/shamardy_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/shamardy/README.md"
+        },
+        {
+            "address": "RSukahoT7BDPNmhWF3ZLHetBUpbRoaaFzq",
+            "candidate": "xenbug",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/xenbug_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/xenbug/README.md"
+        },
+        {
+            "address": "RKPfsdqTYXLPpW2XXbx5kExoT7JUs2pijG",
+            "candidate": "mcrypt",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/mcrypt_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/mcrypt/README.md"
+        },
+        {
+            "address": "RNBBQDQQJtucpMUa6FKhz17XfTvXzbeWAy",
+            "candidate": "prettygag",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/prettygag_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/prettygag/README.md"
+        },
+        {
+            "address": "REyFgygqWpDtYjKhz214CkA6hrA27d6cxX",
+            "candidate": "who-biz",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/who-biz_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/who-biz/README.md"
         }
     ]
 }
