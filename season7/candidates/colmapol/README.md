@@ -1,0 +1,17 @@
+Region European Region
+
+Vote 2023 Address: RRWV31MTaEnddDjSzonSLMXVSqEWkPBHX1
+
+Running a Notary Node for the First time as rewards are removed.
+
+Server: I will get the server needed AMD or INTEL with 64 GB of RAM or less if possible.
+
+email: colmapol@proton.me
+
+Public Keys
+
+Main Server:
+020c63078b5f5d27183de6f2bbae9bfe3fc57e017faf89b7d566bb947a92a2e40d
+
+Third party Coin Server
+020c63078b5f5d27183de6f2bbae9bfe3fc57e017faf89b7d566bb947a92a2e40d
