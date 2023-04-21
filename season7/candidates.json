@@ -101,6 +101,12 @@
             "candidate": "madmax",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/madmax_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/madmax/README.md"
+        },
+        {
+            "address": "RQonayk6bF8RrpxCbMmkqfJgkBfCnR1TDJ",
+            "candidate": "dimxy2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dimxy2_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dimxy/README.md"
         }
     ],
     "EU": [
@@ -205,6 +211,12 @@
             "candidate": "webworker01",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/webworker01_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/webworker01/README.md"
+        },
+        {
+            "address": "RRiPromiseToNotarizeThisTime9FchTZ",
+            "candidate": "alright",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/alright_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/alright/README.md"
         }
     ],
     "NA": [
