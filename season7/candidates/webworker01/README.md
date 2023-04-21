@@ -30,5 +30,5 @@ webworker01 is a North American Notary Node operator since Spring of 2018. Durin
 * [Website](https://webworker.sh)
 
 ## Obligatory Cat
+![webworker01-cat.jpg](../../../season6/candidates/webworker01/webworker01-cat.jpg)
 
-![webworker01-cat.jpg](../../season6/candidates/webworker01-cat.jpg)
