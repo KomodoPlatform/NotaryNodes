@@ -187,6 +187,12 @@
             "candidate": "colmapol",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/colmapol_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/colmapol/README.md"
+        },
+        {
+            "address": "RJDNzABv4VsfTUvVzhg5UsEAVmXq5cjrUH",
+            "candidate": "caglarkaya",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/caglarkaya_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/caglarkaya/README.md"
         }
     ],
     "NA": [
