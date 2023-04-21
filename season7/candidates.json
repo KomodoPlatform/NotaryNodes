@@ -95,6 +95,12 @@
             "candidate": "batman",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/batman_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/batman/README.md"
+        },
+        {
+            "address": "RYRyw6fzDGNoRc7SBSB1UJRRmoaajkAfae",
+            "candidate": "madmax",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/madmax_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/madmax/README.md"
         }
     ],
     "EU": [
@@ -193,6 +199,12 @@
             "candidate": "caglarkaya",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/caglarkaya_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/caglarkaya/README.md"
+        },
+        {
+            "address": "RKUnQ7nLXQ5dUFanYVYxwsgLDPcRDD9iJm",
+            "candidate": "webworker01",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/webworker01_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/webworker01/README.md"
         }
     ],
     "NA": [
@@ -285,6 +297,12 @@
             "candidate": "who-biz",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/who-biz_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/who-biz/README.md"
+        },
+        {
+            "address": "RRhPGq2dwNwpNreeAemcnK5e6pVrq9pkPV",
+            "candidate": "webworker01",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/webworker01_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/webworker01/README.md"
         }
     ],
     "SH": [
