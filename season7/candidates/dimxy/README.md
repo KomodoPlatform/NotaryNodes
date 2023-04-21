@@ -18,4 +18,7 @@ Intel Core i7-6700 4 × 3.4ГГц, 32 ГБ DDR4, 2 × 480 ГБ SSD SATA
 
 My region is AR, voting address: RSmGPk9KjoK8rGeAGKPkBxA8XSBQ3RinJ7
 
+I am willing to run a second node (will acquire additional servers for the required capacity):
+Region is AR, voting address: RQonayk6bF8RrpxCbMmkqfJgkBfCnR1TDJ
+
 Contact: dimxy@komodoplatform.com
