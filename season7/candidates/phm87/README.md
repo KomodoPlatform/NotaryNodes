@@ -40,21 +40,6 @@ phm87
 - 64GB ECC
 - NVMe 1.2 To RAID
 
-# Pledges for season 6
-
-After servers payment (and taxes over donations, if any), a total of **14%** of Notary Node mining rewards will be donated as support to projects:
-- 8% to non-profit russian-ukrainian association
-- 3% to CHIPS
-- 3% to Biz for past and future projects (if Biz is not elected as Notary Node)
-
-Donations will be performed at the beginning of each month, for the month prior. Server costs will be covered first (and taxes over donations, if any) and remaining rewards will be sent according to allocations defined here above.
-
-## 2021-2022 Projects/milestones
-
-Ongoing preparation of presentations (and meetup) of Bitcoin and cryptocurrencies (using Komodo technologies).
-
-Projects under NDA for now, sorry. I hope public exposure soon.
-
 
 ## 2020-2021 Projects/milestones
 
