@@ -12,7 +12,7 @@ I'm candidate to be Notary Node during the 2023-2024 season in order to continue
 | ```RYBMXPrMQGw21bdc3MHNh2ZBwmBiPhitsh``` |
 
 - Thank you -
-```
+
 
 ## Who am I ?
 
