@@ -1,0 +1,7 @@
+## ca333 [S7/2023 NN proposal]
+
+- EU: `REy7zH2xmvheTDvVbnxQDm8m8mcp1RdeBy`
+- main: `02ac1ae0537043c331cb59f19b9f96b7ebe3c3a1d49aecf2ac13941747aeb85f75`
+- 3P: `03e4de6fa3d972ee01e3ca26363419ef5c90946019337a3f2412af1926c549221f`
+
+
