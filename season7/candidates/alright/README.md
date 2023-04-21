@@ -6,7 +6,7 @@ I am running for election for a position in the EU region.
 
 **RRiPromiseToNotarizeThisTime9FchTZ**
 
-I have been in the Komodo ecosystem and sorrounding communities since Summer 2017. I began disclosing security vulnerabilities to jl777 in the Spring of 2018. I was offered a contracting position after disclosing several security vulnerabilities. 
+I have been in the Komodo ecosystem and surrounding communities since Summer 2017. I began disclosing security vulnerabilities to jl777 in the Spring of 2018. I was offered a contracting position after disclosing several security vulnerabilities. 
 
 I am adept at auditing python, C, C++ and rust codebases. I feel most comfortable developing in python and rust. 
 
