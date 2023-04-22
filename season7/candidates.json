@@ -407,6 +407,12 @@
             "candidate": "who-biz",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/who-biz_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/who-biz/README.md"
+        },
+        {
+            "address": "RYBMXPrMQGw21bdc3MHNh2ZBwmBiPhitsh",
+            "candidate": "phm87",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/phm87_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/phm87/README.md"
         }
     ]
 }
