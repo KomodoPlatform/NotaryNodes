@@ -217,6 +217,12 @@
             "candidate": "alright",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/alright_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/alright/README.md"
+        },
+        {
+            "address": "REy7zH2xmvheTDvVbnxQDm8m8mcp1RdeBy",
+            "candidate": "ca333",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/ca333_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/ca333/README.md"
         }
     ],
     "NA": [
