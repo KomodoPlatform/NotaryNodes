@@ -517,7 +517,7 @@
     },
     "fediakash": {
         "discord": "803217186792800326",
-        "discord_name": "",
+        "discord_name": "fediakash#5169",
         "email": "",
         "github": "https://github.com/fediakash",
         "icon": "",
@@ -529,10 +529,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "027dfe5403f8870fb0e1b94a2b4204373b31ea73179ba500a88dd56d22855cd03b",
+                    "KMD address": "RUpKSrE4y858KuF6ncnAfuiDXE3fzDyM5Q",
+                    "LTC address": "Lem5dYecSxWcWha4VanLrQSmyAxMPy1T8G"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "035be6a54242a53e3ca55bd63430ac9b960fbfaad336d8c1464b5802f03ab184be",
+                    "KMD address": "RJh5MkMQFsqvfcsuWSH1PZrVyZttwdKoPh",
+                    "LTC address": "LUdqYSmwjiHQrRCsDQHBa4b4RWoaUCfsG7"
                 }
             }
         }
