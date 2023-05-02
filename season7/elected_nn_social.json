@@ -650,19 +650,19 @@
         "discord_name": "'Reggii#6388",
         "email": "onur@komodoplatform.com",
         "github": "https://github.com/ozkanonur",
-        "icon": "",
+        "icon": "https://onurozkan.dev/pp.png",
         "keybase": "",
         "telegram": "",
-        "twitter": "",
-        "website": "",
+        "twitter": "https://twitter.com/onurozkan_dev",
+        "website": "https://onurozkan.dev",
         "youtube": "",
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02be4ac61cf534b0fb98568ec539ee9e34c5104088f94f21cee2945d37d88373da"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03259f6aa4d3c451a52b7327bff4af9f649be3477459997b52711b54f4c8fb6394"
                 }
             }
         }
