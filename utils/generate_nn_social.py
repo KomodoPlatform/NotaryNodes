@@ -132,20 +132,45 @@ if __name__ == '__main__':
             with open(f"../season{elected.season}/elected_nn_social.json", "w") as f:
                 json.dump(elected_dict, f, indent=4)
     
+
+        if sys.argv[1] == "calc_addresses":
+            for notary in elected.elected_social:
+                for region in elected.elected_social[notary]["regions"]:
+                    for i in ["Main", "Third_Party"]:
+                        pubkey = elected.elected_social[notary]["regions"][region][i]["pubkey"]
+                        if pubkey != "":
+                            url = f"https://stats.kmd.io/api/tools/address_from_pubkey/?pubkey={pubkey}"
+                            addresses = requests.get(url).json()["results"]
+                            for j in addresses:
+                                if j["coin"] == "KMD":
+                                    elected.elected_social[notary]["regions"][region][i].update({"KMD address": j["address"]})
+                                if j["coin"] == "LTC":
+                                    elected.elected_social[notary]["regions"][region][i].update({"LTC address": j["address"]})
+            with open(f"../season{elected.season}/elected_nn_social.json", "w") as f:
+                json.dump(elected.elected_social, f, indent=4)
+
+
         if sys.argv[1] == "validate":
             with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
                 elected_social = json.load(f)
             no_contact_info = []
+            no_discord = []
             no_github = []
             no_icon = []
             no_pubkey = []
             for notary in elected_social:
                 contact_info = 0
+                discord_info = 0
                 for i in ["discord", "discord_name", "email", "keybase", "telegram", "twitter"]:
                     if elected_social[notary][i] != "":
                         contact_info += 1
                 if contact_info == 0:
                     no_contact_info.append(notary)
+                for i in ["discord", "discord_name"]:
+                    if elected_social[notary][i] != "":
+                        discord_info += 1
+                if discord_info == 0:
+                    no_discord.append(notary)
                 if elected_social[notary]["github"] == "":
                     no_github.append(notary)
                 if elected_social[notary]["github"] == "":
@@ -158,6 +183,7 @@ if __name__ == '__main__':
                             no_pubkey.append(f"{notary}_{region} ({i})")
 
             print(f"No contact info: {no_contact_info}")
+            print(f"No discord: {no_discord}")
             print(f"No github: {no_github}")
             print(f"No icon: {no_icon}")
             print(f"No pubkey: {no_pubkey}")
