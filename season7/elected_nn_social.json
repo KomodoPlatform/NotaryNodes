@@ -457,11 +457,11 @@
     },
     "dimxy": {
         "discord": "507209916449292303",
-        "discord_name": "",
+        "discord_name": "dimxy#2587",
         "email": "dimxy@komodoplatform.com",
         "github": "https://github.com/dimxy",
         "icon": "",
-        "keybase": "",
+        "keybase": "dimxy",
         "telegram": "",
         "twitter": "",
         "website": "",
@@ -469,10 +469,10 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02689d0b77b1e8e8c93a102d8b689fd08179164d70e2dd585543c3896a0916e6a1"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0337e443df52f278f313f90628aaaa7a8db777f17bc7ce519069eb72717c1c2755"
                 }
             }
         }
