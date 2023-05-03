@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import os
-import pyqrcode
 import png # pip3 install pypng==0.20220715.0
 import pyqrcode # pip3 install PyQRCode==1.2.1
 
