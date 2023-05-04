@@ -13,26 +13,38 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": "03bea1ac333b95c8669ec091907ea8713cae26f74b9e886e13593400e21c4d30a8"
+                    "pubkey": "03bea1ac333b95c8669ec091907ea8713cae26f74b9e886e13593400e21c4d30a8",
+                    "KMD address": "RDZaLiENRUnckP57oRxLznYmFM5bV9PaZV",
+                    "LTC address": "LPWLXQeuuKE6wBQ5WPxXBHHKhHzGueVMFL"
                 },
                 "Third_Party": {
-                    "pubkey": "022f62b56ddfd07c9860921c701285ac39bb3ac8f6f083d1b59c8f4943be3de162"
+                    "pubkey": "022f62b56ddfd07c9860921c701285ac39bb3ac8f6f083d1b59c8f4943be3de162",
+                    "KMD address": "RSUALiEnuYzcudwcAxSjeMiB7SwQMRR3Xu",
+                    "LTC address": "LcQvXQfLPPS76SGZsvSuprSjZPr5pzaWbT"
                 }
             },
             "EU": {
                 "Main": {
-                    "pubkey": "03bb749e337b9074465fa28e757b5aa92cb1f0fea1a39589bca91a602834d443cd"
+                    "pubkey": "03bb749e337b9074465fa28e757b5aa92cb1f0fea1a39589bca91a602834d443cd",
+                    "KMD address": "RALiENAgeHExyyEnBARdZdwWbHWokoUbtc",
+                    "LTC address": "LLHUR4bE87gTAmZjt8Rok8g53ERV9b5W37"
                 },
                 "Third_Party": {
-                    "pubkey": "022b85908191788f409506ebcf96a892f3274f352864c3ed566c5a16de63953236"
+                    "pubkey": "022b85908191788f409506ebcf96a892f3274f352864c3ed566c5a16de63953236",
+                    "KMD address": "RALiENfYqijwdDuKUwtQmXFYWURq27S98S",
+                    "LTC address": "LLHUR566KZBRp2EHButax1z6xRLWUhEHqa"
                 }
             },
             "SH": {
                 "Main": {
-                    "pubkey": "03911a60395801082194b6834244fa78a3c30ff3e888667498e157b4aa80b0a65f"
+                    "pubkey": "03911a60395801082194b6834244fa78a3c30ff3e888667498e157b4aa80b0a65f",
+                    "KMD address": "RVrtLPvKrszs7zSggTsXPYsbxc5SwALiEN",
+                    "LTC address": "LfoeX6LsLiSMJnmePRsha3cAQYz8UvdF1Z"
                 },
                 "Third_Party": {
-                    "pubkey": "024f20c096b085308e21893383f44b4faf1cdedea9ad53cc7d7e7fbfa0c30c1e71"
+                    "pubkey": "024f20c096b085308e21893383f44b4faf1cdedea9ad53cc7d7e7fbfa0c30c1e71",
+                    "KMD address": "RDosr7iNVe26tcErCBGHZ2YwE2JxcALiEN",
+                    "LTC address": "LPke2p8uyUTb5QZou9GTjXHVfyDeB1zPbU"
                 }
             }
         }
@@ -51,10 +63,14 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": "02f0b3ef87629509441b1ae95f28108f258a81910e483b90e0496205e24e7069b8"
+                    "pubkey": "02f0b3ef87629509441b1ae95f28108f258a81910e483b90e0496205e24e7069b8",
+                    "KMD address": "RP4bAeJGc6b21J6UA4TqNRr6hdiGTALien",
+                    "LTC address": "LZ1MMLip5w2WC6RRs2U1Yvaf9acwws2P6Q"
                 },
                 "Third_Party": {
-                    "pubkey": "025d5e11725233ab161f4f63d697c5f9f0c6b9d3aa2b9c68299638f8cc63faa9c2"
+                    "pubkey": "025d5e11725233ab161f4f63d697c5f9f0c6b9d3aa2b9c68299638f8cc63faa9c2",
+                    "KMD address": "RQJQY3LTSZZKq4Z2f6rRV4oxvGzZALienb",
+                    "LTC address": "LaFAijkzvPzp1rszN4rbfZYXNDuEXwcFsA"
                 }
             }
         }
@@ -141,26 +157,38 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": "02bbc5518d27918d77c46b4e3ad0b9df936df520646527ab4c2f206544a2b03967"
+                    "pubkey": "02bbc5518d27918d77c46b4e3ad0b9df936df520646527ab4c2f206544a2b03967",
+                    "KMD address": "RAAY3StQqMoxdQgrVbnYevadvcsCxwTj11",
+                    "LTC address": "LL7JE9JxKCFSpD1pCZniqRKCNZmtSQZoR9"
                 },
                 "Third_Party": {
-                    "pubkey": "032674b15524dab1c7a5824aa9d3d38f231a8a04095e11920677ee99d8197d9c60"
+                    "pubkey": "032674b15524dab1c7a5824aa9d3d38f231a8a04095e11920677ee99d8197d9c60",
+                    "KMD address": "RLXaBHYbVKZizDVe5izDBnjSw38Bt2uXTo",
+                    "LTC address": "LWULMyy8yA1DB1pbngzPNHU1Nz2sSVUYAX"
                 }
             },
             "EU": {
                 "Main": {
-                    "pubkey": "02340bf4749a392865b0ddaf37e652195e740c7538aeac87f7a51b8bf2dcdc24ac"
+                    "pubkey": "02340bf4749a392865b0ddaf37e652195e740c7538aeac87f7a51b8bf2dcdc24ac",
+                    "KMD address": "RKJPFfQSWwsVrTWSis4VGvWQYnrQFkEB3Q",
+                    "LTC address": "LVF9SMpyznJz3FqQRq4fTRExzjm5dpHvq7"
                 },
                 "Third_Party": {
-                    "pubkey": "0271663454ffe07b7a13f25c93482bb554bab646627ee78941f6e59473a423e9c5"
+                    "pubkey": "0271663454ffe07b7a13f25c93482bb554bab646627ee78941f6e59473a423e9c5",
+                    "KMD address": "RAk2hWNaQdkS4fhjxwUmy1LEnbsnLP5Vp7",
+                    "LTC address": "LLgntCo7tUBvFU2hfuUx9W4oEYnTjjNyhD"
                 }
             },
             "NA": {
                 "Main": {
-                    "pubkey": "035baa12331ad6c284d5f1b76527c1d6c5eb15a74b9ba369e5d46aefcc9c120938"
+                    "pubkey": "035baa12331ad6c284d5f1b76527c1d6c5eb15a74b9ba369e5d46aefcc9c120938",
+                    "KMD address": "REoEiLdFyUYQLrRa7RMdU2Jmu6LAWsUqba",
+                    "LTC address": "LQjzu33oTJytXekXpPMoeX3LM3Er12CS2e"
                 },
                 "Third_Party": {
-                    "pubkey": "035e356c96d4bc8ddd11109f679b44034fdd22003b87a8deeaae6ba2bb938f7e05"
+                    "pubkey": "035e356c96d4bc8ddd11109f679b44034fdd22003b87a8deeaae6ba2bb938f7e05",
+                    "KMD address": "RNGTSJd6jj6DXsFTSMmn3gVmdyD5qwz1tF",
+                    "LTC address": "LYDDd13eDZXhifaR9KmxEBEL5v7mNBiEpS"
                 }
             }
         }
@@ -179,10 +207,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": "03d224790d17b881db560759cc9cc73fe5c865136a88af471ea156b7eb6d88ce32"
+                    "pubkey": "03d224790d17b881db560759cc9cc73fe5c865136a88af471ea156b7eb6d88ce32",
+                    "KMD address": "RTyXnYR5DG8hAGGutM1W6hU9ERS6MpxTNC",
+                    "LTC address": "LdvHyEqch6aBM4bsbK1gHCChgNLmoJsC5G"
                 },
                 "Third_Party": {
-                    "pubkey": "022b10b7ec56b5c9f12bc9db1055edb3c2c0e0530453b7cc05239e4a3c442e80c4"
+                    "pubkey": "022b10b7ec56b5c9f12bc9db1055edb3c2c0e0530453b7cc05239e4a3c442e80c4",
+                    "KMD address": "RNzAhe6s57h9PtWZcaBdBuvWzQNqESuaUz",
+                    "LTC address": "LYvvtLXQYx8dagqXKYBoNQf5SMHWmmbcYJ"
                 }
             }
         }
@@ -413,18 +445,26 @@
         "regions": {
             "EU": {
                 "Main": {
-                    "pubkey": "03a8c071036228e0900e0171f616ce1a58f0a761193551d68c4c20e70534f2e183"
+                    "pubkey": "03a8c071036228e0900e0171f616ce1a58f0a761193551d68c4c20e70534f2e183",
+                    "KMD address": "RCGxEU1xmrKcHyxoKpKqCDBS4EH537gVis",
+                    "LTC address": "LNDiRASWFgm6UnHm2nL1NhuzWBBkaRHoFE"
                 },
                 "Third_Party": {
-                    "pubkey": "033a2474a762700b452b96a49730280040a9872070bc51461e3727f6f118ff5358"
+                    "pubkey": "033a2474a762700b452b96a49730280040a9872070bc51461e3727f6f118ff5358",
+                    "KMD address": "RCGxEU2xTVT2rahvvcNbAHfotngVweZcan",
+                    "LTC address": "LNDiRATVwKtX3P2tdaNmLnQNLjbBP5MBns"
                 }
             },
             "NA": {
                 "Main": {
-                    "pubkey": "03a78ae070a5e9e935112cf7ea8293f18950f1011694ea0260799e8762c8a6f0a4"
+                    "pubkey": "03a78ae070a5e9e935112cf7ea8293f18950f1011694ea0260799e8762c8a6f0a4",
+                    "KMD address": "RCGxNA1xHinKkcC6gf7BpxAt3wLeqcpch4",
+                    "LTC address": "LNDiYrSVmZDowQX4Pd7N1SuSVtFLGCqeyP"
                 },
                 "Third_Party": {
-                    "pubkey": "02f945d87b7cd6e9f2173a110399d36b369edb1f10bdf5a4ba6fd4923e2986e137"
+                    "pubkey": "02f945d87b7cd6e9f2173a110399d36b369edb1f10bdf5a4ba6fd4923e2986e137",
+                    "KMD address": "RCGxNA2xV6jaq4h7mbzZswKUtpeKmchvhw",
+                    "LTC address": "LNDiYrTVxwB51s25UZzk4S43LmZ1HwsjWc"
                 }
             }
         }
@@ -469,10 +509,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": "02689d0b77b1e8e8c93a102d8b689fd08179164d70e2dd585543c3896a0916e6a1"
+                    "pubkey": "02689d0b77b1e8e8c93a102d8b689fd08179164d70e2dd585543c3896a0916e6a1",
+                    "KMD address": "RFoSGDB7xHuu9RyrVkKcEWF6SibUk72fi9",
+                    "LTC address": "LRkCSubfS8MPLEJpCiKnQzyetfWACs1o7G"
                 },
                 "Third_Party": {
-                    "pubkey": "0337e443df52f278f313f90628aaaa7a8db777f17bc7ce519069eb72717c1c2755"
+                    "pubkey": "0337e443df52f278f313f90628aaaa7a8db777f17bc7ce519069eb72717c1c2755",
+                    "KMD address": "RCZumdsQRGrLBepvQQFiuc2nWaiCggGorW",
+                    "LTC address": "LNWfxLHwu7HpNT9t7NFu66mLxXctD3VEkk"
                 }
             }
         }
@@ -675,10 +719,14 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": "03f9dd0484e81174fd50775cb9099691c7d140ff00c0f088847e38dc87da67eb9b"
+                    "pubkey": "03f9dd0484e81174fd50775cb9099691c7d140ff00c0f088847e38dc87da67eb9b",
+                    "KMD address": "RNodeoneVvobNszdKfGFrwrRV8NvdeHZUa",
+                    "LTC address": "LYkPqWDBymF5ZgKb2dGS3Sayw5Hc9qnPsu"
                 },
                 "Third_Party": {
-                    "pubkey": "0310a249c6c2dcc29f2135715138a9ddb8e01c0eab701cbd0b96d9cec660dbdc58"
+                    "pubkey": "0310a249c6c2dcc29f2135715138a9ddb8e01c0eab701cbd0b96d9cec660dbdc58",
+                    "KMD address": "RNodeoneSNbxXEpoYXPfwJ7enKSscq7ZK3",
+                    "LTC address": "LYkPqWDBvD3Si39mFVPr7nrDEGMZ2Hjeur"
                 }
             }
         }
@@ -697,10 +745,14 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": "0397fa321960fda64b86330efaefeba56a7ab0ff4b7f82869b0115ad8bc1c432b0"
+                    "pubkey": "0397fa321960fda64b86330efaefeba56a7ab0ff4b7f82869b0115ad8bc1c432b0",
+                    "KMD address": "RNodeonej4VYNZeWDSM1WaTwXoJXYdzDrk",
+                    "LTC address": "LYkPqWDCCtw2ZMyTvQMBh5CVykDD3Zsz9H"
                 },
                 "Third_Party": {
-                    "pubkey": "026b8ae180e5e927fbe0cd89606d73df739288501d36d8ed4435d68f66dfcecc08"
+                    "pubkey": "026b8ae180e5e927fbe0cd89606d73df739288501d36d8ed4435d68f66dfcecc08",
+                    "KMD address": "RNodeoneqiQXW5tCAHkukJSB9qq2rdHMUv",
+                    "LTC address": "LYkPqWDCKYr1gtD9sFm5voAjbnjiJyoba3"
                 }
             }
         }
@@ -841,10 +893,14 @@
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": "03e6578015b7f0ab78a486070435031fff7bae11256ca6a9f3d358ab03029737cb"
+                    "pubkey": "03e6578015b7f0ab78a486070435031fff7bae11256ca6a9f3d358ab03029737cb",
+                    "KMD address": "RSheeba8AkzC57dmsNS2as6c6n2SCN21Tm",
+                    "LTC address": "LceQqHzfebRgFuxjaLSCmMqAYiw7djrtSS"
                 },
                 "Third_Party": {
-                    "pubkey": "030dd2c3c02cbc5b3c25e3c54ed02c1541951a6f5ecf8adbd353e8d9052d08b8fc"
+                    "pubkey": "030dd2c3c02cbc5b3c25e3c54ed02c1541951a6f5ecf8adbd353e8d9052d08b8fc",
+                    "KMD address": "RSheeba3xaBwAZwDVMU2HLU29xX1KKDi5w",
+                    "LTC address": "LceQqHzbSQdRMNGBCKUCTqCabuRgoDNAg1"
                 }
             }
         }
@@ -863,10 +919,14 @@
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": "02f016347d952a06f1121bc9445b162d0ba921c7317f6b60211179c1cddef0db57"
+                    "pubkey": "02f016347d952a06f1121bc9445b162d0ba921c7317f6b60211179c1cddef0db57",
+                    "KMD address": "RSheeba2WbxtoMFMd5Axk15sVHSJrxurGH",
+                    "LTC address": "LceQqHzZzSQNz9aKL3B8vVpRwELzKohPo4"
                 },
                 "Third_Party": {
-                    "pubkey": "028bf664c7e9ae6c3571c0796dc4197ce75d4a161ba16e3b5e3dac1c4825730c91"
+                    "pubkey": "028bf664c7e9ae6c3571c0796dc4197ce75d4a161ba16e3b5e3dac1c4825730c91",
+                    "KMD address": "RSheeba2gUQNBN6VfXhRd78468Yk2osGjw",
+                    "LTC address": "LceQqHzaAJqrNARTNVhbobrcY5TRXf9BCU"
                 }
             }
         }
@@ -993,10 +1053,14 @@
         "regions": {
             "EU": {
                 "Main": {
-                    "pubkey": "03af7f8c82f20671ca1978116353839d3e501523e379bfb52b1e05d7816bb5812f"
+                    "pubkey": "03af7f8c82f20671ca1978116353839d3e501523e379bfb52b1e05d7816bb5812f",
+                    "KMD address": "RVanEUxUaumVoFvUcwkdyWjRUvaGW71hVT",
+                    "LTC address": "LfXYRBP24kCyz4FSKukpA1TyvsUwx2kuEH"
                 },
                 "Third_Party": {
-                    "pubkey": "0370305b9e91d46331da202ae733d6050d01038ef6eceb2036ada394a48fae84b9"
+                    "pubkey": "0370305b9e91d46331da202ae733d6050d01038ef6eceb2036ada394a48fae84b9",
+                    "KMD address": "RVanEUxf6M32Q3w1icP55dQnTvdDiRE6uZ",
+                    "LTC address": "LfXYRBPCaBUWarFyRaPFG89LusXuEAPu5o"
                 }
             }
         }

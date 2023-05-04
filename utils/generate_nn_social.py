@@ -70,7 +70,6 @@ class ElectedNotaries():
                         self.elected_social[notary]["regions"].update(self.add_region(notary, region))
                         print(f">>>>>>> Duplicate notary: {notary} in {region}! <<<<<<<")
 
-
     def populate_vote_winners(self):
         election_results = {}
         for region in self.vote_results["categories"]:
@@ -97,8 +96,6 @@ class ElectedNotaries():
                             self.elected_social.update(self.add_notary(notary, region))
                         self.elected_social[notary]["regions"].update(self.add_region(notary, region))
                         print(f">>>>>>> Duplicate notary: {notary} in {region}! <<<<<<<")
-
-
 
     def get_data_from_prior_seasons(self):
         # Scan prior seasons for data
@@ -132,7 +129,6 @@ if __name__ == '__main__':
             with open(f"../season{elected.season}/elected_nn_social.json", "w") as f:
                 json.dump(elected_dict, f, indent=4)
     
-
         if sys.argv[1] == "calc_addresses":
             for notary in elected.elected_social:
                 for region in elected.elected_social[notary]["regions"]:
@@ -148,7 +144,6 @@ if __name__ == '__main__':
                                     elected.elected_social[notary]["regions"][region][i].update({"LTC address": j["address"]})
             with open(f"../season{elected.season}/elected_nn_social.json", "w") as f:
                 json.dump(elected.elected_social, f, indent=4)
-
 
         if sys.argv[1] == "validate":
             with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
@@ -187,9 +182,3 @@ if __name__ == '__main__':
             print(f"No github: {no_github}")
             print(f"No icon: {no_icon}")
             print(f"No pubkey: {no_pubkey}")
-
-        
-
-
-            
-            
