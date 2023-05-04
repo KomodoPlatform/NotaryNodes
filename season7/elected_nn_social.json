@@ -953,26 +953,26 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a"
                 }
             },
             "EU": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02eb3aad81778f8d6f7e5295c44ca224e5c812f5e43fc1e9ce4ebafc23324183c9"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0338f30ca34d0aca0d79b69abde447036aaaa75f482b6c75801fd382e984337d01"
                 }
             },
             "SH": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02d01cd6b87cbf5a9795c06968f0d169168c1be0d82cfeb79958b11ae2c30316c1"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03f7d5ac650baaccedab959adf7c4f416584f4c05a37bf079f710227560c456978"
                 }
             }
         }
@@ -991,10 +991,10 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "026e33b213be94fa7c05c781cb1d2fb381e4c4ef6aad40d6a67f0a8ad573d92efe"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03c1efa0a64392e68cf50a13e4611b272b914cfba1e07f49f94389db3bac4497de"
                 }
             }
         }
