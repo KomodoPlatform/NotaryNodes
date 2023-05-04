@@ -953,26 +953,38 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": "022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac"
+                    "pubkey": "022a2a45979a6631a25e4c96469423de720a2f4c849548957c35a35c91041ee7ac",
+                    "KMD address": "RKrkipUqx8LR18JcBVQUZWzuZsZh5eXqVC",
+                    "LTC address": "LVoWuWuPRxmuBvdZtTQek1jU1pUNXPBEBs"
                 },
                 "Third_Party": {
-                    "pubkey": "0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a"
+                    "pubkey": "0397b7584cb29717b721c0c587d4462477efc1f36a56921f133c9d17b0cd7f278a",
+                    "KMD address": "RAUxUitZ9GCd1F7EcG7QiKVeXxYMdwAtaS",
+                    "LTC address": "LLRifRK6d6e7C3SCKE7atpECyuT36TDFMR"
                 }
             },
             "EU": {
                 "Main": {
-                    "pubkey": "02eb3aad81778f8d6f7e5295c44ca224e5c812f5e43fc1e9ce4ebafc23324183c9"
+                    "pubkey": "02eb3aad81778f8d6f7e5295c44ca224e5c812f5e43fc1e9ce4ebafc23324183c9",
+                    "KMD address": "RSMDNNEUvCRii6ebwJJRt2D1zucW4Sf5M9",
+                    "LTC address": "LcHyZ4f2Q2sCttyZeGJc4WwaSrXBZ8TowE"
                 },
                 "Third_Party": {
-                    "pubkey": "0338f30ca34d0aca0d79b69abde447036aaaa75f482b6c75801fd382e984337d01"
+                    "pubkey": "0338f30ca34d0aca0d79b69abde447036aaaa75f482b6c75801fd382e984337d01",
+                    "KMD address": "RBBwXMFMM2x18x3hkxsF9LHVsjgMMd9MaC",
+                    "LTC address": "LM8hi3ftpsPVKkNfTvsRKq24Kgb2kDBdLr"
                 }
             },
             "SH": {
                 "Main": {
-                    "pubkey": "02d01cd6b87cbf5a9795c06968f0d169168c1be0d82cfeb79958b11ae2c30316c1"
+                    "pubkey": "02d01cd6b87cbf5a9795c06968f0d169168c1be0d82cfeb79958b11ae2c30316c1",
+                    "KMD address": "RSMDSHtX6f26fsi9dPY4WdCoF9zJygYLoE",
+                    "LTC address": "LcHyczK4aVTarg37LMYEh7wMh6tzVAi9RT"
                 },
                 "Third_Party": {
-                    "pubkey": "03f7d5ac650baaccedab959adf7c4f416584f4c05a37bf079f710227560c456978"
+                    "pubkey": "03f7d5ac650baaccedab959adf7c4f416584f4c05a37bf079f710227560c456978",
+                    "KMD address": "RSMSH3devh6wL256t8FsrRDdK8B3kQ83UT",
+                    "LTC address": "LcJCTk4CQXYRWpQ4b6G42uxBm55jJAX2rD"
                 }
             }
         }
@@ -991,10 +1003,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": "026e33b213be94fa7c05c781cb1d2fb381e4c4ef6aad40d6a67f0a8ad573d92efe"
+                    "pubkey": "026e33b213be94fa7c05c781cb1d2fb381e4c4ef6aad40d6a67f0a8ad573d92efe",
+                    "KMD address": "RSMD2ARiCx4jPEEUCrwdpgM5vwU6PngpqC",
+                    "LTC address": "LcHyCrrFgnWDa2ZRupwp1B5eNtNmqGNvfL"
                 },
                 "Third_Party": {
-                    "pubkey": "03c1efa0a64392e68cf50a13e4611b272b914cfba1e07f49f94389db3bac4497de"
+                    "pubkey": "03c1efa0a64392e68cf50a13e4611b272b914cfba1e07f49f94389db3bac4497de",
+                    "KMD address": "RSMD2ARTGQvQb83UNG93m3gK5KWpUCxZu6",
+                    "LTC address": "LcHyCrqzkFMtmvNS5E9DwYQsXGRVu8d22K"
                 }
             }
         }
@@ -1039,10 +1055,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02b10141bf59b192c97f08273547d0cebff7466e8865a09f0da082e52b62de3866",
+                    "KMD address": "RKhHqEhbPBBRxgsKTzYbXqVW7AAJdasrSb",
+                    "LTC address": "LVe41w88s1cv9VCHAxYmiLE4Z74z3gqro2"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0380edd4bc37635cbed92c5510ebdf35653d0b8f5fac41cfc29cead1de993b6b27",
+                    "KMD address": "R9yArxVcuAd4iRpCeMVFCdXETDetrJFhB8",
+                    "LTC address": "LKuw3evAP14YuE9AMKVRP8FnuAZaKSbMSy"
                 }
             }
         }

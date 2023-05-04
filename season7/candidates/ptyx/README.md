@@ -51,9 +51,9 @@ The notary node rewards will be used to keep promoting DogeDEX and other side-pr
 
 - Server #2 (Backup)
 
-    | Spec    | Detail              |
-    |---------|---------------------|
-     | Platform | [Dedicated Server](https://us.ovhcloud.com/products/servers/game-servers)|
+    | Spec     | Detail              |
+    |----------|---------------------|
+    | Platform | [Dedicated Server](https://us.ovhcloud.com/products/servers/game-servers)|
     | CPU      | 2 x [Intel i7-770K - 4ct/8t - 4.2GHz / 4.5GHz](https://ark.intel.com/content/www/us/en/ark/products/97129/intel-core-i7-7700k-processor-8m-cache-up-to-4-50-ghz.html)|
     | RAM      | 4 x 32Gb DDR4 2400MHz Crucial ECC Reg (CT32G4RFD424A) |
     | Storage  | SoftRaid 2x450GB NVMe + 1x4TB SATA |
@@ -66,7 +66,7 @@ On the April 14th 2023 you will receive an airdrop of VOTE tokens. If you have 1
 
  - [Discord](https://discord.gg/HXjJkB4)
  - [Website](https://chainzilla.io/notary-node-elections/)
- - [ShibaDEX] (https://www.shibadex.io)
+ - [ShibaDEX](https://www.shibadex.io)
  - [Chameleon Pay Wallet](https://www.youtube.com/watch?v=FaKf6jQzoLo)
  
  
