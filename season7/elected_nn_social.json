@@ -128,7 +128,7 @@
         }
     },
     "blackice": {
-        "discord": "345544724167524352",
+        "discord": "",
         "discord_name": "",
         "email": "",
         "github": "",
@@ -141,10 +141,48 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02bbc5518d27918d77c46b4e3ad0b9df936df520646527ab4c2f206544a2b03967"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "032674b15524dab1c7a5824aa9d3d38f231a8a04095e11920677ee99d8197d9c60"
+                }
+            },
+            "EU": {
+                "Main": {
+                    "pubkey": "02340bf4749a392865b0ddaf37e652195e740c7538aeac87f7a51b8bf2dcdc24ac"
+                },
+                "Third_Party": {
+                    "pubkey": "0271663454ffe07b7a13f25c93482bb554bab646627ee78941f6e59473a423e9c5"
+                }
+            },
+            "NA": {
+                "Main": {
+                    "pubkey": "035baa12331ad6c284d5f1b76527c1d6c5eb15a74b9ba369e5d46aefcc9c120938"
+                },
+                "Third_Party": {
+                    "pubkey": "035e356c96d4bc8ddd11109f679b44034fdd22003b87a8deeaae6ba2bb938f7e05"
+                }
+            }
+        }
+    },
+    "blackice2": {
+        "discord": "",
+        "discord_name": "",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": "",
+        "regions": {
+            "AR": {
+                "Main": {
+                    "pubkey": "03d224790d17b881db560759cc9cc73fe5c865136a88af471ea156b7eb6d88ce32"
+                },
+                "Third_Party": {
+                    "pubkey": "022b10b7ec56b5c9f12bc9db1055edb3c2c0e0530453b7cc05239e4a3c442e80c4"
                 }
             }
         }
@@ -407,44 +445,6 @@
         "website": "http://chickenpool.com",
         "youtube": "",
         "regions": {
-            "NA": {
-                "Main": {
-                    "pubkey": ""
-                },
-                "Third_Party": {
-                    "pubkey": ""
-                }
-            }
-        }
-    },
-    "decker": {
-        "discord": "345544724167524352",
-        "discord_name": "",
-        "email": "",
-        "github": "",
-        "icon": "",
-        "keybase": "",
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": "",
-        "regions": {
-            "AR": {
-                "Main": {
-                    "pubkey": ""
-                },
-                "Third_Party": {
-                    "pubkey": ""
-                }
-            },
-            "EU": {
-                "Main": {
-                    "pubkey": ""
-                },
-                "Third_Party": {
-                    "pubkey": ""
-                }
-            },
             "NA": {
                 "Main": {
                     "pubkey": ""
