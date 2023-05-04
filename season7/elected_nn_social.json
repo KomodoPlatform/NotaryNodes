@@ -936,19 +936,23 @@
         "discord_name": "",
         "email": "",
         "github": "https://github.com/StrobFX",
-        "icon": "https://strob.net/avatar/strobOni_100px.jpg",
+        "icon": "https://pbs.twimg.com/profile_images/1565105643283009545/p53pe6Ot_400x400.jpg",
         "keybase": "https://keybase.io/strobfx",
         "telegram": "",
         "twitter": "http://twitter.com/strobFX",
-        "website": "https://strobfx.com/",
+        "website": "https://www.artstation.com/Strob",
         "youtube": "http://www.youtube.com/user/STROBdotNET",
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a",
+                    "KMD address": "RX8h2pcnA6QtwLSSDA6Tp1wJt9FrtxXYAa",
+                    "LTC address": "Lh5TDX3KdvrP88mPv86dzWfsL6AYLp2oCP"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6",
+                    "KMD address": "RFqkrQaY2NGtVUCHt42JpSw1Q9pQHtBmVf",
+                    "LTC address": "LRnX3715WCiNgGXFb22UzwfZr6j5oZ7sdy"
                 }
             }
         }
