@@ -789,11 +789,11 @@
     },
     "pbca26": {
         "discord": "403229823834521616",
-        "discord_name": "",
+        "discord_name": "pbca26#5430",
         "email": "",
         "github": "https://github.com/pbca26",
-        "icon": "https://i.imgur.com/UiZwdXk.png",
-        "keybase": "",
+        "icon": "https://avatars.githubusercontent.com/u/7769879?v=4",
+        "keybase": "https://keybase.io/pbca26",
         "telegram": "",
         "twitter": "",
         "website": "",
@@ -801,18 +801,18 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "021e362556ab07d4f1f75a0adce9709ad87ce1a51da679947b0ad4a6b651e9769b"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0357a82231480c343c043fe71a775e233e3de5e01b00bbec5f8061997a2d027650"
                 }
             },
             "SH": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "035a9784047f030e00d886dd91c07c82846702595650a2f1de67a8d85dc077d712"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "023404b4ca207c68acc5c8b08dafb0b43bfd39697bd70c9136093712984a994be5"
                 }
             }
         }
