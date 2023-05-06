@@ -250,7 +250,7 @@
         "discord_name": "Caglar#9061",
         "email": "caglaryucekaya@gmail.com",
         "github": "https://github.com/caglaryucekaya",
-        "icon": "",
+        "icon": "https://i.imgur.com/3RMudkn.png",
         "keybase": "",
         "telegram": "",
         "twitter": "",
@@ -259,10 +259,14 @@
         "regions": {
             "EU": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "035667a7e5594095f7b3d392e61da8dd7d0dda610bf8731e7831993a8201d1feea",
+                    "KMD address": "RMihry4JYvC6efZKBMGxJpdeQoYLFzFeMj",
+                    "LTC address": "LXfU3fUr2kdaqTtGtKH8VKNCrkT1mEXDX7"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03b872d6920bbfd59c4b20331929a8503af6f37c7445a7dea816c6c8862e9a2f02",
+                    "KMD address": "RHcthZ3s3ABW5Di5z8SBgCLgooFvZsAVUQ",
+                    "LTC address": "LTZetFUQWzczG233h6SMrh5FFkAc8AEDyn"
                 }
             }
         }
