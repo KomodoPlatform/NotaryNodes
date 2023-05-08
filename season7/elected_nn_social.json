@@ -821,12 +821,12 @@
             }
         }
     },
-    "phm87": {
+    "phit": {
         "discord": "352577127494713345",
-        "discord_name": "",
+        "discord_name": "phm87",
         "email": "",
-        "github": "",
-        "icon": "https://i.imgur.com/3LyfSTB.png",
+        "github": "https://github.com/phm87",
+        "icon": "",
         "keybase": "",
         "telegram": "",
         "twitter": "",
@@ -835,10 +835,14 @@
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02a9cef2141fb2af24349c1eea20f5fa8f5dba2835723778d19b23353ddcd877b1",
+                    "KMD address": "RRay7N4rknsCgZ84Qj66AZz7pGt5phitsH",
+                    "LTC address": "LbXjJ4VQEdJgsMT27h6GM4igGDnmD7E7ea"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "021b893b7978284e3d73701a623f23104fcce27e70fb49427c215f9a7481f652da",
+                    "KMD address": "RUm3USN3vMxmP5e7dsENC3ProrZYPhitSH",
+                    "LTC address": "Lehof8nbQCQFZsy5LqEYNY8RFoUDvk7kw9"
                 }
             }
         }
