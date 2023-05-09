@@ -145,6 +145,13 @@ if __name__ == '__main__':
             with open(f"../season{elected.season}/elected_nn_social.json", "w") as f:
                 json.dump(elected.elected_social, f, indent=4)
 
+        if sys.argv[1] == "twitter":
+            with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
+                elected_social = json.load(f)
+            for notary in elected_social:
+                if elected_social[notary]["twitter"] != "":
+                    print(elected_social[notary]["twitter"])
+
         if sys.argv[1] == "validate":
             with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
                 elected_social = json.load(f)
