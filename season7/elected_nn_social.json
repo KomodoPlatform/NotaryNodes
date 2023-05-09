@@ -907,10 +907,10 @@
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "026d378de09ba51d8f56be52bc8d02f5e20bae843406e23686047b76c72412a7b3"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03589e28ad013c6ed3df0ed9947ecc2b6873a211be8aa3a745d3fea459b12a6435"
                 }
             }
         }
