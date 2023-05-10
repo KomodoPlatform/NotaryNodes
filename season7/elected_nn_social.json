@@ -1169,10 +1169,14 @@
         "regions": {
             "NA": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02f91a6772fe1a376e2bbe4b190008e3f878d40a8eaf92c65f1a7680b6b42ea47b",
+                    "KMD address": "RGCCcjSkszZNMMfH9fRcY1MHc5CHWbt6gQ",
+                    "LTC address": "LS8xoRsJMpzrY9zErdRniW5r426y4RUvN1"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0268d30efafc6ac84b1c8210e99fd4936e178794581d348b87f64fcbbfa8d5e73b",
+                    "KMD address": "RMNMMWdQxoyDpvPGL68XdKuvnA4q2MpWcR",
+                    "LTC address": "LXK7YD3xSeQi1iiE348hopeVE6yWVZjeg1"
                 }
             }
         }
