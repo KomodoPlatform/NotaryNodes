@@ -94,6 +94,14 @@
                 "Third_Party": {
                     "pubkey": ""
                 }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
+                }
             }
         }
     },
@@ -111,10 +119,10 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "026a8ed1e4eeeb023cfb8e003e1c1de6a2b771f37e112745ffb8b6e375a9cbfdec"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03a45c4ad7f279cbc50acb48d81fc0eb63c4c5f556e3a4393fb3d6414df09c6e4c"
                 }
             }
         }
@@ -189,6 +197,14 @@
                     "pubkey": "035e356c96d4bc8ddd11109f679b44034fdd22003b87a8deeaae6ba2bb938f7e05",
                     "KMD address": "RNGTSJd6jj6DXsFTSMmn3gVmdyD5qwz1tF",
                     "LTC address": "LYDDd13eDZXhifaR9KmxEBEL5v7mNBiEpS"
+                }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
                 }
             }
         }
@@ -522,6 +538,14 @@
                     "KMD address": "RCZumdsQRGrLBepvQQFiuc2nWaiCggGorW",
                     "LTC address": "LNWfxLHwu7HpNT9t7NFu66mLxXctD3VEkk"
                 }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
+                }
             }
         }
     },
@@ -571,6 +595,36 @@
                     "pubkey": "02b4bf90b57f7c8363043c7ea8b02c8c776301ef3c1abb2df1caa2e6947be1422b",
                     "KMD address": "RUq3kkWUU5UdbVwmLeMHAST7SCyfgNZsBA",
                     "LTC address": "LemowSw1wuv7nJGj3cMTLwBft9tM9KXkUb"
+                }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
+                }
+            }
+        }
+    },
+    "emmanuel": {
+        "discord": "",
+        "discord_name": "",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": "",
+        "regions": {
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
                 }
             }
         }
@@ -635,6 +689,14 @@
                     "pubkey": "0321868e0eb39271330fa2c3a9f4e542275d9719f8b87773c5432448ab10d6943d",
                     "KMD address": "RGcGe9dxpc4m6DqXge9wQr7sqVoyAs1Vho",
                     "LTC address": "LSZ2pr4WJSWFH2AVPcA7bLrSHSieeNCzPJ"
+                }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
                 }
             }
         }
@@ -1104,6 +1166,14 @@
                     "KMD address": "R9yArxVcuAd4iRpCeMVFCdXETDetrJFhB8",
                     "LTC address": "LKuw3evAP14YuE9AMKVRP8FnuAZaKSbMSy"
                 }
+            },
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
+                }
             }
         }
     },
@@ -1188,5 +1258,26 @@
                 }
             }
         }
+    },
+    "yurri-khi": {
+        "discord": "668742126992883714",
+        "email": "",
+        "github": "https://github.com/yurii-khi",
+        "icon": "https://i.imgur.com/m6tibi1.png",
+        "keybase": "",
+        "regions": {
+            "DEV": {
+                "Main": {
+                    "pubkey": ""
+                },
+                "Third_Party": {
+                    "pubkey": ""
+                }
+            }
+        },
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": ""
     }
 }
