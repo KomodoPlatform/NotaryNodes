@@ -713,10 +713,14 @@
             },
             "DEV": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "033b82b5791c65477dd11095cf33332013df6d2bcb7aa06a6dae5f7b22b6959b0b",
+                    "KMD address": "RGcG4Ei5mPCHaGYvHfmqXLg9wBk7PFb8Co",
+                    "LTC address": "LSZ2Ew8dFDdmm4sszdn1hqQiP8ent3iygm"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03a3878af1152f648e6084fd3fbe697a26b1c2e92d407dd96c375f45f7d3ca13bf",
+                    "KMD address": "RGcG9DNHKWVbjXm2GPMKMU9hkYvJWwweFo",
+                    "LTC address": "LSZ2KunpoLw5vL5yyMMVXxtGCVpyz3pwZD"
                 }
             }
         }
