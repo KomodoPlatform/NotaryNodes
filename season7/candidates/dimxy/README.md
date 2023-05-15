@@ -1,0 +1,24 @@
+Hello all,
+
+I am dimxy, a software engineer for more than 25 years. I am a komodo team member since November 2018. In Komodo my work is blockchain core-level development. For my time in Komodo I worked on custom consensus blockchain applications like tokens and assets cc and nSPV protocol etc. Also, I am a contributor for the marmara project. During this project I did not only marmara cc code development but also studied komodo PoS implementation and made many tests to study PoS algorithm and adapt it for the marmara specific requirements. We also successfully went through a couple of hardforks in marmara. Thankfully to the marmara we found and fixed several issues in komodo cryptocondition framework.
+
+Later I worked on the blockhain part for the Tokel project, extending tokens blockchain code and nSPV code for GUI applications to be able to access tokens services. We moved to Cryptoconditions V2 (aka mixed more) version which allows better cc transaction validation and anti-spamming capabilities.
+
+Also last year I worked on the komodo main network codebase, doing refactoring and adding performance improvements and tests.
+
+Before my work in crypto, I worked for many years for an IT company that was engaged in various state IT projects. My job there was developing and deploying software applications, design system architectures and doing technology research for customers.
+
+My motivation for participation in the komodo notarisation project is also a desire to help our great team to secure our network and be more involved in the codebase maintaining and provide more support for our solutions.
+
+In the last season I was a Notary and was able to satisfy the notarisation process requirements, plus managed to discover and fix several issues in the blockchain code. I'd like to continue to use my experience for improving this technology.
+
+Hardware: I have two dedicated servers, Ubuntu 20.04 in the AR region, for the main and 3P nodes:
+Intel Xeon E3-1270 4 × 3.6ГГц, 64 ГБ DDR4, 2 × 960 ГБ SSD SATA
+Intel Core i7-6700 4 × 3.4ГГц, 32 ГБ DDR4, 2 × 480 ГБ SSD SATA
+
+My region is AR, voting address: RSmGPk9KjoK8rGeAGKPkBxA8XSBQ3RinJ7
+
+I am willing to run a second node (will acquire additional servers for the required capacity):
+Region is AR, voting address: RQonayk6bF8RrpxCbMmkqfJgkBfCnR1TDJ
+
+Contact: dimxy@komodoplatform.com
