@@ -553,10 +553,14 @@
             },
             "DEV": {
                 "Main": {
-                    "pubkey": "039a01cd626d5efbe7fd05a59d8e5fced53bacac589192278f9b00ad31654b6956"
+                    "pubkey": "039a01cd626d5efbe7fd05a59d8e5fced53bacac589192278f9b00ad31654b6956",
+                    "KMD address": "RJQt5dEdVMVdBZz3D8AkEsmotMatoGcTBY",
+                    "LTC address": "LUMeGKfAyBw7NNJzv6AvRNWNLJVaJ4caAC"
                 },
                 "Third_Party": {
-                    "pubkey": "03a7edd6d0ba188960e39eced4d6b4ca6946bd98323ab40cbc13d6e52696de7dc4"
+                    "pubkey": "03a7edd6d0ba188960e39eced4d6b4ca6946bd98323ab40cbc13d6e52696de7dc4",
+                    "KMD address": "RTKoYnsFnaDLvvoEbRa9bsWrgtG1N1enjB",
+                    "LTC address": "LdGZjVHoGQeq7j8CJPaKnNFR8qAgkwfBk2"
                 }
             }
         }
