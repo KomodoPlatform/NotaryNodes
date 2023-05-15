@@ -1193,10 +1193,14 @@
             },
             "DEV": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02f92a2592bd791fc09c030401b7d12016a4f878d7bfae6d58e547cf42c717a79a",
+                    "KMD address": "RCXQuiwsHTJ1WnpjzWwPdWcKAC5mryJw3N",
+                    "LTC address": "LNUB6RNQmHjVhb9hhUwZp1Lsc8zTLco9xq"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0301023f890de7c514d3acfc1710acf9a14c5b9edd06f97696c011b678a199bbbc",
+                    "KMD address": "RTczhNCfKxh6Yb8AFQnn55rki9KRHSZ9qH",
+                    "LTC address": "LdZkt4dCoo8ajPT7xNnxFabKA6E6kD2G5R"
                 }
             }
         }
