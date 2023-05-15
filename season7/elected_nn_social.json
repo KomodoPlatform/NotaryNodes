@@ -155,13 +155,11 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
                     "pubkey": "02cc9eb0281628256a743570c57b2cedd54333ec79a97a681207b240cab84119fe",
                     "KMD address": "RUEYAufF3Di8c5sycJgsVZdsH4BSqhM59u",
                     "LTC address": "LeBJMc5nX49cntCwKGh3g4NRj168QGTLb9"
                 },
                 "Third_Party": {
-                    "pubkey": ""
                     "pubkey": "0201b3f4d90f9c49e8c54adaee880c05c6b7d83ec5ce2e371c509308acd9c7bfdc",
                     "KMD address": "RJCwmYvPkYputdeCWGH8gPHfPRXfggr8os",
                     "LTC address": "LU9hxFLwEPGQ5RyADEHJrt2DqNSM3cTx39"
