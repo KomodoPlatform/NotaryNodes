@@ -545,10 +545,10 @@
             },
             "DEV": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "039a01cd626d5efbe7fd05a59d8e5fced53bacac589192278f9b00ad31654b6956"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03a7edd6d0ba188960e39eced4d6b4ca6946bd98323ab40cbc13d6e52696de7dc4"
                 }
             }
         }
@@ -1269,10 +1269,15 @@
     },
     "yurri-khi": {
         "discord": "668742126992883714",
+        "discord_name": "",
         "email": "",
         "github": "https://github.com/yurii-khi",
         "icon": "https://i.imgur.com/m6tibi1.png",
         "keybase": "",
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": "",
         "regions": {
             "DEV": {
                 "Main": {
@@ -1282,10 +1287,6 @@
                     "pubkey": ""
                 }
             }
-        },
-        "telegram": "",
-        "twitter": "",
-        "website": "",
-        "youtube": ""
+        }
     }
 }
