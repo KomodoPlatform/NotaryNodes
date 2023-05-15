@@ -78,8 +78,8 @@
     "alright": {
         "discord": "405011811511828481",
         "discord_name": "Alright#0419",
-        "email": "",
-        "github": "",
+        "email": "mzlot555@gmail.com",
+        "github": "alrighttt",
         "icon": "https://stats.kmd.io/static/img/notary/icon/alright_DEV.png",
         "keybase": "https://keybase.io/alrighttt",
         "telegram": "",
@@ -89,18 +89,26 @@
         "regions": {
             "EU": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "0364f2beba6a91ca88a92e8bf709dc21b444587183256f651a30ad1b932242d4db",
+                    "KMD address": "RGermikWoYjdYdiAfongWWE3qfXTXS2UqQ",
+                    "LTC address": "LSbcxRB4HPB7jS38NmnrgzxcHcS94Ru435"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "036d2b943e386bd855780b2e81a9f358b684884f396e653eb93b83d2f2ce06b4f7",
+                    "KMD address": "RSubb5noK1x7cBLQDQQ8Vn3KcCwV6dd7DX",
+                    "LTC address": "LcrMmnDLnrPbnyfMvNQJgGmt49rAfag4G5"
                 }
             },
             "DEV": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "028548847b3bbccff37c9b47bc4154183304902773d514b792ec2adc91e600e3b9",
+                    "KMD address": "RFARHrX8WwgzSRw8uZaDb9PWG5uGVPUdmP",
+                    "LTC address": "LR7BUYwfzn8UdEG6cXaPme84i2owyMSHts"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "02b698fee0945be7c2a489fc2ef93f956e491d5352228e5b4612219bba36590716",
+                    "KMD address": "REARtmNW6LnAi6Co87DMP6HtbH3yaCDvgS",
+                    "LTC address": "LQ7C5To3aBDettXkq5DXZb2T3Dxf1hLdRq"
                 }
             }
         }
