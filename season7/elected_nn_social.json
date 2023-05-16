@@ -155,10 +155,14 @@
         "regions": {
             "AR": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02cc9eb0281628256a743570c57b2cedd54333ec79a97a681207b240cab84119fe",
+                    "KMD address": "RUEYAufF3Di8c5sycJgsVZdsH4BSqhM59u",
+                    "LTC address": "LeBJMc5nX49cntCwKGh3g4NRj168QGTLb9"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0201b3f4d90f9c49e8c54adaee880c05c6b7d83ec5ce2e371c509308acd9c7bfdc",
+                    "KMD address": "RJCwmYvPkYputdeCWGH8gPHfPRXfggr8os",
+                    "LTC address": "LU9hxFLwEPGQ5RyADEHJrt2DqNSM3cTx39"
                 }
             }
         }
@@ -967,26 +971,26 @@
     },
     "ptyx": {
         "discord": "303794669945618442",
-        "discord_name": "",
-        "email": "",
+        "discord_name": "PTYX#6840",
+        "email": "charles@komodoplatform.com",
         "github": "https://github.com/ptyx11",
         "icon": "https://i.imgur.com/FNC12FR.png",
         "keybase": "",
-        "telegram": "",
-        "twitter": "",
+        "telegram": "@ptyx11",
+        "twitter": "@ptyx11",
         "website": "",
         "youtube": "",
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": "0395640e81359526ecbc140716ddd5c9a1ce2a697fb547ca896e17cad3c65e78db",
-                    "KMD address": "RD3XPkBLH5AsSUpALGcKFvXGJ3tCRbUe4L",
-                    "LTC address": "LNzHaSbskucMdH983EcVSRFpjznsrAr6ih"
+                    "pubkey": "0270dbba1449ab2e76109b147cbbea794f103a625d14743bf9e2aaa74f98e6787f",
+                    "KMD address": "RD975CNHCBG4YBSjACqKntUYvGxzC9LMUA",
+                    "LTC address": "LP5sFtnpg1hYiymgsAqVyPD7NDsfkxBiTA"
                 },
                 "Third_Party": {
-                    "pubkey": "025d72ef0f1c5103de306d536360bcf3c5b6129c2046334b21cec8202e9bfc4baf",
-                    "KMD address": "RUwXhVFqHgQqqreaEDc31bwxgPTZEH2BdZ",
-                    "LTC address": "LetHtBgNmWrL2eyXwBcDC6gX8LNEjrRMU2"
+                    "pubkey": "03a9e2a517d2e55650dca99035601c2738406010b8d4b7f042d3e8b3b3680927b0",
+                    "KMD address": "RWafGGFUdVCaYbV5TVUeK3P49Fp87fAQ3m",
+                    "LTC address": "LgXRSxg27Ke4jPp3ATUpVY7cbCiobbBPXf"
                 }
             }
         }
@@ -1249,18 +1253,26 @@
         "regions": {
             "EU": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02ad970d95fdaa296a0ab13b5733216e116030d9147ff33de20f22cb4e75b5073d",
+                    "KMD address": "RKUnQ7nLXQ5dUFanYVYxwsgLDPcRDD9iJm",
+                    "LTC address": "LVRYapCt1EX7f3ukFTZ98NQtfLX6e7mPQV"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "03de3f5bfd58b947e790d6c726afbef240e08d04020bb447d0d31fd40e50caeceb",
+                    "KMD address": "RRXEdsqNzRyk3KpZJXvyq38KXPLEwbhNnm",
+                    "LTC address": "LbTzpaFvUGREE89X1VwA1XrsyLEvQQkzJU"
                 }
             },
             "NA": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "0324791c836fae78e2a698c53e58e671917cf66b145e9af83d431815a5002fb9a0",
+                    "KMD address": "RRhPGq2dwNwpNreeAemcnK5e6pVrq9pkPV",
+                    "LTC address": "Lbe9TXTBRDPJZeybscmnxopCYmQYDPSAjd"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "031d46df12ac739d33748d9191a9ea7433f13109463331739cf3accc801294ac7f",
+                    "KMD address": "RTpNTbPzwTshj92HSmzHq3tdBQYCYFVe6X",
+                    "LTC address": "Ldm8eHpYRJKBuwMF9jzU1YdBdMSt3ukSWM"
                 }
             }
         }
