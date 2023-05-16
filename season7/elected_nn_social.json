@@ -967,26 +967,26 @@
     },
     "ptyx": {
         "discord": "303794669945618442",
-        "discord_name": "",
-        "email": "",
+        "discord_name": "PTYX#6840",
+        "email": "charles@komodoplatform.com",
         "github": "https://github.com/ptyx11",
         "icon": "https://i.imgur.com/FNC12FR.png",
         "keybase": "",
-        "telegram": "",
-        "twitter": "",
+        "telegram": "@ptyx11",
+        "twitter": "@ptyx11",
         "website": "",
         "youtube": "",
         "regions": {
             "SH": {
                 "Main": {
-                    "pubkey": "0395640e81359526ecbc140716ddd5c9a1ce2a697fb547ca896e17cad3c65e78db",
-                    "KMD address": "RD3XPkBLH5AsSUpALGcKFvXGJ3tCRbUe4L",
-                    "LTC address": "LNzHaSbskucMdH983EcVSRFpjznsrAr6ih"
+                    "pubkey": "0270dbba1449ab2e76109b147cbbea794f103a625d14743bf9e2aaa74f98e6787f",
+                    "KMD address": "RD975CNHCBG4YBSjACqKntUYvGxzC9LMUA",
+                    "LTC address": "LP5sFtnpg1hYiymgsAqVyPD7NDsfkxBiTA"
                 },
                 "Third_Party": {
-                    "pubkey": "025d72ef0f1c5103de306d536360bcf3c5b6129c2046334b21cec8202e9bfc4baf",
-                    "KMD address": "RUwXhVFqHgQqqreaEDc31bwxgPTZEH2BdZ",
-                    "LTC address": "LetHtBgNmWrL2eyXwBcDC6gX8LNEjrRMU2"
+                    "pubkey": "03a9e2a517d2e55650dca99035601c2738406010b8d4b7f042d3e8b3b3680927b0",
+                    "KMD address": "RWafGGFUdVCaYbV5TVUeK3P49Fp87fAQ3m",
+                    "LTC address": "LgXRSxg27Ke4jPp3ATUpVY7cbCiobbBPXf"
                 }
             }
         }
