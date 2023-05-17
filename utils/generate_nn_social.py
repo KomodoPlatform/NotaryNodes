@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
+import time
 import json
 import requests
 
@@ -189,3 +190,38 @@ if __name__ == '__main__':
             print(f"No github: {no_github}")
             print(f"No icon: {no_icon}")
             print(f"No pubkey: {no_pubkey}")
+
+        if sys.argv[1] == "komododefs_output":
+            with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
+                elected_social = json.load(f)
+            for notary in elected_social:
+                for region in elected_social[notary]["regions"]:
+                    pubkey = elected_social[notary]["regions"][region]["Main"]["pubkey"]
+                    entry = f'"{notary}_{region}", "{pubkey}"'
+                    print("{"+entry+"},")
+            print("=====================================")
+            for notary in elected_social:
+                for region in elected_social[notary]["regions"]:
+                    pubkey = elected_social[notary]["regions"][region]["Third_Party"]["pubkey"]
+                    entry = f'"{notary}_{region}", "{pubkey}"'
+                    print("{"+entry+"},")
+            ts = input("Enter the target hardfork timestamp: ")
+            block = int(input("Enter the current block height: "))
+            now = int(time.time())
+            sec_until_hf = int(ts) - now
+            print(f"Seconds until HF: {sec_until_hf}")
+            expected_blocks_until_hf = int(sec_until_hf / 60)
+            print(f"Expected blocks until HF: {expected_blocks_until_hf}")
+            checkpoint_block = block - expected_blocks_until_hf
+            print(f"Checkpoint block: {checkpoint_block}")
+            checkpoint_blockhash = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block-index/{checkpoint_block}").json()["blockHash"]
+            checkpoint_blocktime = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block/{checkpoint_blockhash}").json()["time"]
+            print(f"Checkpoint blocktime: {checkpoint_blocktime}")
+            time_since_checkpoint = now - checkpoint_blocktime
+            print(f"Time since checkpoint: {time_since_checkpoint}")
+            sec_per_block_average = int(time_since_checkpoint / expected_blocks_until_hf)
+            print(f"Seconds per block average: {sec_per_block_average}")
+            estimated_blocks_until_hf = int(sec_until_hf / sec_per_block_average)
+            print(f"Estimated blocks until HF: {estimated_blocks_until_hf}")
+            estimated_hf_block = block + estimated_blocks_until_hf
+            print(f"Estimated HF block: {estimated_hf_block}")
