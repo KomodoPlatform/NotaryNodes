@@ -635,11 +635,11 @@
             }
         }
     },
-    "emmanuel": {
-        "discord": "",
-        "discord_name": "",
-        "email": "",
-        "github": "",
+    "emmaccen": {
+        "discord": "933467505886904370",
+        "discord_name": "emmaccen#2601",
+        "email": "lucius.emmanuel.e@gmail.com",
+        "github": "https://github.com/Emmaccen",
         "icon": "",
         "keybase": "",
         "telegram": "",
@@ -649,10 +649,14 @@
         "regions": {
             "DEV": {
                 "Main": {
-                    "pubkey": ""
+                    "pubkey": "02e3672b0ebcc9a524508651cf91c8752880ac2fff760d9373ddab59702b933058",
+                    "KMD address": "RGJaTKB3wX1y5yH6daaziCJW5dnSzo5fC1",
+                    "LTC address": "LSFLe1bbRMTTGmc4LYbAth34Xah8VCffri"
                 },
                 "Third_Party": {
-                    "pubkey": ""
+                    "pubkey": "0361b883704b1fe34380eac11e3f9fdcb533534de472b9a9db961c80a96ecaffbc",
+                    "KMD address": "RWS3x3q18QWcJ8KhSbQ15keMPAxdT3LQBk",
+                    "LTC address": "LgNp8kFYcEx6Uvef9ZQBGFNuq7sJwnB3m4"
                 }
             }
         }
