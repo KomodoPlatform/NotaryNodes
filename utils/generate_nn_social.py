@@ -191,37 +191,57 @@ if __name__ == '__main__':
             print(f"No icon: {no_icon}")
             print(f"No pubkey: {no_pubkey}")
 
-        if sys.argv[1] == "komododefs_output":
+        if sys.argv[1] == "hardfork_output":
             with open(f"../season{elected.season}/elected_nn_social.json", "r") as f:
                 elected_social = json.load(f)
             for notary in elected_social:
                 for region in elected_social[notary]["regions"]:
                     pubkey = elected_social[notary]["regions"][region]["Main"]["pubkey"]
-                    entry = f'"{notary}_{region}", "{pubkey}"'
+                    entry = f'"{notary}_{region}": "{pubkey}"'
                     print("{"+entry+"},")
             print("=====================================")
             for notary in elected_social:
                 for region in elected_social[notary]["regions"]:
                     pubkey = elected_social[notary]["regions"][region]["Third_Party"]["pubkey"]
-                    entry = f'"{notary}_{region}", "{pubkey}"'
+                    entry = f'"{notary}_{region}": "{pubkey}"'
                     print("{"+entry+"},")
-            ts = input("Enter the target hardfork timestamp: ")
-            block = int(input("Enter the current block height: "))
+            # ts = input("Enter the target hardfork timestamp: ")
+            ts = 1688132253
+            block = requests.get(f"https://kmd.explorer.dexstats.info/insight-api-komodo/status").json()["info"]["blocks"]
+            print(f"Current block: {block}")
             now = int(time.time())
             sec_until_hf = int(ts) - now
-            print(f"Seconds until HF: {sec_until_hf}")
-            expected_blocks_until_hf = int(sec_until_hf / 60)
-            print(f"Expected blocks until HF: {expected_blocks_until_hf}")
-            checkpoint_block = block - expected_blocks_until_hf
-            print(f"Checkpoint block: {checkpoint_block}")
-            checkpoint_blockhash = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block-index/{checkpoint_block}").json()["blockHash"]
-            checkpoint_blocktime = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block/{checkpoint_blockhash}").json()["time"]
-            print(f"Checkpoint blocktime: {checkpoint_blocktime}")
-            time_since_checkpoint = now - checkpoint_blocktime
-            print(f"Time since checkpoint: {time_since_checkpoint}")
-            sec_per_block_average = int(time_since_checkpoint / expected_blocks_until_hf)
-            print(f"Seconds per block average: {sec_per_block_average}")
-            estimated_blocks_until_hf = int(sec_until_hf / sec_per_block_average)
-            print(f"Estimated blocks until HF: {estimated_blocks_until_hf}")
-            estimated_hf_block = block + estimated_blocks_until_hf
-            print(f"Estimated HF block: {estimated_hf_block}")
+            print(f"Seconds until HF: {sec_until_hf}\n")
+            estimated_blocks = []
+            last_checkpoint_block = 0
+            last_checkpoint_blocktime = 0
+            for i in range(1,12):
+                print(f"==================== {i*30} days =========================")
+                block_range = i * 30 * 60 * 24 # 30 days
+                print(f"Blocks: {block_range}")
+                checkpoint_block = block - block_range
+                print(f"Checkpoint block: {checkpoint_block}")
+                checkpoint_blockhash = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block-index/{checkpoint_block}").json()["blockHash"]
+                checkpoint_blocktime = requests.get(f"https://kmdexplorer.io/insight-api-komodo/block/{checkpoint_blockhash}").json()["time"]
+                print(f"Checkpoint blocktime: {checkpoint_blocktime}")
+                sec_range = now - checkpoint_blocktime
+                print(f"Seconds: {sec_range} ({sec_range / 60 / 60 / 24} days)")
+                sec_per_block_average = round(sec_range / block_range, 3)
+                print(f"Seconds per block average over {i*30} days: {sec_per_block_average}")
+                estimated_blocks_until_hf = int(sec_until_hf / sec_per_block_average)
+                # print(f"Estimated blocks until HF: {estimated_blocks_until_hf}")
+                estimated_hf_block = block + estimated_blocks_until_hf
+                print(f"Estimated HF block: {estimated_hf_block} (over {i*30} days)")
+                estimated_blocks.append(estimated_hf_block)
+                if last_checkpoint_block != 0:
+                    sec_range = last_checkpoint_blocktime - checkpoint_blocktime
+                    blocks = last_checkpoint_block - checkpoint_block
+                    print(f"Slice time: {sec_range} ({sec_range / 60 / 60 / 24} days)")
+                    sec_per_block_average = round(sec_range / blocks, 3)
+                    print(f"Slice sec per block average: {sec_per_block_average}\n")
+                last_checkpoint_blocktime = checkpoint_blocktime
+                last_checkpoint_block = checkpoint_block
+        estimated_blocks.sort()
+        print(f"HF estimated block range: {min(estimated_blocks)} - {max(estimated_blocks)}")
+        print(f"HF Estimated block average: {round(sum(estimated_blocks) / len(estimated_blocks))}")
+
