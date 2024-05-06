@@ -1,0 +1,28 @@
+{
+    "USER": {
+        "discord": "",
+        "discord_name": "",
+        "email": "",
+        "github": "",
+        "icon": "",
+        "keybase": "",
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": "",
+        "regions": {
+            "NA": {
+                "Main": {
+                    "pubkey": "",
+                    "KMD address": "",
+                    "LTC address": ""
+                },
+                "Third_Party": {
+                    "pubkey": "",
+                    "KMD address": "",
+                    "LTC address": ""
+                }
+            }
+        }
+    }
+}

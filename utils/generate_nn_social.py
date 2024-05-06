@@ -215,7 +215,7 @@ if __name__ == '__main__':
             estimated_blocks = []
             last_checkpoint_block = 0
             last_checkpoint_blocktime = 0
-            for i in range(1,12):
+            for i in range(1,3):
                 print(f"==================== {i*30} days =========================")
                 block_range = i * 30 * 60 * 24 # 30 days
                 print(f"Blocks: {block_range}")

@@ -1,5 +1,7 @@
 # Komodo Notary Node election center
 
-### Please note that this repository contains various multimedia files
+To submit a candidacy for the Notary Node elections, fork this repository, create a new folder with your username, and add a README.md file with your proposal. Then submit a pull request to this repository.
+Refer to prior election folders for examples. Applications will be reviewed and merged into this repository at the discretion of the Komodo Platform team.
+Make sure to include all required information, and be contactable for any questions or clarifications. Failure to respond to requests for information in a timely manner may result in your application being rejected.
 
-Read the Notary Node Election Bible (2023) [here.](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md)
+For more information, read the [Notary Node Election Bible](https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md) or join the [Komodo Discord server](https://komodoplatform.com/discord).
