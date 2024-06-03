@@ -75,23 +75,22 @@ I did this animated logo for the Pirate ARRR that you can see on their Discord C
 ![Pirate Discord logo by Strob](https://drive.google.com/uc?export=view&id=1AkcwUnNPHveAINBWobI4tBGRfsjbx8H6 "Pirate gif by Strob")
 
 
-I also created this `3 minutes` video for pirate ARRR, including idea, directing, 3D, voice over and sound. Thanks to a ARRR supporter to contribute approx 1000$ to this project. 
-<a href="https://getwrightonit.com/how-much-does-3d-animation-cost/2/">To have an idea about how much this is worth please see here (hint: approx 10k$/minute).</a>
+I also created this `3 minutes` video for pirate ARRR, including idea, directing, 3D, voice over and sound.
 
 `Pirate $ARRR`: <a href="https://www.youtube.com/watch?v=jWLLgYkouqE">TOP 5 Reasons Why You Need PIRATE CHAIN ARRR Privacy.</a>
 
-[![Pirate ARRR privacy video](https://www.strob.net/kmdNN2019/ARRRprivacy600.jpg)](https://www.youtube.com/watch?v=jWLLgYkouqE)
+[![Pirate ARRR privacy video](https://drive.google.com/uc?export=view&id=1oNnJChpwzQKLGs4CQqZxtG6JhpE_OZEA)](https://www.youtube.com/watch?v=jWLLgYkouqE)
 
 
 ### 3D PRINTABLE COINS
 
 I created these coin 3D models for Komodo and Pirate Chain ARRR. The goal was to give some more visibility to Komodo and ecosystem on all the most important stock medias websites (Turbosquid, Sketchfab, Shutterstock, Pixabay and even the NFT marketplace OpenSea). I made these FREE for every media and anyone to use and it's also ready for 3D printing by anyone who wishes to.
 
-[![3D Komodo Coin](https://www.strob.net/kmdNN2021/KomodoCoin_A.jpg)](https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77)
+[![3D Komodo Coin](https://drive.google.com/uc?export=view&id=1zvzpwps36xuyqihnxFTsR-TOAHZ1R_-v)](https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77)
  
 `See it interactively here:`: <a href="https://sketchfab.com/3d-models/komodo-season-5-2021-commemorative-coin-cbca7f642bbd4ad4a3a7289df7c69c77">ARRR 3D coin on Sketchfab.</a>
 
-[![3D Pirate](https://www.strob.net/kmdNN2022/ARRRcoin.jpg)](https://www.turbosquid.com/3d-models/3d-pirate-chain-coin-arrr-model-1876405)
+[![3D Pirate](https://drive.google.com/uc?export=view&id=1A_kedWOMhEL3CT1-TWApE1OcQrG3_dE8)](https://www.turbosquid.com/3d-models/3d-pirate-chain-coin-arrr-model-1876405)
  
 `See it interactively here:`: <a href="https://sketchfab.com/3d-models/pirate-chain-coin-arrr-68c3ce58eb4649fbae9a52ac803fb884">ARRR 3D coin on Sketchfab.</a>
 
@@ -102,19 +101,13 @@ I also created this NFT collection on TOKEL to promote Komodo. Eye of the Komodo
 
 <br>
 
-[![Tokel NFT](https://strob.net/WP/wp-content/uploads/2022/06/komodoTokelNFT.jpg)](https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1)
+[![Tokel NFT](https://drive.google.com/uc?export=view&id=1Q2PtPzjuRKwsdEy7SfTPZ_uLlzx7xhyi)](https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1)
 
 `See the collection on the beautiful TOKEL NFT gallery:`: <a href="https://exploretokel.com/explore?collection=eye-of-the-komodo&page=1">NFT gallery on exploretokel.com.</a>
 
-Other Komodo themed NFTs I created:
-
-[![Komodo themed NFT](https://bafybeidi5oxhljz3z3q7pp6nzrxpxkz745kvmi6wntn5juulmaoov5v2vi.ipfs.dweb.link/Komodo_S6_NFT_001.png)](https://exploretokel.com/tokens/2bd1b44f37091b8ab5b6ffd34d0f8d5b2e85a5a54a9fec8675a97a40af8add40)
-
-[![Komodo themed NFT](https://bafybeig3irxayu46lc2lc5wjtuxifowzphi7hinkgygck5fy3wrsiwqqpq.ipfs.dweb.link/)](https://exploretokel.com/tokens/f6c4d056dfc4470083d72a0af191106700b1cb9a9632d82252e6e074f48f42b6)
-
 
 ## STROB PROPOSAL
-In past seasons I was at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 8.
+In many past seasons I was at the top in terms of node performance and I promise tu run all my nodes with the same commitment and fast updates for season 8.
 
 <br>
 
@@ -126,14 +119,14 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 <br>
 
 ## STROB CONTACT
-![discord](https://www.strob.net/kmdNN2019/discord.png)`Strob#3417`
+![discord](https://drive.google.com/uc?export=view&id=1aU-Z7v1Ovl5LjpvC2FjiP9yL6TnPdj8D)`Strob#3417`
 
-![email](https://www.strob.net/kmdNN2019/email.png)`strob@strob.net`
+![email](https://drive.google.com/uc?export=view&id=1w9kGs4AbREnMCOASEF4JO26ckPGvPa1s)`strob@strob.net`
 
-[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/artstation.png)](https://www.artstation.com/strob)
-[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/imdb.png)](https://www.imdb.com/name/nm1637450/)
-[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/vimeo.png)](http://vimeo.com/user1353159)
-[![Examples of StrobFX work](https://www.strob.net/kmdNN2019/youtube.png)](http://www.youtube.com/user/STROBdotNET)
+[![Examples of StrobFX work](https://drive.google.com/uc?export=view&id=168bCh2qonDM7I1hv1Pp8m9Ius83Fr0zj)](https://www.artstation.com/strob)
+[![Examples of StrobFX work](https://drive.google.com/uc?export=view&id=10OUIx20aW6IWktAxblGWYnAZdIEw85BF)](https://www.imdb.com/name/nm1637450/)
+[![Examples of StrobFX work](https://drive.google.com/uc?export=view&id=1mlPN7KTmSg8Mp59eWHkpO5e9KuIO7D2W)](http://vimeo.com/user1353159)
+[![Examples of StrobFX work](https://drive.google.com/uc?export=view&id=1P09CjphytjKPWXKXK3awYO7Ui64yB47U)](http://www.youtube.com/user/STROBdotNET)
 
 <br>
 
