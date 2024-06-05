@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-:point_up:You can scan the QR codes with your smartphone wallet! :point_up:
+:point_up:You can scan the QR codes with your smartphone wallet!
 </p>
 
 <br>
@@ -141,7 +141,7 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 </p>
 
 <p align="center">
-:point_up:You can scan the QR codes with your smartphone wallet!:point_up:
+:point_up:You can scan the QR codes with your smartphone wallet!
 </p>
 
 <br>
