@@ -31,7 +31,7 @@
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
 
 <p align="center">
-:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2024 tokens</a> before first notarised block (inclusive) after 1st July 2024, 23:59:59 UTC to the above KMD addresses. :point_up:
+:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2024 tokens</a> before first notarised block (inclusive) after 1st July 2024, 23:59:59 UTC to the above KMD addresses.
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
 
 <p align="center">
-:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2024 tokens</a> before first notarised block (inclusive) after 1st July 2024, 23:59:59 UTC to the above KMD addresses :point_up:
+:point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2024 tokens</a> before first notarised block (inclusive) after 1st July 2024, 23:59:59 UTC to the above KMD addresses.
 </p>
 
 <p align="center">
