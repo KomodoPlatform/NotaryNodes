@@ -1,10 +1,10 @@
 # fediakash Notary Node Proposal 2024
 
 ## Region and voting Address
-- Region: `EU`
+- Region: `fediakash_EU`
 - Address: `RJvm1a6SoGfjS6WDobLTPJEjHrAFHv7md1`
 
-- Region: `AR2`
+- Region: `fediakash2_AR`
 - Address: `RNXjviuNGLia5PAK7pesT8ENVdXtXqMGUH`
 
 ## About me:
@@ -32,7 +32,7 @@ third party: 0348c0171b4ceecbb58c6e548718b7a72719ed8597c340cb4d769d9c0d1da11341
 ```
 
 ```
-fediakash_AR2
+fediakash2_AR
 main: 025871bbec4748409b083f3ca78293bd46863e1f7aa85bd002a5303fa96baa3a6d
 third party: 038694015ed11fc6683b5bb1b7750403a35e1dad9c1f55d20d9c9d65eb38b4ca4a
 ```
