@@ -1,5 +1,5 @@
 
-### Komodo Notary Node Election Proposal Season 8 Candidate: Artist (Discord iamahmedshah)
+### Komodo Notary Node Election Proposal Season 8 of Artist (Discord iamahmedshah)
 
 ---
 
@@ -11,9 +11,10 @@ I am Ahmed, and I am excited to announce my candidacy for the Komodo Notary Node
 
 I am running this year in the SH region
 
-| VOTE2024 Addresses                 | Pubkey                                                             | Region |
-| :--------------------------------- |:------------------------------------------------------------------:| :----: |
-| `RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW` | `02163e8ff83521a951aff0e8571eb5cacf375b674fd7c20b5772dbf9c70caf2468` | **SH** |
+### VOTE2024 Addresses                 
+
+### `RRQHGqgKivuwvWgeWAvTnGg5VJr1aWNRx5` 
+### SH Region
 
 ---
 
@@ -44,7 +45,7 @@ https://medium.com/@iamahmedshah/a-beginner-guide-creating-a-wordpress-plugin-wi
 
 **3. Future Development Plans**
 
-I am continuously looking for ways to do what I can for Komodo
+I am continuously looking for ways to do what I can for Komodo and build what I can for the community to onboard newbies and techies unaware of what Komodo has to offer, to think outside the box and make KMD interact with tech in unconvential methods.
 
 - **Improving the existing plugins**
   
@@ -60,8 +61,11 @@ I am continuously looking for ways to do what I can for Komodo
 
 
 
-#### Server Specifications
+### Server Specifications
 
+#### Intel Core i9 10900K	
+#### 64GB DDR4	
+#### 1TB NVMe+1TB SSD
 
 ---
 
