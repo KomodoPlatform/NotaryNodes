@@ -1,34 +1,33 @@
 {
     "AR": [
         {
-            "address": "RT3PBi6wBLvUySxtykehejsVTLKgCEwbzu",
-            "candidate": "dragonhound",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dragonhound_AR.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dragonhound/README.md"
+            "address": "RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW",
+            "candidate": "decker",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
+        },
+        {
+            "address": "RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d",
+            "candidate": "decker2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker2_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
         }
     ],
     "EU": [
         {
-            "address": "RTj2SYWR7AM5fGN1RHSatpnmHSwyNsvz1p",
-            "candidate": "dragonhound",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dragonhound_EU.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dragonhound/README.md"
+            "address": "RTNoubB1yEx6mG7eNzaZv6TQVUbowamKAv",
+            "candidate": "decker",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
         }
     ],
     "NA": [
         {
-            "address": "RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h",
-            "candidate": "dragonhound",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/dragonhound_NA.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/dragonhound/README.md"
+            "address": "RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw",
+            "candidate": "decker",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
         }
     ],
-    "SH": [
-        {
-            "address": "RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB",
-            "candidate": "gcharang",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/gcharang_SH.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/gcharang/README.md"
-        }
-    ]
+    "SH": []
 }

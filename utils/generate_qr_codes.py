@@ -28,4 +28,4 @@ def parse_candidates(season):
                                 qr_data.png(f'{script_path}/../season{season}/qr_codes/{notary}_{region}.png', scale = 10)
 
 if __name__ == "__main__":
-    parse_candidates(7)
+    parse_candidates(8)
