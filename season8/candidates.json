@@ -11,6 +11,18 @@
             "candidate": "decker2",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker2_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
+        },
+        {
+            "address": "RT3PBi6wBLvUySxtykehejsVTLKgCEwbzu",
+            "candidate": "dragonhound",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
+        },
+        {
+            "address": "RNFXanBgn2pYmiQo1eyJCQQEgDLFPhMKA7",
+            "candidate": "dragonhound2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound2_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
         }
     ],
     "EU": [
@@ -19,6 +31,12 @@
             "candidate": "decker",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
+        },
+        {
+            "address": "RTj2SYWR7AM5fGN1RHSatpnmHSwyNsvz1p",
+            "candidate": "dragonhound",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
         }
     ],
     "NA": [
@@ -27,6 +45,12 @@
             "candidate": "decker",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/decker_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/decker/README.md"
+        },
+        {
+            "address": "RKpigLeT5rgXy31yubpgWcJ91i1TZbZg5h",
+            "candidate": "dragonhound",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
         }
     ],
     "SH": []
