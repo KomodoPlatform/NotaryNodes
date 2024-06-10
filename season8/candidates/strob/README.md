@@ -28,6 +28,7 @@
 
 | Address+QR code  | Region | Handle |
 | ------------- | ------------- | ------------- |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na``` <img src="https://drive.google.com/uc?export=view&id=16mt8GLbh7GuiphYqh0KLpEL_AiM5bqHg" width=40% height=40% alt=QR code>  | North America (NA)  | strob_NA |
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
 
 <p align="center">
@@ -134,6 +135,7 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 
 | Address+QR code  | Region | Handle |
 | ------------- | ------------- | ------------- |
+| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na``` <img src="https://drive.google.com/uc?export=view&id=16mt8GLbh7GuiphYqh0KLpEL_AiM5bqHg" width=40% height=40% alt=QR code>  | North America (NA)  | strob_NA |
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
 
 <p align="center">
@@ -147,6 +149,12 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 <br>
 
 ## STROB S8 PUBKEYS
+
+strob_NA main: `02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405`
+<br>
+strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3`
+
+<br>
 
 strob_SH main: `025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a`
 <br>
