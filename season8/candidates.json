@@ -37,6 +37,12 @@
             "candidate": "dragonhound",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
+        },
+        {
+            "address": "RSMDNNEUvCRii6ebwJJRt2D1zucW4Sf5M9",
+            "candidate": "smdmitry2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/smdmitry2_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/smdmitry/README.md"
         }
     ],
     "NA": [
@@ -51,7 +57,20 @@
             "candidate": "dragonhound",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
+        },
+        {
+            "address": "RSMDNAqCKFZKyVAbr1Bm3qh3mcB13E6rzU",
+            "candidate": "smdmitry",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/smdmitry_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/smdmitry/README.md"
         }
     ],
-    "SH": []
+    "SH": [
+        {
+            "address": "RSMDSHtX6f26fsi9dPY4WdCoF9zJygYLoE",
+            "candidate": "smdmitry2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/smdmitry2_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/smdmitry/README.md"
+        }
+    ]
 }
