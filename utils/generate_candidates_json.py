@@ -45,13 +45,14 @@ def parse_candidates(season):
                                 data[region].append({
                                     "address": address,
                                     "candidate": notary,
-                                    "qr_code": f"https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season7/qr_codes/{notary}_{region}.png",
-                                    "text": f"https://github.com/KomodoPlatform/NotaryNodes/tree/master/season7/candidates/{base_notary}/README.md"
+                                    "qr_code": f"https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season{season}/qr_codes/{notary}_{region}.png",
+                                    "text": f"https://github.com/KomodoPlatform/NotaryNodes/tree/master/season{season}/candidates/{base_notary}/README.md"
                                 })
     return data
 
 
 if __name__ == "__main__":
-    data = parse_candidates(7)
+    season = 8
+    data = parse_candidates(season)
     json.dump(data, open(
-        f"{script_path}/../season7/candidates.json", "w"), indent=4)
+        f"{script_path}/../season{season}/candidates.json", "w"), indent=4)

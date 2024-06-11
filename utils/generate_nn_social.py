@@ -112,8 +112,10 @@ class ElectedNotaries():
         
 
 if __name__ == '__main__':
+    season = 8
+    vote_chain = "VOTE2024"
     if len(sys.argv) > 1:
-        elected = ElectedNotaries(7, "VOTE2023")
+        elected = ElectedNotaries(season, vote_chain)
 
         if sys.argv[1] == "create":
             if os.path.exists(f"../season{elected.season}/elected_nn_social.json"):
@@ -206,7 +208,7 @@ if __name__ == '__main__':
                     entry = f'"{notary}_{region}": "{pubkey}"'
                     print("{"+entry+"},")
             # ts = input("Enter the target hardfork timestamp: ")
-            ts = 1688132253
+            ts = 1726358399
             block = requests.get(f"https://kmd.explorer.dexstats.info/insight-api-komodo/status").json()["info"]["blocks"]
             print(f"Current block: {block}")
             now = int(time.time())

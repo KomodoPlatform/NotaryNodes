@@ -19,7 +19,7 @@ With over 20 years of experience as a security expert, developer, and system adm
 #### Notary Node Operation
 As an operator of Notary Nodes in previous seasons, I have consistently delivered reliable and stable services. According to [current statistics](https://komodostats.com/nn), my existing Season 7 nodes are in the TOP 5 in the AR region, TOP 3 in the NA region, and number one among DEV nodes according to notarization score statistics. While these stats are relative and may not always reflect the full picture, they certainly demonstrate that my notary nodes are high-performing and stable. My track record speaks for itself, demonstrating my commitment to maintaining the highest standards of performance and security.
 
-This year, I would like to maintain the same number of Notary Nodes, i.e., two nodes in the AR region, one in the EU region, and one in the NA region. I am applying for four spots. As I mentioned publicly, my nodes can be considered non-auto-re-elected due to Iguana patch development and testing, so I have applied for these four spots.
+This year, I would like to expand my operations to all regions. Since I have one auto re-elected node in NA, I am going to apply for four spots: two spots in the AR region, one in the EU region, and one in the SH region.
 
 #### Commitment to the Komodo Ecosystem
 I am dedicated to using any rewards from the Notary Node program to further the development of the Komodo ecosystem. My ongoing contributions and active participation in the community underscore my commitment to the platform's growth and success.
@@ -44,11 +44,11 @@ Thank you for considering my candidacy for the Komodo Notary Node Season 8. Your
 | `RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW` | `02163e8ff83521a951aff0e8571eb5cacf375b674fd7c20b5772dbf9c70caf2468` | **AR** |
 | `RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d` | `020c2b64c6a5477e54f2054e7a88a4f26415cc82ec84bfac178cde993fe5846a81` | **AR2** |
 | `RTNoubB1yEx6mG7eNzaZv6TQVUbowamKAv` | `02596d36e4316501424969b3cd6dbb5a5c7bc90570018259e03ea1818cdc415857` | **EU** |
-| `RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw` | `03d44da7c1d2ebce2d7b48f2fd7d0fd0981c820785b8ad9ddc7f3e6d724933989d` | **NA** |
+| `RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw` | `03d44da7c1d2ebce2d7b48f2fd7d0fd0981c820785b8ad9ddc7f3e6d724933989d` | **SH** |
 
 <p align="center">
 <table>
-<tr ><td align="center"><strong>AR</strong><td align="center"><strong>AR2</strong></td><td align="center"><strong>EU</strong></td><td align="center"><strong>NA</strong></td></tr>
+<tr ><td align="center"><strong>AR</strong><td align="center"><strong>AR2</strong></td><td align="center"><strong>EU</strong></td><td align="center"><strong>SH</strong></td></tr>
 <tr>
     <td align="center"><img src="./RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW.svg" width="30%" height="30%"></td>
     <td align="center"><img src="./RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d.svg" width="30%" height="30%"></td>
