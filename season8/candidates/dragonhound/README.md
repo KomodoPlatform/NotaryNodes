@@ -33,6 +33,7 @@ I've been a Notary Node Operator for the last 5 seasons, and for the last 4 seas
 | AR Region | RT3PBi6wBLvUySxtykehejsVTLKgCEwbzu |
 | AR Region 2 | RNFXanBgn2pYmiQo1eyJCQQEgDLFPhMKA7 |
 | EU Region | RTj2SYWR7AM5fGN1RHSatpnmHSwyNsvz1p |
+| SH Region | RJMeGKJtG58zJyfRyRk5uzEqoQENdiBHhn |
 
 
 ## Server Spec
