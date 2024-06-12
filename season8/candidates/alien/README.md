@@ -3,10 +3,10 @@
 # NN Season 8 Proposal for *`alien`* (SHossain)
 
 ## EU Region VOTE2024 Address
-#### alienx - `RENN26kwEn8EemrMQBiWy7d1pquP2TxqhH`
+#### alienx - `REgjTtTYS8PRBnAUBUDLYXZDLbf4L5EdzX`
 ---
 ## AR Region VOTE2024 Address
-#### alien - `RSSHE5ek7JWbAUuByYXt25VJZSE6dH6R5R`
+#### alien - `RAa3D9aEbseHuZYrQYpHQk3ATHQouh1x9N`
 ---
 ## Who am I?
 Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node operator since Season 2. Been with the community since BTCD mining days. I run my Notary Nodes with high-end servers and no compromise on that. Also monitor the nodes and network all day, everyday. With experience on Komodo, iguana and Linux systems, along with operating my nodes, I try to help other operators who needs help. I help the Komodo ecosystem by testing new tech and reporting any issues found to make things better.
