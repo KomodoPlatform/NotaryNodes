@@ -2,6 +2,8 @@
 
 Thanks everyone for supporting me all previous years from season 0 up to season 7. I appreciate that! I will do my best, as before.
 
+VOTE: RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx
+
 ## Proposal
 
 Hi! I'm Kolo and I want you to vote for me in the Notary Nodes ~~season 7~~ season 8 elections.
