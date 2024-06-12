@@ -13,10 +13,10 @@
 <table>
 <tr ><td align="center"><strong>SH</strong><td align="center"><strong>AR</strong></td><td align="center"><strong>SH2</strong></td><td align="center"><strong>AR2</strong></td></tr>
 <tr>
-    <td align="center"><img src="./RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB.svg" width="30%" height="30%"></td>
-    <td align="center"><img src="./RUbzhiGcGNeY2Nffi3NfH4pfjcjmhRcAiv.svg" width="30%" height="30%"></td>
-    <td align="center"><img src="./RGcGUdBQnwXhicMFNRr6Cmdpv4t7z8YK9F.svg" width="30%" height="30%"></td>
-    <td align="center"><img src="./RGcGrmjSAxVYpE4ud3hBmGwDUMKnSofttf.svg" width="30%" height="30%"></td>
+    <td align="center"><img src="./RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB.png" width="30%" height="30%"></td>
+    <td align="center"><img src="./RUbzhiGcGNeY2Nffi3NfH4pfjcjmhRcAiv.png" width="30%" height="30%"></td>
+    <td align="center"><img src="./RGcGUdBQnwXhicMFNRr6Cmdpv4t7z8YK9F.png" width="30%" height="30%"></td>
+    <td align="center"><img src="./RGcGrmjSAxVYpE4ud3hBmGwDUMKnSofttf.png" width="30%" height="30%"></td>
 </tr>
 </table>
 </p>
