@@ -53,6 +53,18 @@
             "candidate": "alien",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/alien_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/alien/README.md"
+        },
+        {
+            "address": "RUbzhiGcGNeY2Nffi3NfH4pfjcjmhRcAiv",
+            "candidate": "gcharang",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/gcharang_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/gcharang/README.md"
+        },
+        {
+            "address": "RGcGrmjSAxVYpE4ud3hBmGwDUMKnSofttf",
+            "candidate": "gcharang2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/gcharang2_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/gcharang/README.md"
         }
     ],
     "EU": [
@@ -209,6 +221,18 @@
             "candidate": "dragonhound",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
+        },
+        {
+            "address": "RTWgfK47pbhyHWcqEMQUyEK6dtf7VpBYYB",
+            "candidate": "gcharang",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/gcharang_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/gcharang/README.md"
+        },
+        {
+            "address": "RGcGUdBQnwXhicMFNRr6Cmdpv4t7z8YK9F",
+            "candidate": "gcharang2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/gcharang2_SH.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/gcharang/README.md"
         }
     ]
 }
