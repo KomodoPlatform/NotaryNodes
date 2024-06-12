@@ -2,7 +2,7 @@
 
 Thanks everyone for supporting me all previous years from season 0 up to season 7. I appreciate that! I will do my best, as before.
 
-VOTE: RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx
+**VOTE: RKCXF7EYaAJHmiyDKmubhQ88dYc7CbTZxx**
 
 ## Proposal
 
