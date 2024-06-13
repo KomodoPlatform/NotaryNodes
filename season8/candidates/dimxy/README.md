@@ -1,5 +1,7 @@
 ### DIMXY
 
+**A proposal for Notary Node Season 8 Election**
+
 ---
 
 **Hello all**,
