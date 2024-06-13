@@ -10,6 +10,10 @@ Region AR: REtjHDh1fTBpovuo33eX7Nv8WymtEwfpGi
 Region EU: RQsKCs2pRLe1j1evDK32tAHdR1mcMHg3o6
 ```
 
+```
+Region NA: RGwD7zbY5sbpnpbShwY61vCPWPV4vs6cuE
+```
+
 ## About me:
 
 I've been a KomodoPlatform core team member for approximately 5.5 years, contributing to various aspects of the organization.
