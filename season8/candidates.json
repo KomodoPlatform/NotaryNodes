@@ -83,6 +83,12 @@
             "candidate": "dimxy",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dimxy_AR.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dimxy/README.md"
+        },
+        {
+            "address": "RNFXanBgn2pYmiQo1eyJCQQEgDLFPhMKA7",
+            "candidate": "dragonhound2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound2_AR.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
         }
     ],
     "EU": [
@@ -281,12 +287,6 @@
             "candidate": "gcharang2",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/gcharang2_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/gcharang/README.md"
-        },
-        {
-            "address": "RNFXanBgn2pYmiQo1eyJCQQEgDLFPhMKA7",
-            "candidate": "dragonhound2",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/dragonhound2_SH.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/dragonhound/README.md"
         }
     ]
 }
