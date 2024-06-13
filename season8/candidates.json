@@ -121,6 +121,12 @@
             "candidate": "colmapol",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/colmapol_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/colmapol/README.md"
+        },
+        {
+            "address": "R9Pyw4ZHRJsvLe62azkj2ie7wXqRUHLfeL",
+            "candidate": "onur-ozkan",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/onur-ozkan_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/onur-ozkan/README.md"
         }
     ],
     "NA": [
@@ -171,6 +177,12 @@
             "candidate": "pbca26",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/pbca26_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/pbca26/README.md"
+        },
+        {
+            "address": "RSP8FSK2fcgmRjEhjRJg7nJ9uaxNwsmWBx",
+            "candidate": "onur-ozkan",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/onur-ozkan_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/onur-ozkan/README.md"
         }
     ],
     "SH": [
