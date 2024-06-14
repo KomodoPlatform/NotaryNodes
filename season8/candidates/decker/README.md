@@ -41,10 +41,10 @@ Thank you for considering my candidacy for the Komodo Notary Node Season 8. Your
 
 | VOTE2024 Addresses                 | Pubkey                                                             | Region |
 | :--------------------------------- |:------------------------------------------------------------------:| :----: |
-| `RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW` | `02163e8ff83521a951aff0e8571eb5cacf375b674fd7c20b5772dbf9c70caf2468` | **AR** |
-| `RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d` | `020c2b64c6a5477e54f2054e7a88a4f26415cc82ec84bfac178cde993fe5846a81` | **AR2** |
-| `RTNoubB1yEx6mG7eNzaZv6TQVUbowamKAv` | `02596d36e4316501424969b3cd6dbb5a5c7bc90570018259e03ea1818cdc415857` | **EU** |
-| `RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw` | `03d44da7c1d2ebce2d7b48f2fd7d0fd0981c820785b8ad9ddc7f3e6d724933989d` | **SH** |
+| `RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW` | `02163e8ff83521a951aff0e8571eb5cacf375b674fd7c20b5772dbf9c70caf2468` | **[AR](https://vote.kmdexplorer.io/address/RKrbBiMcmNDaBkYpSja4MbaKzizay6LisW)** |
+| `RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d` | `020c2b64c6a5477e54f2054e7a88a4f26415cc82ec84bfac178cde993fe5846a81` | **[AR2](https://vote.kmdexplorer.io/address/RNNFGdQtFQUa4CEeEqxF524P9putjxtb7d)** |
+| `RTNoubB1yEx6mG7eNzaZv6TQVUbowamKAv` | `02596d36e4316501424969b3cd6dbb5a5c7bc90570018259e03ea1818cdc415857` | **[EU](https://vote.kmdexplorer.io/address/RTNoubB1yEx6mG7eNzaZv6TQVUbowamKAv)** |
+| `RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw` | `03d44da7c1d2ebce2d7b48f2fd7d0fd0981c820785b8ad9ddc7f3e6d724933989d` | **[SH](https://vote.kmdexplorer.io/address/RWLtG5n97g5dJFvn9zhxU7QBvTmJ2BqKyw)** |
 
 <p align="center">
 <table>
