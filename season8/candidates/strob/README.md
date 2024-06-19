@@ -28,9 +28,7 @@
 
 | Address+QR code  | Region | Handle |
 | ------------- | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na``` <img src="https://drive.google.com/uc?export=view&id=16mt8GLbh7GuiphYqh0KLpEL_AiM5bqHg" width=40% height=40% alt=QR code>  | North America (NA)  | strob_NA |
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
-| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB``` <img src="https://drive.google.com/uc?export=view&id=18WsCOWWng-aeJX3R9Xx7a17CaB7_1nM4" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob2_SH |
 
 
 <p align="center">
@@ -137,9 +135,7 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 
 | Address+QR code  | Region | Handle |
 | ------------- | ------------- | ------------- |
-| ```RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na``` <img src="https://drive.google.com/uc?export=view&id=16mt8GLbh7GuiphYqh0KLpEL_AiM5bqHg" width=40% height=40% alt=QR code>  | North America (NA)  | strob_NA |
 | ```RStrobSH68ke1eFmxNehVuJczTEpFX3C4f``` <img src="https://drive.google.com/uc?export=view&id=1yonOIJz8Wg4bdPcc3eDKtEXggDGh4Bu9" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob_SH |
-| ```RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB``` <img src="https://drive.google.com/uc?export=view&id=18WsCOWWng-aeJX3R9Xx7a17CaB7_1nM4" width=40% height=40% alt=QR code>  | Southern Hemisphere (SH)  | strob2_SH |
 
 <p align="center">
 :point_up: To vote for me, just send your <a href="https://github.com/KomodoPlatform/dPoW/blob/dev/doc/bible.md#the-notary-node-election-process">KMD VOTE2024 tokens</a> before first notarised block (inclusive) after 1st July 2024, 23:59:59 UTC to the above KMD addresses.
@@ -153,22 +149,9 @@ Example: Intel Xeon W-2145, 1TB NVME drive, 4x RAM 32768 MB DDR4 ECC reg (128GB 
 
 ## STROB S8 PUBKEYS
 
-strob_NA main: `02a1c0bd40b294f06d3e44a52d1b2746c260c475c725e9351f1312e49e01c9a405`
-<br>
-strob_NA 3rd: `02285bf2f9e96068ecac14bc6f770e394927b4da9f5ba833eaa9468b5d47f203a3`
-
-<br>
 
 strob_SH main: `025ceac4256cef83ca4b110f837a71d70a5a977ecfdf807335e00bc78b560d451a`
 <br>
 strob_SH 3rd: `0213751a1c59d3489ca85b3d62a3d606dcef7f0428aa021c1978ea16fb38a2fad6`
-
-<br>
-
-strob2_SH main: `02b967fde3686d45056343e488997d4c53f25cd7ad38548cd12b136010a09295ae`
-<br>
-strob2_SH 3rd: `033e33ef18effb979437cd202bb87dc32385e16ebd52d6f762d8a3b308d6f89c52`
-
-
 
 <br>
