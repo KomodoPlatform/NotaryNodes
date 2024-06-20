@@ -15,7 +15,7 @@ In season 7, I had a Top 5 Notary node in the EU and NA region, as well as being
 
 ## Address information ##
 
-| VOTE2023 Addresses                 |  Region |
+| VOTE2024 Addresses                 |  Region |
 | :--------------------------------- | :----: |
 | `RComputerGenieForNotaryNode1yzne3X` | **NA** |
 | `RComputerGenieForNotaryNode2wnZhnX` | **NA2** |
