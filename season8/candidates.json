@@ -233,10 +233,10 @@
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/fediakash/README.md"
         },
         {
-            "address": "RStrobNmEspEAgB8Jtt6ncK8tCWcGm77na",
-            "candidate": "strob",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/strob_NA.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/strob/README.md"
+            "address": "R9oDLb6DmyseLjoasJnwyDSQUJSSiVSaHR",
+            "candidate": "naezith",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/naezith_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/naezith/README.md"
         },
         {
             "address": "RMKfy7zjSvvKgC7tQReYrRSFfEFFGkZkFc",
@@ -297,12 +297,6 @@
             "candidate": "kmdude",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/kmdude_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/kmdude/README.md"
-        },
-        {
-            "address": "R9oDLb6DmyseLjoasJnwyDSQUJSSiVSaHR",
-            "candidate": "naezith",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/naezith_NA.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/naezith/README.md"
         }
     ],
     "SH": [
@@ -401,12 +395,6 @@
             "candidate": "shin-ra77",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/shin-ra77_SH.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/shin-ra77/README.md"
-        },
-        {
-            "address": "RStrobARDwHKBDntCa2Ko6oi91n4YMpgSB",
-            "candidate": "strob2",
-            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/strob2_SH.png",
-            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/strob/README.md"
         }
     ]
 }
