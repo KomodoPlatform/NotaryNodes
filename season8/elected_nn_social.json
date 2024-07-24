@@ -24,5 +24,31 @@
                 }
             }
         }
+    },
+    "pbca26": {
+        "discord": "403229823834521616",
+        "discord_name": "pbca26#5430",
+        "email": "",
+        "github": "https://github.com/pbca26",
+        "icon": "https://avatars.githubusercontent.com/u/7769879?v=4",
+        "keybase": "https://keybase.io/pbca26",
+        "telegram": "",
+        "twitter": "",
+        "website": "",
+        "youtube": "",
+        "regions": {
+            "NA": {
+                "Main": {
+                    "pubkey": "024034ed324e69316d6f6d554168b56828e40334f99d7adfe4ef9248c49d433e12",
+                    "KMD address": "RPwD7JNpkvpEpWXxNq9NWG4n127pFs1K43",
+                    "LTC address": "LZsyHzoNEmFj1Jrv5o9YgkoLSy2VjYyKfW"
+                },
+                "Third_Party": {
+                    "pubkey": "025349e2ef906bb8dff17275d5d1034edf261d7b3b0fef02643c4e7227e161cd54",
+                    "KMD address": "RAAyEJn9pbnwdrXwyYah66tmBJXMRLcpjh",
+                    "LTC address": "LRopshcvSys2xubDsMxKrvzai6fSVXkL3Q"
+                }
+            }
+        }
     }
 }
