@@ -2,7 +2,7 @@
 
 
 ## Who am I?
-Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node operator since Season 2. Been with the community since BTCD mining days. I run my Notary Nodes with high-end servers and no compromise on that. Also monitor the nodes and network all day, everyday . With experience on Komodo, iguana and Linux systems, along with operating my nodes, I try to help other operators who needs help. I help the ecosystem by testing new tech and reporting any issues found to make things better.
+Blockchain enthusiast. Komodo lover, long-term hodler and a reliable Notary Node operator since Season 2. Been with the community since BTCD mining days. I run my Notary Nodes with high-end servers and no compromise on that. Also monitor the nodes and network all day, everyday. With experience on Komodo, iguana and Linux systems, along with operating my nodes, I try to help other operators who needs help. I help the ecosystem by testing new tech and reporting any issues found to make things better.
 
 ## Keys for Season 6 ##
 
