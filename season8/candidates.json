@@ -211,6 +211,12 @@
             "candidate": "mx222",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/mx222_EU.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/mx222/README.md"
+        },
+        {
+            "address": "RComputerGenieForNotaryNode3shsxCp",
+            "candidate": "computergenie",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/computergenie_EU.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/computergenie/README.md"
         }
     ],
     "NA": [
@@ -297,6 +303,18 @@
             "candidate": "kmdude",
             "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/kmdude_NA.png",
             "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/kmdude/README.md"
+        },
+        {
+            "address": "RComputerGenieForNotaryNode1yzne3X",
+            "candidate": "computergenie",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/computergenie_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/computergenie/README.md"
+        },
+        {
+            "address": "RComputerGenieForNotaryNode2wnZhnX",
+            "candidate": "computergenie2",
+            "qr_code": "https://raw.githubusercontent.com/KomodoPlatform/NotaryNodes/master/season8/qr_codes/computergenie2_NA.png",
+            "text": "https://github.com/KomodoPlatform/NotaryNodes/tree/master/season8/candidates/computergenie/README.md"
         }
     ],
     "SH": [
